@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:54:16+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "mr"
-}
--->
 # विमानतळ डेटा प्रदर्शित करणे
 
 तुम्हाला [SQLite](https://sqlite.org/index.html) वर आधारित एक [डेटाबेस](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) प्रदान करण्यात आला आहे ज्यामध्ये विमानतळांची माहिती आहे. खाली स्कीमा दर्शवले आहे. तुम्ही [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) मधील [SQLite विस्तार](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) वापरून विविध शहरांच्या विमानतळांची माहिती प्रदर्शित कराल.

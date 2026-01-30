@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-27T09:17:30+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "bn"
-}
--->
 # ছোট ডায়াবেটিস গবেষণা
 
 এই অ্যাসাইনমেন্টে, আমরা ডায়াবেটিস রোগীদের একটি ছোট ডেটাসেট নিয়ে কাজ করব যা [এখান থেকে](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html) নেওয়া হয়েছে।

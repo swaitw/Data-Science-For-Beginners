@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-27T18:02:56+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "ne"
-}
--->
 # उत्तरहरूको खोजी गर्दै
 
 यो अघिल्लो पाठको [कार्य](../14-Introduction/assignment.md) को निरन्तरता हो, जहाँ हामीले डेटा सेटलाई छोटकरीमा हेरेका थियौं। अब हामी डेटा सेटलाई अझ गहिरो रूपमा अध्ययन गर्नेछौं।

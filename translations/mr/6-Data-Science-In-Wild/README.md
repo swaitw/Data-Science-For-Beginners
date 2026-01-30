@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-08-27T17:29:52+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "mr"
-}
--->
 # जंगलातील डेटा सायन्स
 
 उद्योगांमध्ये डेटा सायन्सच्या प्रत्यक्ष उपयोगांचे उदाहरण.

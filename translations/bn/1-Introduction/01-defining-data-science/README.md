@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "43212cc1ac137b7bb1dcfb37ca06b0f4",
-  "translation_date": "2025-10-25T18:44:28+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/README.md",
-  "language_code": "bn"
-}
--->
 # ডেটা সায়েন্স সংজ্ঞায়িত করা
 
 | ![ স্কেচনোট [(@sketchthedocs)](https://sketchthedocs.dev) দ্বারা ](../../sketchnotes/01-Definitions.png) |

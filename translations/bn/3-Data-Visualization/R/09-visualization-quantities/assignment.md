@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0ea21b6513df5ade7419c6b7d65f10b1",
-  "translation_date": "2025-08-27T10:34:24+00:00",
-  "source_file": "3-Data-Visualization/R/09-visualization-quantities/assignment.md",
-  "language_code": "bn"
-}
--->
 # লাইন, স্ক্যাটার এবং বার
 
 ## নির্দেশনা

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-27T09:47:21+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "bn"
-}
--->
 # কুইজসমূহ
 
 এই কুইজগুলো ডেটা সায়েন্স কারিকুলামের প্রাক-লেকচার এবং পোস্ট-লেকচার কুইজ, যা পাওয়া যাবে এখানে: https://aka.ms/datascience-beginners

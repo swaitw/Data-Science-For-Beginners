@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-27T10:11:42+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "bn"
-}
--->
 # বিপজ্জনক সম্পর্ক ডেটা ভিজ্যুয়ালাইজেশন প্রকল্প
 
 শুরু করার জন্য, নিশ্চিত করুন যে আপনার মেশিনে NPM এবং Node চালু রয়েছে। ডিপেনডেন্সিগুলি ইনস্টল করুন (npm install) এবং তারপর প্রকল্পটি লোকালভাবে চালান (npm run serve):

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-27T18:02:46+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "mr"
-}
--->
 # उत्तर शोधत आहोत
 
 ही मागील धड्याच्या [असाइनमेंट](../14-Introduction/assignment.md) ची पुढील पायरी आहे, जिथे आपण डेटासेटचा थोडक्यात आढावा घेतला होता. आता आपण डेटावर अधिक सखोल नजर टाकणार आहोत.

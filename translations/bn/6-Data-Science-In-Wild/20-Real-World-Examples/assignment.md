@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d1e05715f9d97de6c4f1fb0c5a4702c0",
-  "translation_date": "2025-08-27T09:25:15+00:00",
-  "source_file": "6-Data-Science-In-Wild/20-Real-World-Examples/assignment.md",
-  "language_code": "bn"
-}
--->
 # একটি প্ল্যানেটারি কম্পিউটার ডেটাসেট অন্বেষণ করুন
 
 ## নির্দেশনা

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:18:24+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "mr"
-}
--->
 # सांख्यिकी आणि संभाव्यतेचा संक्षिप्त परिचय
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ग्राफिकदृष्ट्या आपण माध्य आणि चतुर्थांश यांच्यातील संबंध **बॉक्स प्लॉट** (box plot) नावाच्या आकृतीत दर्शवू शकतो:
 
-<img src="images/boxplot_explanation.png" alt="Box Plot Explanation" width="50%">
+<img src="../../../../translated_images/mr/boxplot_explanation.4039b7de08780fd4.webp" alt="Box Plot Explanation" width="50%">
 
 येथे आपण **आंतर-चतुर्थांश श्रेणी** IQR=Q3-Q1 आणि तथाकथित **आउटलायर्स** - मूल्ये, जी [Q1-1.5*IQR,Q3+1.5*IQR] च्या मर्यादेबाहेर असतात, मोजतो.
 

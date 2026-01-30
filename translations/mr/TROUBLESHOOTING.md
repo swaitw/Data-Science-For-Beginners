@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:35:58+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "mr"
-}
--->
 # समस्या निराकरण मार्गदर्शक
 
 ही मार्गदर्शिका डेटा सायन्स फॉर बिगिनर्स अभ्यासक्रमाशी संबंधित सामान्य समस्यांचे निराकरण प्रदान करते.

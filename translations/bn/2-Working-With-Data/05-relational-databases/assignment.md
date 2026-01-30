@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:54:05+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "bn"
-}
--->
 # বিমানবন্দর ডেটা প্রদর্শন
 
 আপনাকে একটি [ডেটাবেস](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) প্রদান করা হয়েছে যা [SQLite](https://sqlite.org/index.html)-এর উপর ভিত্তি করে তৈরি এবং এতে বিমানবন্দর সম্পর্কিত তথ্য রয়েছে। নিচে স্কিমা প্রদর্শিত হয়েছে। আপনি [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum)-এ [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) ব্যবহার করে বিভিন্ন শহরের বিমানবন্দর সম্পর্কিত তথ্য প্রদর্শন করবেন।

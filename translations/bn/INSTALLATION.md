@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:17:50+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "bn"
-}
--->
 # ইনস্টলেশন গাইড
 
 এই গাইডটি আপনাকে Data Science for Beginners কারিকুলামের জন্য আপনার পরিবেশ সেট আপ করতে সাহায্য করবে।

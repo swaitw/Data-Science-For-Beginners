@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "22acf28f518a4769ea14fa42f4734b9f",
-  "translation_date": "2025-08-27T18:30:27+00:00",
-  "source_file": "3-Data-Visualization/R/09-visualization-quantities/README.md",
-  "language_code": "ne"
-}
--->
 # परिमाणहरूको दृश्यात्मकता
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/sketchnotes/09-Visualizing-Quantities.png)|
 |:---:|

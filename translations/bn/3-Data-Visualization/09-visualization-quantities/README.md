@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a49d78e32e280c410f04e5f2a2068e77",
-  "translation_date": "2025-09-06T07:14:06+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/README.md",
-  "language_code": "bn"
-}
--->
 # পরিমাণের ভিজ্যুয়ালাইজেশন
 
 |![ স্কেচনোট [(@sketchthedocs)](https://sketchthedocs.dev) দ্বারা ](../../sketchnotes/09-Visualizing-Quantities.png)|
