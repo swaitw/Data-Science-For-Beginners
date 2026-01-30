@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-26T15:26:20+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "cs"
-}
--->
 # Zadání: Scénáře datové vědy
 
 V tomto prvním úkolu vás žádáme, abyste přemýšleli o nějakém reálném procesu nebo problému v různých oblastech a o tom, jak jej můžete zlepšit pomocí procesu datové vědy. Zamyslete se nad následujícím:

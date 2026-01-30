@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:24:46+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "cs"
-}
--->
 # Průvodce instalací
 
 Tento průvodce vám pomůže nastavit prostředí pro práci s učebními materiály Data Science for Beginners.

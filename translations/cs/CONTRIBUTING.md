@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:31:12+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "cs"
-}
--->
 # Přispívání do Data Science pro začátečníky
 
 Děkujeme za váš zájem o přispění do kurikula Data Science pro začátečníky! Uvítáme příspěvky od komunity.

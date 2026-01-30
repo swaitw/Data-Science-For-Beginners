@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T14:51:05+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "sw"
-}
--->
 # Kazi ya Usindikaji wa Takwimu kwa Python
 
 Katika kazi hii, tutakuomba uelezee zaidi kuhusu msimbo ambao tumeanza kuunda katika changamoto zetu. Kazi hii ina sehemu mbili:

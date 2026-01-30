@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-26T15:24:33+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "hu"
-}
--->
 # Feladat: Adattudományi Forgatókönyvek
 
 Ebben az első feladatban arra kérünk, hogy gondolj át néhány valós életbeli folyamatot vagy problémát különböző problématerületeken, és hogy hogyan tudnád ezeket javítani az adattudományi folyamat segítségével. Gondolj az alábbiakra:

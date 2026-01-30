@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:57:37+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "hu"
-}
--->
 # Repülőtéri adatok megjelenítése
 
 Egy [adatbázist](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) kaptál, amelyet [SQLite](https://sqlite.org/index.html) alapokra építettek, és repülőterekről tartalmaz információkat. Az adatbázis sémája az alábbiakban látható. A [SQLite kiterjesztést](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) fogod használni a [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) programban, hogy különböző városok repülőtereiről jeleníts meg információkat.

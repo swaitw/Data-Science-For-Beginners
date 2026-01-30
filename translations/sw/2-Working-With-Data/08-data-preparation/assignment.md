@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-26T14:41:23+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "sw"
-}
--->
 # Kutathmini Data kutoka Fomu
 
 Mteja amekuwa akijaribu [fomu ndogo](../../../../2-Working-With-Data/08-data-preparation/index.html) kukusanya data ya msingi kuhusu wateja wao. Wameleta matokeo yao kwako ili uthibitishe data waliyokusanya. Unaweza kufungua ukurasa wa `index.html` kwenye kivinjari ili kuangalia fomu hiyo.
