@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "11739c7b40e7c6b16ad29e3df4e65862",
-  "translation_date": "2025-12-19T12:06:48+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/README.md",
-  "language_code": "sk"
-}
--->
 # Práca s údajmi: Relačné databázy
 
 |![ Sketchnote od [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/05-RelationalData.png)|

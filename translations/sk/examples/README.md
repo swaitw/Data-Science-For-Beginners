@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:07:02+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "sk"
-}
--->
 # Príklady pre začiatočníkov v dátovej vede
 
 Vitajte v adresári s príkladmi! Táto kolekcia jednoduchých, dobre okomentovaných príkladov je navrhnutá tak, aby vám pomohla začať s dátovou vedou, aj keď ste úplný začiatočník.

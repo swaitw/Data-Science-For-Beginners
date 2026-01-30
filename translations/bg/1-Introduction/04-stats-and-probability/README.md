@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T14:09:47+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "bg"
-}
--->
 # Кратко въведение в статистиката и теорията на вероятностите
 
 |![ Скетч от [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Графично можем да представим връзката между медианата и квартилите в диаграма, наречена **кутия и мустаци**:
 
-<img src="images/boxplot_explanation.png" alt="Обяснение на диаграмата кутия и мустаци" width="50%">
+<img src="../../../../translated_images/bg/boxplot_explanation.4039b7de08780fd4.webp" alt="Обяснение на диаграмата кутия и мустаци" width="50%">
 
 Тук също изчисляваме **междуквартилен обхват** IQR=Q3-Q1 и така наречените **отклонения** - стойности, които лежат извън границите [Q1-1.5*IQR,Q3+1.5*IQR].
 

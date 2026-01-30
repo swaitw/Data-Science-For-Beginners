@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "215a3254ba5a222a57c5bb0192cea8e3",
-  "translation_date": "2025-09-06T21:36:16+00:00",
-  "source_file": "4-Data-Science-Lifecycle/16-communication/README.md",
-  "language_code": "ro"
-}
--->
 # Ciclul de viață al științei datelor: Comunicarea
 
 |![ Sketchnote de [(@sketchthedocs)](https://sketchthedocs.dev)](../../sketchnotes/16-Communicating.png)|

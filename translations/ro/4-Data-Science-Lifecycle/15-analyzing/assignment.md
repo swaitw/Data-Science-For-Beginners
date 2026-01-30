@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-26T16:32:03+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "ro"
-}
--->
 # Explorarea răspunsurilor
 
 Aceasta este o continuare a [temei](../14-Introduction/assignment.md) din lecția anterioară, unde am analizat pe scurt setul de date. Acum vom analiza mai în detaliu datele.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0d575483100c332b2dbaefef915bb3c4",
-  "translation_date": "2025-08-26T14:26:09+00:00",
-  "source_file": "SECURITY.md",
-  "language_code": "bg"
-}
--->
 ## Сигурност
 
 Microsoft приема сигурността на своите софтуерни продукти и услуги сериозно, включително всички хранилища с изходен код, управлявани чрез нашите GitHub организации, които включват [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin) и [нашите GitHub организации](https://opensource.microsoft.com/).

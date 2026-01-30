@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:33:05+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "sk"
-}
--->
 # Prispievanie do Data Science for Beginners
 
 Ďakujeme za váš záujem prispieť do učebných osnov Data Science for Beginners! Radi privítame príspevky od komunity.

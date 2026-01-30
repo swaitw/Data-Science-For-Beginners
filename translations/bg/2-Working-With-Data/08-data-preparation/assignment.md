@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-26T14:42:03+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "bg"
-}
--->
 # Оценяване на данни от формуляр
 
 Клиент е тествал [малък формуляр](../../../../2-Working-With-Data/08-data-preparation/index.html), за да събере основна информация за своята клиентска база. Те са ви предоставили своите резултати, за да валидирате събраните данни. Можете да отворите страницата `index.html` в браузъра, за да разгледате формуляра.

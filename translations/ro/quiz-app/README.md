@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-26T16:19:53+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ro"
-}
--->
 # Chestionare
 
 Aceste chestionare sunt chestionarele de dinaintea și de după lecții pentru curriculumul de știința datelor de la https://aka.ms/datascience-beginners

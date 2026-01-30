@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:07:21+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "ro"
-}
--->
 # Exemple de Știința Datelor pentru Începători
 
 Bine ai venit în directorul de exemple! Această colecție de exemple simple, bine comentate, este concepută pentru a te ajuta să începi cu știința datelor, chiar dacă ești complet începător.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T14:07:21+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ro"
-}
--->
 # O scurtă introducere în statistică și probabilitate
 
 |![ Sketchnote de [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Pentru a ne ajuta să înțelegem distribuția datelor, este util să vorbim des
 
 Grafic, putem reprezenta relația dintre mediană și quartile într-un diagramă numită **box plot**:
 
-<img src="images/boxplot_explanation.png" alt="Explicație Box Plot" width="50%">
+<img src="../../../../translated_images/ro/boxplot_explanation.4039b7de08780fd4.webp" alt="Explicație Box Plot" width="50%">
 
 Aici calculăm și **intervalul inter-quartil** IQR=Q3-Q1 și așa-numitele **valori extreme** - valori care se află în afara limitelor [Q1-1.5*IQR,Q3+1.5*IQR].
 
