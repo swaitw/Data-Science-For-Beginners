@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T12:55:50+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "de"
-}
--->
 # Anfängerfreundliche Data-Science-Beispiele
 
 Willkommen im Beispielverzeichnis! Diese Sammlung einfacher, gut kommentierter Beispiele wurde entwickelt, um Ihnen den Einstieg in die Welt der Data Science zu erleichtern – auch wenn Sie ein kompletter Anfänger sind.

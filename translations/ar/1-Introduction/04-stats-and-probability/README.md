@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T12:54:36+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ar"
-}
--->
 # مقدمة موجزة في الإحصاء والاحتمالات
 
 |![ رسم توضيحي بواسطة [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 يمكننا تمثيل العلاقة بين الوسيط والرباعيات في رسم بياني يُسمى **مخطط الصندوق**:
 
-<img src="images/boxplot_explanation.png" alt="شرح مخطط الصندوق" width="50%">
+<img src="../../../../translated_images/ar/boxplot_explanation.4039b7de08780fd4.webp" alt="شرح مخطط الصندوق" width="50%">
 
 هنا نحسب أيضًا **النطاق بين الرباعيات** IQR=Q3-Q1، وما يُسمى **القيم المتطرفة** - وهي القيم التي تقع خارج الحدود [Q1-1.5*IQR,Q3+1.5*IQR].
 

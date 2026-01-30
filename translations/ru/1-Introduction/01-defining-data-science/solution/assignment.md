@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-27T09:04:08+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "ru"
-}
--->
 # Задание: Сценарии использования Data Science
 
 В этом первом задании мы просим вас подумать о каком-либо реальном процессе или проблеме в различных областях, и о том, как вы можете улучшить их с помощью процесса Data Science. Подумайте о следующем:

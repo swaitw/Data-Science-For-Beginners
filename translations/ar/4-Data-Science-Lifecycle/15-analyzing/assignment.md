@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-27T09:57:22+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "ar"
-}
--->
 # البحث عن الإجابات
 
 هذا استمرار لمهمة الدرس السابق [assignment](../14-Introduction/assignment.md)، حيث ألقينا نظرة سريعة على مجموعة البيانات. الآن سنقوم بإلقاء نظرة أعمق على البيانات.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0d575483100c332b2dbaefef915bb3c4",
-  "translation_date": "2025-08-27T08:16:42+00:00",
-  "source_file": "SECURITY.md",
-  "language_code": "ar"
-}
--->
 ## الأمن
 
 تأخذ Microsoft أمن منتجاتها وخدماتها البرمجية على محمل الجد، بما في ذلك جميع مستودعات التعليمات البرمجية المصدرية التي تُدار من خلال منظماتنا على GitHub، والتي تشمل [Microsoft](https://github.com/Microsoft)، [Azure](https://github.com/Azure)، [DotNet](https://github.com/dotnet)، [AspNet](https://github.com/aspnet)، [Xamarin](https://github.com/xamarin)، و[منظماتنا على GitHub](https://opensource.microsoft.com/).

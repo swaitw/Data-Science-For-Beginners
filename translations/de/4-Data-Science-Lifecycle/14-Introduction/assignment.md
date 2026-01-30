@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-24T22:17:17+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "de"
-}
--->
 # Bewertung eines Datensatzes
 
 Ein Kunde hat sich an Ihr Team gewandt, um Hilfe bei der Untersuchung der saisonalen Ausgabengewohnheiten von Taxikunden in New York City zu erhalten.

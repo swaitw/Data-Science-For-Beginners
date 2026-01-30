@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T14:53:12+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "ar"
-}
--->
 # دليل الاستخدام
 
 يوفر هذا الدليل أمثلة ومسارات عمل شائعة لاستخدام منهج "علم البيانات للمبتدئين".

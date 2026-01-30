@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-24T21:02:07+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "de"
-}
--->
 # Auswertung von Daten aus einem Formular
 
 Ein Kunde hat ein [kleines Formular](../../../../2-Working-With-Data/08-data-preparation/index.html) getestet, um einige grundlegende Daten über seine Kundschaft zu sammeln. Er hat seine Ergebnisse mitgebracht, damit Sie die gesammelten Daten validieren. Sie können die Seite `index.html` im Browser öffnen, um sich das Formular anzusehen.

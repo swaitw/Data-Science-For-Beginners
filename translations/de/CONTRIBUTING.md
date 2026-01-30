@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:20:00+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "de"
-}
--->
 # Beitrag zu Data Science für Anfänger
 
 Vielen Dank für Ihr Interesse, zum Lehrplan "Data Science für Anfänger" beizutragen! Wir freuen uns über Beiträge aus der Community.

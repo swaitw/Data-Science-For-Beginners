@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-27T08:36:40+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "ru"
-}
--->
 # Задание по обработке данных на Python
 
 В этом задании вам предстоит доработать код, который мы начали разрабатывать в наших упражнениях. Задание состоит из двух частей:
