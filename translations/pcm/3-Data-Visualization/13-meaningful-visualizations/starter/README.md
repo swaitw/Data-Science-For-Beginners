@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-11-18T18:48:37+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "pcm"
-}
--->
 # Dangerous Liaisons data visualization project
 
 To start, make sure say NPM and Node dey run for your machine. Install di dependencies (npm install) and then run di project for your local machine (npm run serve):

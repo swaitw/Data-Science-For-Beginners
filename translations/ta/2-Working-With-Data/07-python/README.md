@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7bfec050f4717dcc2dfd028aca9d21f3",
-  "translation_date": "2025-10-11T15:18:34+00:00",
-  "source_file": "2-Working-With-Data/07-python/README.md",
-  "language_code": "ta"
-}
--->
 # தரவுடன் வேலை செய்வது: Python மற்றும் Pandas நூலகம்
 
 | ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |

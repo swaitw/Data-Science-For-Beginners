@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-10-11T15:57:13+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "ta"
-}
--->
 # அபாயகரமான தொடர்புகள் தரவுக் காட்சிப்படுத்தல் திட்டம்
 
 தொடங்குவதற்கு, உங்கள் கணினியில் NPM மற்றும் Node இயங்குகிறதா என்பதை உறுதிப்படுத்த வேண்டும். சார்புகளை நிறுவவும் (npm install) மற்றும் பின்னர் திட்டத்தை உள்ளூரில் இயக்கவும் (npm run serve):

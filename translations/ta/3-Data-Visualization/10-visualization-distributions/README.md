@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "80a20467e046d312809d008395051fc7",
-  "translation_date": "2025-10-11T15:53:35+00:00",
-  "source_file": "3-Data-Visualization/10-visualization-distributions/README.md",
-  "language_code": "ta"
-}
--->
 # விநியோகங்களை காட்சிப்படுத்துதல்
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/10-Visualizing-Distributions.png)|

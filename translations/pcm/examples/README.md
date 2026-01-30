@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-11-18T18:18:19+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "pcm"
-}
--->
 # Beginner-Friendly Data Science Examples
 
 Welcome to di examples directory! Dis collection of simple, well-commented examples dey designed to help you start data science, even if you be complete beginner.

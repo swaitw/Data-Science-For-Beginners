@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-11-18T18:12:09+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "pcm"
-}
--->
 # How to Contribute to Data Science for Beginners
 
 Tank you say you wan contribute to di Data Science for Beginners curriculum! We dey happy to see community people wey wan help.

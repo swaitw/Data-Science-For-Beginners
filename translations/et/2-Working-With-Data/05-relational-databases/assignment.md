@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:59:49+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "et"
-}
--->
 # Lennujaamade andmete kuvamine
 
 Teile on antud [andmebaas](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db), mis on loodud [SQLite](https://sqlite.org/index.html) abil ja sisaldab teavet lennujaamade kohta. Skeem on allpool kuvatud. Kasutate [SQLite laiendust](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) [Visual Studio Code'is](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum), et kuvada teavet erinevate linnade lennujaamade kohta.

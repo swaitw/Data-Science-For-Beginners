@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-10-11T15:34:03+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "ta"
-}
--->
 # Assignment: Data Science Scenarios
 
 இந்த முதல் பணியில், நீங்கள் பல்வேறு பிரச்சினை துறைகளில் உள்ள ஒரு உண்மையான செயல்முறை அல்லது பிரச்சினையைப் பற்றி சிந்திக்க வேண்டும், மேலும் அதை Data Science செயல்முறையைப் பயன்படுத்தி எவ்வாறு மேம்படுத்தலாம் என்பதைப் பற்றி சிந்திக்க வேண்டும். கீழே உள்ளவற்றைப் பற்றி சிந்திக்கவும்:

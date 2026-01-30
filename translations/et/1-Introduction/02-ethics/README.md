@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58860ce9a4b8a564003d2752f7c72851",
-  "translation_date": "2025-10-11T15:39:35+00:00",
-  "source_file": "1-Introduction/02-ethics/README.md",
-  "language_code": "et"
-}
--->
 # Sissejuhatus andme-eetikasse
 
 |![ Sketchnote autorilt [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/02-Ethics.png)|

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0f67a4139454816631526779a456b734",
-  "translation_date": "2025-10-11T15:45:00+00:00",
-  "source_file": "6-Data-Science-In-Wild/20-Real-World-Examples/README.md",
-  "language_code": "ta"
-}
--->
 # உண்மையான உலகில் தரவியல் அறிவியல்
 
 | ![ [(@sketchthedocs)](https://sketchthedocs.dev) மூலம் உருவாக்கப்பட்ட ஸ்கெட்ச் ](../../sketchnotes/20-DataScience-RealWorld.png) |

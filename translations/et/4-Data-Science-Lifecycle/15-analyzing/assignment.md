@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-10-11T15:49:37+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "et"
-}
--->
 # Vastuste otsimine
 
 See on jätk eelmise tunni [ülesandele](../14-Introduction/assignment.md), kus vaatasime andmekogumit põgusalt. Nüüd uurime andmeid põhjalikumalt.

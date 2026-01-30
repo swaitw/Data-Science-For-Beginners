@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-11-18T18:20:06+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Assignment for Data Processing for Python
 
 For dis assignment, we go ask you make you explain di code wey we don start to dey develop for our challenges. Di assignment get two parts:

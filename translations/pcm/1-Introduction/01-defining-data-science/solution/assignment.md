@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-11-18T18:31:02+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Assignment: Data Science Scenarios
 
 For dis first assignment, we wan make you think about some real-life process or problem for different problem area, and how you fit take Data Science process improve am. Think about dis:

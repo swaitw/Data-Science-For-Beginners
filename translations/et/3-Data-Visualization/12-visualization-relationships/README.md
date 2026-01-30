@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0764fd4077f3f04a1d968ec371227744",
-  "translation_date": "2025-10-11T16:03:41+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/README.md",
-  "language_code": "et"
-}
--->
 # Suhete visualiseerimine: Kõik mee kohta 🍯
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/12-Visualizing-Relationships.png)|

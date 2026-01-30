@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c182e87f9f80be7e7cdffc7b40bbfccf",
-  "translation_date": "2025-11-18T18:21:41+00:00",
-  "source_file": "2-Working-With-Data/06-non-relational/README.md",
-  "language_code": "pcm"
-}
--->
 # How to Work with Data: Non-Relational Data
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/06-NoSQL.png)|

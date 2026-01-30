@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cc2e18ab65df63e75d3619c4752e9b22",
-  "translation_date": "2025-10-11T15:09:22+00:00",
-  "source_file": "AGENTS.md",
-  "language_code": "ta"
-}
--->
 # AGENTS.md
 
 ## திட்டத்தின் மேற்பார்வை

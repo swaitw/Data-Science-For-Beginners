@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-11T15:11:11+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "ta"
-}
--->
 # பயன்பாட்டு வழிகாட்டி
 
 இந்த வழிகாட்டி, Data Science for Beginners பாடத்திட்டத்தை பயன்படுத்துவதற்கான உதாரணங்கள் மற்றும் பொதுவான பணிச்சூழல்களை வழங்குகிறது.

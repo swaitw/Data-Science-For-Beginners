@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-11T15:14:27+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "ta"
-}
--->
 # நிறுவல் வழிகாட்டி
 
 இந்த வழிகாட்டி, Data Science for Beginners பாடத்திட்டத்துடன் வேலை செய்ய உங்கள் சூழலை அமைக்க உதவுகிறது.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-10-11T15:49:29+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "ta"
-}
--->
 # பதில்களைத் தேடுதல்
 
 இது முந்தைய பாடத்தின் [பணி](../14-Introduction/assignment.md) தொடர்ச்சியாகும், இதில் தரவுத்தொகுப்பைப் பொறாமையாகப் பார்த்தோம். இப்போது, தரவுகளை ஆழமாகப் பார்க்கப் போகிறோம்.

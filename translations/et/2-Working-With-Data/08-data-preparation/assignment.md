@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-10-11T15:22:22+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "et"
-}
--->
 # Vormilt andmete hindamine
 
 Klient on testinud [väikest vormi](../../../../2-Working-With-Data/08-data-preparation/index.html), et koguda oma kliendibaasi kohta põhiandmeid. Nad on toonud oma tulemused teie juurde, et valideerida kogutud andmeid. Saate avada `index.html` lehe brauseris, et vormi vaadata.

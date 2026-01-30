@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-10-11T15:44:51+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "ta"
-}
--->
 # காட்டில் தரவியல் அறிவியல்
 
 தொழில்துறைகளில் தரவியல் அறிவியலின் நிஜ உலக பயன்பாடுகள்.
