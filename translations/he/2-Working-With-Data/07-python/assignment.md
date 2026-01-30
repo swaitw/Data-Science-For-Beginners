@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-28T15:17:27+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "he"
-}
--->
 # משימה לעיבוד נתונים בפייתון
 
 במשימה זו, נבקש מכם להרחיב את הקוד שהתחלנו לפתח באתגרים שלנו. המשימה מורכבת משני חלקים:

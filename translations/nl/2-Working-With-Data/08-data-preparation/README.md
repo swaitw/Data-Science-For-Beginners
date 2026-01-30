@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1b560955ff39a2bcf2a049fce474a951",
-  "translation_date": "2025-09-05T22:57:55+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/README.md",
-  "language_code": "nl"
-}
--->
 # Werken met Data: Data Voorbereiding
 
 |![ Sketchnote door [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/08-DataPreparation.png)|

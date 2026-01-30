@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-28T15:23:23+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "nl"
-}
--->
 # Antwoorden verkennen
 
 Dit is een vervolg op de [opdracht](../14-Introduction/assignment.md) van de vorige les, waarin we kort naar de dataset hebben gekeken. Nu gaan we dieper in op de gegevens.

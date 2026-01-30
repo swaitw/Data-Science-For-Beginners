@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-28T15:51:44+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "he"
-}
--->
 # משימה: תרחישים במדעי הנתונים
 
 במשימה הראשונה הזו, אנו מבקשים ממך לחשוב על תהליך או בעיה אמיתית בתחומים שונים, וכיצד ניתן לשפר אותה באמצעות תהליך מדעי הנתונים. חשוב על הדברים הבאים:

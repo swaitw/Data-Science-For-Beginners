@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-28T15:58:09+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "he"
-}
--->
 # חידונים
 
 החידונים האלה הם חידוני טרום ואחרי הרצאה עבור תוכנית הלימודים למדעי הנתונים בכתובת https://aka.ms/datascience-beginners

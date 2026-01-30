@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:06:19+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "vi"
-}
--->
 # Hướng Dẫn Sử Dụng
 
 Hướng dẫn này cung cấp các ví dụ và quy trình làm việc phổ biến để sử dụng chương trình học "Khoa học Dữ liệu cho Người Mới Bắt Đầu".

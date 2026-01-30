@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:22:55+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "vi"
-}
--->
 # Hướng Dẫn Cài Đặt
 
 Hướng dẫn này sẽ giúp bạn thiết lập môi trường để làm việc với giáo trình Khoa học Dữ liệu cho Người mới bắt đầu.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-28T18:11:39+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "vi"
-}
--->
 # Bài tập xử lý dữ liệu trong Python
 
 Trong bài tập này, chúng tôi yêu cầu bạn phát triển thêm mã mà chúng tôi đã bắt đầu xây dựng trong các thử thách trước. Bài tập gồm hai phần:

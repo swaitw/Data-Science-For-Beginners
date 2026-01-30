@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-28T15:41:42+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "nl"
-}
--->
 # Gevaarlijke Relaties data visualisatieproject
 
 Om te beginnen moet je ervoor zorgen dat je NPM en Node op je machine hebt draaien. Installeer de afhankelijkheden (npm install) en voer vervolgens het project lokaal uit (npm run serve):

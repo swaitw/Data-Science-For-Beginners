@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "3a848466cb63aff1a93411affb152c2a",
-  "translation_date": "2025-08-28T16:01:34+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "he"
-}
--->
 מצא את כל הסקצ'נוטים כאן!
 
 ## קרדיטים

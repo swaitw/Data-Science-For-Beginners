@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-28T19:06:11+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "vi"
-}
--->
 # Câu hỏi trắc nghiệm
 
 Các câu hỏi trắc nghiệm này là các bài kiểm tra trước và sau bài giảng trong chương trình học khoa học dữ liệu tại https://aka.ms/datascience-beginners

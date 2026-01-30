@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:56:33+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "nl"
-}
--->
 # Luchthavendata weergeven
 
 Je hebt een [database](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) gekregen, gebouwd op [SQLite](https://sqlite.org/index.html), die informatie over luchthavens bevat. Het schema wordt hieronder weergegeven. Je zult de [SQLite-extensie](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) in [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) gebruiken om informatie over luchthavens in verschillende steden weer te geven.
