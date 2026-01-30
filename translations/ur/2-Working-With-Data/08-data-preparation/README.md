@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1b560955ff39a2bcf2a049fce474a951",
-  "translation_date": "2025-09-06T06:38:44+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/README.md",
-  "language_code": "ur"
-}
--->
 # ڈیٹا کے ساتھ کام کرنا: ڈیٹا کی تیاری
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) کی طرف سے اسکیچ نوٹ ](../../sketchnotes/08-DataPreparation.png)|

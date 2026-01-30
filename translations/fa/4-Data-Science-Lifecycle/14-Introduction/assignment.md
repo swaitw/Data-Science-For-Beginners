@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-24T22:17:24+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "fa"
-}
--->
 # ارزیابی یک مجموعه داده
 
 یک مشتری از تیم شما درخواست کمک کرده است تا عادات فصلی هزینه‌کرد مشتریان تاکسی در شهر نیویورک را بررسی کند.

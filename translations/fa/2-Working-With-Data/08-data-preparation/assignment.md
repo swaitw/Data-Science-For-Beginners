@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-24T21:02:14+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "fa"
-}
--->
 # ارزیابی داده‌های یک فرم
 
 یک مشتری در حال آزمایش یک [فرم کوچک](../../../../2-Working-With-Data/08-data-preparation/index.html) برای جمع‌آوری برخی داده‌های پایه درباره پایگاه مشتریان خود بوده است. آن‌ها یافته‌های خود را برای شما آورده‌اند تا داده‌هایی که جمع‌آوری کرده‌اند را اعتبارسنجی کنید. می‌توانید صفحه `index.html` را در مرورگر باز کنید تا فرم را مشاهده کنید.

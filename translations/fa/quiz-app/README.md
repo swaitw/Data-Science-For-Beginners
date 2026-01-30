@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-24T22:12:46+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "fa"
-}
--->
 # آزمون‌ها
 
 این آزمون‌ها شامل آزمون‌های قبل و بعد از جلسات آموزشی برای برنامه درسی علم داده در https://aka.ms/datascience-beginners هستند.

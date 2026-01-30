@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:30:55+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "fa"
-}
--->
 # راهنمای رفع مشکلات
 
 این راهنما راه‌حل‌هایی برای مشکلات رایج که ممکن است هنگام کار با دوره آموزشی «علم داده برای مبتدیان» با آن مواجه شوید ارائه می‌دهد.

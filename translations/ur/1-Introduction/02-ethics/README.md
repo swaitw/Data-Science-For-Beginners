@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58860ce9a4b8a564003d2752f7c72851",
-  "translation_date": "2025-10-03T16:04:50+00:00",
-  "source_file": "1-Introduction/02-ethics/README.md",
-  "language_code": "ur"
-}
--->
 # ڈیٹا اخلاقیات کا تعارف
 
 |![ اسکیچ نوٹ [(@sketchthedocs)](https://sketchthedocs.dev) کی طرف سے ](../../sketchnotes/02-Ethics.png)|

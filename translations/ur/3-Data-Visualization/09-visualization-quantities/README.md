@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a49d78e32e280c410f04e5f2a2068e77",
-  "translation_date": "2025-09-06T06:43:27+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/README.md",
-  "language_code": "ur"
-}
--->
 # مقداروں کی بصری نمائندگی
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) کی اسکیچ نوٹ ](../../sketchnotes/09-Visualizing-Quantities.png)|
