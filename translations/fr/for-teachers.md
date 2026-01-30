@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f7440be10c17a8a9262713af3d2818a9",
-  "translation_date": "2025-09-06T19:51:23+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "fr"
-}
--->
 ## Pour les enseignants
 
 Souhaitez-vous utiliser ce programme dans votre classe ? N'hésitez pas !

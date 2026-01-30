@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1441550a0d789796b2821e04f7f4cc94",
-  "translation_date": "2025-08-31T11:02:05+00:00",
-  "source_file": "3-Data-Visualization/README.md",
-  "language_code": "en"
-}
--->
 # Visualizations
 
 ![a bee on a lavender flower](../../../3-Data-Visualization/images/bee.jpg)

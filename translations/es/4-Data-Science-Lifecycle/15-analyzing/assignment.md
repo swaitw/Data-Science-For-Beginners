@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-24T22:19:53+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "es"
-}
--->
 # Explorando respuestas
 
 Esta es una continuación de la [tarea](../14-Introduction/assignment.md) de la lección anterior, donde examinamos brevemente el conjunto de datos. Ahora profundizaremos más en los datos.

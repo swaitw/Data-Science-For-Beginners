@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-31T11:11:39+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "en"
-}
--->
 # Quizzes
 
 These quizzes are the pre- and post-lecture quizzes for the data science curriculum at https://aka.ms/datascience-beginners

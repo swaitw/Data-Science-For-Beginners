@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dd173fd30fc039a7a299898920680723",
-  "translation_date": "2025-08-31T10:59:58+00:00",
-  "source_file": "4-Data-Science-Lifecycle/README.md",
-  "language_code": "en"
-}
--->
 # The Data Science Lifecycle
 
 ![communication](../../../4-Data-Science-Lifecycle/images/communication.jpg)

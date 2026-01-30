@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-31T11:01:12+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "en"
-}
--->
 # Assessing a Dataset
 
 A client has reached out to your team for assistance in analyzing the seasonal spending habits of taxi customers in New York City.

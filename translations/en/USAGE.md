@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T14:51:22+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "en"
-}
--->
 # Usage Guide
 
 This guide provides examples and common workflows for using the Data Science for Beginners curriculum.

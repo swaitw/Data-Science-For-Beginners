@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-24T22:34:29+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "es"
-}
--->
 # Proyecto de visualización de datos Dangerous Liaisons
 
 Para comenzar, asegúrate de tener NPM y Node funcionando en tu máquina. Instala las dependencias (npm install) y luego ejecuta el proyecto localmente (npm run serve):

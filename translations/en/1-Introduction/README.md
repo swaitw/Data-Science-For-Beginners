@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "696a8474a01054281704cbfb09148949",
-  "translation_date": "2025-08-31T11:08:01+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "en"
-}
--->
 # Introduction to Data Science
 
 ![data in action](../../../1-Introduction/images/data.jpg)

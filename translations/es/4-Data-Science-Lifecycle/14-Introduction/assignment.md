@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-24T22:17:08+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "es"
-}
--->
 # Evaluando un Conjunto de Datos
 
 Un cliente se ha acercado a tu equipo para solicitar ayuda en la investigación de los hábitos de gasto estacionales de los clientes de taxis en la ciudad de Nueva York.

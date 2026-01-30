@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a33c5d4b4156a2b41788d8720b6f724c",
-  "translation_date": "2025-08-25T18:18:08+00:00",
-  "source_file": "3-Data-Visualization/R/12-visualization-relationships/README.md",
-  "language_code": "fr"
-}
--->
 # Visualiser les relations : Tout sur le miel 🍯
 
 |![ Sketchnote par [(@sketchthedocs)](https://sketchthedocs.dev) ](../../../sketchnotes/12-Visualizing-Relationships.png)|

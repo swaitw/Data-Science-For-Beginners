@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 **🙏 特別鳴謝 🙏 我們的 [Microsoft 學生大使](https://studentambassadors.microsoft.com/) 作者、審稿人及內容貢獻者，** 其中包括 Aaryan Arora, [Aditya Garg](https://github.com/AdityaGarg00), [Alondra Sanchez](https://www.linkedin.com/in/alondra-sanchez-molina/), [Ankita Singh](https://www.linkedin.com/in/ankitasingh007), [Anupam Mishra](https://www.linkedin.com/in/anupam--mishra/), [Arpita Das](https://www.linkedin.com/in/arpitadas01/), ChhailBihari Dubey, [Dibri Nsofor](https://www.linkedin.com/in/dibrinsofor), [Dishita Bhasin](https://www.linkedin.com/in/dishita-bhasin-7065281bb), [Majd Safi](https://www.linkedin.com/in/majd-s/), [Max Blum](https://www.linkedin.com/in/max-blum-6036a1186/), [Miguel Correa](https://www.linkedin.com/in/miguelmque/), [Mohamma Iftekher (Iftu) Ebne Jalal](https://twitter.com/iftu119), [Nawrin Tabassum](https://www.linkedin.com/in/nawrin-tabassum), [Raymond Wangsa Putra](https://www.linkedin.com/in/raymond-wp/), [Rohit Yadav](https://www.linkedin.com/in/rty2423), Samridhi Sharma, [Sanya Sinha](https://www.linkedin.com/mwlite/in/sanya-sinha-13aab1200),
 [Sheena Narula](https://www.linkedin.com/in/sheena-narua-n/), [Tauqeer Ahmad](https://www.linkedin.com/in/tauqeerahmad5201/), Yogendrasingh Pawar , [Vidushi Gupta](https://www.linkedin.com/in/vidushi-gupta07/), [Jasleen Sondhi](https://www.linkedin.com/in/jasleen-sondhi/)
 
-|![Sketchnote by @sketchthedocs https://sketchthedocs.dev](../../../../translated_images/mo/00-Title.8af36cd35da1ac55.webp)|
+|![Sketchnote by @sketchthedocs https://sketchthedocs.dev](../../../../translated_images/zh-MO/00-Title.8af36cd35da1ac55.webp)|
 |:---:|
 | 初學者數據科學 - _手繪筆記由 [@nitya](https://twitter.com/nitya) 製作_ |
 
@@ -62,7 +62,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 我們正在進行 Discord AI 系列學習活動，詳情與加入請訪問 [Learn with AI Series](https://aka.ms/learnwithai/discord)，活動期間為 2025 年 9 月 18日至 30日。你將學習使用 GitHub Copilot 進行數據科學的技巧與秘訣。
 
-![Learn with AI series](../../../../translated_images/mo/1.2b28cdc6205e26fe.webp)
+![Learn with AI series](../../../../translated_images/zh-MO/1.2b28cdc6205e26fe.webp)
 
 # 你是學生嗎？
 
@@ -142,7 +142,7 @@ CO_OP_TRANSLATOR_METADATA:
 ## 課程列表
 
 
-|![速寫筆記由 @sketchthedocs https://sketchthedocs.dev 提供](../../../../translated_images/mo/00-Roadmap.4905d6567dff4753.webp)|
+|![速寫筆記由 @sketchthedocs https://sketchthedocs.dev 提供](../../../../translated_images/zh-MO/00-Roadmap.4905d6567dff4753.webp)|
 |:---:|
 | 資料科學初學者路線圖 - _速寫筆記由 [@nitya](https://twitter.com/nitya) 提供_ |
 
