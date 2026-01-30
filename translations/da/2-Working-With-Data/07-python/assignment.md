@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T21:07:25+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "da"
-}
--->
 # Opgave i Databehandling med Python
 
 I denne opgave vil vi bede dig om at uddybe den kode, vi er begyndt at udvikle i vores udfordringer. Opgaven består af to dele:

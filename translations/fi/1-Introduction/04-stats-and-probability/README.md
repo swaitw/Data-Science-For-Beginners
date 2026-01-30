@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:43:27+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "fi"
-}
--->
 # Tilastotiede ja todennäköisyys: Lyhyt johdanto
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Datan jakauman ymmärtämiseksi on hyödyllistä puhua **kvartiileista**:
 
 Graafisesti voimme esittää mediaanin ja kvartiilien suhteen diagrammissa, jota kutsutaan **laatikko- ja viiksikaavioksi**:
 
-<img src="images/boxplot_explanation.png" alt="Laatikko- ja viiksikaavio" width="50%">
+<img src="../../../../translated_images/fi/boxplot_explanation.4039b7de08780fd4.webp" alt="Laatikko- ja viiksikaavio" width="50%">
 
 Tässä laskemme myös **kvartiilivälin** IQR=Q3-Q1 ja niin sanotut **poikkeamat** – arvot, jotka ovat alueen [Q1-1.5*IQR, Q3+1.5*IQR] ulkopuolella.
 

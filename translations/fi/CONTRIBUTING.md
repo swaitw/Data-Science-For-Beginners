@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:12:19+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "fi"
-}
--->
 # Osallistuminen Data Science for Beginners -projektiin
 
 Kiitos kiinnostuksestasi osallistua Data Science for Beginners -opetussuunnitelmaan! Otamme mielellämme vastaan yhteisön panoksia.

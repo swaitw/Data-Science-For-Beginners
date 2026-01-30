@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-26T20:59:43+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "no"
-}
--->
 # Evaluere Data fra et Skjema
 
 En klient har testet et [lite skjema](../../../../2-Working-With-Data/08-data-preparation/index.html) for å samle inn grunnleggende data om sin kundebase. De har tatt med sine funn til deg for å validere dataene de har samlet inn. Du kan åpne `index.html`-siden i nettleseren for å se på skjemaet.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-26T21:36:08+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "fi"
-}
--->
 # Tehtävä: Data Science -skenaariot
 
 Tässä ensimmäisessä tehtävässä pyydämme sinua pohtimaan joitakin tosielämän prosesseja tai ongelmia eri ongelma-alueilla ja sitä, miten voit parantaa niitä Data Science -prosessin avulla. Mieti seuraavia kysymyksiä:

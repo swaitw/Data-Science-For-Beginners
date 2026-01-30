@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:42:07+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "fi"
-}
--->
 # Vianmääritysopas
 
 Tämä opas tarjoaa ratkaisuja yleisiin ongelmiin, joita saatat kohdata työskennellessäsi Data Science for Beginners -opetussuunnitelman parissa.

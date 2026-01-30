@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-26T22:19:44+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "no"
-}
--->
 # Quizer
 
 Disse quizene er forhånds- og etterforelesningsquizer for data science-læreplanen på https://aka.ms/datascience-beginners

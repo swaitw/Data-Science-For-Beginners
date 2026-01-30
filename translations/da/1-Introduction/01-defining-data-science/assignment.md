@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-26T21:34:38+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "da"
-}
--->
 # Opgave: Data Science Scenarier
 
 I denne første opgave beder vi dig om at tænke over nogle virkelige processer eller problemer inden for forskellige problemområder, og hvordan du kan forbedre dem ved hjælp af Data Science-processen. Tænk over følgende:
