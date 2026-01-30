@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:55:26+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "tr"
-}
--->
 # Havaalanı Verilerini Görüntüleme
 
 Size havaalanları hakkında bilgi içeren [SQLite](https://sqlite.org/index.html) tabanlı bir [veritabanı](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) sağlandı. Şema aşağıda gösterilmiştir. Farklı şehirlerin havaalanları hakkında bilgi görüntülemek için [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) içindeki [SQLite eklentisini](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) kullanacaksınız.

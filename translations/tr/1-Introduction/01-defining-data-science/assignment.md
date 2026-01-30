@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-28T11:24:24+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "tr"
-}
--->
 # Ödev: Veri Bilimi Senaryoları
 
 Bu ilk ödevde, sizden farklı problem alanlarında gerçek hayattaki bir süreç veya problemi düşünmenizi ve Veri Bilimi sürecini kullanarak bunu nasıl geliştirebileceğinizi değerlendirmenizi istiyoruz. Şunları düşünün:

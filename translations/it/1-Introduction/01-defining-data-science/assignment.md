@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-28T11:24:13+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "it"
-}
--->
 # Compito: Scenari di Data Science
 
 In questo primo compito, ti chiediamo di riflettere su alcuni processi o problemi reali in diversi ambiti e su come puoi migliorarli utilizzando il processo di Data Science. Pensa ai seguenti punti:

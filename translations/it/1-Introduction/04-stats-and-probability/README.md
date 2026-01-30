@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:28:05+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "it"
-}
--->
 # Una Breve Introduzione alla Statistica e alla Probabilità
 
 |![ Sketchnote di [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Per aiutarci a comprendere la distribuzione dei dati, è utile parlare di **quar
 
 Graficamente possiamo rappresentare la relazione tra mediana e quartili in un diagramma chiamato **box plot**:
 
-<img src="images/boxplot_explanation.png" alt="Spiegazione del Box Plot" width="50%">
+<img src="../../../../translated_images/it/boxplot_explanation.4039b7de08780fd4.webp" alt="Spiegazione del Box Plot" width="50%">
 
 Qui calcoliamo anche l'**intervallo interquartile** IQR=Q3-Q1 e i cosiddetti **outlier** - valori che si trovano al di fuori dei limiti [Q1-1.5*IQR,Q3+1.5*IQR].
 

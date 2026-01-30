@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-24T21:02:22+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "pl"
-}
--->
 # Ocena danych z formularza
 
 Klient testował [mały formularz](../../../../2-Working-With-Data/08-data-preparation/index.html), aby zebrać podstawowe informacje o swojej bazie klientów. Przekazał Ci swoje wyniki, abyś zweryfikował dane, które zgromadzili. Możesz otworzyć stronę `index.html` w przeglądarce, aby zapoznać się z formularzem.

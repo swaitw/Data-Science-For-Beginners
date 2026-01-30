@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:01:37+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "pl"
-}
--->
 # Przykłady Data Science dla Początkujących
 
 Witamy w katalogu przykładów! Ta kolekcja prostych, dobrze skomentowanych przykładów została zaprojektowana, aby pomóc Ci rozpocząć przygodę z data science, nawet jeśli jesteś zupełnym nowicjuszem.

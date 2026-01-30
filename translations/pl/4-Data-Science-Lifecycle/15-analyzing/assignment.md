@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-24T22:20:19+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "pl"
-}
--->
 # Poszukiwanie odpowiedzi
 
 To jest kontynuacja [zadania](../14-Introduction/assignment.md) z poprzedniej lekcji, gdzie krótko przyjrzeliśmy się zbiorowi danych. Teraz przyjrzymy się danym bardziej szczegółowo.

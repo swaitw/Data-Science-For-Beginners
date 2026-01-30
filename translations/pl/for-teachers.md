@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f7440be10c17a8a9262713af3d2818a9",
-  "translation_date": "2025-09-06T19:56:32+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "pl"
-}
--->
 ## Dla nauczycieli
 
 Chcesz wykorzystać ten program nauczania w swojej klasie? Śmiało!

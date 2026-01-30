@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c06b12caf3c901eb3156e3dd5b0aea56",
-  "translation_date": "2025-08-28T10:36:36+00:00",
-  "source_file": "CODE_OF_CONDUCT.md",
-  "language_code": "it"
-}
--->
 # Codice di Condotta per l'Open Source di Microsoft
 
 Questo progetto ha adottato il [Codice di Condotta per l'Open Source di Microsoft](https://opensource.microsoft.com/codeofconduct/).

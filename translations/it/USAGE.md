@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:01:37+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "it"
-}
--->
 # Guida all'Uso
 
 Questa guida fornisce esempi e flussi di lavoro comuni per utilizzare il curriculum "Data Science for Beginners".

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-24T21:09:28+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "pl"
-}
--->
 # Zadanie dotyczące przetwarzania danych w Pythonie
 
 W tym zadaniu poprosimy Cię o rozwinięcie kodu, który zaczęliśmy tworzyć w naszych wyzwaniach. Zadanie składa się z dwóch części:

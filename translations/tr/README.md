@@ -1,206 +1,180 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "33d252f7491b696d85df7f680e7e7b90",
-  "translation_date": "2026-01-16T13:55:56+00:00",
-  "source_file": "README.md",
-  "language_code": "tr"
-}
--->
-# Yeni Başlayanlar İçin Veri Bilimi - Bir Müfredat
+# Yeni Başlayanlar için Veri Bilimi - Bir Müfredat
 
-[![GitHub Codespaces'te Aç](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198)
+Azure Bulut Savunucuları, Veri Bilimi ile ilgili 10 hafta, 20 derslik bir müfredata sunmaktan mutluluk duyar. Her ders, ders öncesi ve sonrası quizler, dersi tamamlama için yazılı talimatlar, bir çözüm ve bir ödev içerir. Proje tabanlı pedagojimiz, yeni becerilerin 'kalıcı' olmasını sağlayan kanıtlanmış bir yöntemle inşa ederken öğrenmenizi sağlar.
 
-[![GitHub lisansı](https://img.shields.io/github/license/microsoft/Data-Science-For-Beginners.svg)](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE)
-[![GitHub katkıda bulunanlar](https://img.shields.io/github/contributors/microsoft/Data-Science-For-Beginners.svg)](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/)
-[![GitHub sorunlar](https://img.shields.io/github/issues/microsoft/Data-Science-For-Beginners.svg)](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/)
-[![GitHub çekme talepleri](https://img.shields.io/github/issues-pr/microsoft/Data-Science-For-Beginners.svg)](https://GitHub.com/microsoft/Data-Science-For-Beginners/pulls/)
-[![Çekme Talepleri Hoş Geldiniz](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+**Yazarlarımıza içten teşekkürler:** [Jasmine Greenaway](https://www.twitter.com/paladique), [Dmitry Soshnikov](http://soshnikov.com), [Nitya Narasimhan](https://twitter.com/nitya), [Jalen McGee](https://twitter.com/JalenMcG), [Jen Looper](https://twitter.com/jenlooper), [Maud Levy](https://twitter.com/maudstweets), [Tiffany Souterre](https://twitter.com/TiffanySouterre), [Christopher Harrison](https://www.twitter.com/geektrainer).
 
-[![GitHub izleyiciler](https://img.shields.io/github/watchers/microsoft/Data-Science-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/Data-Science-For-Beginners/watchers/)
-[![GitHub çatallar](https://img.shields.io/github/forks/microsoft/Data-Science-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/Data-Science-For-Beginners/network/)
-[![GitHub yıldızlar](https://img.shields.io/github/stars/microsoft/Data-Science-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/Data-Science-For-Beginners/stargazers/)
+**🙏 Özel teşekkürler 🙏 [Microsoft Öğrenci Elçisi](https://studentambassadors.microsoft.com/) yazarlarımıza, gözden geçirenlere ve içerik katkıda bulunanlara**, özellikle Aaryan Arora, [Aditya Garg](https://github.com/AdityaGarg00), [Alondra Sanchez](https://www.linkedin.com/in/alondra-sanchez-molina/), [Ankita Singh](https://www.linkedin.com/in/ankitasingh007), [Anupam Mishra](https://www.linkedin.com/in/anupam--mishra/), [Arpita Das](https://www.linkedin.com/in/arpitadas01/), ChhailBihari Dubey, [Dibri Nsofor](https://www.linkedin.com/in/dibrinsofor), [Dishita Bhasin](https://www.linkedin.com/in/dishita-bhasin-7065281bb), [Majd Safi](https://www.linkedin.com/in/majd-s/), [Max Blum](https://www.linkedin.com/in/max-blum-6036a1186/), [Miguel Correa](https://www.linkedin.com/in/miguelmque/), [Mohamma Iftekher (Iftu) Ebne Jalal](https://twitter.com/iftu119), [Nawrin Tabassum](https://www.linkedin.com/in/nawrin-tabassum), [Raymond Wangsa Putra](https://www.linkedin.com/in/raymond-wp/), [Rohit Yadav](https://www.linkedin.com/in/rty2423), Samridhi Sharma, [Sanya Sinha](https://www.linkedin.com/mwlite/in/sanya-sinha-13aab1200),
+[Sheena Narula](https://www.linkedin.com/in/sheena-narua-n/), [Tauqeer Ahmad](https://www.linkedin.com/in/tauqeerahmad5201/), Yogendrasingh Pawar, [Vidushi Gupta](https://www.linkedin.com/in/vidushi-gupta07/), [Jasleen Sondhi](https://www.linkedin.com/in/jasleen-sondhi/)
 
-
-[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
-
-[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
-
-Microsoft'taki Azure Cloud Advocates, Veri Bilimi hakkında 10 haftalık, 20 derslik bir müfredat sunmaktan mutluluk duyar. Her ders, ders öncesi ve sonrası quizleri, dersi tamamlamak için yazılı talimatlar, çözümler ve ödev içerir. Proje tabanlı pedagojimiz, öğrenirken yapmanızı sağlar; bu, yeni becerilerin 'kalıcı' olmasının kanıtlanmış bir yoludur.
-
-**Yazarlarımıza yürekten teşekkürler:** [Jasmine Greenaway](https://www.twitter.com/paladique), [Dmitry Soshnikov](http://soshnikov.com), [Nitya Narasimhan](https://twitter.com/nitya), [Jalen McGee](https://twitter.com/JalenMcG), [Jen Looper](https://twitter.com/jenlooper), [Maud Levy](https://twitter.com/maudstweets), [Tiffany Souterre](https://twitter.com/TiffanySouterre), [Christopher Harrison](https://www.twitter.com/geektrainer).
-
-**🙏 Özel teşekkürler 🙏 Microsoft Öğrenci Elçimiz [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/) yazarlarına, inceleyicilerine ve içerik katkıcılarına,** özellikle Aaryan Arora, [Aditya Garg](https://github.com/AdityaGarg00), [Alondra Sanchez](https://www.linkedin.com/in/alondra-sanchez-molina/), [Ankita Singh](https://www.linkedin.com/in/ankitasingh007), [Anupam Mishra](https://www.linkedin.com/in/anupam--mishra/), [Arpita Das](https://www.linkedin.com/in/arpitadas01/), ChhailBihari Dubey, [Dibri Nsofor](https://www.linkedin.com/in/dibrinsofor), [Dishita Bhasin](https://www.linkedin.com/in/dishita-bhasin-7065281bb), [Majd Safi](https://www.linkedin.com/in/majd-s/), [Max Blum](https://www.linkedin.com/in/max-blum-6036a1186/), [Miguel Correa](https://www.linkedin.com/in/miguelmque/), [Mohamma Iftekher (Iftu) Ebne Jalal](https://twitter.com/iftu119), [Nawrin Tabassum](https://www.linkedin.com/in/nawrin-tabassum), [Raymond Wangsa Putra](https://www.linkedin.com/in/raymond-wp/), [Rohit Yadav](https://www.linkedin.com/in/rty2423), Samridhi Sharma, [Sanya Sinha](https://www.linkedin.com/mwlite/in/sanya-sinha-13aab1200),
-[Sheena Narula](https://www.linkedin.com/in/sheena-narua-n/), [Tauqeer Ahmad](https://www.linkedin.com/in/tauqeerahmad5201/), Yogendrasingh Pawar , [Vidushi Gupta](https://www.linkedin.com/in/vidushi-gupta07/), [Jasleen Sondhi](https://www.linkedin.com/in/jasleen-sondhi/)
-
-|![@sketchthedocs tarafından Sketchnote https://sketchthedocs.dev](../../../../translated_images/tr/00-Title.8af36cd35da1ac55.webp)|
+|![@sketchthedocs tarafından Sketchnote https://sketchthedocs.dev](../../translated_images/tr/00-Title.8af36cd35da1ac55.webp)|
 |:---:|
-| Yeni Başlayanlar İçin Veri Bilimi - _[@nitya](https://twitter.com/nitya) tarafından Sketchnote_ |
+| Yeni Başlayanlar için Veri Bilimi - _[@nitya](https://twitter.com/nitya) tarafından Sketchnote_ |
 
-### 🌐 Çoklu Dil Desteği
+### 🌐 Çok Dilli Destek
 
-#### GitHub Action ile Desteklenir (Otomatik & Her Zaman Güncel)
+#### GitHub Action ile Desteklenmektedir (Otomatik & Her Zaman Güncel)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](./README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](./README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **Yerel Olarak Klonlamayı Tercih Ediyor musunuz?**
+> **Yerel olarak Klonlamayı Tercih Ediyor musunuz?**
 
-> Bu depo, indirme boyutunu önemli ölçüde artıran 50'den fazla dil çevirisi içerir. Çeviriler olmadan klonlamak için, seyrek checkout kullanın:
+> Bu depo 50+ dil çevirisini içermektedir, bu da indirme boyutunu önemli ölçüde artırır. Çeviriler olmadan klonlamak için sparse checkout kullanın:
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/microsoft/Data-Science-For-Beginners.git
 > cd Data-Science-For-Beginners
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> Bu, kursu tamamlamak için gereken her şeyi daha hızlı bir indirme ile sağlar.
+> Bu, kursu tamamlamak için ihtiyacınız olan her şeyi çok daha hızlı bir indirme ile size verir.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-**Ek çeviri dillerinin desteklenmesini isterseniz, bunlar [burada](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md) listelenmiştir**
+**Ek dil desteği istemeniz durumunda desteklenen diller [burada](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md) listelenmiştir**
 
 #### Topluluğumuza Katılın 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-AI ile öğrenme dizisi Discord'da devam ediyor, daha fazlasını öğrenin ve 18 - 30 Eylül 2025 tarihleri arasında [Learn with AI Series](https://aka.ms/learnwithai/discord) ’e katılın. Veri Bilimi için GitHub Copilot kullanımıyla ilgili ipuçları ve püf noktaları edineceksiniz.
+Discord üzerinde AI ile öğrenme serimiz devam ediyor, daha fazla bilgi alın ve 18 - 30 Eylül 2025 arasında [Learn with AI Series](https://aka.ms/learnwithai/discord) topluluğumuza katılın. GitHub Copilot'u Veri Bilimi için kullanmanın ipuçları ve püf noktalarını öğreneceksiniz.
 
-![Learn with AI series](../../../../translated_images/tr/1.2b28cdc6205e26fe.webp)
+![Learn with AI series](../../translated_images/tr/1.2b28cdc6205e26fe.webp)
 
 # Öğrenci misiniz?
 
 Aşağıdaki kaynaklarla başlayın:
 
-- [Öğrenci Merkezi sayfası](https://docs.microsoft.com/en-gb/learn/student-hub?WT.mc_id=academic-77958-bethanycheum) Bu sayfada, yeni başlayan kaynakları, Öğrenci paketlerini ve hatta ücretsiz sertifika kuponu alma yollarını bulacaksınız. İçeriği en az ayda bir değiştirdiğimiz için bu sayfayı yer imlerinize ekleyip zaman zaman kontrol etmek isteyeceksiniz.
-- [Microsoft Learn Öğrenci Elçileri](https://studentambassadors.microsoft.com?WT.mc_id=academic-77958-bethanycheum) Küresel bir öğrenci elçileri topluluğuna katılın, bu Microsoft'a giriş yolunuz olabilir.
+- [Student Hub sayfası](https://docs.microsoft.com/en-gb/learn/student-hub?WT.mc_id=academic-77958-bethanycheum) Bu sayfada, başlangıç seviyesine uygun kaynaklar, Öğrenci paketleri ve hatta ücretsiz sertifika kuponu edinmenin yollarını bulacaksınız. İçerik ayda en az bir kez değiştirildiği için bu sayfayı zaman zaman yer imlerinize ekleyip kontrol etmek isteyeceksiniz.
+- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-77958-bethanycheum) Küresel öğrenci elçileri topluluğuna katılın, bu Microsoft'a girmek için bir yolunuz olabilir.
 
 # Başlarken
 
 ## 📚 Dokümantasyon
 
-- **[Kurulum Kılavuzu](INSTALLATION.md)** - Yeni başlayanlar için adım adım kurulum talimatları
+- **[Kurulum Kılavuzu](INSTALLATION.md)** - Yeni başlayanlar için adım adım kurulum yönergeleri
 - **[Kullanım Kılavuzu](USAGE.md)** - Örnekler ve yaygın iş akışları
-- **[Sorun Giderme](TROUBLESHOOTING.md)** - Yaygın sorunlar için çözümler
+- **[Sorun Giderme](TROUBLESHOOTING.md)** - Yaygın sorunlara çözümler
 - **[Katkıda Bulunma Kılavuzu](CONTRIBUTING.md)** - Bu projeye nasıl katkıda bulunulur
-- **[Öğretmenler İçin](for-teachers.md)** - Öğretim rehberi ve sınıf kaynakları
+- **[Öğretmenler için](for-teachers.md)** - Öğretim rehberi ve sınıf kaynakları
 
-## 👨‍🎓 Öğrenciler İçin
-> **Tamamen Yeni Başlayanlar**: Veri bilimine yeni misiniz? Başlamak için [yeni başlayan dostu örneklerimize](examples/README.md) göz atın! Bu basit, iyi yorumlanmış örnekler, tam müfredata dalmadan önce temel bilgileri anlamanıza yardımcı olur.
-> **[Öğrenciler](https://aka.ms/student-page)**: Bu müfredatı kendi başınıza kullanmak için, tüm depoyu çatallayıp önceden quiz ile başlayarak alıştırmaları kendiniz yapabilirsiniz. Ardından dersi okuyup geri kalan etkinlikleri tamamlayın. Çözümleri kopyalamak yerine dersleri kavrayarak projeleri oluşturmaya çalışın; ancak bu kod, her proje odaklı dersin /solutions klasörlerinde mevcuttur. Bir diğer fikir, arkadaşlarınızla bir çalışma grubu oluşturup içeriği birlikte geçmek olabilir. Daha ileri çalışma için [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum) ’i öneriyoruz.
+## 👨‍🎓 Öğrenciler için
+> **Tamamen Yeni Başlayanlar**: Veri bilimiyle yeni misiniz? Öncelikle [başlangıç dostu örneklerimiz](examples/README.md) ile başlayın! Bu basit, iyi yorumlanmış örnekler temel bilgileri öğrenmenize yardımcı olacaktır.
+> **[Öğrenciler](https://aka.ms/student-page)**: bu müfredatı kendi başınıza kullanmak için tüm repoyu çatallayın ve ders öncesi quiz ile başlayarak alıştırmaları kendiniz tamamlayın. Daha sonra dersi okuyun ve diğer aktiviteleri yapın. Projeleri, çözüm kodunu kopyalamak yerine dersleri kavrayarak oluşturmaya çalışın; ancak bu kod her proje odaklı derste /solutions klasörlerinde mevcuttur. Bir diğer fikir, arkadaşlarınızla bir çalışma grubu oluşturup içeriği birlikte gözden geçirmektir. Daha ileri çalışma için [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum) öneriyoruz.
 
 **Hızlı Başlangıç:**
-1. Ortamınızı kurmak için [Kurulum Kılavuzu](INSTALLATION.md)'nu inceleyin
-2. Müfredatla nasıl çalışılacağını öğrenmek için [Kullanım Kılavuzu](USAGE.md)'nu gözden geçirin
-3. 1. Dersle başlayın ve sırasıyla ilerleyin
+1. Ortamınızı kurmak için [Kurulum Kılavuzu](INSTALLATION.md)'nu kontrol edin
+2. Müfredatla nasıl çalışacağınızı öğrenmek için [Kullanım Kılavuzu](USAGE.md)'nu inceleyin
+3. Ders 1 ile başlayıp sırayla ilerleyin
 4. Destek için [Discord topluluğumuza](https://aka.ms/ds4beginners/discord) katılın
 
-## 👩‍🏫 Öğretmenler İçin
+## 👩‍🏫 Öğretmenler için
 
-> **Öğretmenler**: Bu müfredatı nasıl kullanacağınıza dair bazı öneriler [ekledik](for-teachers.md). Geri bildiriminizi [tartışma forumumuzda](https://github.com/microsoft/Data-Science-For-Beginners/discussions) bekliyoruz!
+> **Öğretmenler**: bu müfredatı nasıl kullanabileceğinize dair [bazı öneriler](for-teachers.md) ekledik. Geri bildirimlerinizi [tartışma forumumuzda](https://github.com/microsoft/Data-Science-For-Beginners/discussions) bekliyoruz!
+## Ekiple Tanışın
 
-## Takımla Tanışın
 [![Tanıtım videosu](../../ds-for-beginners.gif)](https://youtu.be/8mzavjQSMM4 "Tanıtım videosu")
 
 **Gif yapan** [Mohit Jaisal](https://www.linkedin.com/in/mohitjaisal)
 
-> 🎥 Proje ve onu oluşturan ekip hakkında bir video izlemek için yukarıdaki görsele tıklayın!
+> 🎥 Proje ve onu yaratan ekip hakkında bir video için yukarıdaki resme tıklayın!
 
 ## Pedagoji
 
-Bu müfredatı oluştururken iki pedagojik ilkeyi seçtik: proje tabanlı olması ve sık sık quizler içermesi. Bu serinin sonunda öğrenciler etik kavramlar, veri hazırlama, verilerle çalışma şekilleri, veri görselleştirme, veri analizi, veri biliminin gerçek dünya kullanım alanları ve daha fazlası dahil olmak üzere veri biliminin temel prensiplerini öğrenmiş olacaklar.
+Bu müfredatı oluştururken iki pedagojik ilke seçtik: proje tabanlı olması ve sık sık sınavlar içermesi. Bu serinin sonunda öğrenciler, etik kavramlar, veri hazırlama, verilerle çalışma farklı yolları, veri görselleştirme, veri analizi, veri biliminin gerçek dünya kullanım örnekleri ve daha fazlasını içeren veri biliminin temel prensiplerini öğrenmiş olacaklar.
 
-Ayrıca, dersten önce yapılan düşük riskli bir quiz öğrencinin bir konuyu öğrenme niyetini belirlerken, dersten sonra yapılan ikinci bir quiz bilgilerinin daha iyi kalıcı olmasını sağlar. Bu müfredat esnek ve eğlenceli olacak şekilde tasarlandı ve tamamı ya da bölümler halinde alınabilir. Projeler küçük başlar ve 10 haftalık döngünün sonunda giderek daha karmaşık hale gelir.
+Ayrıca, bir dersten önce düşük riskli bir sınav öğrenci için konuyu öğrenme niyeti belirlerken, dersten sonra ikinci bir sınav ise bilgilerin kalıcılığını artırır. Bu müfredat esnek ve eğlenceli olacak şekilde tasarlandı ve tamamen ya da kısmen alınabilir. Projeler küçük başlar ve 10 haftalık döngünün sonunda giderek karmaşıklaşır.
 
-> [Davranış Kurallarımızı](CODE_OF_CONDUCT.md), [Katkıda Bulunma](CONTRIBUTING.md), [Çeviri](TRANSLATIONS.md) rehberlerimizi bulun. Yapıcı geri bildirimlerinizi memnuniyetle karşılıyoruz!
+> [Davranış Kurallarımızı](CODE_OF_CONDUCT.md), [Katkıda Bulunma](CONTRIBUTING.md), [Çeviri](TRANSLATIONS.md) rehberlerimizi bulun. Yapıcı geri bildiriminizi bekliyoruz!
 
-## Her ders şunları içerir:
+## Her ders içerir:
 
 - İsteğe bağlı taslak notu
-- İsteğe bağlı destekleyici video
+- İsteğe bağlı tamamlayıcı video
 - Dersten önce ısınma sınavı
 - Yazılı ders
-- Proje tabanlı derslerde, projenin nasıl yapılacağına dair adım adım rehberler
+- Proje tabanlı dersler için projenin adım adım yapımı rehberleri
 - Bilgi kontrolü
 - Bir meydan okuma
-- Destekleyici okuma
+- Tamamlayıcı kaynak okuması
 - Ödev
-- [Dersten sonra quiz](https://ff-quizzes.netlify.app/en/)
+- [Dersten sonra sınav](https://ff-quizzes.netlify.app/en/)
 
-> **Quizzler hakkında bir not**: Tüm quizler Quiz-App klasöründe bulunur, toplam 40 adet her biri 3 sorudan oluşan quiz vardır. Derslerin içinde bağlantılar verilmiştir, ancak quiz uygulaması yerel olarak çalıştırılabilir veya Azure’a dağıtılabilir; `quiz-app` klasöründeki talimatları izleyin. Quizler kademeli olarak yerelleştirilmektedir.
+> **Sınavlar hakkında not**: Tüm sınavlar Quiz-App klasöründe yer alır, toplam 40 adet üç soruluk sınav bulunur. Derslerin içinde bağlantı verilmiştir, ayrıca sınav uygulaması yerelde çalıştırılabilir veya Azure'a dağıtılabilir; `quiz-app` klasöründeki talimatları takip edin. Sınavlar kademeli olarak yerelleştirilmektedir.
 
-## 🎓 Yeni Başlayanlar İçin Örnekler
+## 🎓 Yeni Başlayanlar için Örnekler
 
-**Veri Bilimine yeni misiniz?** Başlangıç yapmanız için basit, iyi yorumlanmış kodlarla özel bir [örnek dizini](examples/README.md) oluşturduk:
+**Veri Biliminde yen misiniz?** Başlamanıza yardımcı olması için basit, iyi yorumlanmış kod içeren özel bir [örnekler dizini](examples/README.md) oluşturduk:
 
 - 🌟 **Merhaba Dünya** - İlk veri bilimi programınız
-- 📂 **Veri Yükleme** - Veri setlerini okumayı ve keşfetmeyi öğrenin
-- 📊 **Basit Analiz** - İstatistik hesaplayın ve kalıpları bulun
-- 📈 **Temel Görselleştirme** - Grafik ve çizelgeler oluşturun
+- 📂 **Veri Yükleme** - Veri setlerini okuma ve keşfetmeyi öğrenin
+- 📊 **Basit Analiz** - İstatistik hesaplayın ve desenler bulun
+- 📈 **Temel Görselleştirme** - Grafikler ve çizeler oluşturun
 - 🔬 **Gerçek Dünya Projesi** - Baştan sona tam iş akışı
 
-Her örnek her adımı ayrıntılı yorumlarla açıklar, bu yüzden tamamen yeni başlayanlar için mükemmeldir!
+Her örnek, her adımı açıklayan ayrıntılı yorumlar içerir, bu nedenle tamamen yeni başlayanlar için mükemmeldir!
 
 👉 **[Örneklerle başlayın](examples/README.md)** 👈
 
 ## Dersler
 
 
-|![ @sketchthedocs tarafından çizim https://sketchthedocs.dev](../../../../translated_images/tr/00-Roadmap.4905d6567dff4753.webp)|
+|![ @sketchthedocs tarafından Taslak not https://sketchthedocs.dev](../../translated_images/tr/00-Roadmap.4905d6567dff4753.webp)|
 |:---:|
-| Veri Bilimine Yeni Başlayanlar: Yol Haritası - _[@nitya](https://twitter.com/nitya) tarafından çizim_ |
+| Yeni Başlayanlar için Veri Bilimi Yol Haritası - _Taslak not [@nitya](https://twitter.com/nitya) tarafından_ |
 
 
-| Ders Numarası | Konu | Ders Gruplaması | Öğrenme Hedefleri | Bağlantılı Ders | Yazar |
+| Ders Numarası | Konu | Ders Grubu | Öğrenme Hedefleri | Bağlantılı Ders | Yazar |
 | :-----------: | :----------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :----: |
-| 01 | Veri Bilimini Tanımlama | [Giriş](1-Introduction/README.md) | Veri biliminin temel kavramlarını ve yapay zeka, makine öğrenmesi ve büyük veri ile ilişkisini öğrenin. | [ders](1-Introduction/01-defining-data-science/README.md) [video](https://youtu.be/beZ7Mb_oz9I)| [Dmitry](http://soshnikov.com) |
-| 02 | Veri Etiği | [Giriş](1-Introduction/README.md) | Veri Etiği Kavramları, Zorluklar ve Çerçeveler. | [ders](1-Introduction/02-ethics/README.md) | [Nitya](https://twitter.com/nitya) |
+| 01 | Veri Bilimini Tanımlama | [Giriş](1-Introduction/README.md) | Veri biliminin temel kavramlarını ve yapay zeka, makine öğrenimi ve büyük veriyle ilişkisini öğrenin. | [ders](1-Introduction/01-defining-data-science/README.md) [video](https://youtu.be/beZ7Mb_oz9I) | [Dmitry](http://soshnikov.com) |
+| 02 | Veri Bilimi Etiği | [Giriş](1-Introduction/README.md) | Veri Etiği Kavramları, Zorluklar ve Çerçeveler. | [ders](1-Introduction/02-ethics/README.md) | [Nitya](https://twitter.com/nitya) |
 | 03 | Veriyi Tanımlama | [Giriş](1-Introduction/README.md) | Verinin nasıl sınıflandırıldığı ve yaygın kaynakları. | [ders](1-Introduction/03-defining-data/README.md) | [Jasmine](https://www.twitter.com/paladique) |
-| 04 | İstatistik ve Olasılığa Giriş | [Giriş](1-Introduction/README.md) | Veriyi anlamak için olasılık ve istatistiğin matematiksel teknikleri. | [ders](1-Introduction/04-stats-and-probability/README.md) [video](https://youtu.be/Z5Zy85g4Yjw) | [Dmitry](http://soshnikov.com) |
-| 05 | İlişkisel Veri ile Çalışma | [Veri ile Çalışma](2-Working-With-Data/README.md) | İlişkisel veriye giriş ve SQL (Structured Query Language) kullanarak ilişkisel verinin keşfi ve analizi temelleri. | [ders](2-Working-With-Data/05-relational-databases/README.md) | [Christopher](https://www.twitter.com/geektrainer) | | |
-| 06 | NoSQL Verisi ile Çalışma | [Veri ile Çalışma](2-Working-With-Data/README.md) | İlişkisel olmayan veriye giriş, çeşitli türleri ve doküman veritabanlarının keşfi ve analizi temelleri. | [ders](2-Working-With-Data/06-non-relational/README.md) | [Jasmine](https://twitter.com/paladique) |
-| 07 | Python ile Çalışma | [Veri ile Çalışma](2-Working-With-Data/README.md) | Pandas gibi kütüphanelerle data keşif için Python kullanmanın temelleri. Python programlama temeli önerilir. | [ders](2-Working-With-Data/07-python/README.md) [video](https://youtu.be/dZjWOGbsN4Y) | [Dmitry](http://soshnikov.com) |
-| 08 | Veri Hazırlama | [Veri ile Çalışma](2-Working-With-Data/README.md) | Eksik, yanlış veya eksik verilerin zorluklarıyla başa çıkmak için veriyi temizleme ve dönüştürme teknikleri. | [ders](2-Working-With-Data/08-data-preparation/README.md) | [Jasmine](https://www.twitter.com/paladique) |
-| 09 | Miktarları Görselleştirme | [Veri Görselleştirme](3-Data-Visualization/README.md) | Matplotlib kullanarak kuş verisini görselleştirmeyi öğrenin 🦆 | [ders](3-Data-Visualization/09-visualization-quantities/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 10 | Veri Dağılımlarını Görselleştirme | [Veri Görselleştirme](3-Data-Visualization/README.md) | Bir aralıktaki gözlemleri ve eğilimleri görselleştirme. | [ders](3-Data-Visualization/10-visualization-distributions/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 11 | Oranları Görselleştirme | [Veri Görselleştirme](3-Data-Visualization/README.md) | Kesikli ve gruplanmış yüzdeleri görselleştirme. | [ders](3-Data-Visualization/11-visualization-proportions/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 04 | İstatistik ve Olasılığa Giriş | [Giriş](1-Introduction/README.md) | Veriyi anlamak için olasılık ve istatistik matematiksel teknikleri. | [ders](1-Introduction/04-stats-and-probability/README.md) [video](https://youtu.be/Z5Zy85g4Yjw) | [Dmitry](http://soshnikov.com) |
+| 05 | İlişkisel Veri ile Çalışma | [Veri ile Çalışma](2-Working-With-Data/README.md) | İlişkisel veriye giriş ve Yapılandırılmış Sorgu Dili (SQL) ile ilişkisel veriyi keşfetme ve analiz etme temelleri. | [ders](2-Working-With-Data/05-relational-databases/README.md) | [Christopher](https://www.twitter.com/geektrainer) | | |
+| 06 | NoSQL Veri ile Çalışma | [Veri ile Çalışma](2-Working-With-Data/README.md) | İlişkisel olmayan veriye giriş, farklı türleri ve belge veritabanlarını keşfetme ve analiz etme temelleri. | [ders](2-Working-With-Data/06-non-relational/README.md) | [Jasmine](https://twitter.com/paladique)|
+| 07 | Python ile Çalışma | [Veri ile Çalışma](2-Working-With-Data/README.md) | Pandas gibi kütüphanelerle veri keşfi için Python kullanımı temelleri. Temel Python programlama bilgisi önerilir. | [ders](2-Working-With-Data/07-python/README.md) [video](https://youtu.be/dZjWOGbsN4Y) | [Dmitry](http://soshnikov.com) |
+| 08 | Veri Hazırlama | [Veri ile Çalışma](2-Working-With-Data/README.md) | Eksik, hatalı veya tamamlanmamış verilerin zorluklarıyla başa çıkmak için veriyi temizleme ve dönüştürme teknikleri. | [ders](2-Working-With-Data/08-data-preparation/README.md) | [Jasmine](https://www.twitter.com/paladique) |
+| 09 | Miktarları Görselleştirme | [Veri Görselleştirme](3-Data-Visualization/README.md) | Matplotlib kullanarak kuş verisini görselleştirin 🦆 | [ders](3-Data-Visualization/09-visualization-quantities/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 10 | Verinin Dağılımlarını Görselleştirme | [Veri Görselleştirme](3-Data-Visualization/README.md) | Bir aralıktaki gözlemleri ve eğilimleri görselleştirme. | [ders](3-Data-Visualization/10-visualization-distributions/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 11 | Oranları Görselleştirme | [Veri Görselleştirme](3-Data-Visualization/README.md) | Ayrık ve gruplanmış yüzdeleri görselleştirme. | [ders](3-Data-Visualization/11-visualization-proportions/README.md) | [Jen](https://twitter.com/jenlooper) |
 | 12 | İlişkileri Görselleştirme | [Veri Görselleştirme](3-Data-Visualization/README.md) | Veri setleri ve değişkenleri arasındaki bağlantı ve korelasyonları görselleştirme. | [ders](3-Data-Visualization/12-visualization-relationships/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 13 | Anlamlı Görselleştirmeler | [Veri Görselleştirme](3-Data-Visualization/README.md) | Görselleştirmelerin etkili problem çözme ve içgörüler için değerli olması adına teknikler ve rehberlik. | [ders](3-Data-Visualization/13-meaningful-visualizations/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 14 | Veri Bilimi Yaşam Döngüsüne Giriş | [Yaşam Döngüsü](4-Data-Science-Lifecycle/README.md) | Veri bilimi yaşam döngüsünün tanıtımı ve veri elde etme ve çıkarma aşaması. | [ders](4-Data-Science-Lifecycle/14-Introduction/README.md) | [Jasmine](https://twitter.com/paladique) |
-| 15 | Analiz | [Yaşam Döngüsü](4-Data-Science-Lifecycle/README.md) | Veri bilimi yaşam döngüsünün veri analiz tekniklerine odaklanma aşaması. | [ders](4-Data-Science-Lifecycle/15-analyzing/README.md) | [Jasmine](https://twitter.com/paladique) | | |
-| 16 | İletişim | [Yaşam Döngüsü](4-Data-Science-Lifecycle/README.md) | Veri bilimi yaşam döngüsünün, karar vericilerin anlamasını kolaylaştıracak şekilde veri içgörülerini sunmaya odaklanan aşaması. | [ders](4-Data-Science-Lifecycle/16-communication/README.md) | [Jalen](https://twitter.com/JalenMcG) | | |
-| 17 | Bulutta Veri Bilimi | [Bulut Verisi](5-Data-Science-In-Cloud/README.md) | Bulutta veri bilimine giriş ve avantajları hakkında bir dizi ders. | [ders](5-Data-Science-In-Cloud/17-Introduction/README.md) | [Tiffany](https://twitter.com/TiffanySouterre) ve [Maud](https://twitter.com/maudstweets) |
-| 18 | Bulutta Veri Bilimi | [Bulut Verisi](5-Data-Science-In-Cloud/README.md) | Düşük Kod araçlarıyla modellerin eğitimi. |[ders](5-Data-Science-In-Cloud/18-Low-Code/README.md) | [Tiffany](https://twitter.com/TiffanySouterre) ve [Maud](https://twitter.com/maudstweets) |
-| 19 | Bulutta Veri Bilimi | [Bulut Verisi](5-Data-Science-In-Cloud/README.md) | Azure Machine Learning Studio ile modellerin dağıtımı. | [ders](5-Data-Science-In-Cloud/19-Azure/README.md)| [Tiffany](https://twitter.com/TiffanySouterre) ve [Maud](https://twitter.com/maudstweets) |
-| 20 | Vahşi Doğada Veri Bilimi | [Vahşi Doğada](6-Data-Science-In-Wild/README.md) | Gerçek dünyada veri bilimi odaklı projeler. | [ders](6-Data-Science-In-Wild/20-Real-World-Examples/README.md) | [Nitya](https://twitter.com/nitya) |
+| 13 | Anlamlı Görselleştirmeler | [Veri Görselleştirme](3-Data-Visualization/README.md) | Görselleştirmelerinizi etkili problem çözme ve içgörüler için değerli hale getirmek için teknikler ve rehberlik. | [ders](3-Data-Visualization/13-meaningful-visualizations/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 14 | Veri Bilimi Yaşam Döngüsüne Giriş | [Yaşam Döngüsü](4-Data-Science-Lifecycle/README.md) | Veri bilimi yaşam döngüsüne giriş ve veri edinme, çıkarma ilk adımı. | [ders](4-Data-Science-Lifecycle/14-Introduction/README.md) | [Jasmine](https://twitter.com/paladique) |
+| 15 | Analiz Etme | [Yaşam Döngüsü](4-Data-Science-Lifecycle/README.md) | Veri bilimi yaşam döngüsünün bu aşaması veriyi analiz etme tekniklerine odaklanır. | [ders](4-Data-Science-Lifecycle/15-analyzing/README.md) | [Jasmine](https://twitter.com/paladique) | | |
+| 16 | İletişim | [Yaşam Döngüsü](4-Data-Science-Lifecycle/README.md) | Veri bilimi yaşam döngüsünün bu aşaması veriden elde edilen içgörüleri karar vericilerin daha iyi anlayabileceği şekilde sunmaya odaklanır. | [ders](4-Data-Science-Lifecycle/16-communication/README.md) | [Jalen](https://twitter.com/JalenMcG) | | |
+| 17 | Bulutta Veri Bilimi | [Bulut Verisi](5-Data-Science-In-Cloud/README.md) | Bu dizi derslerde bulutta veri bilimine ve faydalarına giriş yapılır. | [ders](5-Data-Science-In-Cloud/17-Introduction/README.md) | [Tiffany](https://twitter.com/TiffanySouterre) ve [Maud](https://twitter.com/maudstweets) |
+| 18 | Bulutta Veri Bilimi | [Bulut Verisi](5-Data-Science-In-Cloud/README.md) | Düşük Kod araçları kullanarak modeller eğitme. |[ders](5-Data-Science-In-Cloud/18-Low-Code/README.md) | [Tiffany](https://twitter.com/TiffanySouterre) ve [Maud](https://twitter.com/maudstweets) |
+| 19 | Bulutta Veri Bilimi | [Bulut Verisi](5-Data-Science-In-Cloud/README.md) | Azure Machine Learning Studio ile modelleri dağıtma. | [ders](5-Data-Science-In-Cloud/19-Azure/README.md)| [Tiffany](https://twitter.com/TiffanySouterre) ve [Maud](https://twitter.com/maudstweets) |
+| 20 | Doğada Veri Bilimi | [Doğada](6-Data-Science-In-Wild/README.md) | Gerçek dünyada veri bilimi odaklı projeler. | [ders](6-Data-Science-In-Wild/20-Real-World-Examples/README.md) | [Nitya](https://twitter.com/nitya) |
 
 ## GitHub Codespaces
 
-Bu örneği bir Codespace içinde açmak için şu adımları izleyin:
+Bu örneği bir Codespace'de açmak için şu adımları takip edin:
 1. Kod açılır menüsüne tıklayın ve Open with Codespaces seçeneğini seçin.
-2. Panelin altındaki + New codespace seçeneğini seçin.
+2. Panelin altında + New codespace'i seçin.
 Daha fazla bilgi için [GitHub dokümantasyonuna](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace) bakabilirsiniz.
 
 ## VSCode Remote - Containers
-Bu depoyu yerel makinenizde ve VSCode kullanarak VS Code Remote - Containers eklentisi ile bir konteyner içinde açmak için şu adımları izleyin:
+Bu repoyu yerel makinenizde ve VSCode ile, VS Code Remote - Containers eklentisi kullanarak bir konteynerde açmak için şu adımları izleyin:
 
-1. Eğer geliştirme konteynerini ilk defa kullanıyorsanız, sisteminizin ön koşulları karşıladığından emin olun (örneğin Docker yüklü olsun) [başlangıç dokümantasyonunda](https://code.visualstudio.com/docs/devcontainers/containers#_getting-started) belirtildiği gibi.
+1. Geliştirme konteyneri kullanıyorsanız, sisteminizde gerekli önkoşulların (örneğin Docker) olduğundan emin olun: [başlangıç dokümantasyonu](https://code.visualstudio.com/docs/devcontainers/containers#_getting-started).
 
-Bu depoyu kullanmak için, ya repoyu izole bir Docker hacminde açabilirsiniz:
+Bu repoyu şu şekilde kullanabilirsiniz, ya repoyu izole bir Docker hacminde açın:
 
-**Not:** Bu arka planda Remote-Containers: **Clone Repository in Container Volume...** komutunu kullanarak kaynak kodu yerel dosya sistemi yerine bir Docker hacmine klonlar. [Hacimler](https://docs.docker.com/storage/volumes/) konteyner verilerini kalıcı hale getirmek için tercih edilen mekanizmadır.
+**Not**: Altında Remote-Containers: **Clone Repository in Container Volume...** komutunu kullanarak kaynak kodu yerel dosya sistemi yerine Docker hacminde klonlayacaktır. [Hacimler](https://docs.docker.com/storage/volumes/), konteyner verilerini kalıcı hale getirmek için tercih edilen mekanizmadır.
 
-Ya da yerel olarak klonlanmış veya indirilmiş versiyonunu açabilirsiniz:
+Ya da repoyu yerel klonlayarak veya indirerek açın:
 
-- Bu depoyu yerel dosya sisteminize klonlayın.
-- F1 tuşuna basın ve **Remote-Containers: Open Folder in Container...** komutunu seçin.
-- Bu klasörün klonlanmış kopyasını seçin, konteynerin başlamasını bekleyin ve deneyin.
+- Repoyu yerel dosya sisteminize klonlayın.
+- F1'e basın ve **Remote-Containers: Open Folder in Container...** komutunu seçin.
+- Bu klasörün klonlanmış kopyasını seçin, konteynerin başlamasını bekleyin ve denemeye başlayın.
 
 ## Çevrimdışı erişim
 
-Bu dokümantasyonu çevrimdışı kullanmak için [Docsify](https://docsify.js.org/#/) kullanabilirsiniz. Bu depoyu çatallayın, [Docsify kurulumunu](https://docsify.js.org/#/quickstart) yerel makinenize yapın, ardından bu deponun kök klasöründe `docsify serve` yazın. Site localhost üzerinde 3000 portundan erişilebilir olacaktır: `localhost:3000`.
+Bu dokümantasyonu çevrimdışı [Docsify](https://docsify.js.org/#/) kullanarak çalıştırabilirsiniz. Bu repoyu çatallayın, yerel makinenize [Docsify kurun](https://docsify.js.org/#/quickstart), sonra bu repoda kök klasörde `docsify serve` yazarak çalıştırın. Site localhost:3000 portunda yayınlanacaktır: `localhost:3000`.
 
-> Not, not defterleri Docsify ile görüntülenmez, bu nedenle bir not defteri çalıştırmanız gerektiğinde bunu VS Code’da Python çekirdeği çalıştırarak ayrı yapın.
+> Not, not defterleri Docsify tarafından işlenmez, bu yüzden bir not defteri çalıştırmak istediğinizde bunu ayrı olarak VS Code'da Python kernel kullanarak yapın.
 
 ## Diğer Müfredatlar
 
-Ekibimiz başka müfredatlar da üretiyor! İnceleyin:
+Ekibimiz başka müfredatlar üretiyor! Şunlara göz atın:
 
 <!-- CO-OP TRANSLATOR OTHER COURSES START -->
 ### LangChain
@@ -209,7 +183,7 @@ Ekibimiz başka müfredatlar da üretiyor! İnceleyin:
 
 ---
 
-### Azure / Edge / MCP / Agentler
+### Azure / Edge / MCP / Ajanlar
 [![AZD for Beginners](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
 [![Edge AI for Beginners](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
 [![MCP for Beginners](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
@@ -244,13 +218,13 @@ Ekibimiz başka müfredatlar da üretiyor! İnceleyin:
 
 ## Yardım Alma
 
-**Sorun mu yaşıyorsunuz?** Yaygın sorunlar için çözümleri görmek üzere [Sorun Giderme Rehberimizi](TROUBLESHOOTING.md) inceleyin.
+**Sorun mu yaşıyorsunuz?** Yaygın sorunlara çözümler için [Sorun Giderme Rehberimizi](TROUBLESHOOTING.md) kontrol edin.
 
-Yapay zeka uygulamaları geliştirme hakkında takılırsanız veya herhangi bir sorunuz olursa, MCP hakkında tartışmalara katılmak için diğer öğrenenler ve deneyimli geliştiricilere katılın. Soruların hoş karşılandığı ve bilginin özgürce paylaşıldığı destekleyici bir topluluktur.
+AI uygulamaları oluştururken takılırsanız veya herhangi bir sorunuz varsa. MCP hakkında tartışmalara katılmak için diğer öğrenenler ve deneyimli geliştiricilerle buluşun. Soruların memnuniyetle karşılandığı ve bilginin özgürce paylaşıldığı destekleyici bir topluluktur.
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-Ürün geribildirimi veya geliştirme sırasında karşılaştığınız hatalar için ziyaret edin:
+Ürün geri bildirimi veya yapım sırasında hatalarınız varsa ziyaret edin:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
@@ -258,5 +232,5 @@ Yapay zeka uygulamaları geliştirme hakkında takılırsanız veya herhangi bir
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Feragatname**:  
-Bu belge, AI çeviri servisi [Co-op Translator](https://github.com/Azure/co-op-translator) kullanılarak çevrilmiştir. Doğruluk için çaba gösterilse de, otomatik çevirilerin hatalar veya yanlışlıklar içerebileceğini lütfen unutmayınız. Orijinal belge, kendi dilinde yetkili kaynak olarak kabul edilmelidir. Kritik bilgiler için profesyonel insan çevirisi önerilir. Bu çevirinin kullanımı sonucu oluşabilecek yanlış anlamalar veya yorum hatalarından sorumlu tutulamayız.
+Bu belge, AI çeviri servisi [Co-op Translator](https://github.com/Azure/co-op-translator) kullanılarak çevrilmiştir. Doğruluk için çaba gösterilse de, otomatik çevirilerin hatalar veya yanlışlıklar içerebileceğini lütfen unutmayınız. Orijinal belge, kendi dilinde yetkili kaynak olarak kabul edilmelidir. Kritik bilgiler için profesyonel insan çevirisi önerilir. Bu çeviri kullanımı nedeniyle oluşabilecek yanlış anlamalar veya yanlış yorumlamalardan sorumlu değiliz.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

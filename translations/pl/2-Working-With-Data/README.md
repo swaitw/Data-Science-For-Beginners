@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abc3309ab41bc5a7846f70ee1a055838",
-  "translation_date": "2025-08-24T20:52:29+00:00",
-  "source_file": "2-Working-With-Data/README.md",
-  "language_code": "pl"
-}
--->
 # Praca z danymi
 
 ![data love](../../../translated_images/pl/data-love.a22ef29e6742c852505ada062920956d3d7604870b281a8ca7c7ac6f37381d5a.jpg)

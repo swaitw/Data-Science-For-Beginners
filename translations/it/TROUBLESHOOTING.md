@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:38:14+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "it"
-}
--->
 # Guida alla Risoluzione dei Problemi
 
 Questa guida fornisce soluzioni ai problemi comuni che potresti incontrare mentre lavori con il curriculum "Data Science for Beginners".
