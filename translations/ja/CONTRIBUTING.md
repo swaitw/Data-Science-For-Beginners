@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:35:59+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "ja"
-}
--->
 # 初心者向けデータサイエンスへの貢献
 
 初心者向けデータサイエンスカリキュラムへの貢献に興味を持っていただきありがとうございます！コミュニティからの貢献を歓迎します。

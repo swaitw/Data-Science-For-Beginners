@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-25T16:58:03+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "ko"
-}
--->
 # 과제: 데이터 과학 시나리오
 
 이 첫 번째 과제에서는 다양한 문제 영역에서 실제 프로세스나 문제를 생각하고, 데이터 과학 프로세스를 사용하여 이를 개선할 방법을 고민해 보세요. 다음을 고려해 보세요:

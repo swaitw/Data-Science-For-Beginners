@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T12:58:54+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "ko"
-}
--->
 # 초보자를 위한 데이터 과학 예제
 
 예제 디렉토리에 오신 것을 환영합니다! 이 간단하고 잘 주석 처리된 예제 모음은 데이터 과학을 처음 접하는 분들도 쉽게 시작할 수 있도록 설계되었습니다.

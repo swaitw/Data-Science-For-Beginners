@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:14:40+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "hi"
-}
--->
 # सांख्यिकी और संभाव्यता का संक्षिप्त परिचय
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ग्राफ़िक रूप से हम माध्यिका और क्वारटाइल्स के बीच संबंध को **बॉक्स प्लॉट** नामक आरेख में प्रस्तुत कर सकते हैं:
 
-<img src="images/boxplot_explanation.png" alt="बॉक्स प्लॉट व्याख्या" width="50%">
+<img src="../../../../translated_images/hi/boxplot_explanation.4039b7de08780fd4.webp" alt="बॉक्स प्लॉट व्याख्या" width="50%">
 
 यहां हम **इंटर-क्वारटाइल रेंज** IQR=Q3-Q1 और तथाकथित **आउटलायर्स** - मान जो [Q1-1.5*IQR,Q3+1.5*IQR] की सीमाओं के बाहर होते हैं, की भी गणना करते हैं।
 

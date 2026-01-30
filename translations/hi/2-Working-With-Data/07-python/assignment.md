@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-24T21:09:41+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "hi"
-}
--->
 # पायथन में डेटा प्रोसेसिंग के लिए असाइनमेंट
 
 इस असाइनमेंट में, हम आपसे उन कोड्स को विस्तार से समझाने के लिए कहेंगे, जिन्हें हमने अपने चैलेंजेस में विकसित करना शुरू किया है। असाइनमेंट दो भागों में विभाजित है:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-24T22:34:50+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "hi"
-}
--->
 # डेंजरस लिआज़ॉन्स डेटा विज़ुअलाइज़ेशन प्रोजेक्ट
 
 शुरू करने के लिए, सुनिश्चित करें कि आपके सिस्टम पर NPM और Node चल रहे हैं। डिपेंडेंसीज़ इंस्टॉल करें (npm install) और फिर प्रोजेक्ट को लोकली चलाएं (npm run serve):

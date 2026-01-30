@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7bfec050f4717dcc2dfd028aca9d21f3",
-  "translation_date": "2025-09-06T15:32:04+00:00",
-  "source_file": "2-Working-With-Data/07-python/README.md",
-  "language_code": "hi"
-}
--->
 # डेटा के साथ काम करना: Python और Pandas लाइब्रेरी
 
 | ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |

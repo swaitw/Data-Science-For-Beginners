@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-25T18:03:45+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "ja"
-}
--->
 # 危険な関係 データビジュアライゼーションプロジェクト
 
 始めるには、マシンにNPMとNodeがインストールされていることを確認してください。依存関係をインストール（npm install）し、その後プロジェクトをローカルで実行してください（npm run serve）:

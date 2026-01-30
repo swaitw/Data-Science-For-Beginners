@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-25T18:03:52+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "ko"
-}
--->
 # 위험한 관계 데이터 시각화 프로젝트
 
 시작하려면, NPM과 Node가 컴퓨터에서 실행되고 있는지 확인해야 합니다. 의존성을 설치한 후(npm install), 프로젝트를 로컬에서 실행하세요(npm run serve):

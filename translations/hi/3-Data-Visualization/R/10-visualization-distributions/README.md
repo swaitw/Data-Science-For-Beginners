@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ea67c0c40808fd723594de6896c37ccf",
-  "translation_date": "2025-08-24T22:44:42+00:00",
-  "source_file": "3-Data-Visualization/R/10-visualization-distributions/README.md",
-  "language_code": "hi"
-}
--->
 # वितरणों का विज़ुअलाइज़ेशन
 
 |![ स्केच नोट [(@sketchthedocs)](https://sketchthedocs.dev) द्वारा ](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/sketchnotes/10-Visualizing-Distributions.png)|

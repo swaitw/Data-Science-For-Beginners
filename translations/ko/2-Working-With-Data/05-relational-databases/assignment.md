@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:53:46+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "ko"
-}
--->
 # 공항 데이터 표시
 
 [SQLite](https://sqlite.org/index.html)를 기반으로 구축된 [데이터베이스](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db)가 제공되었으며, 이 데이터베이스에는 공항에 대한 정보가 포함되어 있습니다. 아래에 스키마가 표시되어 있습니다. [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum)에서 [SQLite 확장](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum)을 사용하여 다양한 도시의 공항 정보를 표시합니다.

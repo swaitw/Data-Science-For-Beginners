@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "680419753c086eef51be86607c623945",
-  "translation_date": "2025-08-25T18:12:41+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/assignment.md",
-  "language_code": "ko"
-}
--->
 # 벌집 속으로 뛰어들기
 
 ## 지침

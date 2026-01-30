@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:37:51+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "ko"
-}
--->
 # 초보자를 위한 데이터 과학 기여하기
 
 초보자를 위한 데이터 과학 커리큘럼에 관심을 가져주셔서 감사합니다! 커뮤니티의 기여를 환영합니다.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "80a20467e046d312809d008395051fc7",
-  "translation_date": "2025-09-05T15:01:22+00:00",
-  "source_file": "3-Data-Visualization/10-visualization-distributions/README.md",
-  "language_code": "hi"
-}
--->
 # वितरणों का विज़ुअलाइज़ेशन
 
 |![ स्केच नोट [(@sketchthedocs)](https://sketchthedocs.dev) द्वारा ](../../sketchnotes/10-Visualizing-Distributions.png)|

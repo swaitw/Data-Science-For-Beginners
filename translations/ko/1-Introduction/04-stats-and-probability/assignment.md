@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-25T17:11:10+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "ko"
-}
--->
 # 소규모 당뇨병 연구
 
 이 과제에서는 [여기](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html)에서 가져온 소규모 당뇨병 환자 데이터셋을 다룰 것입니다.

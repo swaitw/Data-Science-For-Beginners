@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-24T22:20:31+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "hi"
-}
--->
 # उत्तरों की खोज
 
 यह पिछले पाठ के [असाइनमेंट](../14-Introduction/assignment.md) का विस्तार है, जहां हमने डेटा सेट पर एक संक्षिप्त नज़र डाली थी। अब हम डेटा को और गहराई से समझने की कोशिश करेंगे।

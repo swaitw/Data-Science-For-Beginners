@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8fdc4a5fd9bc27a8d2ebef995dfbf73f",
-  "translation_date": "2025-08-25T17:27:33+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/assignment.md",
-  "language_code": "ko"
-}
--->
 # Azure ML에서 저코드/무코드 방식으로 데이터 과학 프로젝트 수행하기
 
 ## 지침

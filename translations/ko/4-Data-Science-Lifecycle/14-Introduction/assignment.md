@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-25T17:45:20+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "ko"
-}
--->
 # 데이터셋 평가하기
 
 한 고객이 뉴욕시에서 택시 고객의 계절별 소비 습관을 조사하는 데 도움을 요청했습니다.

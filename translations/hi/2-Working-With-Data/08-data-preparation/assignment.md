@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-24T21:02:28+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "hi"
-}
--->
 # फॉर्म से डेटा का मूल्यांकन
 
 एक क्लाइंट ने अपने ग्राहक आधार के बारे में कुछ बुनियादी डेटा इकट्ठा करने के लिए [छोटा फॉर्म](../../../../2-Working-With-Data/08-data-preparation/index.html) का परीक्षण किया है। उन्होंने अपने निष्कर्ष आपके पास लाए हैं ताकि आप उनके द्वारा इकट्ठा किए गए डेटा को मान्य कर सकें। आप ब्राउज़र में `index.html` पेज खोलकर फॉर्म देख सकते हैं।

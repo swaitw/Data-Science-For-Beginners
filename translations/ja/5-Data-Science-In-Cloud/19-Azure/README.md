@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "472d3fab1c5be50f387336e7a686dbe1",
-  "translation_date": "2025-09-05T12:37:41+00:00",
-  "source_file": "5-Data-Science-In-Cloud/19-Azure/README.md",
-  "language_code": "ja"
-}
--->
 # クラウドでのデータサイエンス: "Azure ML SDK" の方法
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) によるスケッチノート](../../sketchnotes/19-DataScience-Cloud.png)|

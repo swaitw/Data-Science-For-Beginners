@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-25T16:24:07+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ko"
-}
--->
 # 양식 데이터 평가
 
 클라이언트가 고객 기반에 대한 기본 데이터를 수집하기 위해 [작은 양식](../../../../2-Working-With-Data/08-data-preparation/index.html)을 테스트했습니다. 그들은 수집한 데이터를 검증하기 위해 당신에게 가져왔습니다. 브라우저에서 `index.html` 페이지를 열어 양식을 확인할 수 있습니다.

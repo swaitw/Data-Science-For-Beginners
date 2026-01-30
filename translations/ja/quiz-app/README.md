@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-25T17:40:08+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ja"
-}
--->
 # クイズ
 
 これらのクイズは、データサイエンスカリキュラム（https://aka.ms/datascience-beginners）の講義前後に行うクイズです。

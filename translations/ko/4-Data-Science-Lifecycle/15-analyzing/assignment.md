@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-25T17:48:29+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "ko"
-}
--->
 # 답을 탐구하기
 
 이 문서는 이전 수업의 [과제](../14-Introduction/assignment.md)에서 이어지는 내용으로, 데이터 세트를 간단히 살펴본 바 있습니다. 이제 데이터를 더 깊이 분석해 보겠습니다.

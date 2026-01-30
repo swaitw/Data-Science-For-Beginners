@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f7440be10c17a8a9262713af3d2818a9",
-  "translation_date": "2025-09-06T19:53:47+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "ja"
-}
--->
 ## 教育者の皆様へ
 
 このカリキュラムを教室で使用してみませんか？ぜひご活用ください！

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-25T16:57:47+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "ja"
-}
--->
 # 課題: データサイエンスのシナリオ
 
 この最初の課題では、現実のプロセスや問題について考え、それをデータサイエンスのプロセスを使ってどのように改善できるかを考えてもらいます。以下の点について考えてみてください：

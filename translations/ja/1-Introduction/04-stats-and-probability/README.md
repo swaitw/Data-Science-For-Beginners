@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:10:10+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ja"
-}
--->
 # 統計学と確率論の簡単な紹介
 
 |![ スケッチノート by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 中央値と四分位数の関係を図示するために、**箱ひげ図**と呼ばれる図を使用します：
 
-<img src="images/boxplot_explanation.png" alt="箱ひげ図の説明" width="50%">
+<img src="../../../../translated_images/ja/boxplot_explanation.4039b7de08780fd4.webp" alt="箱ひげ図の説明" width="50%">
 
 ここでは**四分位範囲**IQR=Q3-Q1を計算し、**外れ値**と呼ばれる値を特定します。これらは[Q1-1.5*IQR,Q3+1.5*IQR]の範囲外にある値です。
 

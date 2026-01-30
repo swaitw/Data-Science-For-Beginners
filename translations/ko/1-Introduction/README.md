@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "696a8474a01054281704cbfb09148949",
-  "translation_date": "2025-08-25T16:38:36+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "ko"
-}
--->
 # 데이터 과학 입문
 
 ![데이터 활용](../../../translated_images/ko/data.48e22bb7617d8d92188afbc4c48effb920ba79f5cebdc0652cd9f34bbbd90c18.jpg)  

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-24T22:17:43+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "hi"
-}
--->
 # डेटासेट का मूल्यांकन
 
 एक क्लाइंट ने आपकी टीम से न्यूयॉर्क सिटी में टैक्सी ग्राहकों की मौसमी खर्च करने की आदतों की जांच में मदद मांगी है। 

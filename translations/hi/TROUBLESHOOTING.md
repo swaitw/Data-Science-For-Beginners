@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:34:45+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "hi"
-}
--->
 # समस्या निवारण गाइड
 
 यह गाइड आपको Data Science for Beginners पाठ्यक्रम के दौरान आने वाली सामान्य समस्याओं के समाधान प्रदान करता है।

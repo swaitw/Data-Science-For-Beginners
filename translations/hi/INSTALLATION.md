@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:17:38+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "hi"
-}
--->
 # इंस्टॉलेशन गाइड
 
 यह गाइड आपको Data Science for Beginners पाठ्यक्रम के साथ काम करने के लिए अपना वातावरण सेट करने में मदद करेगा।
