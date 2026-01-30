@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-30T18:25:42+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "my"
-}
--->
 # အဖြေများကို ရှာဖွေခြင်း
 
 ဒီဟာက ယခင်သင်ခန်းစာရဲ့ [အလုပ်ပေးစာ](../14-Introduction/assignment.md) ရဲ့ ဆက်လက်မှုဖြစ်ပြီး၊ ဒေတာအစုအဖွဲ့ကို အနည်းငယ်ကြည့်ရှုခဲ့ပါတယ်။ အခုတော့ ဒေတာကို ပိုမိုနက်ရှိုင်းစွာ လေ့လာသွားမှာ ဖြစ်ပါတယ်။

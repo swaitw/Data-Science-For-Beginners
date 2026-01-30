@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-30T19:09:59+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "uk"
-}
--->
 # Проєкт візуалізації даних "Небезпечні зв'язки"
 
 Щоб розпочати, переконайтеся, що у вас встановлені NPM і Node на вашому комп'ютері. Встановіть залежності (npm install), а потім запустіть проєкт локально (npm run serve):

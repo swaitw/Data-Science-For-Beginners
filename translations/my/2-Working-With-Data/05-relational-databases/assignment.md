@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:59:03+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "my"
-}
--->
 # လေဆိပ်ဆိုင်ရာ ဒေတာများ ပြသခြင်း
 
 သင့်အား [SQLite](https://sqlite.org/index.html) အခြေခံပြီး တည်ဆောက်ထားသော [ဒေတာဘေစ်စ်](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) တစ်ခု ပေးထားပြီး လေဆိပ်ဆိုင်ရာ အချက်အလက်များ ပါဝင်သည်။ အောက်တွင် schema ကို ပြထားသည်။ သင်သည် [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) တွင် [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) ကို အသုံးပြု၍ မြို့များ၏ လေဆိပ်ဆိုင်ရာ အချက်အလက်များကို ပြသမည်ဖြစ်သည်။

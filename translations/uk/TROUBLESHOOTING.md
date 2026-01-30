@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:50:02+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "uk"
-}
--->
 # Посібник з усунення несправностей
 
 Цей посібник містить рішення для поширених проблем, які можуть виникнути під час роботи з навчальною програмою "Data Science for Beginners".

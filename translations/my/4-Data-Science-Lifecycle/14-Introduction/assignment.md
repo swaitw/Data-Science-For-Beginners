@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-30T18:31:22+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "my"
-}
--->
 # ဒေတာဆက်စပ်မှုကို အကဲဖြတ်ခြင်း
 
 တစ်ဦးတစ်ယောက်သောဖောက်သည်သည် သင်၏အဖွဲ့ကို နယူးယောက်မြို့တွင် တက္ကစီစီးသူများ၏ ရာသီအလိုက် အသုံးစရိတ်အလေ့အထကို စုံစမ်းရန်အတွက် အကူအညီတောင်းခံလာသည်။

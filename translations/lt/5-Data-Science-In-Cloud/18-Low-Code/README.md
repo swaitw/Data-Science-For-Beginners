@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "bd4da10766c64fce4294a98f6479dfb0",
-  "translation_date": "2025-09-05T15:58:06+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/README.md",
-  "language_code": "lt"
-}
--->
 # Duomenų mokslas debesyje: „Mažai kodo / Be kodo“ būdas
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/18-DataScience-Cloud.png)|

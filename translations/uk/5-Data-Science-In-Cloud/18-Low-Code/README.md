@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "bd4da10766c64fce4294a98f6479dfb0",
-  "translation_date": "2025-09-05T19:47:51+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/README.md",
-  "language_code": "uk"
-}
--->
 # Наука про дані в хмарі: Шлях "Low code/No code"
 
 |![Скетчнот від [(@sketchthedocs)](https://sketchthedocs.dev)](../../sketchnotes/18-DataScience-Cloud.png)|

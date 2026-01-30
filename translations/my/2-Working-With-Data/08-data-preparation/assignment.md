@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-30T18:21:14+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "my"
-}
--->
 # ဖောင်မှ ဒေတာကို အကဲဖြတ်ခြင်း
 
 ဖောင်အသေးစား [small form](../../../../2-Working-With-Data/08-data-preparation/index.html) တစ်ခုကို သုံးပြီး သူတို့၏ ဖောက်သည်အခြေခံအချက်အလက်များကို စုဆောင်းရန် စမ်းသပ်နေသော ဖောက်သည်တစ်ဦးရှိသည်။ သူတို့ စုဆောင်းထားသော ဒေတာကို သင့်ထံ ယူဆောင်လာပြီး အတည်ပြုရန် တောင်းဆိုထားသည်။ `index.html` စာမျက်နှာကို browser တွင် ဖွင့်ပြီး ဖောင်ကို ကြည့်ရှုနိုင်သည်။

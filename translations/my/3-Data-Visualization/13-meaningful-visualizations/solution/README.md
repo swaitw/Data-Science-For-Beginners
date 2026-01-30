@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-30T19:09:31+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "my"
-}
--->
 # အန္တရာယ်များသော ဆက်ဆံရေးများ ဒေတာအမြင်ဖော်ပြမှု ပရောဂျက်
 
 စတင်ရန်အတွက် သင့်စက်တွင် NPM နှင့် Node ရှိနေကြောင်း သေချာစေပါ။ လိုအပ်သော dependencies များကို (npm install) ဖြင့် ထည့်သွင်းပြီး၊ ပရောဂျက်ကို ဒေသတွင်းတွင် (npm run serve) ဖြင့် လည်ပတ်ပါ။

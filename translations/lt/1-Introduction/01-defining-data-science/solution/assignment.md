@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-31T05:57:47+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "lt"
-}
--->
 # Užduotis: Duomenų mokslo scenarijai
 
 Šioje pirmoje užduotyje prašome pagalvoti apie realaus gyvenimo procesą ar problemą skirtingose srityse ir kaip ją būtų galima pagerinti naudojant duomenų mokslo procesą. Pagalvokite apie šiuos klausimus:

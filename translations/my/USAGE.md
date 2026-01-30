@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:11:58+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "my"
-}
--->
 # အသုံးပြုရန်လမ်းညွှန်
 
 ဒီလမ်းညွှန်မှာ Data Science for Beginners သင်ခန်းစာများကို အသုံးပြုရန် နမူနာများနှင့် ပုံမှန်လုပ်ငန်းစဉ်များကို ဖော်ပြထားပါတယ်။

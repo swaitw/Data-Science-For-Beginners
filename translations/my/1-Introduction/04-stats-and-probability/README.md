@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T14:19:34+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "my"
-}
--->
 # စာရင်းအင်းနှင့် အလားအလာအကြောင်း အကျဉ်းချုပ်
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Continuous uniform distribution ဟုခေါ်သော uniform distribution
 
 Median နှင့် quartiles တစ်ခုချင်းစီ၏ ဆက်နွယ်မှုကို **box plot** ဟုခေါ်သော အကြမ်းဖျင်းပုံစံတွင် ဖော်ပြနိုင်သည်-
 
-<img src="images/boxplot_explanation.png" alt="Box Plot Explanation" width="50%">
+<img src="../../../../translated_images/my/boxplot_explanation.4039b7de08780fd4.webp" alt="Box Plot Explanation" width="50%">
 
 ဒီမှာ **inter-quartile range** IQR=Q3-Q1 ကို တွက်ချက်ပြီး၊ **outliers** ဟုခေါ်သော တန်ဖိုးများကို တွက်ချက်သည် - [Q1-1.5*IQR,Q3+1.5*IQR] အကန့်အသတ်များအပြင်မှာရှိသော တန်ဖိုးများ။
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T14:25:29+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "lt"
-}
--->
 # Trumpas įvadas į statistiką ir tikimybių teoriją
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Norėdami geriau suprasti duomenų pasiskirstymą, naudinga kalbėti apie **kvar
 
 Grafiškai galime pavaizduoti medianos ir kvartilių santykį diagramoje, vadinamoje **dėžės diagrama**:
 
-<img src="images/boxplot_explanation.png" alt="Box Plot Explanation" width="50%">
+<img src="../../../../translated_images/lt/boxplot_explanation.4039b7de08780fd4.webp" alt="Box Plot Explanation" width="50%">
 
 Čia taip pat apskaičiuojame **tarpkvartilinį diapazoną** IQR=Q3-Q1 ir vadinamuosius **išskirtinius taškus** - reikšmes, kurios yra už ribų [Q1-1.5*IQR,Q3+1.5*IQR].
 
