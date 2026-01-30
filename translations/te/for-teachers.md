@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f7440be10c17a8a9262713af3d2818a9",
-  "translation_date": "2025-12-19T12:40:05+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "te"
-}
--->
 ## For Educators
 
 మీ తరగతిలో ఈ పాఠ్యాంశాన్ని ఉపయోగించాలనుకుంటున్నారా? దయచేసి స్వేచ్ఛగా ఉపయోగించండి!

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-12-19T13:57:31+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "kn"
-}
--->
 # ಸಣ್ಣ ಮಧುಮೇಹ ಅಧ್ಯಯನ
 
 ಈ ನಿಯೋಜನೆಯಲ್ಲಿ, ನಾವು [ಇಲ್ಲಿ](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html) ತೆಗೆದುಕೊಂಡಿರುವ ಮಧುಮೇಹ ರೋಗಿಗಳ ಸಣ್ಣ ಡೇಟಾಸೆಟ್‌ನೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುತ್ತೇವೆ.

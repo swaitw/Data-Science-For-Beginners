@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-12-19T13:26:21+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "kn"
-}
--->
 # ಪ್ರಶ್ನೋತ್ತರಗಳು
 
 ಈ ಪ್ರಶ್ನೋತ್ತರಗಳು https://aka.ms/datascience-beginners ನಲ್ಲಿ ಡೇಟಾ ಸೈನ್ಸ್ ಪಠ್ಯಕ್ರಮದ ಪೂರ್ವ ಮತ್ತು ನಂತರದ ಉಪನ್ಯಾಸ ಪ್ರಶ್ನೋತ್ತರಗಳಾಗಿವೆ  

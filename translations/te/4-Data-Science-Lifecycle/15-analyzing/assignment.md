@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-12-19T15:25:51+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "te"
-}
--->
 # సమాధానాలను అన్వేషించడం
 
 ఇది గత పాఠం యొక్క [అసైన్‌మెంట్](../14-Introduction/assignment.md) యొక్క కొనసాగింపు, అక్కడ మేము డేటా సెట్‌ను సంక్షిప్తంగా పరిశీలించాము. ఇప్పుడు మేము డేటాను మరింత లోతుగా పరిశీలించబోతున్నాము.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "680419753c086eef51be86607c623945",
-  "translation_date": "2025-12-19T16:00:21+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/assignment.md",
-  "language_code": "kn"
-}
--->
 # ಜೇನುಮಡಿಗೆಗೆ ಡೈವ್ ಮಾಡಿ
 
 ## ಸೂಚನೆಗಳು

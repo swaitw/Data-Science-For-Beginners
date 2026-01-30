@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-12-19T15:36:44+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "te"
-}
--->
 # Pythonలో డేటా ప్రాసెసింగ్ కోసం అసైన్‌మెంట్
 
 ఈ అసైన్‌మెంట్‌లో, మేము మా ఛాలెంజ్‌లలో అభివృద్ధి చేయడం ప్రారంభించిన కోడ్‌పై మీరు వివరించమని అడుగుతాము. అసైన్‌మెంట్ రెండు భాగాలుగా ఉంటుంది:

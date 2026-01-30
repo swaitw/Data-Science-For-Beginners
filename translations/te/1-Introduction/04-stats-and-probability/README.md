@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-12-19T13:48:12+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "te"
-}
--->
 # గణాంకాలు మరియు సంభావ్యతకు సంక్షిప్త పరిచయం
 
 |![ స్కెచ్ నోట్ [(@sketchthedocs)](https://sketchthedocs.dev) ద్వారా ](../../sketchnotes/04-Statistics-Probability.png)|

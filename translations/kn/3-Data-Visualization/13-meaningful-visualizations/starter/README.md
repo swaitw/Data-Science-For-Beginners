@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-12-19T16:18:22+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಂಜರಸ್ ಲಿಯಾಜನ್ಸ್ ಡೇಟಾ ವಿಸುಯಲೈಜೆಷನ್ ಪ್ರಾಜೆಕ್ಟ್
 
 ಪ್ರಾರಂಭಿಸಲು, ನಿಮ್ಮ ಯಂತ್ರದಲ್ಲಿ NPM ಮತ್ತು Node ಚಾಲನೆಯಲ್ಲಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು. ಅವಲಂಬನೆಗಳನ್ನು ಸ್ಥಾಪಿಸಿ (npm install) ಮತ್ತು ನಂತರ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಸ್ಥಳೀಯವಾಗಿ ಚಾಲನೆ ಮಾಡಿ (npm run serve):

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-12-19T13:36:40+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "ml"
-}
--->
 # Data Science in the Wild
 
 വ്യവസായങ്ങളിലുടനീളം ഡാറ്റാ സയൻസിന്റെ യഥാർത്ഥ ലോക പ്രയോഗങ്ങൾ.

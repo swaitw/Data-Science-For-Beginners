@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cfb068050337a36e348debaa502a24fa",
-  "translation_date": "2025-12-19T16:10:02+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/README.md",
-  "language_code": "kn"
-}
--->
 # ಅರ್ಥಪೂರ್ಣ ದೃಶ್ಯೀಕರಣಗಳನ್ನು ಮಾಡುವುದು
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರಿಂದ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/13-MeaningfulViz.png)|

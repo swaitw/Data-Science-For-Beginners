@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-12-19T12:48:46+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "te"
-}
--->
 # Data Science for Beginners కు సహకరించడం
 
 Data Science for Beginners పాఠ్యాంశానికి సహకరించడానికి మీ ఆసక్తికి ధన్యవాదాలు! మేము సమాజం నుండి సహకారాలను స్వాగతిస్తున్నాము.

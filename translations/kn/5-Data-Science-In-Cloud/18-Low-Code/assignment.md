@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8fdc4a5fd9bc27a8d2ebef995dfbf73f",
-  "translation_date": "2025-12-19T15:04:10+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/assignment.md",
-  "language_code": "kn"
-}
--->
 # ಕಡಿಮೆ ಕೋಡ್/ಕೋಡ್ ಇಲ್ಲದ ಡೇಟಾ ಸೈನ್ಸ್ ಪ್ರಾಜೆಕ್ಟ್ ಆನ್ ಅಜೂರ್ ಎಂಎಲ್
 
 ## ಸೂಚನೆಗಳು

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7bfec050f4717dcc2dfd028aca9d21f3",
-  "translation_date": "2025-12-19T15:34:55+00:00",
-  "source_file": "2-Working-With-Data/07-python/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ಜೊತೆ ಕೆಲಸ ಮಾಡುವುದು: ಪೈಥಾನ್ ಮತ್ತು ಪಾಂಡಾಸ್ ಲೈಬ್ರರಿ
 
 | ![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/07-WorkWithPython.png) |

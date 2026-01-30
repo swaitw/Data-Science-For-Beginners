@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0764fd4077f3f04a1d968ec371227744",
-  "translation_date": "2025-12-19T15:57:25+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/README.md",
-  "language_code": "te"
-}
--->
 # సంబంధాలను దృశ్యీకరించడం: తేనె గురించి అన్ని 🍯
 
 |![ స్కెచ్ నోట్ [(@sketchthedocs)](https://sketchthedocs.dev) ద్వారా ](../../sketchnotes/12-Visualizing-Relationships.png)|

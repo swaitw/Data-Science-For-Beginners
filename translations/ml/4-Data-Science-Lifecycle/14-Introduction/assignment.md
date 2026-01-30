@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-12-19T15:28:43+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "ml"
-}
--->
 # ഒരു ഡാറ്റാസെറ്റ് വിലയിരുത്തൽ
 
 നിങ്ങളുടെ ടീമിന് ഒരു ക്ലയന്റ് ന്യൂയോർക്ക് സിറ്റിയിലെ ടാക്സി ഉപഭോക്താവിന്റെ സീസണൽ ചെലവഴിക്കൽ ശീലങ്ങൾ അന്വേഷിക്കുന്നതിന് സഹായം തേടിയിട്ടുണ്ട്.

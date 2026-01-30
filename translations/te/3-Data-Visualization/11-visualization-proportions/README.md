@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "42119bcc97bee88254e381156d770f3c",
-  "translation_date": "2025-12-19T16:01:05+00:00",
-  "source_file": "3-Data-Visualization/11-visualization-proportions/README.md",
-  "language_code": "te"
-}
--->
 # భాగాలను దృశ్యీకరించడం
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/11-Visualizing-Proportions.png)|

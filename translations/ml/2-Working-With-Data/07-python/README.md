@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7bfec050f4717dcc2dfd028aca9d21f3",
-  "translation_date": "2025-12-19T15:32:07+00:00",
-  "source_file": "2-Working-With-Data/07-python/README.md",
-  "language_code": "ml"
-}
--->
 # ഡാറ്റയുമായി പ്രവർത്തിക്കൽ: പൈത്തൺയും പാൻഡാസ് ലൈബ്രറിയും
 
 | ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-12-19T15:26:15+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "kn"
-}
--->
 # ಉತ್ತರಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು
 
 ಇದು ಹಿಂದಿನ ಪಾಠದ [ಕಾರ್ಯ](../14-Introduction/assignment.md)ನ ಮುಂದುವರಿದ ಭಾಗವಾಗಿದ್ದು, ಅಲ್ಲಿ ನಾವು ಡೇಟಾ ಸೆಟ್ ಅನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೋಡಿದ್ದೇವೆ. ಈಗ ನಾವು ಡೇಟಾವನ್ನು ಹೆಚ್ಚು ಆಳವಾಗಿ ಪರಿಶೀಲಿಸುವೆವು.

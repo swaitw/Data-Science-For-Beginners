@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-12-19T15:28:32+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "te"
-}
--->
 # డేటాసెట్‌ను అంచనా వేయడం
 
 ఒక క్లయింట్ మీ బృందాన్ని న్యూయార్క్ సిటీలో టాక్సీ ప్రయాణికుల సీజనల్ ఖర్చుల అలవాట్లను పరిశీలించడంలో సహాయం కోసం సంప్రదించారు.

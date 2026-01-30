@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b4039f1c76548d144a0aee0bf28304ec",
-  "translation_date": "2025-12-19T16:36:05+00:00",
-  "source_file": "3-Data-Visualization/R/13-meaningful-vizualizations/README.md",
-  "language_code": "te"
-}
--->
 # అర్థవంతమైన విజువలైజేషన్లు చేయడం
 
 |![ స్కెచ్ నోట్ [(@sketchthedocs)](https://sketchthedocs.dev) ద్వారా ](../../../sketchnotes/13-MeaningfulViz.png)|

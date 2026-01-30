@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-12-19T15:52:02+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "kn"
-}
--->
 # ವಿಮಾನ ನಿಲ್ದಾಣದ ಡೇಟಾ ಪ್ರದರ್ಶನ
 
 ನೀವು ವಿಮಾನ ನಿಲ್ದಾಣಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿರುವ [ಡೇಟಾಬೇಸ್](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) ಅನ್ನು [SQLite](https://sqlite.org/index.html) ಆಧಾರಿತವಾಗಿ ಒದಗಿಸಲಾಗಿದೆ. ಕೆಳಗಿನಂತೆ ಸ್ಕೀಮಾ ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ. ನೀವು [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) ನಲ್ಲಿ [SQLite ವಿಸ್ತರಣೆ](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) ಬಳಸಿ ವಿವಿಧ ನಗರಗಳ ವಿಮಾನ ನಿಲ್ದಾಣಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುವಿರಿ.

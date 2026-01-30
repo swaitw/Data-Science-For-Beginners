@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "472d3fab1c5be50f387336e7a686dbe1",
-  "translation_date": "2025-12-19T14:45:41+00:00",
-  "source_file": "5-Data-Science-In-Cloud/19-Azure/README.md",
-  "language_code": "kn"
-}
--->
 # ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಡೇಟಾ ಸೈನ್ಸ್: "ಅಜೂರ್ ಎಂಎಲ್ ಎಸ್‌ಡಿಕೆ" ವಿಧಾನ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರಿಂದ ಸ್ಕೆಚ್‌ನೋಟ್ ](../../sketchnotes/19-DataScience-Cloud.png)|

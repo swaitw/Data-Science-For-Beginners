@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a49d78e32e280c410f04e5f2a2068e77",
-  "translation_date": "2025-12-19T16:12:50+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/README.md",
-  "language_code": "te"
-}
--->
 # పరిమాణాలను దృశ్యీకరించడం
 
 |![ స్కెచ్ నోట్ [(@sketchthedocs)](https://sketchthedocs.dev) ద్వారా ](../../sketchnotes/09-Visualizing-Quantities.png)|

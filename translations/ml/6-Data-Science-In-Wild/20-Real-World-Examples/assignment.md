@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "d1e05715f9d97de6c4f1fb0c5a4702c0",
-  "translation_date": "2025-12-19T16:59:20+00:00",
-  "source_file": "6-Data-Science-In-Wild/20-Real-World-Examples/assignment.md",
-  "language_code": "ml"
-}
--->
 # ഒരു പ്ലാനറ്ററി കമ്പ്യൂട്ടർ ഡാറ്റാസെറ്റ് അന്വേഷിക്കുക
 
 ## നിർദ്ദേശങ്ങൾ

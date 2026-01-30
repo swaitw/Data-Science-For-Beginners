@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-12-19T12:59:04+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "kn"
-}
--->
 # ಸಮಸ್ಯೆ ಪರಿಹಾರ ಮಾರ್ಗದರ್ಶಿ
 
 ಈ ಮಾರ್ಗದರ್ಶಿ ಡೇಟಾ ಸೈನ್ಸ್ ಫಾರ್ ಬಿಗಿನರ್ಸ್ ಪಠ್ಯಕ್ರಮದೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವಾಗ ನೀವು ಎದುರಿಸಬಹುದಾದ ಸಾಮಾನ್ಯ ಸಮಸ್ಯೆಗಳಿಗೆ ಪರಿಹಾರಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ.
