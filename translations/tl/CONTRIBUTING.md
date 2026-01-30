@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:24:07+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "tl"
-}
--->
 # Pag-aambag sa Data Science para sa mga Nagsisimula
 
 Salamat sa iyong interes na mag-ambag sa kurikulum ng Data Science para sa mga Nagsisimula! Bukas kami sa mga kontribusyon mula sa komunidad.

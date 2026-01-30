@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-28T02:44:16+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "tl"
-}
--->
 # Maliit na Pag-aaral Tungkol sa Diabetes
 
 Sa gawaing ito, gagamit tayo ng maliit na dataset ng mga pasyenteng may diabetes na kinuha mula [dito](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

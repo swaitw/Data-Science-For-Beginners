@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-28T18:11:50+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "id"
-}
--->
 # Tugas Pemrosesan Data dalam Python
 
 Dalam tugas ini, kami meminta Anda untuk mengembangkan lebih lanjut kode yang telah kita mulai dalam tantangan sebelumnya. Tugas ini terdiri dari dua bagian:

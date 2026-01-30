@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cfb068050337a36e348debaa502a24fa",
-  "translation_date": "2025-09-06T00:26:07+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/README.md",
-  "language_code": "tl"
-}
--->
 # Paggawa ng Makabuluhang Visualisasyon
 
 |![ Sketchnote ni [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/13-MeaningfulViz.png)|

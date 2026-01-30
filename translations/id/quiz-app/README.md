@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-28T19:06:29+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "id"
-}
--->
 # Kuis
 
 Kuis-kuis ini adalah kuis sebelum dan sesudah pelajaran untuk kurikulum data science di https://aka.ms/datascience-beginners

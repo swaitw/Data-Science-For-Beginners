@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-28T18:18:17+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "id"
-}
--->
 # Mengevaluasi Data dari Formulir
 
 Seorang klien telah menguji [formulir kecil](../../../../2-Working-With-Data/08-data-preparation/index.html) untuk mengumpulkan beberapa data dasar tentang basis klien mereka. Mereka telah membawa temuan mereka kepada Anda untuk memvalidasi data yang telah mereka kumpulkan. Anda dapat membuka halaman `index.html` di browser untuk melihat formulir tersebut.

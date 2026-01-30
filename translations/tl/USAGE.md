@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:07:29+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "tl"
-}
--->
 # Gabay sa Paggamit
 
 Ang gabay na ito ay nagbibigay ng mga halimbawa at karaniwang daloy ng trabaho para sa paggamit ng kurikulum ng Data Science for Beginners.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:19:44+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "id"
-}
--->
 # Berkontribusi pada Data Science untuk Pemula
 
 Terima kasih atas minat Anda untuk berkontribusi pada kurikulum Data Science untuk Pemula! Kami menyambut kontribusi dari komunitas.

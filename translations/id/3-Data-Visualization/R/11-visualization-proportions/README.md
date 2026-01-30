@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "47028abaaafa2bcb1079702d20569066",
-  "translation_date": "2025-08-28T18:29:40+00:00",
-  "source_file": "3-Data-Visualization/R/11-visualization-proportions/README.md",
-  "language_code": "id"
-}
--->
 # Visualisasi Proporsi
 
 |![ Sketchnote oleh [(@sketchthedocs)](https://sketchthedocs.dev) ](../../../sketchnotes/11-Visualizing-Proportions.png)|
