@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "215a3254ba5a222a57c5bb0192cea8e3",
-  "translation_date": "2025-09-06T20:47:26+00:00",
-  "source_file": "4-Data-Science-Lifecycle/16-communication/README.md",
-  "language_code": "pa"
-}
--->
 # ਡਾਟਾ ਸਾਇੰਸ ਲਾਈਫਸਾਈਕਲ: ਸੰਚਾਰ
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev)](../../sketchnotes/16-Communicating.png)|

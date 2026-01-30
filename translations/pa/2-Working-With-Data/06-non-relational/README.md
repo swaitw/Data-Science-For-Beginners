@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c182e87f9f80be7e7cdffc7b40bbfccf",
-  "translation_date": "2025-09-06T08:03:13+00:00",
-  "source_file": "2-Working-With-Data/06-non-relational/README.md",
-  "language_code": "pa"
-}
--->
 # ਡਾਟਾ ਨਾਲ ਕੰਮ ਕਰਨਾ: ਗੈਰ-ਸੰਬੰਧਿਤ ਡਾਟਾ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ਦੁਆਰਾ ਬਣਾਈ ਗਈ ਸਕੈਚਨੋਟ ](../../sketchnotes/06-NoSQL.png)|

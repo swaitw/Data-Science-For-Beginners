@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:18:50+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "pa"
-}
--->
 # ਇੰਸਟਾਲੇਸ਼ਨ ਗਾਈਡ
 
 ਇਹ ਗਾਈਡ ਤੁਹਾਨੂੰ "ਡਾਟਾ ਸਾਇੰਸ ਫਾਰ ਬਿਗਿਨਰਜ਼" ਕੋਰਸ ਲਈ ਆਪਣਾ ਵਾਤਾਵਰਣ ਸੈਟਅਪ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰੇਗੀ।

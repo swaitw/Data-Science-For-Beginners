@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:54:37+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਹਵਾਈ ਅੱਡਿਆਂ ਦੇ ਡਾਟਾ ਨੂੰ ਦਿਖਾਉਣਾ
 
 ਤੁਹਾਨੂੰ [ਡਾਟਾਬੇਸ](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) ਦਿੱਤਾ ਗਿਆ ਹੈ ਜੋ [SQLite](https://sqlite.org/index.html) 'ਤੇ ਬਣਾਇਆ ਗਿਆ ਹੈ ਅਤੇ ਜਿਸ ਵਿੱਚ ਹਵਾਈ ਅੱਡਿਆਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹੈ। ਸਕੀਮਾ ਹੇਠਾਂ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤੁਸੀਂ [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) ਵਿੱਚ [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵੱਖ-ਵੱਖ ਸ਼ਹਿਰਾਂ ਦੇ ਹਵਾਈ ਅੱਡਿਆਂ ਦੀ ਜਾਣਕਾਰੀ ਦਿਖਾਉਣਗੇ।

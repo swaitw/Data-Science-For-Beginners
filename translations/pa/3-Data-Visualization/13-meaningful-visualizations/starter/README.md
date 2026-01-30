@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-27T18:15:49+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "pa"
-}
--->
 # ਖਤਰਨਾਕ ਸੰਬੰਧਾਂ ਡਾਟਾ ਵਿਜੁਅਲਾਈਜ਼ੇਸ਼ਨ ਪ੍ਰੋਜੈਕਟ
 
 ਸ਼ੁਰੂ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ 'ਤੇ NPM ਅਤੇ Node ਚੱਲ ਰਹੇ ਹਨ। ਡਿਪੈਂਡੈਂਸੀਜ਼ ਇੰਸਟਾਲ ਕਰੋ (npm install) ਅਤੇ ਫਿਰ ਪ੍ਰੋਜੈਕਟ ਨੂੰ ਲੋਕਲ ਤੌਰ 'ਤੇ ਚਲਾਓ (npm run serve):

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "47028abaaafa2bcb1079702d20569066",
-  "translation_date": "2025-08-27T18:38:13+00:00",
-  "source_file": "3-Data-Visualization/R/11-visualization-proportions/README.md",
-  "language_code": "pa"
-}
--->
 # ਅਨੁਪਾਤਾਂ ਨੂੰ ਦਿਖਾਉਣਾ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ ਸਕੈਚਨੋਟ ](../../../sketchnotes/11-Visualizing-Proportions.png)|
