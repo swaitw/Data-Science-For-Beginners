@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-26T20:59:21+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "th"
-}
--->
 # การประเมินข้อมูลจากแบบฟอร์ม
 
 ลูกค้าได้ทำการทดสอบ [แบบฟอร์มขนาดเล็ก](../../../../2-Working-With-Data/08-data-preparation/index.html) เพื่อรวบรวมข้อมูลพื้นฐานเกี่ยวกับฐานลูกค้าของพวกเขา และได้นำผลลัพธ์ที่ได้มาให้คุณตรวจสอบความถูกต้องของข้อมูลที่รวบรวมมา คุณสามารถเปิดหน้า `index.html` ในเบราว์เซอร์เพื่อดูแบบฟอร์มได้

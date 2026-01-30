@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "661dad02c3ac239644d34c1eb51e76f8",
-  "translation_date": "2025-09-06T21:03:11+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/README.md",
-  "language_code": "th"
-}
--->
 # วงจรชีวิตของวิทยาศาสตร์ข้อมูล: การวิเคราะห์
 
 |![ สเก็ตโน้ตโดย [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/15-Analyzing.png)|

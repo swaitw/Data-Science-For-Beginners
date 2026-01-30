@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T21:06:51+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "el"
-}
--->
 # Ανάθεση για Επεξεργασία Δεδομένων σε Python
 
 Σε αυτή την ανάθεση, θα σας ζητήσουμε να επεξεργαστείτε τον κώδικα που έχουμε αρχίσει να αναπτύσσουμε στις προκλήσεις μας. Η ανάθεση αποτελείται από δύο μέρη:

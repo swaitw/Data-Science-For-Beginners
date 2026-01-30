@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:02:48+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "el"
-}
--->
 # Οδηγός Χρήσης
 
 Αυτός ο οδηγός παρέχει παραδείγματα και κοινές ροές εργασίας για τη χρήση του προγράμματος σπουδών "Data Science for Beginners".

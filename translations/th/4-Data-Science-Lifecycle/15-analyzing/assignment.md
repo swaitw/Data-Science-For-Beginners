@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-26T22:30:49+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "th"
-}
--->
 # สำรวจเพื่อหาคำตอบ
 
 นี่เป็นการต่อเนื่องจาก [งานที่มอบหมาย](../14-Introduction/assignment.md) ในบทเรียนก่อนหน้า ซึ่งเราได้ดูชุดข้อมูลอย่างคร่าวๆ ตอนนี้เราจะมาดูข้อมูลในเชิงลึกมากขึ้น

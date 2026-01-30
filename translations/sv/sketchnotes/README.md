@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "3a848466cb63aff1a93411affb152c2a",
-  "translation_date": "2025-08-26T21:48:51+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "sv"
-}
--->
 Hitta alla sketchnotes här!
 
 ## Krediter

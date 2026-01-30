@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-26T22:18:30+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "el"
-}
--->
 # Κουίζ
 
 Αυτά τα κουίζ είναι τα κουίζ πριν και μετά τις διαλέξεις για το πρόγραμμα σπουδών επιστήμης δεδομένων στο https://aka.ms/datascience-beginners

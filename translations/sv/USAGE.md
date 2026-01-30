@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:04:04+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "sv"
-}
--->
 # Användningsguide
 
 Den här guiden ger exempel och vanliga arbetsflöden för att använda läroplanen "Data Science for Beginners".

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-26T22:46:14+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "el"
-}
--->
 # Έργο οπτικοποίησης δεδομένων Dangerous Liaisons
 
 Για να ξεκινήσετε, πρέπει να βεβαιωθείτε ότι έχετε εγκατεστημένα το NPM και το Node στον υπολογιστή σας. Εγκαταστήστε τις εξαρτήσεις (npm install) και στη συνέχεια εκτελέστε το έργο τοπικά (npm run serve):
