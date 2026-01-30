@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-30T18:25:23+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "sl"
-}
--->
 # Iskanje odgovorov
 
 To je nadaljevanje [naloge](../14-Introduction/assignment.md) iz prejšnje lekcije, kjer smo na kratko pregledali podatkovni niz. Zdaj bomo podatke podrobneje analizirali.

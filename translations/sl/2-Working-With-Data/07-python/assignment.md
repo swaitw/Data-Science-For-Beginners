@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-30T18:10:25+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "sl"
-}
--->
 # Naloga za obdelavo podatkov v Pythonu
 
 V tej nalogi vas bomo prosili, da razširite kodo, ki smo jo začeli razvijati v naših izzivih. Naloga je sestavljena iz dveh delov:

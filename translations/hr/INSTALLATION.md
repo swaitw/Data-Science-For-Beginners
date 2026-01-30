@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:26:19+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "hr"
-}
--->
 # Vodič za instalaciju
 
 Ovaj vodič pomoći će vam da postavite svoje okruženje za rad s kurikulumom "Data Science for Beginners".

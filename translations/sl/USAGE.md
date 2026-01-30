@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:11:09+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "sl"
-}
--->
 # Vodnik za uporabo
 
 Ta vodnik ponuja primere in običajne delovne tokove za uporabo učnega načrta "Data Science for Beginners".

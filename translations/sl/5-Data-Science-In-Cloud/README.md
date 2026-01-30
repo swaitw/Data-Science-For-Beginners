@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8dfe141a0f46f7d253e07f74913c7f44",
-  "translation_date": "2025-08-30T17:37:26+00:00",
-  "source_file": "5-Data-Science-In-Cloud/README.md",
-  "language_code": "sl"
-}
--->
 # Podatkovna znanost v oblaku
 
 ![cloud-picture](../../../translated_images/sl/cloud-picture.f5526de3c6c6387b2d656ba94f019b3352e5e3854a78440e4fb00c93e2dea675.jpg)

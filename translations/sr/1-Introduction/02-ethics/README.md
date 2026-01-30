@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58860ce9a4b8a564003d2752f7c72851",
-  "translation_date": "2025-10-03T17:02:03+00:00",
-  "source_file": "1-Introduction/02-ethics/README.md",
-  "language_code": "sr"
-}
--->
 # Увод у етику података
 
 |![ Скетч од [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/02-Ethics.png)|

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:48:59+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "sl"
-}
--->
 # Vodnik za odpravljanje težav
 
 Ta vodnik ponuja rešitve za pogoste težave, s katerimi se lahko srečate med delom s kurikulumom "Data Science for Beginners".

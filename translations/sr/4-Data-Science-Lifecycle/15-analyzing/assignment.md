@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-30T18:25:02+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "sr"
-}
--->
 # Истраживање одговора
 
 Ово је наставак [задатка](../14-Introduction/assignment.md) из претходне лекције, где смо укратко погледали скуп података. Сада ћемо детаљније анализирати податке.

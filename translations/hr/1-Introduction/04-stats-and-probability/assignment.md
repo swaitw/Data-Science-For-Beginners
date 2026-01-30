@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-30T19:26:15+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "hr"
-}
--->
 # Mala studija o dijabetesu
 
 U ovom zadatku radit ćemo s malim skupom podataka o pacijentima s dijabetesom preuzetim s [ovdje](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

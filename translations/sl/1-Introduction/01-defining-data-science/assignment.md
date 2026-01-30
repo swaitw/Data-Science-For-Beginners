@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-30T19:32:30+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "sl"
-}
--->
 # Naloga: Scenariji podatkovne znanosti
 
 V tej prvi nalogi vas prosimo, da razmislite o nekem resničnem procesu ali problemu v različnih problematičnih domenah in kako ga lahko izboljšate z uporabo procesa podatkovne znanosti. Razmislite o naslednjem:

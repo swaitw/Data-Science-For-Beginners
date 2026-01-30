@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:58:53+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "sl"
-}
--->
 # Prikaz podatkov o letališčih
 
 Na voljo imate [bazo podatkov](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db), zgrajeno na [SQLite](https://sqlite.org/index.html), ki vsebuje informacije o letališčih. Shema je prikazana spodaj. Uporabili boste [razširitev SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) v [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) za prikaz informacij o letališčih v različnih mestih.

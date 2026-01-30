@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-30T19:33:20+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "hr"
-}
--->
 # Zadatak: Scenariji za Data Science
 
 U ovom prvom zadatku tražimo od vas da razmislite o nekom stvarnom procesu ili problemu u različitim domenama problema i kako ga možete poboljšati koristeći Data Science proces. Razmislite o sljedećem:

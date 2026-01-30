@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-30T18:30:42+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "sr"
-}
--->
 # Процена скупа података
 
 Клијент се обратио вашем тиму за помоћ у истраживању сезонских навика потрошње корисника такси услуга у Њујорку.

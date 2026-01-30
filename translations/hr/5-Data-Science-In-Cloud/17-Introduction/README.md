@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f8e7cdefa096664ae86f795be571580",
-  "translation_date": "2025-09-05T19:16:33+00:00",
-  "source_file": "5-Data-Science-In-Cloud/17-Introduction/README.md",
-  "language_code": "hr"
-}
--->
 # Uvod u podatkovnu znanost u oblaku
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/17-DataScience-Cloud.png)|

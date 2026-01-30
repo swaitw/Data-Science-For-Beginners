@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:58:42+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "hr"
-}
--->
 # Prikaz podataka o zračnim lukama
 
 Dobili ste [bazu podataka](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) izgrađenu na [SQLite](https://sqlite.org/index.html) koja sadrži informacije o zračnim lukama. Shema baze podataka prikazana je dolje. Koristit ćete [SQLite ekstenziju](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) u [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) za prikaz informacija o zračnim lukama u različitim gradovima.

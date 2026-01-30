@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-30T18:10:03+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "sr"
-}
--->
 # Задатак за обраду података у Пајтону
 
 У овом задатку, од вас се тражи да разрадите код који смо започели у нашим изазовима. Задатак се састоји из два дела:
