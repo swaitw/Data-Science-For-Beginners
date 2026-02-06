@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T14:51:17+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "hu"
-}
--->
 # Feladat Pythonban történő adatfeldolgozáshoz
 
 Ebben a feladatban arra kérünk, hogy dolgozd ki a kódot, amelyet a kihívásaink során elkezdtünk fejleszteni. A feladat két részből áll:

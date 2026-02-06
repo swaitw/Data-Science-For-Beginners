@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-31T10:58:32+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "en"
-}
--->
 # Assignment for Data Processing in Python
 
 In this assignment, we will ask you to expand upon the code we started developing in our challenges. The assignment consists of two parts:

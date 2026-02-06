@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7bfec050f4717dcc2dfd028aca9d21f3",
-  "translation_date": "2025-09-06T15:23:39+00:00",
-  "source_file": "2-Working-With-Data/07-python/README.md",
-  "language_code": "ar"
-}
--->
 # العمل مع البيانات: بايثون ومكتبة Pandas
 
 | ![ رسم توضيحي بواسطة [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |

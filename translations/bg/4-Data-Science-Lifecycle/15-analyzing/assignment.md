@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-26T16:32:14+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "bg"
-}
--->
 # Изследване за отговори
 
 Това е продължение на [заданието](../14-Introduction/assignment.md) от предишния урок, където разгледахме набързо набора от данни. Сега ще направим по-задълбочен анализ на данните.

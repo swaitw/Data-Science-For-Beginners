@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:15:47+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "he"
-}
--->
 # תרומה למדעי הנתונים למתחילים
 
 תודה על התעניינותך בתרומה לתוכנית הלימודים של מדעי הנתונים למתחילים! אנו מקבלים בברכה תרומות מהקהילה.

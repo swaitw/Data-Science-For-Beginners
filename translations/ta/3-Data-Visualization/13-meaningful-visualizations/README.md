@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cfb068050337a36e348debaa502a24fa",
-  "translation_date": "2025-10-11T15:55:49+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/README.md",
-  "language_code": "ta"
-}
--->
 # அர்த்தமுள்ள காட்சிப்படுத்தல்கள்
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/13-MeaningfulViz.png)|

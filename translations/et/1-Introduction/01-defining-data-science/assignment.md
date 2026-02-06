@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-10-11T15:34:12+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "et"
-}
--->
 # Ülesanne: Andmeteaduse stsenaariumid
 
 Selles esimeses ülesandes palume teil mõelda mõnele päriselulisele protsessile või probleemile erinevates valdkondades ja sellele, kuidas saaksite seda parandada andmeteaduse protsessi abil. Mõelge järgmistele küsimustele:

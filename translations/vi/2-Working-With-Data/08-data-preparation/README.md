@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1b560955ff39a2bcf2a049fce474a951",
-  "translation_date": "2025-09-05T23:35:18+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/README.md",
-  "language_code": "vi"
-}
--->
 # Làm việc với Dữ liệu: Chuẩn bị Dữ liệu
 
 |![ Sketchnote của [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/08-DataPreparation.png)|

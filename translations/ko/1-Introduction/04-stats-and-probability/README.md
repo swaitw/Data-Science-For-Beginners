@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:12:23+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ko"
-}
--->
 # 통계와 확률에 대한 간단한 소개
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 중앙값과 사분위수의 관계를 그래픽으로 나타낸 것이 **박스 플롯**입니다:
 
-<img src="images/boxplot_explanation.png" alt="박스 플롯 설명" width="50%">
+<img src="../../../../translated_images/ko/boxplot_explanation.4039b7de08780fd4.webp" alt="박스 플롯 설명" width="50%">
 
 여기서 **사분위 범위** IQR=Q3-Q1을 계산하며, **이상치**는 [Q1-1.5*IQR, Q3+1.5*IQR] 범위를 벗어난 값을 의미합니다.
 

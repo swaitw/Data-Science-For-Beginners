@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a233d542512136c4dd29aad38ca0175f",
-  "translation_date": "2025-08-30T18:53:45+00:00",
-  "source_file": "3-Data-Visualization/R/10-visualization-distributions/assignment.md",
-  "language_code": "sl"
-}
--->
 # Uporabite svoje veščine
 
 ## Navodila

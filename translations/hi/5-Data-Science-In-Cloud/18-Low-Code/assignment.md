@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8fdc4a5fd9bc27a8d2ebef995dfbf73f",
-  "translation_date": "2025-08-24T22:01:57+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/assignment.md",
-  "language_code": "hi"
-}
--->
 # Azure ML पर लो कोड/नो कोड डेटा साइंस प्रोजेक्ट
 
 ## निर्देश

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-26T16:31:36+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "cs"
-}
--->
 # Hledání odpovědí
 
 Toto je pokračování [úkolu](../14-Introduction/assignment.md) z předchozí lekce, kde jsme se krátce podívali na datový soubor. Nyní se podíváme na data podrobněji.

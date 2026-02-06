@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-24T21:32:23+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "pl"
-}
--->
 # Zadanie: Scenariusze Data Science
 
 W tym pierwszym zadaniu prosimy Cię, abyś zastanowił się nad rzeczywistym procesem lub problemem w różnych obszarach tematycznych i jak można go ulepszyć, korzystając z procesu Data Science. Pomyśl o następujących kwestiach:

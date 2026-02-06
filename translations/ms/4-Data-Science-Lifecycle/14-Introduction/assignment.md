@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-28T18:24:18+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "ms"
-}
--->
 # Menilai Dataset
 
 Seorang klien telah mendekati pasukan anda untuk mendapatkan bantuan dalam menyelidik tabiat perbelanjaan bermusim pelanggan teksi di New York City.

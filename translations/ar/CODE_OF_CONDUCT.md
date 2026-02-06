@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c06b12caf3c901eb3156e3dd5b0aea56",
-  "translation_date": "2025-08-27T08:15:59+00:00",
-  "source_file": "CODE_OF_CONDUCT.md",
-  "language_code": "ar"
-}
--->
 # مدونة قواعد السلوك لمصادر مايكروسوفت المفتوحة
 
 لقد تبنى هذا المشروع [مدونة قواعد السلوك لمصادر مايكروسوفت المفتوحة](https://opensource.microsoft.com/codeofconduct/).

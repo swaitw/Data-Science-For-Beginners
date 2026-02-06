@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:45:35+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "my"
-}
--->
 # Data Science for Beginners အတွက် အထောက်အပံ့
 
 Data Science for Beginners သင်ခန်းစာများအတွက် အထောက်အပံ့ပေးလိုက်တဲ့အတွက် ကျေးဇူးတင်ပါတယ်! ကျွန်ုပ်တို့သည် အသိုင်းအဝိုင်းမှ အထောက်အပံ့များကို ကြိုဆိုပါသည်။

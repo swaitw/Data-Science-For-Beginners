@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-26T15:42:33+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "cs"
-}
--->
 # Malá studie o cukrovce
 
 V tomto úkolu budeme pracovat s malým datovým souborem pacientů s cukrovkou, který je dostupný [zde](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

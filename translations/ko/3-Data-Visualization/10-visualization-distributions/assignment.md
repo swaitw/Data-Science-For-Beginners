@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40eeb9b9f94009c537c7811f9f27f037",
-  "translation_date": "2025-08-25T18:08:23+00:00",
-  "source_file": "3-Data-Visualization/10-visualization-distributions/assignment.md",
-  "language_code": "ko"
-}
--->
 # 기술을 적용해보세요
 
 ## 지침

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:40:15+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "th"
-}
--->
 # คู่มือแก้ไขปัญหา
 
 คู่มือนี้ให้คำแนะนำในการแก้ไขปัญหาทั่วไปที่คุณอาจพบเมื่อทำงานกับหลักสูตร Data Science for Beginners

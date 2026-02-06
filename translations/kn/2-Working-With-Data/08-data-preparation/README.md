@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1b560955ff39a2bcf2a049fce474a951",
-  "translation_date": "2025-12-19T15:43:47+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ಜೊತೆಗೆ ಕೆಲಸ ಮಾಡುವುದು: ಡೇಟಾ ತಯಾರಿ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರಿಂದ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/08-DataPreparation.png)|

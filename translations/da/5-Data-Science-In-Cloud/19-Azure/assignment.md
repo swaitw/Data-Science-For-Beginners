@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "386efdbc19786951341f6956247ee990",
-  "translation_date": "2025-08-26T22:18:07+00:00",
-  "source_file": "5-Data-Science-In-Cloud/19-Azure/assignment.md",
-  "language_code": "da"
-}
--->
 # Data Science-projekt ved brug af Azure ML SDK
 
 ## Instruktioner

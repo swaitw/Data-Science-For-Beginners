@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "bd4da10766c64fce4294a98f6479dfb0",
-  "translation_date": "2025-09-05T12:55:44+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/README.md",
-  "language_code": "ko"
-}
--->
 # 클라우드에서의 데이터 과학: "로우 코드/노 코드" 방식
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/18-DataScience-Cloud.png)|

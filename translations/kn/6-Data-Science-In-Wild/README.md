@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-12-19T13:36:52+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "kn"
-}
--->
 # ಕಾಡಿನಲ್ಲಿ ಡೇಟಾ ಸೈನ್ಸ್
 
 ವ್ಯವಸ್ಥೆಗಳಾದ್ಯಂತ ಡೇಟಾ ಸೈನ್ಸ್‌ನ ನೈಜ ಜಗತ್ತಿನ ಅನ್ವಯಿಕೆಗಳು.

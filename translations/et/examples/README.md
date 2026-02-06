@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-11T15:17:07+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "et"
-}
--->
 # Algajatele sobivad andmeteaduse näited
 
 Tere tulemast näidete kataloogi! See lihtsate ja hästi kommenteeritud näidete kogumik on loodud selleks, et aidata sul alustada andmeteadusega, isegi kui oled täiesti algaja.

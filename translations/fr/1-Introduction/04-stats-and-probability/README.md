@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T12:46:11+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "fr"
-}
--->
 # Une brève introduction aux statistiques et probabilités
 
 |![ Sketchnote par [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Pour nous aider à comprendre la distribution des données, il est utile de parl
 
 Graphiquement, nous pouvons représenter la relation entre la médiane et les quartiles dans un diagramme appelé **boîte à moustaches** :
 
-<img src="images/boxplot_explanation.png" alt="Explication du diagramme en boîte" width="50%">
+<img src="../../../../translated_images/fr/boxplot_explanation.4039b7de08780fd4.webp" alt="Explication du diagramme en boîte" width="50%">
 
 Ici, nous calculons également l'**étendue interquartile** IQR=Q3-Q1, et les **valeurs aberrantes** - des valeurs qui se situent en dehors des limites [Q1-1.5*IQR,Q3+1.5*IQR].
 

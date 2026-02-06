@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-24T21:09:08+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "de"
-}
--->
 # Aufgabe zur Datenverarbeitung in Python
 
 In dieser Aufgabe bitten wir Sie, den Code, den wir in unseren Herausforderungen begonnen haben, weiterzuentwickeln. Die Aufgabe besteht aus zwei Teilen:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:49:27+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "my"
-}
--->
 # ပြဿနာဖြေရှင်းလမ်းညွှန်
 
 ဒီလမ်းညွှန်မှာ Data Science for Beginners သင်ခန်းစာကို အသုံးပြုရာမှာ ကြုံတွေ့နိုင်တဲ့ ပုံမှန်ပြဿနာများအတွက် ဖြေရှင်းနည်းများကို ပေးထားပါတယ်။

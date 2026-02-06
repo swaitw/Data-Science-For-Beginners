@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1b560955ff39a2bcf2a049fce474a951",
-  "translation_date": "2025-09-06T07:10:37+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/README.md",
-  "language_code": "bn"
-}
--->
 # ডেটার সাথে কাজ করা: ডেটা প্রস্তুতি
 
 |![ স্কেচনোট [(@sketchthedocs)](https://sketchthedocs.dev) দ্বারা ](../../sketchnotes/08-DataPreparation.png)|

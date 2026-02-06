@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0764fd4077f3f04a1d968ec371227744",
-  "translation_date": "2025-12-19T15:58:52+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/README.md",
-  "language_code": "kn"
-}
--->
 # ಸಂಬಂಧಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು: ಜೇನುತುಪ್ಪ ಬಗ್ಗೆ ಎಲ್ಲವೂ 🍯
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/12-Visualizing-Relationships.png)|

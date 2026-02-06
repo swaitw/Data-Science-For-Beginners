@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-08-24T21:45:28+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "es"
-}
--->
 # Ciencia de Datos en el Mundo Real
 
 Aplicaciones prácticas de la ciencia de datos en diversas industrias.

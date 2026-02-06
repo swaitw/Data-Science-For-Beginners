@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:51:54+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "fr"
-}
--->
 # Affichage des données des aéroports
 
 On vous a fourni une [base de données](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) construite sur [SQLite](https://sqlite.org/index.html) contenant des informations sur les aéroports. Le schéma est affiché ci-dessous. Vous utiliserez l'[extension SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) dans [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) pour afficher des informations sur les aéroports de différentes villes.

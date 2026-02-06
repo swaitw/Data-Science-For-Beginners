@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-28T10:55:12+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "it"
-}
--->
 # Valutazione dei dati di un modulo
 
 Un cliente ha testato un [piccolo modulo](../../../../2-Working-With-Data/08-data-preparation/index.html) per raccogliere alcuni dati di base sulla propria clientela. Ha portato i risultati a te per validare i dati raccolti. Puoi aprire la pagina `index.html` nel browser per dare un'occhiata al modulo.

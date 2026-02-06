@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:04:03+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "fi"
-}
--->
 # Aloittelijaystävällisiä Data Science -esimerkkejä
 
 Tervetuloa esimerkkikansioon! Tämä kokoelma yksinkertaisia ja hyvin kommentoituja esimerkkejä on suunniteltu auttamaan sinua aloittamaan data science -opiskelun, vaikka olisit täysin aloittelija.

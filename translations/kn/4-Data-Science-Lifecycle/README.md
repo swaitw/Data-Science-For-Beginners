@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dd173fd30fc039a7a299898920680723",
-  "translation_date": "2025-12-19T13:24:49+00:00",
-  "source_file": "4-Data-Science-Lifecycle/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ಸೈನ್ಸ್ ಜೀವನಚಕ್ರ
 
 ![communication](../../../translated_images/kn/communication.06d8e2a88d30d168d661ad9f9f0a4f947ebff3719719cfdaf9ed00a406a01ead.jpg)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:50:13+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "vi"
-}
--->
 # Giới thiệu ngắn gọn về Thống kê và Xác suất
 
 |![ Sketchnote của [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Giả sử chúng ta lấy một dãy n mẫu của một biến ngẫu nhiên X
 
 Một cách trực quan, chúng ta có thể biểu diễn mối quan hệ giữa median và tứ phân vị trong một biểu đồ gọi là **box plot**:
 
-<img src="images/boxplot_explanation.png" alt="Giải thích Box Plot" width="50%">
+<img src="../../../../translated_images/vi/boxplot_explanation.4039b7de08780fd4.webp" alt="Giải thích Box Plot" width="50%">
 
 Ở đây chúng ta cũng tính **khoảng tứ phân vị** IQR=Q3-Q1, và các giá trị **ngoại lệ** - những giá trị nằm ngoài các giới hạn [Q1-1.5*IQR,Q3+1.5*IQR].
 

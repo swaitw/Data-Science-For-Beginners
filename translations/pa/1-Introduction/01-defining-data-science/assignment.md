@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-27T17:17:10+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਅਸਾਈਨਮੈਂਟ: ਡਾਟਾ ਸਾਇੰਸ ਸਨਰੀਓਜ਼
 
 ਇਸ ਪਹਿਲੇ ਅਸਾਈਨਮੈਂਟ ਵਿੱਚ, ਅਸੀਂ ਤੁਹਾਨੂੰ ਕਈ ਅਸਲ ਜ਼ਿੰਦਗੀ ਦੇ ਪ੍ਰਕਿਰਿਆਵਾਂ ਜਾਂ ਸਮੱਸਿਆਵਾਂ ਬਾਰੇ ਸੋਚਣ ਲਈ ਕਹਿੰਦੇ ਹਾਂ, ਅਤੇ ਕਿਵੇਂ ਤੁਸੀਂ ਡਾਟਾ ਸਾਇੰਸ ਪ੍ਰਕਿਰਿਆ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਇਸਨੂੰ ਬਿਹਤਰ ਬਣਾ ਸਕਦੇ ਹੋ। ਹੇਠਾਂ ਦਿੱਤੇ ਬਾਰੇ ਸੋਚੋ:

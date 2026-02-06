@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07e12a25d20b8f191e3cb651c27fdb2b",
-  "translation_date": "2025-12-19T15:27:40+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ಸೈನ್ಸ್ ಜೀವನಚಕ್ರಕ್ಕೆ ಪರಿಚಯ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರಿಂದ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/14-DataScience-Lifecycle.png)|

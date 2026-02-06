@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-31T10:59:43+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "en"
-}
--->
 # Evaluating Data from a Form
 
 A client has been testing a [small form](../../../../2-Working-With-Data/08-data-preparation/index.html) to collect some basic information about their customer base. They have shared their findings with you to validate the data they have gathered. You can open the `index.html` page in your browser to review the form.

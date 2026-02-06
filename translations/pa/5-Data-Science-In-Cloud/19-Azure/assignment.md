@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "386efdbc19786951341f6956247ee990",
-  "translation_date": "2025-08-27T17:54:03+00:00",
-  "source_file": "5-Data-Science-In-Cloud/19-Azure/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਐਜ਼ਰ ਐਮਐਲ ਐਸਡੀਕੇ ਦੀ ਵਰਤੋਂ ਨਾਲ ਡਾਟਾ ਸਾਇੰਸ ਪ੍ਰੋਜੈਕਟ
 
 ## ਹਦਾਇਤਾਂ

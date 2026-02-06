@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "22acf28f518a4769ea14fa42f4734b9f",
-  "translation_date": "2025-08-26T23:04:53+00:00",
-  "source_file": "3-Data-Visualization/R/09-visualization-quantities/README.md",
-  "language_code": "th"
-}
--->
 # การแสดงผลข้อมูลเชิงปริมาณ
 |![ Sketchnote โดย [(@sketchthedocs)](https://sketchthedocs.dev) ](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/sketchnotes/09-Visualizing-Quantities.png)|
 |:---:|

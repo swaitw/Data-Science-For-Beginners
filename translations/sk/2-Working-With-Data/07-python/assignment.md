@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T14:51:44+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "sk"
-}
--->
 # Zadanie na spracovanie údajov v Pythone
 
 V tomto zadaní vás požiadame, aby ste rozpracovali kód, ktorý sme začali vyvíjať v našich výzvach. Zadanie pozostáva z dvoch častí:

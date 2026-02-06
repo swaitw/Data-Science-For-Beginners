@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-26T15:24:22+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "sw"
-}
--->
 # Kazi: Matukio ya Sayansi ya Takwimu
 
 Katika kazi hii ya kwanza, tunakuomba ufikirie kuhusu mchakato au tatizo la maisha halisi katika nyanja tofauti za matatizo, na jinsi unavyoweza kuboresha kwa kutumia mchakato wa Sayansi ya Takwimu. Fikiria yafuatayo:

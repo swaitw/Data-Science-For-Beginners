@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:56:51+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "vi"
-}
--->
 # Hiển thị dữ liệu sân bay
 
 Bạn đã được cung cấp một [cơ sở dữ liệu](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) được xây dựng trên [SQLite](https://sqlite.org/index.html) chứa thông tin về các sân bay. Lược đồ được hiển thị bên dưới. Bạn sẽ sử dụng [phần mở rộng SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) trong [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) để hiển thị thông tin về các sân bay của các thành phố khác nhau.

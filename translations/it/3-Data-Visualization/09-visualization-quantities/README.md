@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a49d78e32e280c410f04e5f2a2068e77",
-  "translation_date": "2025-09-06T08:46:34+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/README.md",
-  "language_code": "it"
-}
--->
 # Visualizzare le quantità
 
 |![ Sketchnote di [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/09-Visualizing-Quantities.png)|

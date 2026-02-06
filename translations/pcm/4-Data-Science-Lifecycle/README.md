@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dd173fd30fc039a7a299898920680723",
-  "translation_date": "2025-11-18T18:39:27+00:00",
-  "source_file": "4-Data-Science-Lifecycle/README.md",
-  "language_code": "pcm"
-}
--->
 # The Data Science Lifecycle
 
 ![communication](../../../translated_images/pcm/communication.06d8e2a88d30d168.webp)

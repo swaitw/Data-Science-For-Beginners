@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:22:06+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "ru"
-}
--->
 # Вклад в проект "Основы Data Science"
 
 Спасибо за ваш интерес к участию в разработке учебного курса "Основы Data Science"! Мы приветствуем вклад от сообщества.

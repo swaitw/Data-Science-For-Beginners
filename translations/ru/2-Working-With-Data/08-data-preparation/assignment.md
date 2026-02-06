@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-27T08:29:31+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ru"
-}
--->
 # Оценка данных из формы
 
 Клиент тестировал [небольшую форму](../../../../2-Working-With-Data/08-data-preparation/index.html) для сбора базовой информации о своей клиентской базе. Они предоставили вам свои результаты для проверки собранных данных. Вы можете открыть страницу `index.html` в браузере, чтобы ознакомиться с формой.

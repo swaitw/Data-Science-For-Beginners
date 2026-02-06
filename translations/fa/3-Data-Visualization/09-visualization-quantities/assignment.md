@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ad163c4fda72c8278280b61cad317ff4",
-  "translation_date": "2025-08-24T23:03:49+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/assignment.md",
-  "language_code": "fa"
-}
--->
 # خطوط، نمودارهای پراکندگی و نمودارهای میله‌ای
 
 ## دستورالعمل‌ها

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:32:25+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "tr"
-}
--->
 # İstatistik ve Olasılığa Kısa Bir Giriş
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Veri dağılımını anlamamıza yardımcı olmak için **çeyreklerden** bahset
 
 Medyan ve çeyrekler arasındaki ilişkiyi grafiksel olarak **kutu grafiği** adı verilen bir diyagramda gösterebiliriz:
 
-<img src="images/boxplot_explanation.png" alt="Kutu Grafiği Açıklaması" width="50%">
+<img src="../../../../translated_images/tr/boxplot_explanation.4039b7de08780fd4.webp" alt="Kutu Grafiği Açıklaması" width="50%">
 
 Burada ayrıca **çeyrekler arası aralık** IQR=Q3-Q1 ve **aykırı değerler** - [Q1-1.5*IQR,Q3+1.5*IQR] sınırlarının dışında kalan değerler - hesaplanır.
 

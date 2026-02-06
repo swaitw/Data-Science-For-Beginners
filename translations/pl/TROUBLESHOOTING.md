@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:38:40+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "pl"
-}
--->
 # Przewodnik rozwiązywania problemów
 
 Ten przewodnik zawiera rozwiązania typowych problemów, które możesz napotkać podczas pracy z programem nauczania "Data Science for Beginners".

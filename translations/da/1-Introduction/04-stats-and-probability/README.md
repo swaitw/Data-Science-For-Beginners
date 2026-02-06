@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:39:06+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "da"
-}
--->
 # En Kort Introduktion til Statistik og Sandsynlighed
 
 |![ Sketchnote af [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ For at hjælpe os med at forstå fordelingen af data er det nyttigt at tale om *
 
 Grafisk kan vi repræsentere forholdet mellem median og kvartiler i et diagram kaldet **boksplot**:
 
-<img src="images/boxplot_explanation.png" alt="Forklaring af boksplot" width="50%">
+<img src="../../../../translated_images/da/boxplot_explanation.4039b7de08780fd4.webp" alt="Forklaring af boksplot" width="50%">
 
 Her beregner vi også **interkvartilafstand** IQR=Q3-Q1 og såkaldte **outliers** - værdier, der ligger uden for grænserne [Q1-1.5*IQR,Q3+1.5*IQR].
 

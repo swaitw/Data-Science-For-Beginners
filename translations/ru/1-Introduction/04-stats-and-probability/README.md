@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T12:52:34+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ru"
-}
--->
 # Краткое введение в статистику и теорию вероятностей
 
 |![ Скетчноут от [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Графически мы можем представить связь между медианой и квартилями в диаграмме, называемой **боксплот**:
 
-<img src="images/boxplot_explanation.png" alt="Объяснение боксплота" width="50%">
+<img src="../../../../translated_images/ru/boxplot_explanation.4039b7de08780fd4.webp" alt="Объяснение боксплота" width="50%">
 
 Здесь мы также вычисляем **межквартильный размах** IQR=Q3-Q1 и так называемые **выбросы** — значения, которые лежат за пределами [Q1-1.5*IQR,Q3+1.5*IQR].
 

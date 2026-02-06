@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "80a20467e046d312809d008395051fc7",
-  "translation_date": "2025-09-06T10:10:54+00:00",
-  "source_file": "3-Data-Visualization/10-visualization-distributions/README.md",
-  "language_code": "en"
-}
--->
 # Visualizing Distributions
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/10-Visualizing-Distributions.png)|

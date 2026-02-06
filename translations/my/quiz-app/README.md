@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-30T19:50:53+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "my"
-}
--->
 # မေးခွန်းများ
 
 ဒီမေးခွန်းများကတော့ https://aka.ms/datascience-beginners မှာရှိတဲ့ ဒေတာသိပ္ပံ သင်ရိုးညွှန်းတန်းအတွက် သင်ခန်းစာမတိုင်မီနှင့်ပြီးလျှင် မေးခွန်းများဖြစ်ပါတယ်။

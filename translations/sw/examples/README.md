@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:06:07+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "sw"
-}
--->
 # Mifano Rahisi ya Sayansi ya Takwimu
 
 Karibu kwenye saraka ya mifano! Mkusanyiko huu wa mifano rahisi, yenye maelezo ya kina, umeundwa kukusaidia kuanza na sayansi ya takwimu, hata kama wewe ni mwanzilishi kabisa.

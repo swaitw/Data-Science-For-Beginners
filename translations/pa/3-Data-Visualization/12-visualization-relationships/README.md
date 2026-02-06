@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0764fd4077f3f04a1d968ec371227744",
-  "translation_date": "2025-09-06T11:34:32+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/README.md",
-  "language_code": "pa"
-}
--->
 # ਰਿਸ਼ਤਿਆਂ ਦੀ ਦ੍ਰਿਸ਼ਟੀ: ਸ਼ਹਿਦ ਬਾਰੇ ਸਭ ਕੁਝ 🍯
 
 |![ [(@sketchthedocs)] ਦੁਆਰਾ ਬਣਾਈ ਗਈ ਸਕੈਚਨੋਟ](https://sketchthedocs.dev) ](../../sketchnotes/12-Visualizing-Relationships.png)|

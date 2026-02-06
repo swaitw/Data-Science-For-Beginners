@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a49d78e32e280c410f04e5f2a2068e77",
-  "translation_date": "2025-09-05T14:59:28+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/README.md",
-  "language_code": "hi"
-}
--->
 # मात्राओं का विज़ुअलाइज़ेशन
 
 |![ स्केच नोट [(@sketchthedocs)](https://sketchthedocs.dev) द्वारा ](../../sketchnotes/09-Visualizing-Quantities.png)|

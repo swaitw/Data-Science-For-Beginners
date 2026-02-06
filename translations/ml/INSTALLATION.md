@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-12-19T13:11:42+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "ml"
-}
--->
 # ഇൻസ്റ്റലേഷൻ ഗൈഡ്
 
 ഈ ഗൈഡ് ഡാറ്റാ സയൻസ് ഫോർ ബിഗിനേഴ്സ് പാഠ്യപദ്ധതിയുമായി പ്രവർത്തിക്കാൻ നിങ്ങളുടെ പരിസ്ഥിതി സജ്ജമാക്കുന്നതിൽ സഹായിക്കും.

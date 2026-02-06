@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:18:30+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "ne"
-}
--->
 # स्थापना मार्गदर्शन
 
 यो मार्गदर्शनले तपाईंलाई Data Science for Beginners पाठ्यक्रमसँग काम गर्नको लागि आफ्नो वातावरण सेटअप गर्न मद्दत गर्नेछ।

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-27T08:29:45+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ur"
-}
--->
 # فارم سے ڈیٹا کا جائزہ لینا
 
 ایک کلائنٹ نے اپنے صارفین کے بارے میں بنیادی معلومات جمع کرنے کے لیے ایک [چھوٹا فارم](../../../../2-Working-With-Data/08-data-preparation/index.html) کا تجربہ کیا ہے۔ وہ اپنے نتائج آپ کے پاس لائے ہیں تاکہ آپ ان کے جمع کردہ ڈیٹا کی تصدیق کریں۔ آپ براؤزر میں `index.html` صفحہ کھول کر فارم دیکھ سکتے ہیں۔

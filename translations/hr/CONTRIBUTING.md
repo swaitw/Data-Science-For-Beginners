@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:41:49+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "hr"
-}
--->
 # Doprinos Data Science for Beginners
 
 Hvala vam na interesu za doprinos kurikulumu Data Science for Beginners! Pozdravljamo doprinose iz zajednice.

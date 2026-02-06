@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-25T17:45:09+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "ja"
-}
--->
 # データセットの評価
 
 クライアントが、ニューヨーク市のタクシー利用者の季節ごとの支出傾向を調査するための支援を求めています。

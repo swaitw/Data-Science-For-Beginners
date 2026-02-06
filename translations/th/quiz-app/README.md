@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-26T22:18:51+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "th"
-}
--->
 # แบบทดสอบ
 
 แบบทดสอบเหล่านี้เป็นแบบทดสอบก่อนและหลังการบรรยายสำหรับหลักสูตรวิทยาศาสตร์ข้อมูลที่ https://aka.ms/datascience-beginners

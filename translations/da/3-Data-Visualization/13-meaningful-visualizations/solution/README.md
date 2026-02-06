@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-26T22:47:11+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "da"
-}
--->
 # Dangerous Liaisons datavisualiseringsprojekt
 
 For at komme i gang skal du sikre dig, at du har NPM og Node installeret på din maskine. Installer afhængighederne (npm install), og kør derefter projektet lokalt (npm run serve):

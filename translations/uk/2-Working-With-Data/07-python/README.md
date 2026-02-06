@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7bfec050f4717dcc2dfd028aca9d21f3",
-  "translation_date": "2025-09-06T16:06:13+00:00",
-  "source_file": "2-Working-With-Data/07-python/README.md",
-  "language_code": "uk"
-}
--->
 # Робота з даними: Python та бібліотека Pandas
 
 | ![ Скетчноут від [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |

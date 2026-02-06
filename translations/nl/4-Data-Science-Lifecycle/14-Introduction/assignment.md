@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-28T15:25:39+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "nl"
-}
--->
 # Het beoordelen van een dataset
 
 Een klant heeft jouw team benaderd om te helpen bij het onderzoeken van de seizoensgebonden uitgavenpatronen van taxiklanten in New York City.

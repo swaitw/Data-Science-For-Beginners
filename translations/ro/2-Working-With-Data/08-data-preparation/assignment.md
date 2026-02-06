@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-26T14:41:56+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ro"
-}
--->
 # Evaluarea Datelor dintr-un Formular
 
 Un client a testat un [formular simplu](../../../../2-Working-With-Data/08-data-preparation/index.html) pentru a colecta câteva informații de bază despre baza lor de clienți. Ei ți-au adus rezultatele pentru a valida datele pe care le-au colectat. Poți deschide pagina `index.html` în browser pentru a arunca o privire asupra formularului.

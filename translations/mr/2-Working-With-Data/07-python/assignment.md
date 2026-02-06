@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-27T16:56:33+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "mr"
-}
--->
 # डेटा प्रोसेसिंगसाठी Python मध्ये असाइनमेंट
 
 या असाइनमेंटमध्ये, आम्ही तुम्हाला आमच्या चॅलेंजेसमध्ये विकसित केलेल्या कोडवर अधिक सविस्तर माहिती देण्यास सांगणार आहोत. असाइनमेंट दोन भागांमध्ये विभागलेली आहे:

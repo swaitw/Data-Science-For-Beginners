@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "472d3fab1c5be50f387336e7a686dbe1",
-  "translation_date": "2025-10-11T15:30:38+00:00",
-  "source_file": "5-Data-Science-In-Cloud/19-Azure/README.md",
-  "language_code": "ta"
-}
--->
 # கிளவுடில் தரவியல் அறிவியல்: "Azure ML SDK" முறையில் 
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) உருவாக்கிய ஸ்கெட்ச் நோட் ](../../sketchnotes/19-DataScience-Cloud.png)|

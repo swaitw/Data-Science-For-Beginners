@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b4039f1c76548d144a0aee0bf28304ec",
-  "translation_date": "2025-10-11T15:59:18+00:00",
-  "source_file": "3-Data-Visualization/R/13-meaningful-vizualizations/README.md",
-  "language_code": "ta"
-}
--->
 # அர்த்தமுள்ள காட்சிப்படுத்தல்கள் உருவாக்குதல்
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) என்பவரின் ஸ்கெட்ச் நோட்](../../../sketchnotes/13-MeaningfulViz.png)|

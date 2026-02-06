@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T12:55:31+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "es"
-}
--->
 # Ejemplos de Ciencia de Datos para Principiantes
 
 ¡Bienvenido al directorio de ejemplos! Esta colección de ejemplos simples y bien comentados está diseñada para ayudarte a comenzar con la ciencia de datos, incluso si eres un principiante total.

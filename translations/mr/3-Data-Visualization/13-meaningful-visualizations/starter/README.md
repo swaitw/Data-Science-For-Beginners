@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-27T18:15:34+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "mr"
-}
--->
 # Dangerous Liaisons डेटा व्हिज्युअलायझेशन प्रकल्प
 
 सुरुवात करण्यासाठी, तुमच्या मशीनवर NPM आणि Node चालू आहेत याची खात्री करा. अवलंबित्वे स्थापित करा (npm install) आणि नंतर प्रकल्प स्थानिक पातळीवर चालवा (npm run serve):

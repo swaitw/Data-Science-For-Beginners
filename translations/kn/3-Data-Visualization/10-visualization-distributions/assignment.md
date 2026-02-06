@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "40eeb9b9f94009c537c7811f9f27f037",
-  "translation_date": "2025-12-19T15:57:18+00:00",
-  "source_file": "3-Data-Visualization/10-visualization-distributions/assignment.md",
-  "language_code": "kn"
-}
--->
 # ನಿಮ್ಮ ಕೌಶಲ್ಯಗಳನ್ನು ಅನ್ವಯಿಸಿ
 
 ## ಸೂಚನೆಗಳು

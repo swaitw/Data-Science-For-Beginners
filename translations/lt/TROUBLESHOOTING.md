@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:50:28+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "lt"
-}
--->
 # Trikčių šalinimo vadovas
 
 Šis vadovas pateikia sprendimus dažniausiai pasitaikančioms problemoms, su kuriomis galite susidurti dirbdami su „Data Science for Beginners“ mokymo programa.

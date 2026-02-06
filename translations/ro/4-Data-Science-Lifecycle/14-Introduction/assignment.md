@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-26T16:28:21+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "ro"
-}
--->
 # Evaluarea unui set de date
 
 Un client a contactat echipa ta pentru ajutor în investigarea obiceiurilor sezoniere de cheltuieli ale clienților de taxi din New York City.

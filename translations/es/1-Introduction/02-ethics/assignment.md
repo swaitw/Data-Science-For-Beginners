@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b588c0fc73014f52520c666efc3e0cc3",
-  "translation_date": "2025-08-24T21:24:57+00:00",
-  "source_file": "1-Introduction/02-ethics/assignment.md",
-  "language_code": "es"
-}
--->
 ## Escribe un Estudio de Caso sobre Ética de Datos
 
 ## Instrucciones

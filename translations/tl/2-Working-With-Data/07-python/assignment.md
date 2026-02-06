@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-28T02:28:40+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "tl"
-}
--->
 # Takdang-Aralin para sa Pagproseso ng Data sa Python
 
 Sa takdang-araling ito, hihilingin namin sa iyo na palawakin ang code na sinimulan naming buuin sa aming mga hamon. Ang takdang-aralin ay binubuo ng dalawang bahagi:

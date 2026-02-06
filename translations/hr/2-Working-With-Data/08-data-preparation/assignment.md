@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-30T18:20:54+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "hr"
-}
--->
 # Procjena podataka iz obrasca
 
 Klijent je testirao [mali obrazac](../../../../2-Working-With-Data/08-data-preparation/index.html) za prikupljanje osnovnih podataka o svojoj bazi klijenata. Donijeli su vam svoje nalaze kako biste provjerili podatke koje su prikupili. Možete otvoriti stranicu `index.html` u pregledniku kako biste pogledali obrazac.

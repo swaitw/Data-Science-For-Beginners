@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-27T09:57:49+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "bn"
-}
--->
 # উত্তর অনুসন্ধান করা
 
 এটি আগের পাঠের [অ্যাসাইনমেন্টের](../14-Introduction/assignment.md) একটি ধারাবাহিকতা, যেখানে আমরা ডেটাসেটটি সংক্ষেপে দেখেছিলাম। এখন আমরা ডেটাসেটটি আরও গভীরভাবে বিশ্লেষণ করব।

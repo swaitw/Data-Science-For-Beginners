@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-24T21:08:59+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "es"
-}
--->
 # Asignación para Procesamiento de Datos en Python
 
 En esta asignación, te pediremos que desarrolles el código que hemos comenzado a crear en nuestros desafíos. La asignación consta de dos partes:

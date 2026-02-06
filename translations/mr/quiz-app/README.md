@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-27T17:54:23+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "mr"
-}
--->
 # क्विझेस
 
 ही क्विझेस डेटा सायन्स अभ्यासक्रमासाठीच्या व्याख्यानांपूर्वी आणि नंतर घेण्यात येणाऱ्या क्विझेस आहेत. अधिक माहितीसाठी https://aka.ms/datascience-beginners येथे भेट द्या.

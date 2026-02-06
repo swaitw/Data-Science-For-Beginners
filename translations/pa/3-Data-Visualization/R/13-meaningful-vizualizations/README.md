@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b4039f1c76548d144a0aee0bf28304ec",
-  "translation_date": "2025-08-27T18:35:33+00:00",
-  "source_file": "3-Data-Visualization/R/13-meaningful-vizualizations/README.md",
-  "language_code": "pa"
-}
--->
 # ਮਾਨਹੀਣ ਵਿਜੁਅਲਾਈਜ਼ੇਸ਼ਨ ਬਣਾਉਣਾ
 
 |![ ਸਕੈਚਨੋਟ [(@sketchthedocs)](https://sketchthedocs.dev) ](../../../sketchnotes/13-MeaningfulViz.png)|

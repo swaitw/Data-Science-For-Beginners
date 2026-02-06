@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-25T16:31:32+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "fr"
-}
--->
 # Devoir sur le traitement des données en Python
 
 Dans ce devoir, nous vous demandons d'approfondir le code que nous avons commencé à développer dans nos défis. Le devoir se compose de deux parties :

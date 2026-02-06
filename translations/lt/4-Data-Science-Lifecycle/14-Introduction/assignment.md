@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-31T05:44:35+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "lt"
-}
--->
 # Duomenų rinkinio vertinimas
 
 Klientas kreipėsi į jūsų komandą, prašydamas pagalbos tiriant taksi klientų sezoninius išlaidų įpročius Niujorke.

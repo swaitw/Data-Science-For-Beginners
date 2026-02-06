@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T14:02:33+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "cs"
-}
--->
 # Stručný úvod do statistiky a pravděpodobnosti
 
 |![ Sketchnote od [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Pro lepší pochopení rozdělení dat je užitečné mluvit o **kvartilech**:
 
 Graficky můžeme vztah mezi mediánem a kvartily znázornit v diagramu nazývaném **box plot**:
 
-<img src="images/boxplot_explanation.png" alt="Vysvětlení box plotu" width="50%">
+<img src="../../../../translated_images/cs/boxplot_explanation.4039b7de08780fd4.webp" alt="Vysvětlení box plotu" width="50%">
 
 Zde také vypočítáme **mezikvartilové rozpětí** IQR=Q3-Q1 a tzv. **odlehlé hodnoty** - hodnoty, které leží mimo hranice [Q1-1.5*IQR,Q3+1.5*IQR].
 

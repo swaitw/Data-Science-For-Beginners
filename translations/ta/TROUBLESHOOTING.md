@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-11T15:15:08+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ta"
-}
--->
 # பிரச்சினைகளை தீர்க்கும் வழிகாட்டி
 
 இந்த வழிகாட்டி, Data Science for Beginners பாடத்திட்டத்துடன் வேலை செய்யும்போது நீங்கள் சந்திக்கக்கூடிய பொதுவான பிரச்சினைகளுக்கு தீர்வுகளை வழங்குகிறது.

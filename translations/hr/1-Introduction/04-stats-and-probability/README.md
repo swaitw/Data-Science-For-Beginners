@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T14:14:51+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "hr"
-}
--->
 # Kratki uvod u statistiku i teoriju vjerojatnosti
 
 |![ Sketchnote od [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Kako bismo bolje razumjeli raspodjelu podataka, korisno je govoriti o **kvartili
 
 Grafički možemo prikazati odnos između medijana i kvartila u dijagramu zvanom **box plot**:
 
-<img src="images/boxplot_explanation.png" alt="Objašnjenje box plota" width="50%">
+<img src="../../../../translated_images/hr/boxplot_explanation.4039b7de08780fd4.webp" alt="Objašnjenje box plota" width="50%">
 
 Ovdje također izračunavamo **međukvartilni raspon** IQR=Q3-Q1 i tzv. **outliere** - vrijednosti koje leže izvan granica [Q1-1.5*IQR, Q3+1.5*IQR].
 

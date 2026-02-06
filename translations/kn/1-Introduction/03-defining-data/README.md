@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "12339119c0165da569a93ddba05f9339",
-  "translation_date": "2025-12-19T14:00:15+00:00",
-  "source_file": "1-Introduction/03-defining-data/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ವ್ಯಾಖ್ಯಾನ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/03-DefiningData.png)|

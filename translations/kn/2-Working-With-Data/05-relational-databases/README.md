@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "11739c7b40e7c6b16ad29e3df4e65862",
-  "translation_date": "2025-12-19T15:49:38+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ಜೊತೆಗೆ ಕೆಲಸ ಮಾಡುವುದು: ಸಂಬಂಧಿತ ಡೇಟಾಬೇಸ್‌ಗಳು
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರ ಸ್ಕೆಚ್‌ನೋಟ್ ](../../sketchnotes/05-RelationalData.png)|

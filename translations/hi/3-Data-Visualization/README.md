@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1441550a0d789796b2821e04f7f4cc94",
-  "translation_date": "2025-08-24T22:29:55+00:00",
-  "source_file": "3-Data-Visualization/README.md",
-  "language_code": "hi"
-}
--->
 # विज़ुअलाइज़ेशन
 
 ![लैवेंडर फूल पर एक मधुमक्खी](../../../translated_images/hi/bee.0aa1d91132b12e3a8994b9ca12816d05ce1642010d9b8be37f8d37365ba845cf.jpg)

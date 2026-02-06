@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-27T09:54:20+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "bn"
-}
--->
 # ডেটাসেট মূল্যায়ন
 
 একজন ক্লায়েন্ট আপনার টিমের কাছে নিউ ইয়র্ক সিটির ট্যাক্সি গ্রাহকদের ঋতুভিত্তিক ব্যয় অভ্যাস তদন্ত করার জন্য সাহায্য চেয়েছেন।

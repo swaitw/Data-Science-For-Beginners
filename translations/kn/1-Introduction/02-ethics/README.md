@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58860ce9a4b8a564003d2752f7c72851",
-  "translation_date": "2025-12-19T14:22:03+00:00",
-  "source_file": "1-Introduction/02-ethics/README.md",
-  "language_code": "kn"
-}
--->
 Translation for chunk 1 of 'README.md' skipped due to timeout.
  * ಮಾಹಿತಿ ವಾಸ್ತವಿಕತೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವಲ್ಲಿ _ನಿಖರವಾಗಿ_ ಸೆರೆಹಿಡಿದಿದೆಯೇ?
 

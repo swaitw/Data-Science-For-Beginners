@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T14:57:14+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "ja"
-}
--->
 # 使用ガイド
 
 このガイドでは、「初心者のためのデータサイエンス」カリキュラムの使用例と一般的なワークフローを紹介します。

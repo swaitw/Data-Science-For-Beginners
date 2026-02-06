@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:23:43+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "tl"
-}
--->
 # Gabay sa Pag-install
 
 Ang gabay na ito ay tutulong sa iyo na i-set up ang iyong environment para magamit ang kurikulum ng Data Science for Beginners.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:01:54+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "el"
-}
--->
 # Συμμετοχή στο Data Science for Beginners
 
 Ευχαριστούμε για το ενδιαφέρον σας να συμβάλετε στο πρόγραμμα σπουδών του Data Science for Beginners! Καλωσορίζουμε συνεισφορές από την κοινότητα.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-26T21:35:58+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "no"
-}
--->
 # Oppgave: Datascience-scenarier
 
 I denne første oppgaven ber vi deg tenke på noen virkelige prosesser eller problemer innen ulike problemområder, og hvordan du kan forbedre dem ved hjelp av datascience-prosessen. Tenk på følgende:

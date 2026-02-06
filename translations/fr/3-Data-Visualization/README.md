@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1441550a0d789796b2821e04f7f4cc94",
-  "translation_date": "2025-08-25T17:57:43+00:00",
-  "source_file": "3-Data-Visualization/README.md",
-  "language_code": "fr"
-}
--->
 # Visualisations
 
 ![une abeille sur une fleur de lavande](../../../translated_images/fr/bee.0aa1d91132b12e3a.webp)  

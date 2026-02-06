@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1b560955ff39a2bcf2a049fce474a951",
-  "translation_date": "2025-09-05T23:15:31+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/README.md",
-  "language_code": "he"
-}
--->
 # עבודה עם נתונים: הכנת נתונים
 
 |![ סקצ'נוט מאת [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/08-DataPreparation.png)|

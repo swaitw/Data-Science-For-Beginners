@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c182e87f9f80be7e7cdffc7b40bbfccf",
-  "translation_date": "2025-09-06T07:07:51+00:00",
-  "source_file": "2-Working-With-Data/06-non-relational/README.md",
-  "language_code": "bn"
-}
--->
 # ডেটা নিয়ে কাজ করা: নন-রিলেশনাল ডেটা
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) এর স্কেচনোট ](../../sketchnotes/06-NoSQL.png)|

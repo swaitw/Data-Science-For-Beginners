@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8dfe141a0f46f7d253e07f74913c7f44",
-  "translation_date": "2025-11-18T18:24:52+00:00",
-  "source_file": "5-Data-Science-In-Cloud/README.md",
-  "language_code": "pcm"
-}
--->
 # Data Science for Cloud
 
 ![cloud-picture](../../../translated_images/pcm/cloud-picture.f5526de3c6c6387b.webp)

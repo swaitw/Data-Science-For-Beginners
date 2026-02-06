@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-12-19T16:18:07+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "ml"
-}
--->
 # ഡേഞ്ചറസ് ലിയാസൺസ് ഡാറ്റാ വിസ്വലൈസേഷൻ പ്രോജക്ട്
 
 ആരംഭിക്കാൻ, നിങ്ങളുടെ മെഷീനിൽ NPMയും Nodeയും പ്രവർത്തനക്ഷമമാണെന്ന് ഉറപ്പാക്കണം. ഡിപ്പൻഡൻസികൾ ഇൻസ്റ്റാൾ ചെയ്യുക (npm install) പിന്നെ പ്രോജക്ട് ലോക്കലായി റൺ ചെയ്യുക (npm run serve):

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-28T15:21:47+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "he"
-}
--->
 # הערכת נתונים מטופס
 
 לקוח בדק [טופס קטן](../../../../2-Working-With-Data/08-data-preparation/index.html) כדי לאסוף נתונים בסיסיים על בסיס הלקוחות שלו. הם הביאו את הממצאים שלהם אליך כדי לאמת את הנתונים שהם אספו. ניתן לפתוח את דף `index.html` בדפדפן כדי להסתכל על הטופס.

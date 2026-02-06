@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "bd4da10766c64fce4294a98f6479dfb0",
-  "translation_date": "2025-09-05T18:18:42+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/README.md",
-  "language_code": "ro"
-}
--->
 # Știința Datelor în Cloud: Metoda "Low code/No code"
 
 |![ Sketchnote de [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/18-DataScience-Cloud.png)|

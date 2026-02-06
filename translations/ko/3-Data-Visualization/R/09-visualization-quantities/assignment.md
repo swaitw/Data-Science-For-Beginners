@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0ea21b6513df5ade7419c6b7d65f10b1",
-  "translation_date": "2025-08-25T18:26:24+00:00",
-  "source_file": "3-Data-Visualization/R/09-visualization-quantities/assignment.md",
-  "language_code": "ko"
-}
--->
 # 선, 산점도, 막대 그래프
 
 ## 지침

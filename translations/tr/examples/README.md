@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:02:01+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "tr"
-}
--->
 # Yeni Başlayanlar İçin Veri Bilimi Örnekleri
 
 Örnekler dizinine hoş geldiniz! Bu basit ve iyi açıklanmış örnekler koleksiyonu, tamamen yeni başlayanlar için bile veri bilimine başlamayı kolaylaştırmak amacıyla tasarlandı.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:57:27+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "sw"
-}
--->
 # Kuonyesha data za viwanja vya ndege
 
 Umepewa [hifadhidata](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) iliyojengwa kwa [SQLite](https://sqlite.org/index.html) ambayo ina taarifa kuhusu viwanja vya ndege. Muundo wa hifadhidata umeonyeshwa hapa chini. Utatumia [kiendelezi cha SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) katika [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) kuonyesha taarifa kuhusu viwanja vya ndege vya miji mbalimbali.

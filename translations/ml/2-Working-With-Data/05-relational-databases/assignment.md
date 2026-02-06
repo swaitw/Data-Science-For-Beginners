@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-12-19T15:51:22+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "ml"
-}
--->
 # വിമാനത്താവള ഡാറ്റ പ്രദർശിപ്പിക്കൽ
 
 നിങ്ങൾക്ക് [SQLite](https://sqlite.org/index.html) അടിസ്ഥാനമാക്കിയുള്ള [ഡാറ്റാബേസ്](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) ലഭിച്ചിട്ടുണ്ട്, ഇത് വിമാനത്താവളങ്ങളെക്കുറിച്ചുള്ള വിവരങ്ങൾ ഉൾക്കൊള്ളുന്നു. സ്കീമ താഴെ കാണിക്കുന്നു. വ്യത്യസ്ത നഗരങ്ങളിലെ വിമാനത്താവളങ്ങളുടെ വിവരങ്ങൾ പ്രദർശിപ്പിക്കാൻ നിങ്ങൾ [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) ൽ [SQLite വിപുലീകരണം](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) ഉപയോഗിക്കും.

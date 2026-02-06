@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-28T10:50:52+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "tr"
-}
--->
 # Python'da Veri İşleme Ödevi
 
 Bu ödevde, zorluklarımız sırasında geliştirmeye başladığımız kodu detaylandırmanızı isteyeceğiz. Ödev iki bölümden oluşmaktadır:

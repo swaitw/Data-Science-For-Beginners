@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-27T10:11:29+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "ur"
-}
--->
 # خطرناک تعلقات ڈیٹا ویژولائزیشن پروجیکٹ
 
 شروع کرنے کے لیے، یہ یقینی بنائیں کہ آپ کے سسٹم پر NPM اور Node انسٹال اور چل رہے ہیں۔ ڈپینڈنسیز انسٹال کریں (npm install) اور پھر پروجیکٹ کو لوکل طور پر چلائیں (npm run serve):

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:14:25+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "ru"
-}
--->
 # Руководство по установке
 
 Это руководство поможет вам настроить среду для работы с учебной программой «Основы Data Science».

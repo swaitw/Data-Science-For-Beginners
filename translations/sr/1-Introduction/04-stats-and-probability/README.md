@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T14:12:18+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "sr"
-}
--->
 # Кратак увод у статистику и вероватноћу
 
 |![ Скетч од [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Графички можемо представити однос између медијане и квартила у дијаграму који се назива **бокс плот**:
 
-<img src="images/boxplot_explanation.png" alt="Објашњење бокс плота" width="50%">
+<img src="../../../../translated_images/sr/boxplot_explanation.4039b7de08780fd4.webp" alt="Објашњење бокс плота" width="50%">
 
 Овде такође израчунавамо **интерквартилни опсег** IQR=Q3-Q1, и такозване **изузетке** - вредности које леже ван граница [Q1-1.5*IQR,Q3+1.5*IQR].
 

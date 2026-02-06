@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:33:29+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "el"
-}
--->
 # Μια Σύντομη Εισαγωγή στη Στατιστική και την Πιθανότητα
 
 |![ Σκίτσο από [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Γραφικά μπορούμε να αναπαραστήσουμε τη σχέση μεταξύ διαμέσου και τεταρτημορίων σε ένα διάγραμμα που ονομάζεται **κουτίγραμμα**:
 
-<img src="images/boxplot_explanation.png" alt="Επεξήγηση Κουτιγράμματος" width="50%">
+<img src="../../../../translated_images/el/boxplot_explanation.4039b7de08780fd4.webp" alt="Επεξήγηση Κουτιγράμματος" width="50%">
 
 Εδώ υπολογίζουμε επίσης το **εύρος μεταξύ τεταρτημορίων** IQR=Q3-Q1, και τις λεγόμενες **ακραίες τιμές** - τιμές που βρίσκονται εκτός των ορίων [Q1-1.5*IQR,Q3+1.5*IQR].
 

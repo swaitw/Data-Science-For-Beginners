@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-26T15:25:11+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "ro"
-}
--->
 # Tema: Scenarii de Știința Datelor
 
 În această primă temă, vă rugăm să vă gândiți la un proces sau o problemă din viața reală în diferite domenii și cum puteți să o îmbunătățiți folosind procesul de Știința Datelor. Gândiți-vă la următoarele:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-27T16:49:56+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਫਾਰਮ ਤੋਂ ਡਾਟਾ ਦਾ ਮੁਲਾਂਕਨ
 
 ਇੱਕ ਕਲਾਇੰਟ ਨੇ ਆਪਣੇ ਗਾਹਕਾਂ ਬਾਰੇ ਕੁਝ ਮੂਲ ਡਾਟਾ ਇਕੱਠਾ ਕਰਨ ਲਈ ਇੱਕ [ਛੋਟਾ ਫਾਰਮ](../../../../2-Working-With-Data/08-data-preparation/index.html) ਦੀ ਜਾਂਚ ਕੀਤੀ ਹੈ। ਉਹ ਆਪਣੇ ਨਤੀਜੇ ਤੁਹਾਡੇ ਕੋਲ ਲੈ ਕੇ ਆਏ ਹਨ ਤਾਂ ਕਿ ਤੁਸੀਂ ਇਕੱਠਾ ਕੀਤੇ ਡਾਟਾ ਦੀ ਪੁਸ਼ਟੀ ਕਰ ਸਕੋ। ਤੁਸੀਂ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ `index.html` ਪੇਜ ਖੋਲ੍ਹ ਕੇ ਫਾਰਮ ਨੂੰ ਦੇਖ ਸਕਦੇ ਹੋ।

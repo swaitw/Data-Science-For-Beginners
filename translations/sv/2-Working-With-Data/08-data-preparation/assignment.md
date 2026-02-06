@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-26T20:59:29+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "sv"
-}
--->
 # Utvärdera data från ett formulär
 
 En kund har testat ett [litet formulär](../../../../2-Working-With-Data/08-data-preparation/index.html) för att samla in grundläggande information om sin kundbas. De har tagit med sina resultat till dig för att validera den data de har samlat in. Du kan öppna sidan `index.html` i webbläsaren för att titta på formuläret.

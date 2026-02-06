@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-28T10:56:54+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "it"
-}
--->
 # Esplorare per trovare risposte
 
 Questa è una continuazione del [compito](../14-Introduction/assignment.md) della lezione precedente, in cui abbiamo dato un'occhiata veloce al set di dati. Ora esamineremo i dati in modo più approfondito.

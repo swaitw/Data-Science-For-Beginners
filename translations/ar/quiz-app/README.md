@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-27T09:46:27+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ar"
-}
--->
 # الاختبارات
 
 هذه الاختبارات هي اختبارات ما قبل وبعد المحاضرات لمنهج علم البيانات على الرابط https://aka.ms/datascience-beginners

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-28T18:18:24+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ms"
-}
--->
 # Menilai Data daripada Borang
 
 Seorang pelanggan telah menguji [borang kecil](../../../../2-Working-With-Data/08-data-preparation/index.html) untuk mengumpulkan beberapa data asas tentang pangkalan pelanggan mereka. Mereka telah membawa penemuan mereka kepada anda untuk mengesahkan data yang telah mereka kumpulkan. Anda boleh membuka halaman `index.html` dalam pelayar untuk melihat borang tersebut.

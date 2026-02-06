@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T12:58:29+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "ja"
-}
--->
 # 初心者向けデータサイエンスの例
 
 例のディレクトリへようこそ！このコレクションは、シンプルでコメントが充実した例を集めたもので、データサイエンスを始めたい初心者の方に最適です。

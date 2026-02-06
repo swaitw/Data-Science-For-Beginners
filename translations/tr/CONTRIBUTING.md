@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:59:29+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "tr"
-}
--->
 # Veri Bilimine Giriş için Katkıda Bulunma
 
 Veri Bilimine Giriş müfredatına katkıda bulunma ilginiz için teşekkür ederiz! Topluluktan gelen katkıları memnuniyetle karşılıyoruz.

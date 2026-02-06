@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-28T02:41:00+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "tl"
-}
--->
 # Proyekto ng Pagpapakita ng Datos ng Dangerous Liaisons
 
 Para makapagsimula, tiyakin na mayroon kang NPM at Node na tumatakbo sa iyong makina. I-install ang mga kinakailangang dependencies (npm install) at pagkatapos ay patakbuhin ang proyekto nang lokal (npm run serve):

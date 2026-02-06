@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:59:38+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "ta"
-}
--->
 # விமான நிலைய தரவுகளை காட்டுதல்
 
 உங்களுக்கு [SQLite](https://sqlite.org/index.html) அடிப்படையில் உருவாக்கப்பட்ட [தரவுத்தளம்](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) வழங்கப்பட்டுள்ளது, இது விமான நிலையங்கள் பற்றிய தகவல்களை கொண்டுள்ளது. கீழே உள்ள ஸ்கீமா காட்டப்பட்டுள்ளது. [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) இல் [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) பயன்படுத்தி, பல நகரங்களின் விமான நிலையங்களின் தகவல்களை நீங்கள் காட்டுவீர்கள்.

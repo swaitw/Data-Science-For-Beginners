@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ad163c4fda72c8278280b61cad317ff4",
-  "translation_date": "2025-12-19T16:17:01+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/assignment.md",
-  "language_code": "te"
-}
--->
 # లైన్లు, స్కాటర్స్ మరియు బార్లు
 
 ## సూచనలు

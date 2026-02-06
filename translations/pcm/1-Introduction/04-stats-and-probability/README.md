@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-11-18T18:36:15+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "pcm"
-}
--->
 # Small Introduction to Statistics and Probability
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|

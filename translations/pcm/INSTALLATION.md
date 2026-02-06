@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-11-18T18:15:45+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "pcm"
-}
--->
 # Installation Guide
 
 Dis guide go help you set up your environment to work with di Data Science for Beginners curriculum.

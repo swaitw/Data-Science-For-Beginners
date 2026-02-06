@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-24T22:13:00+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "pl"
-}
--->
 # Quizy
 
 Te quizy to quizy przed i po wykładach w ramach programu nauczania data science dostępnego na stronie https://aka.ms/datascience-beginners

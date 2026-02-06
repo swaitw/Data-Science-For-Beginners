@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-26T21:35:25+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "th"
-}
--->
 # การบ้าน: สถานการณ์ด้านวิทยาศาสตร์ข้อมูล
 
 ในงานแรกนี้ เราขอให้คุณคิดเกี่ยวกับกระบวนการหรือปัญหาในชีวิตจริงในหลากหลายโดเมนปัญหา และวิธีที่คุณสามารถปรับปรุงมันโดยใช้กระบวนการวิทยาศาสตร์ข้อมูล ลองพิจารณาสิ่งต่อไปนี้:

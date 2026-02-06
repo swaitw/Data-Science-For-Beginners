@@ -1,13 +1,4 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "33d252f7491b696d85df7f680e7e7b90",
-  "translation_date": "2026-01-16T11:01:38+00:00",
-  "source_file": "README.md",
-  "language_code": "ja"
-}
--->
-# データサイエンス入門 - カリキュラム
+# 初心者のためのデータサイエンス - カリキュラム
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198)
 
@@ -26,180 +17,183 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
-マイクロソフトのAzure Cloud Advocatesは、データサイエンスに関する10週間、全20レッスンのカリキュラムを提供しています。各レッスンには、事前・事後のクイズ、レッスンを完了するための文章による指示、解答例、課題が含まれています。プロジェクトベースの教授法により、学びながら実践でき、新しいスキルを確実に身につけることができます。
+MicrosoftのAzure Cloud Advocatesは、データサイエンスに関する全10週間、20レッスンのカリキュラムを提供しています。各レッスンには、レッスン前とレッスン後のクイズ、レッスンを完了するための文書化された指示、解答例、および課題が含まれています。プロジェクトベースの教授法により、実際に作りながら学ぶことで、新しいスキルが「定着」しやすくなります。
 
-**著者の皆様に心からの感謝を：** [Jasmine Greenaway](https://www.twitter.com/paladique), [Dmitry Soshnikov](http://soshnikov.com), [Nitya Narasimhan](https://twitter.com/nitya), [Jalen McGee](https://twitter.com/JalenMcG), [Jen Looper](https://twitter.com/jenlooper), [Maud Levy](https://twitter.com/maudstweets), [Tiffany Souterre](https://twitter.com/TiffanySouterre), [Christopher Harrison](https://www.twitter.com/geektrainer)。
+**著者の皆様に心より感謝いたします:** [Jasmine Greenaway](https://www.twitter.com/paladique)、[Dmitry Soshnikov](http://soshnikov.com)、[Nitya Narasimhan](https://twitter.com/nitya)、[Jalen McGee](https://twitter.com/JalenMcG)、[Jen Looper](https://twitter.com/jenlooper)、[Maud Levy](https://twitter.com/maudstweets)、[Tiffany Souterre](https://twitter.com/TiffanySouterre)、[Christopher Harrison](https://www.twitter.com/geektrainer)。
 
-**🙏 特別な感謝を [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/) の著者、レビュアー、コンテンツ貢献者の皆様へ🙏**、特に Aaryan Arora、[Aditya Garg](https://github.com/AdityaGarg00)、[Alondra Sanchez](https://www.linkedin.com/in/alondra-sanchez-molina/)、[Ankita Singh](https://www.linkedin.com/in/ankitasingh007)、[Anupam Mishra](https://www.linkedin.com/in/anupam--mishra/)、[Arpita Das](https://www.linkedin.com/in/arpitadas01/)、ChhailBihari Dubey、[Dibri Nsofor](https://www.linkedin.com/in/dibrinsofor)、[Dishita Bhasin](https://www.linkedin.com/in/dishita-bhasin-7065281bb)、[Majd Safi](https://www.linkedin.com/in/majd-s/)、[Max Blum](https://www.linkedin.com/in/max-blum-6036a1186/)、[Miguel Correa](https://www.linkedin.com/in/miguelmque/)、[Mohamma Iftekher (Iftu) Ebne Jalal](https://twitter.com/iftu119)、[Nawrin Tabassum](https://www.linkedin.com/in/nawrin-tabassum)、[Raymond Wangsa Putra](https://www.linkedin.com/in/raymond-wp/)、[Rohit Yadav](https://www.linkedin.com/in/rty2423)、Samridhi Sharma、[Sanya Sinha](https://www.linkedin.com/mwlite/in/sanya-sinha-13aab1200)、[Sheena Narula](https://www.linkedin.com/in/sheena-narua-n/)、[Tauqeer Ahmad](https://www.linkedin.com/in/tauqeerahmad5201/)、Yogendrasingh Pawar、[Vidushi Gupta](https://www.linkedin.com/in/vidushi-gupta07/)、[Jasleen Sondhi](https://www.linkedin.com/in/jasleen-sondhi/)
+**🙏 特別な感謝を [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/) の著者、レビュアー、コンテンツ提供者の皆様に🙏** 特にAaryan Arora、[Aditya Garg](https://github.com/AdityaGarg00)、[Alondra Sanchez](https://www.linkedin.com/in/alondra-sanchez-molina/)、[Ankita Singh](https://www.linkedin.com/in/ankitasingh007)、[Anupam Mishra](https://www.linkedin.com/in/anupam--mishra/)、[Arpita Das](https://www.linkedin.com/in/arpitadas01/)、ChhailBihari Dubey、[Dibri Nsofor](https://www.linkedin.com/in/dibrinsofor)、[Dishita Bhasin](https://www.linkedin.com/in/dishita-bhasin-7065281bb)、[Majd Safi](https://www.linkedin.com/in/majd-s/)、[Max Blum](https://www.linkedin.com/in/max-blum-6036a1186/)、[Miguel Correa](https://www.linkedin.com/in/miguelmque/)、[Mohamma Iftekher (Iftu) Ebne Jalal](https://twitter.com/iftu119)、[Nawrin Tabassum](https://www.linkedin.com/in/nawrin-tabassum)、[Raymond Wangsa Putra](https://www.linkedin.com/in/raymond-wp/)、[Rohit Yadav](https://www.linkedin.com/in/rty2423)、Samridhi Sharma、[Sanya Sinha](https://www.linkedin.com/mwlite/in/sanya-sinha-13aab1200)、[Sheena Narula](https://www.linkedin.com/in/sheena-narua-n/)、[Tauqeer Ahmad](https://www.linkedin.com/in/tauqeerahmad5201/)、Yogendrasingh Pawar、[Vidushi Gupta](https://www.linkedin.com/in/vidushi-gupta07/)、[Jasleen Sondhi](https://www.linkedin.com/in/jasleen-sondhi/)
 
-|![Sketchnote by @sketchthedocs https://sketchthedocs.dev](../../../../translated_images/ja/00-Title.8af36cd35da1ac55.webp)|
+|![Sketchnote by @sketchthedocs https://sketchthedocs.dev](../../translated_images/ja/00-Title.8af36cd35da1ac55.webp)|
 |:---:|
-| データサイエンス入門 - _スケッチノート：[@nitya](https://twitter.com/nitya)_ |
+| 初心者のためのデータサイエンス - _スケッチノート by [@nitya](https://twitter.com/nitya)_ |
 
 ### 🌐 多言語サポート
 
-#### GitHub Actionによるサポート（自動かつ常に最新）
+#### GitHub Action によるサポート（自動化＆常に最新）
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](./README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](./README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **ローカルでのクローンを希望しますか？**
+> **ローカルでクローンしたいですか？**
 
-> このリポジトリには50以上の言語翻訳が含まれており、ダウンロードサイズが大きくなっています。翻訳を含めずクローンするには、sparse checkoutを使用してください：
+> このリポジトリは50以上の言語翻訳を含んでおり、ダウンロードサイズが大きくなります。翻訳なしでクローンするにはスパースチェックアウトを使ってください：
 > ```bash
 > git clone --filter=blob:none --sparse https://github.com/microsoft/Data-Science-For-Beginners.git
 > cd Data-Science-For-Beginners
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
-> これにより、コースを完了するために必要なすべてをより高速にダウンロードできます。
+> これにより、このコースの完了に必要なすべてが、より高速にダウンロードできます。
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-**追加の翻訳言語のサポートを希望される場合は、[こちら](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)をご覧ください**
+**追加の翻訳言語をご希望の場合は、[こちら](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)をご覧ください。**
 
-#### コミュニティに参加しましょう
+#### コミュニティに参加しよう  
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-Discordで進行中の「AIと学ぶシリーズ」について詳しくは、[Learn with AI Series](https://aka.ms/learnwithai/discord) をご覧ください。2025年9月18日から30日まで開催。GitHub Copilotのデータサイエンスでの活用に関するコツも得られます。
+Discordでの「AIと学ぶシリーズ」が開催中です。詳細および参加はこちらから：[Learn with AI Series](https://aka.ms/learnwithai/discord) 2025年9月18日〜30日。GitHub Copilotをデータサイエンスで活用するコツやヒントが得られます。
 
-![Learn with AI series](../../../../translated_images/ja/1.2b28cdc6205e26fe.webp)
+![Learn with AI series](../../translated_images/ja/1.2b28cdc6205e26fe.webp)
 
-# あなたは学生ですか？
+# 学生のあなたへ
 
-以下のリソースから始めましょう：
+以下のリソースから始めましょう:
 
-- [学生ハブページ](https://docs.microsoft.com/en-gb/learn/student-hub?WT.mc_id=academic-77958-bethanycheum) このページには初心者向けリソース、学生パック、さらには無料認定バウチャーを取得する方法が記載されています。コンテンツは月に一度以上更新されるため、時々ブックマークしてチェックすることをお勧めします。
-- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-77958-bethanycheum) グローバルな学生アンバサダーのコミュニティに参加しましょう。マイクロソフトへの道が開かれます。
+- [Student Hub ページ](https://docs.microsoft.com/en-gb/learn/student-hub?WT.mc_id=academic-77958-bethanycheum) このページでは、初心者向けリソース、学生パック、無料認定バウチャーの取得方法などが見つかります。最低でも月1回はブックマークして内容をチェックするとよいでしょう。
+- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-77958-bethanycheum) グローバルな学生大使コミュニティに参加できます。Microsoftへの道を開くかもしれません。
 
 # はじめに
 
 ## 📚 ドキュメント
 
-- **[インストールガイド](INSTALLATION.md)** - 初心者向けのステップバイステップセットアップ手順
-- **[使い方ガイド](USAGE.md)** - 例と一般的なワークフロー
-- **[トラブルシューティング](TROUBLESHOOTING.md)** - よくある問題の解決策
-- **[コントリビュートガイド](CONTRIBUTING.md)** - プロジェクトへの貢献方法
-- **[先生向け](for-teachers.md)** - 授業指導と教室リソース
+- **[インストールガイド](INSTALLATION.md)** — 初心者向けのステップバイステップのセットアップ手順
+- **[使い方ガイド](USAGE.md)** — 例とよくあるワークフロー
+- **[トラブルシューティング](TROUBLESHOOTING.md)** — よくある問題の解決策
+- **[貢献ガイド](CONTRIBUTING.md)** — このプロジェクトへの貢献方法
+- **[教師用](for-teachers.md)** — 教育指導と授業用リソース
 
 ## 👨‍🎓 学生向け
-> **完全初心者向け**：データサイエンスが初めての方は、[初心者向けの例](examples/README.md)から始めましょう！シンプルでコメント付きの例が基本を理解するのに役立ちます。
-> **[学生向け](https://aka.ms/student-page)**: このカリキュラムを独自に利用する場合は、リポジトリ全体をフォークし、事前講義クイズから始めて課題を進めてください。講義を読んだら残りの活動を完了しましょう。解答コードをコピーするのではなく、内容を理解してプロジェクトを作成するよう心がけてください。解答コードは各プロジェクト指向レッスンの/solutionsフォルダーにあります。また、友人と勉強グループを作って一緒に学習するのも良いでしょう。さらに学習したい場合は [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum) をお勧めします。
+> **完全初心者の方へ**：データサイエンスが初めてですか？まずは[初心者向けの例](examples/README.md)から始めてください！これらのシンプルでコメント付きの例は、カリキュラムの全体に取り掛かる前に基礎を理解するのに役立ちます。
+> **[学生](https://aka.ms/student-page)**：このカリキュラムを自分で使うには、リポジトリ全体をフォークして、レッスン前のクイズから始めて演習を進めてください。その後、講義を読み、残りの活動を完了します。解答コードを単にコピーするのではなく、レッスン内容を理解してプロジェクトを作成することを推奨します。解答コードは各プロジェクト指向レッスンの /solutions フォルダーに用意されています。友人と学習グループを作り、一緒に内容を学ぶのも良い方法です。さらなる学習には、[Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum) をお勧めします。
 
-**クイックスタート：**
-1. [インストールガイド](INSTALLATION.md) を確認し環境をセットアップしてください
-2. [使い方ガイド](USAGE.md) に目を通し、カリキュラムの利用方法を学びましょう
-3. レッスン1から順に進めてください
-4. サポートが必要なら[Discordコミュニティ](https://aka.ms/ds4beginners/discord)に参加しましょう
+**クイックスタート:**
+1. 環境構築は [インストールガイド](INSTALLATION.md) を確認
+2. カリキュラムの使い方は [使い方ガイド](USAGE.md) を参照
+3. レッスン1から順に進める
+4. サポートが必要なら [Discordコミュニティ](https://aka.ms/ds4beginners/discord) に参加
 
 ## 👩‍🏫 教師向け
 
-> **先生方へ**：このカリキュラムの活用方法について[いくつかの提案](for-teachers.md)を含めています。ご意見は[ディスカッションフォーラム](https://github.com/microsoft/Data-Science-For-Beginners/discussions)でお待ちしています！
-
+> **教師の皆様へ**：[このカリキュラムの活用方法についての提案](for-teachers.md)を含めています。ぜひ [ディスカッションフォーラム](https://github.com/microsoft/Data-Science-For-Beginners/discussions) にてご意見をお寄せください！
 ## チーム紹介
-[![Promo video](../../ds-for-beginners.gif)](https://youtu.be/8mzavjQSMM4 "Promo video")
 
-**Gif by** [Mohit Jaisal](https://www.linkedin.com/in/mohitjaisal)
+[![プロモーションビデオ](../../ds-for-beginners.gif)](https://youtu.be/8mzavjQSMM4 "プロモーションビデオ")
 
-> 🎥 上の画像をクリックすると、このプロジェクトとそれを作成した人たちについてのビデオがご覧いただけます！
+**Gif作成者** [Mohit Jaisal](https://www.linkedin.com/in/mohitjaisal)
+
+> 🎥 上の画像をクリックすると、このプロジェクトとそれを作成した人々についてのビデオをご覧いただけます！
 
 ## 教育方針
 
-このカリキュラムを作成する際、私たちは2つの教育の原則を選びました：プロジェクトベースであることと、頻繁なクイズを含むこと。シリーズの最後には、学生はデータサイエンスの基本原則を学びます。これには倫理的な概念、データ準備、データのさまざまな扱い方、データ可視化、データ分析、データサイエンスの実世界の活用例などが含まれます。
+このカリキュラムを構築する際に、私たちは２つの教育の原則を選びました：プロジェクトベースであることと、頻繁にクイズを含めることです。このシリーズを終える頃には、学生はデータサイエンスの基本原則、倫理的概念、データ準備、さまざまなデータの扱い方、データビジュアライゼーション、データ分析、データサイエンスの実例などを学んでいることでしょう。
 
-さらに、授業前の低リスクのクイズは学生の学習意欲を高め、授業後の2回目のクイズは理解の定着を助けます。このカリキュラムは柔軟で楽しく学べるよう設計されており、全体または一部だけ取り組むことも可能です。プロジェクトは小さなものから始まり、10週間のサイクルの終わりにはより複雑になります。
+また、授業の前に行う低負荷のクイズは、学生が特定のトピックの学習に集中する意図を設定し、授業後のクイズがさらに記憶の定着を助けます。このカリキュラムは柔軟で楽しく設計されており、全体または一部だけでも受講できます。プロジェクトは小さく始まり、10週間のサイクルの終わりまでに徐々に複雑になります。
 
-> [行動規範](CODE_OF_CONDUCT.md)、[貢献ガイド](CONTRIBUTING.md)、[翻訳ガイド](TRANSLATIONS.md)をご覧ください。建設的なフィードバックを歓迎します！
+> 私たちの[行動規範](CODE_OF_CONDUCT.md)、[貢献ガイドライン](CONTRIBUTING.md)、[翻訳ガイドライン](TRANSLATIONS.md)もご覧ください。建設的なフィードバックをお待ちしています！
 
-## 各レッスンに含まれるもの：
+## 各レッスンには以下が含まれます：
 
 - 任意のスケッチノート
-- 任意の補足動画
-- 授業前ウォームアップクイズ
-- 書かれたレッスン内容
-- プロジェクトベースのレッスンには、プロジェクトを作成するためのステップバイステップガイド
-- 知識チェック
+- 任意の補足ビデオ
+- 授業前のウォームアップクイズ
+- 文章によるレッスン
+- プロジェクトベースのレッスンの場合、プロジェクトの段階的な作成ガイド
+- 知識確認
 - チャレンジ
-- 補足読書
+- 補助読書
 - 課題
-- [授業後クイズ](https://ff-quizzes.netlify.app/en/)
+- [授業後のクイズ](https://ff-quizzes.netlify.app/en/)
 
-> **クイズについての注意**：すべてのクイズはQuiz-Appフォルダーにあり、合計40回分の3問ずつのクイズです。レッスン内からリンクされていますが、クイズアプリはローカルでも起動でき、Azureに展開も可能です。`quiz-app`フォルダーの指示に従ってください。現在、順次ローカライズ中です。
+> **クイズについての注意**: 全てのクイズはQuiz-Appフォルダーに収められており、計40回のクイズで各回３問ずつあります。クイズはレッスン内からリンクされていますが、クイズアプリはローカルで実行したりAzureにデプロイすることも可能です。`quiz-app`フォルダーの指示に従ってください。現在、順次ローカライズが進められています。
 
-## 🎓 初心者向けの例
+## 🎓 初心者に優しい例
 
-**データサイエンスが初めてですか？** スタートアップに役立つシンプルでコメント付きのコードを集めた特別な[examplesディレクトリ](examples/README.md)を作成しました：
+**データサイエンスが初めてですか？** 簡単で丁寧にコメントされたコードを揃えた特別な[examplesディレクトリ](examples/README.md)をご用意しています：
 
-- 🌟 **Hello World** - 最初のデータサイエンスプログラム
-- 📂 **データの読み込み** - データセットの読み込みと探索を学ぶ
-- 📊 **シンプルな分析** - 統計計算とパターンの発見
-- 📈 **基本的な可視化** - チャートとグラフの作成
-- 🔬 **実世界プロジェクト** - 最初から最後までのワークフロー
+- 🌟 **Hello World** - あなたの最初のデータサイエンスプログラム
+- 📂 **データの読み込み** - データセットを読み込み、探索する方法を学びます
+- 📊 **簡単な分析** - 統計を計算しパターンを見つけます
+- 📈 **基本的なビジュアライゼーション** - チャートやグラフを作成します
+- 🔬 **実世界プロジェクト** - 初めから完成までのワークフローを体験します
 
-各例には詳細なコメントがあり、全ステップを説明しているため、完全な初心者にも最適です！
+各例には細かいコメントが全手順について説明されており、完全な初心者に最適です！
 
 👉 **[例から始める](examples/README.md)** 👈
 
 ## レッスン
 
 
-|![ @sketchthedocsによるスケッチノート https://sketchthedocs.dev](../../../../translated_images/ja/00-Roadmap.4905d6567dff4753.webp)|
+|![ @sketchthedocsによるスケッチノート https://sketchthedocs.dev](../../translated_images/ja/00-Roadmap.4905d6567dff4753.webp)|
 |:---:|
-| Data Science For Beginners: ロードマップ - _スケッチノート [@nitya](https://twitter.com/nitya)_ |
+| データサイエンス入門: ロードマップ - _[@nitya](https://twitter.com/nitya)によるスケッチノート_ |
 
 
-| レッスン番号 | トピック | レッスングループ | 学習目標 | 関連レッスン | 著者 |
+| レッスン番号 | トピック | レッスングループ | 学習目標 | リンクされたレッスン | 著者 |
 | :-----------: | :----------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :----: |
-| 01 | データサイエンスの定義 | [イントロダクション](1-Introduction/README.md) | データサイエンスの基本概念、人工知能、機械学習、ビッグデータとの関連性を学びます。 | [lesson](1-Introduction/01-defining-data-science/README.md) [video](https://youtu.be/beZ7Mb_oz9I) | [Dmitry](http://soshnikov.com) |
-| 02 | データサイエンス倫理 | [イントロダクション](1-Introduction/README.md) | データ倫理の概念、課題とフレームワーク。 | [lesson](1-Introduction/02-ethics/README.md) | [Nitya](https://twitter.com/nitya) |
-| 03 | データの定義 | [イントロダクション](1-Introduction/README.md) | データの分類と一般的なデータソース。 | [lesson](1-Introduction/03-defining-data/README.md) | [Jasmine](https://www.twitter.com/paladique) |
-| 04 | 統計学と確率の入門 | [イントロダクション](1-Introduction/README.md) | データを理解するための確率と統計の数学的手法。 | [lesson](1-Introduction/04-stats-and-probability/README.md) [video](https://youtu.be/Z5Zy85g4Yjw) | [Dmitry](http://soshnikov.com) |
-| 05 | リレーショナルデータの扱い | [データ操作](2-Working-With-Data/README.md) | リレーショナルデータの紹介と、SQL（シーケル）を使った探索と分析の基本。 | [lesson](2-Working-With-Data/05-relational-databases/README.md) | [Christopher](https://www.twitter.com/geektrainer) | | |
-| 06 | NoSQLデータの取り扱い | [データ操作](2-Working-With-Data/README.md) | 非リレーショナルデータの紹介、その種類とドキュメントデータベースの基本的な探索と分析。 | [lesson](2-Working-With-Data/06-non-relational/README.md) | [Jasmine](https://twitter.com/paladique)|
-| 07 | Pythonでの操作 | [データ操作](2-Working-With-Data/README.md) | Pandasなどのライブラリを使ったPythonによるデータ探索の基礎。Pythonの基礎知識が推奨されます。 | [lesson](2-Working-With-Data/07-python/README.md) [video](https://youtu.be/dZjWOGbsN4Y) | [Dmitry](http://soshnikov.com) |
-| 08 | データ準備 | [データ操作](2-Working-With-Data/README.md) | 欠損、不正確、不完全なデータの課題に対応するためのデータのクリーニングと変換技術。 | [lesson](2-Working-With-Data/08-data-preparation/README.md) | [Jasmine](https://www.twitter.com/paladique) |
-| 09 | 量の可視化 | [データ可視化](3-Data-Visualization/README.md) | Matplotlibを使って鳥データを可視化する方法 🦆 | [lesson](3-Data-Visualization/09-visualization-quantities/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 10 | データ分布の可視化 | [データ可視化](3-Data-Visualization/README.md) | 観測値と傾向を区間内で可視化。 | [lesson](3-Data-Visualization/10-visualization-distributions/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 11 | 割合の可視化 | [データ可視化](3-Data-Visualization/README.md) | 離散的かつグループ化されたパーセンテージの可視化。 | [lesson](3-Data-Visualization/11-visualization-proportions/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 12 | 関係性の可視化 | [データ可視化](3-Data-Visualization/README.md) | データや変数の集合間のつながりや相関を可視化。 | [lesson](3-Data-Visualization/12-visualization-relationships/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 13 | 意義のある可視化 | [データ可視化](3-Data-Visualization/README.md) | 有効な問題解決や洞察を得るための可視化の技術と指針。 | [lesson](3-Data-Visualization/13-meaningful-visualizations/README.md) | [Jen](https://twitter.com/jenlooper) |
-| 14 | データサイエンスライフサイクル入門 | [ライフサイクル](4-Data-Science-Lifecycle/README.md) | データサイエンスライフサイクルと最初のステップであるデータの取得と抽出についての紹介。 | [lesson](4-Data-Science-Lifecycle/14-Introduction/README.md) | [Jasmine](https://twitter.com/paladique) |
-| 15 | 分析 | [ライフサイクル](4-Data-Science-Lifecycle/README.md) | データサイエンスライフサイクルのこの段階では、データ分析手法に焦点を当てる。 | [lesson](4-Data-Science-Lifecycle/15-analyzing/README.md) | [Jasmine](https://twitter.com/paladique) | | |
-| 16 | コミュニケーション | [ライフサイクル](4-Data-Science-Lifecycle/README.md) | データからの洞察を意思決定者が理解しやすい形で伝えることに集中する段階。 | [lesson](4-Data-Science-Lifecycle/16-communication/README.md) | [Jalen](https://twitter.com/JalenMcG) | | |
-| 17 | クラウドにおけるデータサイエンス | [クラウドデータ](5-Data-Science-In-Cloud/README.md) | クラウドのデータサイエンスとその利点を紹介する一連のレッスン。 | [lesson](5-Data-Science-In-Cloud/17-Introduction/README.md) | [Tiffany](https://twitter.com/TiffanySouterre) and [Maud](https://twitter.com/maudstweets) |
-| 18 | クラウドにおけるデータサイエンス | [クラウドデータ](5-Data-Science-In-Cloud/README.md) | ローコードツールを使ったモデルのトレーニング。 |[lesson](5-Data-Science-In-Cloud/18-Low-Code/README.md) | [Tiffany](https://twitter.com/TiffanySouterre) and [Maud](https://twitter.com/maudstweets) |
-| 19 | クラウドにおけるデータサイエンス | [クラウドデータ](5-Data-Science-In-Cloud/README.md) | Azure Machine Learning Studioを使ったモデルのデプロイ。 | [lesson](5-Data-Science-In-Cloud/19-Azure/README.md)| [Tiffany](https://twitter.com/TiffanySouterre) and [Maud](https://twitter.com/maudstweets) |
-| 20 | 実世界のデータサイエンス | [実世界](6-Data-Science-In-Wild/README.md) | 実世界でのデータサイエンスに基づくプロジェクト。 | [lesson](6-Data-Science-In-Wild/20-Real-World-Examples/README.md) | [Nitya](https://twitter.com/nitya) |
+| 01 | データサイエンスの定義 | [Introduction](1-Introduction/README.md) | データサイエンスの基礎概念と、それが人工知能、機械学習、ビッグデータとどう関連するかを学ぶ。 | [lesson](1-Introduction/01-defining-data-science/README.md) [video](https://youtu.be/beZ7Mb_oz9I) | [Dmitry](http://soshnikov.com) |
+| 02 | データサイエンス倫理 | [Introduction](1-Introduction/README.md) | データ倫理の概念、課題、フレームワーク。 | [lesson](1-Introduction/02-ethics/README.md) | [Nitya](https://twitter.com/nitya) |
+| 03 | データの定義 | [Introduction](1-Introduction/README.md) | データの分類方法とその一般的なソース。 | [lesson](1-Introduction/03-defining-data/README.md) | [Jasmine](https://www.twitter.com/paladique) |
+| 04 | 統計学と確率の入門 | [Introduction](1-Introduction/README.md) | データを理解するための確率と統計の数学的手法。 | [lesson](1-Introduction/04-stats-and-probability/README.md) [video](https://youtu.be/Z5Zy85g4Yjw) | [Dmitry](http://soshnikov.com) |
+| 05 | リレーショナルデータの扱い方 | [Working With Data](2-Working-With-Data/README.md) | リレーショナルデータの入門と、構造化問い合わせ言語（SQL）を使った基本的な探索・分析の方法。 | [lesson](2-Working-With-Data/05-relational-databases/README.md) | [Christopher](https://www.twitter.com/geektrainer) | | |
+| 06 | NoSQLデータの扱い方 | [Working With Data](2-Working-With-Data/README.md) | 非リレーショナルデータの入門、その多様なタイプ、ドキュメントデータベースの基本的な探索と解析方法。 | [lesson](2-Working-With-Data/06-non-relational/README.md) | [Jasmine](https://twitter.com/paladique)|
+| 07 | Pythonでのデータ操作 | [Working With Data](2-Working-With-Data/README.md) | Pandasなどのライブラリを使ったPythonによるデータ探索の基礎。Pythonプログラミングの基礎理解が推奨されます。 | [lesson](2-Working-With-Data/07-python/README.md) [video](https://youtu.be/dZjWOGbsN4Y) | [Dmitry](http://soshnikov.com) |
+| 08 | データ準備 | [Working With Data](2-Working-With-Data/README.md) | 欠損、不正確、不完全なデータの課題に対処するためのクリーニングや変換の技術。 | [lesson](2-Working-With-Data/08-data-preparation/README.md) | [Jasmine](https://www.twitter.com/paladique) |
+| 09 | 量の可視化 | [Data Visualization](3-Data-Visualization/README.md) | Matplotlibを使った鳥データの可視化を学びます 🦆 | [lesson](3-Data-Visualization/09-visualization-quantities/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 10 | データ分布の可視化 | [Data Visualization](3-Data-Visualization/README.md) | 観測値や傾向を一定範囲内で視覚化。 | [lesson](3-Data-Visualization/10-visualization-distributions/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 11 | 割合の可視化 | [Data Visualization](3-Data-Visualization/README.md) | 離散的およびグループ化されたパーセンテージの可視化。 | [lesson](3-Data-Visualization/11-visualization-proportions/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 12 | 関係性の可視化 | [Data Visualization](3-Data-Visualization/README.md) | データセットとその変数間の関係性と相関の可視化。 | [lesson](3-Data-Visualization/12-visualization-relationships/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 13 | 意味のあるビジュアライゼーション | [Data Visualization](3-Data-Visualization/README.md) | 効果的な問題解決と洞察のために価値あるビジュアライゼーションを作成するテクニックと指針。 | [lesson](3-Data-Visualization/13-meaningful-visualizations/README.md) | [Jen](https://twitter.com/jenlooper) |
+| 14 | データサイエンスのライフサイクル入門 | [Lifecycle](4-Data-Science-Lifecycle/README.md) | データサイエンスのライフサイクルと、最初のステップであるデータ獲得と抽出の紹介。 | [lesson](4-Data-Science-Lifecycle/14-Introduction/README.md) | [Jasmine](https://twitter.com/paladique) |
+| 15 | 分析 | [Lifecycle](4-Data-Science-Lifecycle/README.md) | データサイエンスのライフサイクルのこのフェーズは、データを分析する技術に焦点を当てます。 | [lesson](4-Data-Science-Lifecycle/15-analyzing/README.md) | [Jasmine](https://twitter.com/paladique) | | |
+| 16 | コミュニケーション | [Lifecycle](4-Data-Science-Lifecycle/README.md) | データサイエンスのライフサイクルのこのフェーズは、意思決定者が理解しやすい形でデータから得られた洞察を伝えることに重点を置きます。 | [lesson](4-Data-Science-Lifecycle/16-communication/README.md) | [Jalen](https://twitter.com/JalenMcG) | | |
+| 17 | クラウドにおけるデータサイエンス | [Cloud Data](5-Data-Science-In-Cloud/README.md) | クラウドにおけるデータサイエンスとその利点の紹介。 | [lesson](5-Data-Science-In-Cloud/17-Introduction/README.md) | [Tiffany](https://twitter.com/TiffanySouterre) と [Maud](https://twitter.com/maudstweets) |
+| 18 | クラウドにおけるデータサイエンス | [Cloud Data](5-Data-Science-In-Cloud/README.md) | ローコードツールを使用したモデルのトレーニング。 |[lesson](5-Data-Science-In-Cloud/18-Low-Code/README.md) | [Tiffany](https://twitter.com/TiffanySouterre) と [Maud](https://twitter.com/maudstweets) |
+| 19 | クラウドにおけるデータサイエンス | [Cloud Data](5-Data-Science-In-Cloud/README.md) | Azure Machine Learning Studioを用いたモデルのデプロイ。 | [lesson](5-Data-Science-In-Cloud/19-Azure/README.md)| [Tiffany](https://twitter.com/TiffanySouterre) と [Maud](https://twitter.com/maudstweets) |
+| 20 | 現実世界のデータサイエンス | [In the Wild](6-Data-Science-In-Wild/README.md) | 現実世界で行われるデータサイエンス駆動のプロジェクト。 | [lesson](6-Data-Science-In-Wild/20-Real-World-Examples/README.md) | [Nitya](https://twitter.com/nitya) |
 
 ## GitHub Codespaces
 
-このサンプルをCodespaceで開くには以下の手順を実行してください：
-1. Codeのドロップダウンメニューをクリックし、「Open with Codespaces」オプションを選択します。
-2. ペインの下部で「+ New codespace」を選択します。
+このサンプルをCodespaceで開くには、以下の手順を実行してください：
+1. Codeドロップダウンメニューをクリックし、「Open with Codespaces」オプションを選択します。
+2. ペイン下部の「+ New codespace」を選択します。
 詳細は[GitHubのドキュメント](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace)をご覧ください。
 
 ## VSCode Remote - Containers
-このリポジトリをローカルマシンとVSCodeを使い、VS Code Remote - Containers拡張機能を利用してコンテナ内で開く手順：
 
-1. 開発用コンテナを初めて使う場合、[動作環境準備のドキュメント](https://code.visualstudio.com/docs/devcontainers/containers#_getting-started)にある必要条件（例：Dockerのインストールなど）を満たしているか確認してください。
+ローカルマシンとVSCodeのRemote - Containers拡張機能を使って、このリポジトリをコンテナ内で開くには以下の手順：
 
-このリポジトリを使うには、リポジトリを隔離されたDockerボリューム内で開く方法があります：
+1. 開発コンテナを初めて使う場合は、システムが[はじめにドキュメント](https://code.visualstudio.com/docs/devcontainers/containers#_getting-started)に記載の前提条件（例：Dockerのインストール）を満たしていることを確認してください。
 
-**メモ**：内部的には、ソースコードをローカルファイルシステムではなくDockerボリュームにクローンする「Remote-Containers: Clone Repository in Container Volume...」コマンドを使用します。[ボリューム](https://docs.docker.com/storage/volumes/)はコンテナデータの永続化に適しています。
+このリポジトリを使用するには、以下のいずれかを行います：
 
-またはローカルにクローンまたはダウンロードしたリポジトリを開く方法：
+ローカルのファイルシステムではなくDockerボリューム内でリポジトリを開く：
 
-- このリポジトリをローカルファイルシステムにクローンします。
-- F1キーを押して「Remote-Containers: Open Folder in Container...」コマンドを選択します。
-- クローンしたフォルダーを選び、コンテナの起動を待ち、試してみてください。
+**注意**：内部的には、Remote-Containersの「Clone Repository in Container Volume...」コマンドを使ってリポジトリのソースコードをDockerボリュームにクローンします。[ボリューム](https://docs.docker.com/storage/volumes/)はコンテナデータの永続化に推奨される方法です。
+
+またはローカルにクローンまたはダウンロードしたリポジトリを開く：
+
+- このリポジトリをローカルのファイルシステムにクローンします。
+- F1を押して「Remote-Containers: Open Folder in Container...」コマンドを選択します。
+- クローンしたフォルダーを選択し、コンテナの起動を待ってから試してみてください。
 
 ## オフラインアクセス
 
-[Docsify](https://docsify.js.org/#/)を使って、このドキュメントをオフラインで閲覧できます。リポジトリをフォークし、[Docsifyをローカルにインストール](https://docsify.js.org/#/quickstart)してから、このリポジトリのルートフォルダーで `docsify serve` と入力してください。ウェブサイトはlocalhostの3000ポートで提供されます：`localhost:3000`。
+[Docsify](https://docsify.js.org/#/)を使用してこのドキュメントをオフラインで閲覧可能です。このリポジトリをフォークし、ローカルマシンに[Docsifyをインストール](https://docsify.js.org/#/quickstart)してから、このリポジトリのルートフォルダで `docsify serve` を実行してください。ウェブサイトはローカルホストの3000番ポート（`localhost:3000`）でサーブされます。
 
-> 注意：ノートブックはDocsifyでレンダリングされないため、ノートブックを実行する場合はVS CodeのPythonカーネルで別途行ってください。
+> 注意：ノートブックはDocsifyではレンダリングされないため、ノートブックを実行する必要がある場合はPythonカーネルを動かすVS Code内で別途実行してください。
 
 ## その他のカリキュラム
 
-私たちのチームは他のカリキュラムも提供しています！ぜひご覧ください：
+私たちのチームは他のカリキュラムも提供しています！ご覧ください：
 
 <!-- CO-OP TRANSLATOR OTHER COURSES START -->
 ### LangChain
@@ -216,7 +210,7 @@ Discordで進行中の「AIと学ぶシリーズ」について詳しくは、[L
 
 ---
  
-### 生成AIシリーズ
+### 生成系AIシリーズ
 [![Generative AI for Beginners](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
 [![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
 [![Generative AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
@@ -224,7 +218,7 @@ Discordで進行中の「AIと学ぶシリーズ」について詳しくは、[L
 
 ---
  
-### コア学習
+### コアラーニング
 [![ML for Beginners](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
 [![Data Science for Beginners](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
 [![AI for Beginners](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
@@ -243,13 +237,13 @@ Discordで進行中の「AIと学ぶシリーズ」について詳しくは、[L
 
 ## ヘルプを得る
 
-**問題に直面していますか？** よくある問題の解決策については、[トラブルシューティングガイド](TROUBLESHOOTING.md)を確認してください。
+**問題が発生しましたか？** 一般的な問題の解決策については、[トラブルシューティングガイド](TROUBLESHOOTING.md)を参照してください。
 
-AIアプリの構築で詰まったり質問がある場合は、学習者や経験豊富な開発者と一緒にMCPについて話し合うコミュニティに参加してください。ここは質問が歓迎され、知識が自由に共有される支援的なコミュニティです。
+AIアプリの構築で立ち止まったり質問がある場合は、MCPに関する議論に参加してください。質問が歓迎され、知識が自由に共有されるサポートコミュニティです。
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-製品フィードバックや開発中のエラーについては、以下を訪問してください：
+製品のフィードバックや構築中のエラーがある場合は、こちらをご利用ください：
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
@@ -257,5 +251,5 @@ AIアプリの構築で詰まったり質問がある場合は、学習者や経
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **免責事項**：  
-本書類はAI翻訳サービス［Co-op Translator］(https://github.com/Azure/co-op-translator)を使用して翻訳されています。正確性には努めておりますが、自動翻訳には誤りや不正確な部分が含まれる可能性があります。原文の言語によるオリジナル資料が正本として取り扱われるべきです。重要な情報については、専門の翻訳者による翻訳をお勧めします。本翻訳の使用に起因するいかなる誤解や解釈の相違についても、当方は一切の責任を負いかねます。
+本書類はAI翻訳サービス「[Co-op Translator](https://github.com/Azure/co-op-translator)」を使用して翻訳されています。正確さには努めておりますが、自動翻訳には誤りや不正確な部分が含まれる場合があります。原文（原言語版）が正式な情報源とみなされるべきです。重要な情報については、専門の人間による翻訳を推奨します。本翻訳の使用により生じた誤解や解釈の相違について、当社は一切の責任を負いかねます。
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

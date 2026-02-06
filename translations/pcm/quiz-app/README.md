@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-11-18T18:17:41+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "pcm"
-}
--->
 # Quizzes
 
 Dis quizzes na di pre- and post-lecture quizzes for di data science curriculum wey dey https://aka.ms/datascience-beginners

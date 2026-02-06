@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:28:59+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "es"
-}
--->
 # Guía de Solución de Problemas
 
 Esta guía ofrece soluciones a problemas comunes que podrías encontrar mientras trabajas con el currículo de Ciencia de Datos para Principiantes.

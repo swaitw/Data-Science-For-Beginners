@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-24T21:44:36+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "pl"
-}
--->
 # Małe badanie nad cukrzycą
 
 W tym zadaniu będziemy pracować z małym zestawem danych pacjentów z cukrzycą, pobranym z [tutaj](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

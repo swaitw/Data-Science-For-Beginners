@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:44:12+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ms"
-}
--->
 # Panduan Penyelesaian Masalah
 
 Panduan ini menyediakan penyelesaian untuk isu-isu biasa yang mungkin anda hadapi semasa menggunakan kurikulum Data Science for Beginners.

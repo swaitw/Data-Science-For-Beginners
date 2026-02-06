@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:58:01+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "sk"
-}
--->
 # Zobrazenie údajov o letiskách
 
 Dostali ste [databázu](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) postavenú na [SQLite](https://sqlite.org/index.html), ktorá obsahuje informácie o letiskách. Schéma je zobrazená nižšie. Použijete [rozšírenie SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) v [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) na zobrazenie informácií o letiskách v rôznych mestách.

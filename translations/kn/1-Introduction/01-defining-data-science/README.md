@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "43212cc1ac137b7bb1dcfb37ca06b0f4",
-  "translation_date": "2025-12-19T13:39:07+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ಸೈನ್ಸ್ ಅನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುವುದು
 
 | ![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರಿಂದ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/01-Definitions.png) |

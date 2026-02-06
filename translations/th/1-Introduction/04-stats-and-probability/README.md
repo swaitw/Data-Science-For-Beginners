@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:34:44+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "th"
-}
--->
 # บทนำสั้น ๆ เกี่ยวกับสถิติและความน่าจะเป็น
 
 |![ Sketchnote โดย [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 เราสามารถแสดงความสัมพันธ์ระหว่างค่าเมดียนและควอร์ไทล์ในแผนภาพที่เรียกว่า **กล่องแผนภาพ**:
 
-<img src="images/boxplot_explanation.png" alt="Box Plot Explanation" width="50%">
+<img src="../../../../translated_images/th/boxplot_explanation.4039b7de08780fd4.webp" alt="Box Plot Explanation" width="50%">
 
 ที่นี่เรายังคำนวณ **ช่วงระหว่างควอร์ไทล์** IQR=Q3-Q1 และค่าที่เรียกว่า **ค่าผิดปกติ** - ค่าที่อยู่นอกขอบเขต [Q1-1.5*IQR,Q3+1.5*IQR]
 

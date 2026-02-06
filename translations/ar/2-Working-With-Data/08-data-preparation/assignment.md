@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-27T08:29:38+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ar"
-}
--->
 # تقييم البيانات من نموذج
 
 قام أحد العملاء باختبار [نموذج صغير](../../../../2-Working-With-Data/08-data-preparation/index.html) لجمع بعض البيانات الأساسية عن قاعدة عملائهم. وقد أحضروا النتائج التي حصلوا عليها إليك للتحقق من صحة البيانات التي جمعوها. يمكنك فتح صفحة `index.html` في المتصفح لإلقاء نظرة على النموذج.

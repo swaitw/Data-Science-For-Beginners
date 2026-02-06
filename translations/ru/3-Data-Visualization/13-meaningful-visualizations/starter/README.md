@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-27T10:11:15+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "ru"
-}
--->
 # Проект визуализации данных "Опасные связи"
 
 Чтобы начать работу, убедитесь, что у вас установлены NPM и Node на вашем компьютере. Установите зависимости (npm install), а затем запустите проект локально (npm run serve):

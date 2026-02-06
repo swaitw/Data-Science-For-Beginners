@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-27T08:30:01+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "bn"
-}
--->
 # একটি ফর্ম থেকে ডেটা মূল্যায়ন
 
 একজন ক্লায়েন্ট তাদের গ্রাহক-ভিত্তি সম্পর্কে কিছু মৌলিক তথ্য সংগ্রহ করার জন্য একটি [ছোট ফর্ম](../../../../2-Working-With-Data/08-data-preparation/index.html) পরীক্ষা করেছেন। তারা তাদের সংগ্রহ করা ডেটা যাচাই করার জন্য আপনার কাছে এনেছেন। ফর্মটি দেখতে আপনি ব্রাউজারে `index.html` পৃষ্ঠাটি খুলতে পারেন।

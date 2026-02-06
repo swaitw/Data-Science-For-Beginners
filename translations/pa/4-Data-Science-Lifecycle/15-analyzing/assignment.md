@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-27T18:03:07+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਜਵਾਬਾਂ ਦੀ ਖੋਜ ਕਰਨਾ
 
 ਇਹ ਪਿਛਲੇ ਪਾਠ ਦੇ [ਅਸਾਈਨਮੈਂਟ](../14-Introduction/assignment.md) ਦੀ ਜਾਰੀ ਹੈ, ਜਿੱਥੇ ਅਸੀਂ ਡਾਟਾ ਸੈਟ ਦਾ ਥੋੜ੍ਹਾ ਜਿਹਾ ਜਾਇਜ਼ਾ ਲਿਆ ਸੀ। ਹੁਣ ਅਸੀਂ ਡਾਟਾ ਨੂੰ ਗਹਿਰਾਈ ਨਾਲ ਦੇਖਾਂਗੇ।

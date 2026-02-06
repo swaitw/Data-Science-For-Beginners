@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-24T21:32:10+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "fa"
-}
--->
 # تکلیف: سناریوهای علم داده
 
 در این اولین تکلیف، از شما خواسته می‌شود که به یک فرآیند یا مشکل واقعی در حوزه‌های مختلف فکر کنید و بررسی کنید که چگونه می‌توانید با استفاده از فرآیند علم داده آن را بهبود دهید. به موارد زیر فکر کنید:

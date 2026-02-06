@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "3a848466cb63aff1a93411affb152c2a",
-  "translation_date": "2025-12-19T13:32:13+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "kn"
-}
--->
 ಎಲ್ಲಾ ಸ್ಕೆಚ್‌ನೋಟ್ಗಳನ್ನು ಇಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ!
 
 ## ಕ್ರೆಡಿಟ್ಸ್

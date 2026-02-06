@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-26T16:48:20+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "sw"
-}
--->
 # Mradi wa taswira ya data ya Dangerous Liaisons
 
 Ili kuanza, hakikisha kuwa una NPM na Node zinazoendesha kwenye kompyuta yako. Sakinisha utegemezi (npm install) kisha endesha mradi huo kwa ndani (npm run serve):

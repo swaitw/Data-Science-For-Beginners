@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-27T09:57:30+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "ur"
-}
--->
 # جوابات کی تلاش
 
 یہ پچھلے سبق کے [assignment](../14-Introduction/assignment.md) کا تسلسل ہے، جہاں ہم نے ڈیٹا سیٹ پر مختصر نظر ڈالی تھی۔ اب ہم ڈیٹا کو مزید گہرائی سے دیکھیں گے۔

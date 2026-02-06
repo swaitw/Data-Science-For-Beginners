@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8fdc4a5fd9bc27a8d2ebef995dfbf73f",
-  "translation_date": "2025-08-26T16:04:08+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/assignment.md",
-  "language_code": "sw"
-}
--->
 # Mradi wa Sayansi ya Takwimu wa Low code/No code kwenye Azure ML
 
 ## Maelekezo

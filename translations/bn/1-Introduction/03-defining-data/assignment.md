@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "2e5cacb967c1e9dfd07809bfc441a0b4",
-  "translation_date": "2025-08-27T09:08:41+00:00",
-  "source_file": "1-Introduction/03-defining-data/assignment.md",
-  "language_code": "bn"
-}
--->
 # ডেটাসেট শ্রেণীবিন্যাস
 
 ## নির্দেশাবলী

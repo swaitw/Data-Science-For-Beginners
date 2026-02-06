@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "680419753c086eef51be86607c623945",
-  "translation_date": "2025-08-24T22:42:22+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/assignment.md",
-  "language_code": "hi"
-}
--->
 # मधुमक्खी के छत्ते में गोता लगाएं
 
 ## निर्देश

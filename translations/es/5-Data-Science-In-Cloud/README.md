@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "8dfe141a0f46f7d253e07f74913c7f44",
-  "translation_date": "2025-08-24T21:52:29+00:00",
-  "source_file": "5-Data-Science-In-Cloud/README.md",
-  "language_code": "es"
-}
--->
 # Ciencia de Datos en la Nube
 
 ![cloud-picture](../../../translated_images/es/cloud-picture.f5526de3c6c6387b.webp)

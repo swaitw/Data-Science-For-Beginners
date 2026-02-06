@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "abc3309ab41bc5a7846f70ee1a055838",
-  "translation_date": "2025-08-27T08:19:17+00:00",
-  "source_file": "2-Working-With-Data/README.md",
-  "language_code": "bn"
-}
--->
 # ডেটা নিয়ে কাজ করা
 
 ![ডেটার প্রতি ভালোবাসা](../../../translated_images/bn/data-love.a22ef29e6742c852505ada062920956d3d7604870b281a8ca7c7ac6f37381d5a.jpg)

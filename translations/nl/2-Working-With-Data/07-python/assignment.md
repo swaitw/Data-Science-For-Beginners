@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-28T15:17:02+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "nl"
-}
--->
 # Opdracht voor Gegevensverwerking in Python
 
 In deze opdracht vragen we je om verder te werken aan de code die we zijn begonnen te ontwikkelen in onze uitdagingen. De opdracht bestaat uit twee delen:

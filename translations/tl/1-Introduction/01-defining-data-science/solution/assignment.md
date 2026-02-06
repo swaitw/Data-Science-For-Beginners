@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-28T02:45:41+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "tl"
-}
--->
 # Takdang-Aralin: Mga Senaryo sa Data Science
 
 Sa unang takdang-aralin na ito, hinihiling namin sa iyo na pag-isipan ang ilang totoong proseso o problema sa iba't ibang larangan, at kung paano mo ito mapapabuti gamit ang proseso ng Data Science. Pag-isipan ang mga sumusunod:

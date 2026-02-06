@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-12-19T12:52:41+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "te"
-}
--->
 # సమస్య పరిష్కరణ గైడ్
 
 ఈ గైడ్ Data Science for Beginners పాఠ్యాంశంతో పని చేస్తూ మీరు ఎదుర్కొనే సాధారణ సమస్యలకు పరిష్కారాలను అందిస్తుంది.

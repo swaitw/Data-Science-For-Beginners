@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-28T10:50:40+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "it"
-}
--->
 # Compito per l'elaborazione dei dati in Python
 
 In questo compito, ti chiederemo di approfondire il codice che abbiamo iniziato a sviluppare nelle nostre sfide. Il compito è suddiviso in due parti:

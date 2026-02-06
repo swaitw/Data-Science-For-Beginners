@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-24T22:34:02+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "de"
-}
--->
 # Datenvisualisierungsprojekt "Gefährliche Liebschaften"
 
 Um loszulegen, stellen Sie sicher, dass NPM und Node auf Ihrem Rechner laufen. Installieren Sie die Abhängigkeiten (npm install) und führen Sie das Projekt anschließend lokal aus (npm run serve):

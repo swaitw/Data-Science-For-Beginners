@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:58:31+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "sr"
-}
--->
 # Приказивање података о аеродромима
 
 Добијена вам је [база података](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) заснована на [SQLite](https://sqlite.org/index.html) која садржи информације о аеродромима. Шема је приказана испод. Користићете [SQLite екстензију](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) у [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) за приказивање информација о аеродромима у различитим градовима.

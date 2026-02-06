@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "bd4da10766c64fce4294a98f6479dfb0",
-  "translation_date": "2025-09-05T23:30:11+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/README.md",
-  "language_code": "vi"
-}
--->
 # Khoa học Dữ liệu trên Đám mây: Phương pháp "Ít mã/Không mã"
 
 |![ Sketchnote của [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/18-DataScience-Cloud.png)|

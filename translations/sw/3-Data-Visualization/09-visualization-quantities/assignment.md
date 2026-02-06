@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ad163c4fda72c8278280b61cad317ff4",
-  "translation_date": "2025-08-26T17:26:41+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/assignment.md",
-  "language_code": "sw"
-}
--->
 # Mistari, Mchoro wa Nukta na Mchoro wa Mstari wa Nguzo
 
 ## Maelekezo

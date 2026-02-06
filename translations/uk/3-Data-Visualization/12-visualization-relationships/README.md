@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0764fd4077f3f04a1d968ec371227744",
-  "translation_date": "2025-09-06T11:50:55+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/README.md",
-  "language_code": "uk"
-}
--->
 # Візуалізація взаємозв'язків: усе про мед 🍯
 
 |![ Скетчнот від [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/12-Visualizing-Relationships.png)|

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-26T22:46:21+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "th"
-}
--->
 # โครงการการแสดงข้อมูล Dangerous Liaisons
 
 เพื่อเริ่มต้น คุณต้องตรวจสอบให้แน่ใจว่าคุณมี NPM และ Node ทำงานอยู่ในเครื่องของคุณ ติดตั้ง dependencies (npm install) และจากนั้นรันโปรเจกต์ในเครื่องของคุณ (npm run serve):

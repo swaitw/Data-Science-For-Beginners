@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-25T17:40:28+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ko"
-}
--->
 # 퀴즈
 
 이 퀴즈는 데이터 과학 커리큘럼의 강의 전후 퀴즈로, https://aka.ms/datascience-beginners에서 확인할 수 있습니다.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:15:56+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "en"
-}
--->
 # Contributing to Data Science for Beginners
 
 Thank you for your interest in contributing to the Data Science for Beginners curriculum! We welcome contributions from the community.

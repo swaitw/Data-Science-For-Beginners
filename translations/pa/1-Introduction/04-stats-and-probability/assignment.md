@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-27T17:29:06+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "pa"
-}
--->
 # ਛੋਟੀ ਡਾਇਬਟੀਜ਼ ਅਧਿਐਨ
 
 ਇਸ ਅਸਾਈਨਮੈਂਟ ਵਿੱਚ, ਅਸੀਂ ਡਾਇਬਟੀਜ਼ ਮਰੀਜ਼ਾਂ ਦੇ ਇੱਕ ਛੋਟੇ ਡਾਟਾਸੈੱਟ ਨਾਲ ਕੰਮ ਕਰਾਂਗੇ ਜੋ [ਇਥੋਂ](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html) ਲਿਆ ਗਿਆ ਹੈ।

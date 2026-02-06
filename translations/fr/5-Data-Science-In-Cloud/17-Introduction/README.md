@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f8e7cdefa096664ae86f795be571580",
-  "translation_date": "2025-09-05T12:18:33+00:00",
-  "source_file": "5-Data-Science-In-Cloud/17-Introduction/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction à la Science des Données dans le Cloud
 
 |![ Sketchnote par [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/17-DataScience-Cloud.png)|

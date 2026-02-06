@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-28T18:18:11+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "vi"
-}
--->
 # Đánh giá Dữ liệu từ một Biểu mẫu
 
 Một khách hàng đã thử nghiệm một [biểu mẫu nhỏ](../../../../2-Working-With-Data/08-data-preparation/index.html) để thu thập một số dữ liệu cơ bản về nhóm khách hàng của họ. Họ đã mang kết quả thu thập được đến bạn để xác thực dữ liệu. Bạn có thể mở trang `index.html` trong trình duyệt để xem biểu mẫu.

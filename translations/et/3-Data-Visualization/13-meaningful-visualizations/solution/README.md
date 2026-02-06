@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-10-11T15:57:08+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "et"
-}
--->
 # Ohtlike suhete andmete visualiseerimise projekt
 
 Alustamiseks veendu, et NPM ja Node töötavad sinu arvutis. Paigalda sõltuvused (npm install) ja käivita projekt kohalikult (npm run serve):

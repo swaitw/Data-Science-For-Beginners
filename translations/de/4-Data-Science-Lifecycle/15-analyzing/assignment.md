@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-24T22:20:02+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "de"
-}
--->
 # Antworten erkunden
 
 Dies ist eine Fortsetzung der [Aufgabe](../14-Introduction/assignment.md) aus der vorherigen Lektion, in der wir einen kurzen Blick auf den Datensatz geworfen haben. Jetzt werden wir den Datensatz genauer untersuchen.

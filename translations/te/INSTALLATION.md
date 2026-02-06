@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-12-19T13:10:17+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "te"
-}
--->
 # ఇన్‌స్టాలేషన్ గైడ్
 
 ఈ గైడ్ మీకు Data Science for Beginners పాఠ్యాంశంతో పని చేయడానికి మీ వాతావరణాన్ని సెట్ చేయడంలో సహాయపడుతుంది.

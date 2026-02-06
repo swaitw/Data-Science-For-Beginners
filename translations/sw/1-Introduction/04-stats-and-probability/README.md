@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:58:55+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "sw"
-}
--->
 # Utangulizi Mfupi wa Takwimu na Uwezekano
 
 |![ Sketchnote na [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Ili kutusaidia kuelewa usambazaji wa data, ni muhimu kuzungumzia **robo**:
 
 Kigrafu tunaweza kuwakilisha uhusiano kati ya median na robo katika mchoro unaoitwa **box plot**:
 
-<img src="images/boxplot_explanation.png" alt="Maelezo ya Box Plot" width="50%">
+<img src="../../../../translated_images/sw/boxplot_explanation.4039b7de08780fd4.webp" alt="Maelezo ya Box Plot" width="50%">
 
 Hapa pia tunahesabu **nafasi ya kati ya robo** IQR=Q3-Q1, na kinachoitwa **outliers** - thamani ambazo ziko nje ya mipaka [Q1-1.5*IQR,Q3+1.5*IQR].
 

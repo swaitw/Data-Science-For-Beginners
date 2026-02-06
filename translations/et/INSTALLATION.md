@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-11T15:14:44+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "et"
-}
--->
 # Paigaldusjuhend
 
 See juhend aitab teil seadistada oma keskkonda, et töötada algajatele mõeldud andmeteaduse õppekavaga.

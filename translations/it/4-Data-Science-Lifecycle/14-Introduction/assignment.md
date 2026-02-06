@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-28T10:59:35+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "it"
-}
--->
 # Valutare un Dataset
 
 Un cliente si è rivolto al tuo team per ricevere aiuto nell'analisi delle abitudini stagionali di spesa dei clienti dei taxi a New York City.

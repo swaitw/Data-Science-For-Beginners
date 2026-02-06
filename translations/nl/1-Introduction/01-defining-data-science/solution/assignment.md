@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-28T15:51:59+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "nl"
-}
--->
 # Opdracht: Data Science Scenario's
 
 In deze eerste opdracht vragen we je na te denken over een echt proces of probleem in verschillende domeinen, en hoe je dit kunt verbeteren met behulp van het Data Science-proces. Denk aan het volgende:

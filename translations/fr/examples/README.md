@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T12:55:12+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "fr"
-}
--->
 # Exemples de Data Science pour Débutants
 
 Bienvenue dans le répertoire des exemples ! Cette collection d'exemples simples et bien commentés est conçue pour vous aider à débuter en data science, même si vous êtes complètement novice.

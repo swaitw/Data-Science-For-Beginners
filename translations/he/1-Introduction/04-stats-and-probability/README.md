@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:48:00+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "he"
-}
--->
 # מבוא קצר לסטטיסטיקה ותורת ההסתברות
 
 |![ סקיצה מאת [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ניתן לייצג באופן גרפי את הקשר בין החציון לרבעונים בדיאגרמה שנקראת **תיבת נתונים**:
 
-<img src="images/boxplot_explanation.png" alt="הסבר על תיבת נתונים" width="50%">
+<img src="../../../../translated_images/he/boxplot_explanation.4039b7de08780fd4.webp" alt="הסבר על תיבת נתונים" width="50%">
 
 כאן אנו גם מחשבים את **טווח הרבעונים** IQR=Q3-Q1, ואת מה שנקרא **ערכים חריגים** - ערכים שנמצאים מחוץ לגבולות [Q1-1.5*IQR,Q3+1.5*IQR].
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T21:07:04+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "th"
-}
--->
 # งานสำหรับการประมวลผลข้อมูลใน Python
 
 ในงานนี้ เราจะขอให้คุณขยายความจากโค้ดที่เราเริ่มพัฒนาไว้ในความท้าทายก่อนหน้า งานนี้แบ่งออกเป็นสองส่วน:

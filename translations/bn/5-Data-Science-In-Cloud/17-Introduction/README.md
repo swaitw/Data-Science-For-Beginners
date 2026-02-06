@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5f8e7cdefa096664ae86f795be571580",
-  "translation_date": "2025-09-06T07:06:38+00:00",
-  "source_file": "5-Data-Science-In-Cloud/17-Introduction/README.md",
-  "language_code": "bn"
-}
--->
 # ক্লাউডে ডেটা সায়েন্সের পরিচিতি
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) এর স্কেচনোট ](../../sketchnotes/17-DataScience-Cloud.png)|

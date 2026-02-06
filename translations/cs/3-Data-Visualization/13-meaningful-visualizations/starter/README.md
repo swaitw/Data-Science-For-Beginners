@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-26T16:47:54+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "cs"
-}
--->
 # Projekt vizualizace dat Dangerous Liaisons
 
 Než začnete, ujistěte se, že máte na svém počítači nainstalované NPM a Node. Nainstalujte závislosti (npm install) a poté spusťte projekt lokálně (npm run serve):

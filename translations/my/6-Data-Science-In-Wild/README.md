@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-08-30T19:51:37+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "my"
-}
--->
 # တောထဲက ဒေတာသိပ္ပံ
 
 စက်မှုလုပ်ငန်းများအနှံ့ ဒေတာသိပ္ပံ၏ အမှန်တကယ်အသုံးချမှုများ။

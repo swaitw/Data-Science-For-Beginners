@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:30:25+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ar"
-}
--->
 # دليل استكشاف الأخطاء وإصلاحها
 
 يوفر هذا الدليل حلولًا للمشكلات الشائعة التي قد تواجهها أثناء العمل مع منهج "علم البيانات للمبتدئين".

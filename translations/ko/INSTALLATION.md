@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:17:24+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "ko"
-}
--->
 # 설치 가이드
 
 이 가이드는 초보자를 위한 데이터 과학 커리큘럼을 작업할 수 있도록 환경을 설정하는 방법을 안내합니다.

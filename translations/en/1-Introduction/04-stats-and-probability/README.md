@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T12:44:20+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "en"
-}
--->
 # A Brief Introduction to Statistics and Probability
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ To better understand the distribution of data, we use **quartiles**:
 
 The relationship between the median and quartiles can be visualized using a **box plot**:
 
-<img src="images/boxplot_explanation.png" alt="Box Plot Explanation" width="50%">
+<img src="../../../../translated_images/en/boxplot_explanation.4039b7de08780fd4.webp" alt="Box Plot Explanation" width="50%">
 
 We also calculate the **interquartile range** (IQR=Q3-Q1) and identify **outliers**—values outside the range [Q1-1.5*IQR, Q3+1.5*IQR].
 

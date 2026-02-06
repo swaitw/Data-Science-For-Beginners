@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-27T08:37:27+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "bn"
-}
--->
 # পাইথনে ডেটা প্রসেসিংয়ের জন্য অ্যাসাইনমেন্ট
 
 এই অ্যাসাইনমেন্টে, আমরা আপনাকে আমাদের চ্যালেঞ্জগুলিতে শুরু করা কোডটি আরও বিস্তারিতভাবে ব্যাখ্যা করতে বলব। অ্যাসাইনমেন্টটি দুইটি অংশে বিভক্ত:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:24:14+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "ar"
-}
--->
 # المساهمة في منهج علم البيانات للمبتدئين
 
 شكرًا لاهتمامك بالمساهمة في منهج علم البيانات للمبتدئين! نحن نرحب بمساهمات المجتمع.

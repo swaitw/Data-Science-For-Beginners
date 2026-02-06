@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "7bfec050f4717dcc2dfd028aca9d21f3",
-  "translation_date": "2025-09-06T15:51:08+00:00",
-  "source_file": "2-Working-With-Data/07-python/README.md",
-  "language_code": "vi"
-}
--->
 # Làm việc với Dữ liệu: Python và Thư viện Pandas
 
 | ![ Sketchnote của [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |

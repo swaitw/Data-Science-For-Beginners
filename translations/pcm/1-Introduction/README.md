@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "696a8474a01054281704cbfb09148949",
-  "translation_date": "2025-11-18T18:29:11+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "pcm"
-}
--->
 # Introduction to Data Science
 
 ![data dey work](../../../translated_images/pcm/data.48e22bb7617d8d92.webp)

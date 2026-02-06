@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-26T22:47:24+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "fi"
-}
--->
 # Dangerous Liaisons -datavisualisointiprojekti
 
 Aloittaaksesi varmista, että sinulla on NPM ja Node asennettuna koneellesi. Asenna riippuvuudet (npm install) ja aja projekti paikallisesti (npm run serve):

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cfb068050337a36e348debaa502a24fa",
-  "translation_date": "2025-09-05T14:39:31+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/README.md",
-  "language_code": "pl"
-}
--->
 # Tworzenie Znaczących Wizualizacji
 
 |![ Sketchnote autorstwa [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/13-MeaningfulViz.png)|

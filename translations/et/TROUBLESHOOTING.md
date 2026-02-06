@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-11T15:15:34+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "et"
-}
--->
 # Tõrkeotsingu juhend
 
 See juhend pakub lahendusi levinud probleemidele, millega võite kokku puutuda Data Science for Beginners õppekava kasutamisel.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dd173fd30fc039a7a299898920680723",
-  "translation_date": "2025-12-19T13:24:15+00:00",
-  "source_file": "4-Data-Science-Lifecycle/README.md",
-  "language_code": "te"
-}
--->
 # డేటా సైన్స్ లైఫ్‌సైకిల్
 
 ![communication](../../../translated_images/te/communication.06d8e2a88d30d168d661ad9f9f0a4f947ebff3719719cfdaf9ed00a406a01ead.jpg)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-12-19T13:36:29+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "te"
-}
--->
 # Data Science in the Wild
 
 విభిన్న పరిశ్రమలలో డేటా సైన్స్ యొక్క వాస్తవ ప్రపంచ అనువర్తనాలు.

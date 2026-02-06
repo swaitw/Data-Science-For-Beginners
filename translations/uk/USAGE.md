@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:12:33+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "uk"
-}
--->
 # Посібник з використання
 
 Цей посібник надає приклади та поширені робочі процеси для використання навчальної програми "Data Science for Beginners".
