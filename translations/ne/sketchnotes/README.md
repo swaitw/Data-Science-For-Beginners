@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "3a848466cb63aff1a93411affb152c2a",
-  "translation_date": "2025-08-27T17:29:36+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "ne"
-}
--->
 सबै स्केच नोटहरू यहाँ भेट्नुहोस्!
 
 ## श्रेय

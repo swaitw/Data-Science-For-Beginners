@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-08-26T15:43:53+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "sw"
-}
--->
 # Sayansi ya Takwimu Katika Mazingira Halisi
 
 Matumizi ya sayansi ya takwimu katika sekta mbalimbali za maisha halisi.

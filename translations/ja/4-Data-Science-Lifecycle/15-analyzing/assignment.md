@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-25T17:48:18+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "ja"
-}
--->
 # 答えを探る
 
 これは前回のレッスンの[課題](../14-Introduction/assignment.md)の続きで、データセットを簡単に見たところから始まります。今回はデータをさらに深く掘り下げていきます。

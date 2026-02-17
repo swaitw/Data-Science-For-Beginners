@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f824bfdb8b12d33293913f76f5c787c5",
-  "translation_date": "2025-08-25T16:36:40+00:00",
-  "source_file": "2-Working-With-Data/06-non-relational/assignment.md",
-  "language_code": "ja"
-}
--->
 # ソーダの利益
 
 ## 指示

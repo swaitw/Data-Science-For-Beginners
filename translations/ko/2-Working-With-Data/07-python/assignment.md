@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-25T16:31:55+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "ko"
-}
--->
 # 파이썬을 활용한 데이터 처리 과제
 
 이 과제에서는 우리가 도전 과제에서 개발하기 시작한 코드를 확장하여 작성해 보도록 하겠습니다. 과제는 두 부분으로 구성되어 있습니다:

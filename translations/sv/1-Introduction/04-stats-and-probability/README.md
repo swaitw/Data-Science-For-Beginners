@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:36:56+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "sv"
-}
--->
 # En kort introduktion till statistik och sannolikhet
 
 |![ Sketchnote av [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ För att förstå fördelningen av data är det också användbart att prata om 
 
 Grafiskt kan vi representera förhållandet mellan median och kvartiler i ett diagram som kallas **låddiagram**:
 
-<img src="images/boxplot_explanation.png" alt="Förklaring av låddiagram" width="50%">
+<img src="../../../../translated_images/sv/boxplot_explanation.4039b7de08780fd4.webp" alt="Förklaring av låddiagram" width="50%">
 
 Här beräknar vi också **interkvartilavstånd** IQR=Q3-Q1, och så kallade **uteliggare** - värden som ligger utanför gränserna [Q1-1.5*IQR,Q3+1.5*IQR].
 

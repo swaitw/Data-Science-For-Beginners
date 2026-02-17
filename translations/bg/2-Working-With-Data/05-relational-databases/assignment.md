@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:58:21+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "bg"
-}
--->
 # Показване на данни за летища
 
 Предоставена ви е [база данни](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db), изградена на [SQLite](https://sqlite.org/index.html), която съдържа информация за летища. Схемата е показана по-долу. Ще използвате [SQLite разширението](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) в [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum), за да покажете информация за летищата в различни градове.

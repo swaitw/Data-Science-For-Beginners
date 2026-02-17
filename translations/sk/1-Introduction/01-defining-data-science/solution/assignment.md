@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-26T15:26:36+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "sk"
-}
--->
 # Zadanie: Scenáre dátovej vedy
 
 V tomto prvom zadaní vás žiadame, aby ste premýšľali o nejakom reálnom procese alebo probléme v rôznych oblastiach a o tom, ako ho môžete zlepšiť pomocou procesu dátovej vedy. Zamyslite sa nad nasledujúcimi otázkami:

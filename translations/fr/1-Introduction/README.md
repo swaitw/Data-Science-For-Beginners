@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "696a8474a01054281704cbfb09148949",
-  "translation_date": "2025-08-25T16:38:21+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "fr"
-}
--->
 # Introduction à la Science des Données
 
 ![données en action](../../../translated_images/fr/data.48e22bb7617d8d92.webp)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-26T21:48:19+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "no"
-}
--->
 # Liten Diabetesstudie
 
 I denne oppgaven skal vi jobbe med et lite datasett av diabetespasienter hentet fra [her](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

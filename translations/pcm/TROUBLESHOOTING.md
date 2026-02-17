@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-11-18T18:16:38+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "pcm"
-}
--->
 # Troubleshooting Guide
 
 Dis guide dey show solution to common wahala wey fit happen wen you dey use Data Science for Beginners curriculum.

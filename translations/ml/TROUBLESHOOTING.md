@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-12-19T12:55:49+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ml"
-}
--->
 # പ്രശ്നപരിഹാര ഗൈഡ്
 
 ഡാറ്റാ സയൻസ് ഫോർ ബിഗിനേഴ്സ് പാഠ്യപദ്ധതിയുമായി പ്രവർത്തിക്കുമ്പോൾ നിങ്ങൾക്ക് നേരിടാവുന്ന സാധാരണ പ്രശ്നങ്ങൾക്ക് ഈ ഗൈഡ് പരിഹാരങ്ങൾ നൽകുന്നു.

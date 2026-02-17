@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-30T19:49:43+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "sr"
-}
--->
 # Квизови
 
 Ови квизови су пред- и пост-предавачки квизови за наставни план и програм науке о подацима на https://aka.ms/datascience-beginners

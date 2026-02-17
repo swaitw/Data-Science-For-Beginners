@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-24T22:20:11+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "fa"
-}
--->
 # جستجو برای پاسخ‌ها
 
 این ادامه‌ی [تکلیف](../14-Introduction/assignment.md) درس قبلی است، جایی که به طور مختصر به مجموعه داده‌ها نگاه کردیم. اکنون قصد داریم نگاه عمیق‌تری به داده‌ها داشته باشیم.

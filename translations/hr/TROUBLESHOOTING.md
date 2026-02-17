@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:48:31+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "hr"
-}
--->
 # Vodič za rješavanje problema
 
 Ovaj vodič pruža rješenja za uobičajene probleme na koje možete naići dok radite s kurikulumom "Data Science for Beginners".

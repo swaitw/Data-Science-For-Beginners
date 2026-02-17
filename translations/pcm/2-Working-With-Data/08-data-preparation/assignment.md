@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-11-18T18:21:33+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Check Data Wey Dem Collect From Form
 
 One client dey test one [small form](../../../../2-Working-With-Data/08-data-preparation/index.html) to collect some basic info about dia client dem. Dem don carry wetin dem find come meet you make you check di data wey dem don collect. You fit open di `index.html` page for browser to see di form.

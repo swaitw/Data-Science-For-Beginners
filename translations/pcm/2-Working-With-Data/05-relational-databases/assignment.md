@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-11-18T18:24:14+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "pcm"
-}
--->
 # How to show airport data
 
 Dem don give you one [database](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) wey dey use [SQLite](https://sqlite.org/index.html) wey get info about airports. The schema dey show for down. You go use the [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) for [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) to show info about airports for different cities.

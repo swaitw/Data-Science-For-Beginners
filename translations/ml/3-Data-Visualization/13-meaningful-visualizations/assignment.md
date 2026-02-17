@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e56df4c0f49357e30ac8fc77aa439dd4",
-  "translation_date": "2025-12-19T16:11:28+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/assignment.md",
-  "language_code": "ml"
-}
--->
 # നിങ്ങളുടെ സ്വന്തം കസ്റ്റം വിസ് നിർമ്മിക്കുക
 
 ## നിർദ്ദേശങ്ങൾ

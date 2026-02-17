@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "47028abaaafa2bcb1079702d20569066",
-  "translation_date": "2025-08-25T18:32:27+00:00",
-  "source_file": "3-Data-Visualization/R/11-visualization-proportions/README.md",
-  "language_code": "ja"
-}
--->
 # 比率の可視化
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) によるスケッチノート ](../../../sketchnotes/11-Visualizing-Proportions.png)|

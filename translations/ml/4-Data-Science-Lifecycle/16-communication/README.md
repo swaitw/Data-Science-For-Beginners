@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "215a3254ba5a222a57c5bb0192cea8e3",
-  "translation_date": "2025-12-19T15:19:45+00:00",
-  "source_file": "4-Data-Science-Lifecycle/16-communication/README.md",
-  "language_code": "ml"
-}
--->
 # ഡാറ്റ സയൻസ് ലൈഫ്‌സൈക്കിൾ: കമ്മ്യൂണിക്കേഷൻ
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev)](../../sketchnotes/16-Communicating.png)|

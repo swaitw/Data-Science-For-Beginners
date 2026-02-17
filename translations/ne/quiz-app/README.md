@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-27T17:54:45+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ne"
-}
--->
 # क्विजहरू
 
 यी क्विजहरू डेटा साइन्स पाठ्यक्रमको लागि प्रि- र पोस्ट-लेक्चर क्विजहरू हुन्, जुन https://aka.ms/datascience-beginners मा उपलब्ध छ।  

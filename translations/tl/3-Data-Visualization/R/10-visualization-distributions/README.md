@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ea67c0c40808fd723594de6896c37ccf",
-  "translation_date": "2025-08-28T02:37:12+00:00",
-  "source_file": "3-Data-Visualization/R/10-visualization-distributions/README.md",
-  "language_code": "tl"
-}
--->
 # Pagpapakita ng Pamamahagi
 
 |![ Sketchnote ni [(@sketchthedocs)](https://sketchthedocs.dev) ](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/sketchnotes/10-Visualizing-Distributions.png)|

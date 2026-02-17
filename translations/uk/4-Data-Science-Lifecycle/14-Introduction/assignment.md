@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-30T18:31:12+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "uk"
-}
--->
 # Оцінка набору даних
 
 Клієнт звернувся до вашої команди за допомогою у вивченні сезонних звичок витрат клієнтів таксі в Нью-Йорку.

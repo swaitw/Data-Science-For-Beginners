@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c06b12caf3c901eb3156e3dd5b0aea56",
-  "translation_date": "2025-08-31T05:33:41+00:00",
-  "source_file": "CODE_OF_CONDUCT.md",
-  "language_code": "lt"
-}
--->
 # Microsoft atvirojo kodo elgesio kodeksas
 
 Šis projektas priėmė [Microsoft atvirojo kodo elgesio kodeksą](https://opensource.microsoft.com/codeofconduct/).

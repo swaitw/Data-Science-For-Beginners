@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "b4039f1c76548d144a0aee0bf28304ec",
-  "translation_date": "2025-08-24T22:56:42+00:00",
-  "source_file": "3-Data-Visualization/R/13-meaningful-vizualizations/README.md",
-  "language_code": "hi"
-}
--->
 # सार्थक विज़ुअलाइज़ेशन बनाना
 
 |![ स्केच नोट [(@sketchthedocs)](https://sketchthedocs.dev) द्वारा ](../../../sketchnotes/13-MeaningfulViz.png)|

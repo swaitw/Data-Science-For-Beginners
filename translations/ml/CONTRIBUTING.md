@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-12-19T12:49:34+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "ml"
-}
--->
 # Data Science for Beginners-ലേക്ക് സംഭാവന ചെയ്യുക
 
 Data Science for Beginners പാഠ്യപദ്ധതിയിലേക്ക് സംഭാവന ചെയ്യുന്നതിൽ താൽപര്യമുള്ളതിന് നന്ദി! സമൂഹത്തിൽ നിന്നുള്ള സംഭാവനകൾ ഞങ്ങൾ സ്വാഗതം ചെയ്യുന്നു.

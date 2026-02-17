@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-28T18:20:23+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "vi"
-}
--->
 # Khám phá câu trả lời
 
 Đây là phần tiếp nối của [bài tập](../14-Introduction/assignment.md) trong bài học trước, nơi chúng ta đã xem qua bộ dữ liệu. Bây giờ, chúng ta sẽ đi sâu hơn vào bộ dữ liệu này.

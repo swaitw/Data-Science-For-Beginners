@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-08-26T21:49:27+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "da"
-}
--->
 # Data Science i det virkelige liv
 
 Anvendelser af data science i forskellige industrier.

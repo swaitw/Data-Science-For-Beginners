@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:21:58+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "pa"
-}
--->
 # ਸਟੈਟਿਸਟਿਕਸ ਅਤੇ ਪ੍ਰੋਬੈਬਿਲਿਟੀ ਦਾ ਸੰਖੇਪ ਪਰੀਚਯ
 
 |![ [(@sketchthedocs)] ਦੁਆਰਾ ਬਣਾਈ ਗਈ ਸਕੈਚਨੋਟ](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ਗ੍ਰਾਫਿਕਲ ਤੌਰ 'ਤੇ ਅਸੀਂ ਮੀਡਿਅਨ ਅਤੇ ਕਵਾਰਟਾਈਲਜ਼ ਦੇ ਸੰਬੰਧ ਨੂੰ **ਬਾਕਸ ਪਲਾਟ** ਵਿੱਚ ਦਰਸਾ ਸਕਦੇ ਹਾਂ:
 
-<img src="images/boxplot_explanation.png" alt="Box Plot Explanation" width="50%">
+<img src="../../../../translated_images/pa/boxplot_explanation.4039b7de08780fd4.webp" alt="Box Plot Explanation" width="50%">
 
 ਇੱਥੇ ਅਸੀਂ **ਇੰਟਰ-ਕਵਾਰਟਾਈਲ ਰੇਂਜ** IQR=Q3-Q1 ਦੀ ਗਣਨਾ ਕਰਦੇ ਹਾਂ, ਅਤੇ **ਆਊਟਲਾਇਰਜ਼** - ਮੁੱਲ ਜੋ ਸੀਮਾਵਾਂ [Q1-1.5*IQR,Q3+1.5*IQR] ਤੋਂ ਬਾਹਰ ਪੈਂਦੇ ਹਨ।
 

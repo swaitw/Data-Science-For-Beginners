@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ad163c4fda72c8278280b61cad317ff4",
-  "translation_date": "2025-08-27T18:42:22+00:00",
-  "source_file": "3-Data-Visualization/09-visualization-quantities/assignment.md",
-  "language_code": "ne"
-}
--->
 # रेखा, स्क्याटर र बारहरू
 
 ## निर्देशनहरू

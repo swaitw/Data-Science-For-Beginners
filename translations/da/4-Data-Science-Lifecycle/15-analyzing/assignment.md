@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-26T22:31:06+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "da"
-}
--->
 # Udforskning efter svar
 
 Dette er en fortsættelse af den tidligere lektions [opgave](../14-Introduction/assignment.md), hvor vi kort kiggede på datasættet. Nu vil vi tage et dybere kig på dataene.

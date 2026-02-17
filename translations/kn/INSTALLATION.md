@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-12-19T13:13:01+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "kn"
-}
--->
 # ಸ್ಥಾಪನೆ ಮಾರ್ಗದರ್ಶಿ
 
 ಈ ಮಾರ್ಗದರ್ಶಿ ನಿಮಗೆ Data Science for Beginners ಪಠ್ಯಕ್ರಮದೊಂದಿಗೆ ಕೆಲಸ ಮಾಡಲು ನಿಮ್ಮ ಪರಿಸರವನ್ನು ಸೆಟ್ ಅಪ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.

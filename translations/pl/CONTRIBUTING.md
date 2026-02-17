@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:57:46+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "pl"
-}
--->
 # Współtworzenie Data Science dla Początkujących
 
 Dziękujemy za zainteresowanie współtworzeniem programu nauczania Data Science dla Początkujących! Zapraszamy do współpracy całą społeczność.

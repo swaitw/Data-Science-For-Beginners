@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "3a848466cb63aff1a93411affb152c2a",
-  "translation_date": "2025-08-27T09:18:03+00:00",
-  "source_file": "sketchnotes/README.md",
-  "language_code": "bn"
-}
--->
 সমস্ত স্কেচনোট এখানে খুঁজুন!
 
 ## কৃতজ্ঞতা

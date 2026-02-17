@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-27T17:55:03+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "pa"
-}
--->
 # ਕਵਿਜ਼
 
 ਇਹ ਕਵਿਜ਼ ਡਾਟਾ ਸਾਇੰਸ ਕਰੀਕੁਲਮ ਲਈ ਲੈਕਚਰ ਤੋਂ ਪਹਿਲਾਂ ਅਤੇ ਬਾਅਦ ਦੇ ਕਵਿਜ਼ ਹਨ ਜੋ https://aka.ms/datascience-beginners 'ਤੇ ਉਪਲਬਧ ਹਨ।  

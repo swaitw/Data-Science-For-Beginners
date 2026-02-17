@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:58:11+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "ro"
-}
--->
 # Afișarea datelor despre aeroporturi
 
 Vi s-a oferit o [bază de date](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) construită pe [SQLite](https://sqlite.org/index.html) care conține informații despre aeroporturi. Schema este afișată mai jos. Veți utiliza [extensia SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) în [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) pentru a afișa informații despre aeroporturile din diferite orașe.

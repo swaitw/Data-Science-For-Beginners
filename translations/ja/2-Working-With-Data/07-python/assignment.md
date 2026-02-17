@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-25T16:31:43+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "ja"
-}
--->
 # Pythonによるデータ処理課題
 
 この課題では、これまでのチャレンジで開発を始めたコードをさらに詳しく説明していただきます。課題は以下の2つの部分で構成されています。

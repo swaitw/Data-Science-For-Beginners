@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:29:52+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ru"
-}
--->
 # Руководство по устранению неполадок
 
 Это руководство предлагает решения для распространенных проблем, которые могут возникнуть при работе с учебной программой "Data Science for Beginners".

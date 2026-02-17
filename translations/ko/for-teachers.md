@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f7440be10c17a8a9262713af3d2818a9",
-  "translation_date": "2025-09-06T19:54:05+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "ko"
-}
--->
 ## 교육자를 위한 안내
 
 이 커리큘럼을 교실에서 사용하고 싶으신가요? 자유롭게 활용하세요!

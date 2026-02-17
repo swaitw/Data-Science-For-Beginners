@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T14:51:58+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "ro"
-}
--->
 # Temă pentru Procesarea Datelor în Python
 
 În această temă, vă vom cere să dezvoltați codul pe care l-am început în provocările noastre. Tema constă din două părți:

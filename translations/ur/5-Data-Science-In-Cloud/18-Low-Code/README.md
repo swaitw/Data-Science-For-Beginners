@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "bd4da10766c64fce4294a98f6479dfb0",
-  "translation_date": "2025-09-06T06:33:13+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/README.md",
-  "language_code": "ur"
-}
--->
 # کلاؤڈ میں ڈیٹا سائنس: "کم کوڈ/بغیر کوڈ" طریقہ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) کی اسکیچ نوٹ ](../../sketchnotes/18-DataScience-Cloud.png)|

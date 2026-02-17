@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:05:40+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "tl"
-}
--->
 # Mga Halimbawa ng Data Science para sa mga Baguhan
 
 Maligayang pagdating sa direktoryo ng mga halimbawa! Ang koleksyong ito ng mga simpleng halimbawa na may malinaw na mga komento ay idinisenyo upang tulungan kang magsimula sa data science, kahit na ikaw ay ganap na baguhan.

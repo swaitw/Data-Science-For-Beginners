@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-11-18T18:40:13+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Check Di Dataset
 
 One client don come meet una team make una help dem check how taxi customer dey spend money for New York City during different season.

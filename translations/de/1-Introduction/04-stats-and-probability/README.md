@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T12:50:19+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "de"
-}
--->
 # Eine kurze Einführung in Statistik und Wahrscheinlichkeitsrechnung
 
 |![ Sketchnote von [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Um die Verteilung der Daten besser zu verstehen, ist es hilfreich, über **Quart
 
 Grafisch können wir die Beziehung zwischen Median und Quartilen in einem Diagramm namens **Boxplot** darstellen:
 
-<img src="images/boxplot_explanation.png" alt="Boxplot-Erklärung" width="50%">
+<img src="../../../../translated_images/de/boxplot_explanation.4039b7de08780fd4.webp" alt="Boxplot-Erklärung" width="50%">
 
 Hier berechnen wir auch den **Interquartilsabstand** IQR=Q3-Q1 und sogenannte **Ausreißer** – Werte, die außerhalb der Grenzen [Q1-1.5*IQR, Q3+1.5*IQR] liegen.
 

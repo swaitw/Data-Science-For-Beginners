@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "12339119c0165da569a93ddba05f9339",
-  "translation_date": "2025-09-05T15:05:08+00:00",
-  "source_file": "1-Introduction/03-defining-data/README.md",
-  "language_code": "hi"
-}
--->
 # डेटा को परिभाषित करना
 
 |![ स्केच नोट [(@sketchthedocs)](https://sketchthedocs.dev) द्वारा ](../../sketchnotes/03-DefiningData.png)|

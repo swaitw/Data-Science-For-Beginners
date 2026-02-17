@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-10-11T15:16:20+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ta"
-}
--->
 # கேள்விகள்
 
 இந்த கேள்விகள் https://aka.ms/datascience-beginners என்ற தரவியல் அறிவியல் பாடத்திட்டத்தின் முன் மற்றும் பின்-வகுப்பு கேள்விகள் ஆகும்.

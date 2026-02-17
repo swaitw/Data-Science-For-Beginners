@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:43:22+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "vi"
-}
--->
 # Hướng Dẫn Khắc Phục Sự Cố
 
 Hướng dẫn này cung cấp các giải pháp cho những vấn đề thường gặp khi bạn làm việc với chương trình học "Data Science for Beginners".

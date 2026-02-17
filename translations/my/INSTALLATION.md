@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:27:05+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "my"
-}
--->
 # တပ်ဆင်ရန်လမ်းညွှန်
 
 ဒီလမ်းညွှန်က Data Science for Beginners သင်ခန်းစာများအတွက် သင့်ပတ်ဝန်းကျင်ကို စတင်ပြင်ဆင်ရန် ကူညီပေးပါမည်။

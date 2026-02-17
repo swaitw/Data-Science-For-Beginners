@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-27T18:00:25+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "mr"
-}
--->
 # डेटासेटचे मूल्यांकन
 
 एक ग्राहक तुमच्या टीमकडे न्यूयॉर्क सिटीतील टॅक्सी ग्राहकांच्या हंगामी खर्चाच्या सवयींचा तपास करण्यासाठी मदत मागत आला आहे.

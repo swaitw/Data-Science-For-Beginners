@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-24T21:09:18+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "fa"
-}
--->
 # تکلیف پردازش داده در پایتون
 
 در این تکلیف، از شما خواسته می‌شود کدی را که در چالش‌های قبلی شروع به توسعه آن کرده‌ایم، گسترش دهید. این تکلیف شامل دو بخش است:

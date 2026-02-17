@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-25T16:57:35+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "fr"
-}
--->
 # Devoir : Scénarios en Science des Données
 
 Dans ce premier devoir, nous vous demandons de réfléchir à un processus ou un problème réel dans différents domaines, et comment vous pourriez l'améliorer en utilisant le processus de la Science des Données. Pensez aux points suivants :

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c182e87f9f80be7e7cdffc7b40bbfccf",
-  "translation_date": "2025-09-05T14:52:25+00:00",
-  "source_file": "2-Working-With-Data/06-non-relational/README.md",
-  "language_code": "hi"
-}
--->
 # डेटा के साथ काम करना: गैर-संबंधात्मक डेटा
 
 |![ स्केच नोट [(@sketchthedocs)](https://sketchthedocs.dev) द्वारा ](../../sketchnotes/06-NoSQL.png)|

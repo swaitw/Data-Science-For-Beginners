@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:42:55+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "he"
-}
--->
 # מדריך לפתרון בעיות
 
 מדריך זה מספק פתרונות לבעיות נפוצות שעשויות להתרחש בעת עבודה עם תוכנית הלימודים "מדעי הנתונים למתחילים".

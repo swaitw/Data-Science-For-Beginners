@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:45:48+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "nl"
-}
--->
 # Een Korte Introductie tot Statistiek en Kansberekening
 
 |![ Sketchnote door [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Om ons te helpen de verdeling van data te begrijpen, is het nuttig om te praten 
 
 Grafisch kunnen we de relatie tussen mediaan en kwartielen weergeven in een diagram dat de **boxplot** wordt genoemd:
 
-<img src="images/boxplot_explanation.png" alt="Boxplot Uitleg" width="50%">
+<img src="../../../../translated_images/nl/boxplot_explanation.4039b7de08780fd4.webp" alt="Boxplot Uitleg" width="50%">
 
 Hier berekenen we ook de **interkwartielafstand** IQR=Q3-Q1, en zogenaamde **uitbijters** - waarden die buiten de grenzen [Q1-1.5*IQR,Q3+1.5*IQR] liggen.
 

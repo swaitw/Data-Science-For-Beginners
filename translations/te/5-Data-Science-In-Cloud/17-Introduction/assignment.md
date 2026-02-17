@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "96f3696153d9ed54b19a1bb65438c104",
-  "translation_date": "2025-12-19T15:17:36+00:00",
-  "source_file": "5-Data-Science-In-Cloud/17-Introduction/assignment.md",
-  "language_code": "te"
-}
--->
 # మార్కెట్ రీసెర్చ్
 
 ## సూచనలు

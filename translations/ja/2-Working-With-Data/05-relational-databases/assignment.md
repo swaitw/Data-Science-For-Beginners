@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:53:35+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "ja"
-}
--->
 # 空港データの表示
 
 [SQLite](https://sqlite.org/index.html)を基盤とした[データベース](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db)が提供されています。このデータベースには空港に関する情報が含まれています。以下にスキーマが表示されています。[Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum)の[SQLite拡張機能](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum)を使用して、さまざまな都市の空港情報を表示します。

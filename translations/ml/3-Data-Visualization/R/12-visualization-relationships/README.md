@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a33c5d4b4156a2b41788d8720b6f724c",
-  "translation_date": "2025-12-19T16:24:50+00:00",
-  "source_file": "3-Data-Visualization/R/12-visualization-relationships/README.md",
-  "language_code": "ml"
-}
--->
 # ബന്ധങ്ങൾ ദൃശ്യവൽക്കരിക്കൽ: തേൻ 🍯 സംബന്ധിച്ച എല്ലാം
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../../sketchnotes/12-Visualizing-Relationships.png)|

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-27T08:37:03+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "ur"
-}
--->
 # ڈیٹا پروسیسنگ کے لیے پائتھون میں اسائنمنٹ
 
 اس اسائنمنٹ میں، ہم آپ سے درخواست کریں گے کہ آپ ان کوڈز پر تفصیل سے کام کریں جو ہم نے اپنے چیلنجز میں شروع کیے ہیں۔ اس اسائنمنٹ کے دو حصے ہیں:

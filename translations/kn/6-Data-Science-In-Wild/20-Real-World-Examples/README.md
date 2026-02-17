@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0f67a4139454816631526779a456b734",
-  "translation_date": "2025-12-19T16:57:54+00:00",
-  "source_file": "6-Data-Science-In-Wild/20-Real-World-Examples/README.md",
-  "language_code": "kn"
-}
--->
 # ನಿಜಜೀವನದಲ್ಲಿ ಡೇಟಾ ಸೈನ್ಸ್
 
 | ![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/20-DataScience-RealWorld.png) |

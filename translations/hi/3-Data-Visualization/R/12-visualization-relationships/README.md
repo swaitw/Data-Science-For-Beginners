@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a33c5d4b4156a2b41788d8720b6f724c",
-  "translation_date": "2025-08-24T22:48:14+00:00",
-  "source_file": "3-Data-Visualization/R/12-visualization-relationships/README.md",
-  "language_code": "hi"
-}
--->
 # संबंधों का चित्रण: शहद के बारे में सब कुछ 🍯
 
 |![ स्केच नोट [(@sketchthedocs)](https://sketchthedocs.dev) द्वारा ](../../../sketchnotes/12-Visualizing-Relationships.png)|

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-08-25T17:12:21+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "ko"
-}
--->
 # 야생에서의 데이터 과학
 
 산업 전반에 걸친 데이터 과학의 실제 응용 사례.

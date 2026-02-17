@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-27T09:53:36+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "ru"
-}
--->
 # Оценка набора данных
 
 Клиент обратился к вашей команде за помощью в исследовании сезонных привычек расходов пассажиров такси в Нью-Йорке.

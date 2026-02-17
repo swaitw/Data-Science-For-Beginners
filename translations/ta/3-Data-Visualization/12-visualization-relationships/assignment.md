@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "680419753c086eef51be86607c623945",
-  "translation_date": "2025-10-11T16:04:17+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/assignment.md",
-  "language_code": "ta"
-}
--->
 # தேனீக்களின் கூட்டத்தில் ஆழமாக செல்வோம்
 
 ## வழிமுறைகள்

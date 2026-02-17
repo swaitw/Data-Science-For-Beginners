@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-30T18:10:15+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "hr"
-}
--->
 # Zadatak za obradu podataka u Pythonu
 
 U ovom zadatku tražimo od vas da razradite kod koji smo započeli razvijati u našim izazovima. Zadatak se sastoji od dva dijela:

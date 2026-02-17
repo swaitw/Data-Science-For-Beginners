@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-11T15:08:22+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "et"
-}
--->
 # Panustamine algajate andmeteaduse projekti
 
 Täname, et olete huvitatud panustamisest algajate andmeteaduse õppekavasse! Me tervitame kogukonna panuseid.

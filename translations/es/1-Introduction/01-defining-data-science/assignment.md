@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-24T21:30:52+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "es"
-}
--->
 # Asignación: Escenarios de Ciencia de Datos
 
 En esta primera asignación, te pedimos que pienses en algún proceso o problema de la vida real en diferentes dominios de problemas, y cómo podrías mejorarlo utilizando el proceso de Ciencia de Datos. Reflexiona sobre lo siguiente:

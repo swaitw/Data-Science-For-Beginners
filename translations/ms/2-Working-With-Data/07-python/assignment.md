@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-28T18:12:01+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "ms"
-}
--->
 # Tugasan untuk Pemprosesan Data dalam Python
 
 Dalam tugasan ini, kami akan meminta anda untuk menghuraikan kod yang telah kami mula bangunkan dalam cabaran kami. Tugasan ini terdiri daripada dua bahagian:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:49:29+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "lt"
-}
--->
 # Prisidėjimas prie „Data Science for Beginners“
 
 Ačiū, kad domitės prisidėjimu prie „Data Science for Beginners“ mokymo programos! Mes džiaugiamės bendruomenės indėliu.

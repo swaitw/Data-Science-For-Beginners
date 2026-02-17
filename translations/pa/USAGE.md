@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:00:19+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "pa"
-}
--->
 # ਵਰਤੋਂ ਗਾਈਡ
 
 ਇਹ ਗਾਈਡ ਡਾਟਾ ਸਾਇੰਸ ਫਾਰ ਬਿਗਿਨਰਜ਼ ਕਰਿਕੁਲਮ ਦੀ ਵਰਤੋਂ ਲਈ ਉਦਾਹਰਨਾਂ ਅਤੇ ਆਮ ਵਰਕਫਲੋਜ਼ ਪ੍ਰਦਾਨ ਕਰਦੀ ਹੈ।

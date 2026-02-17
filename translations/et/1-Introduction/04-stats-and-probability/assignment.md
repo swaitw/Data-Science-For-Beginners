@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-10-11T15:44:40+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "et"
-}
--->
 # Väike Diabeediuuring
 
 Selles ülesandes töötame väikese diabeedipatsientide andmestikuga, mis on võetud [siit](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

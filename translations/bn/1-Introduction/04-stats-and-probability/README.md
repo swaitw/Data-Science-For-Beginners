@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:15:51+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "bn"
-}
--->
 # পরিসংখ্যান এবং সম্ভাবনার একটি সংক্ষিপ্ত পরিচিতি
 
 |![ স্কেচনোট [(@sketchthedocs)](https://sketchthedocs.dev) দ্বারা ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 গ্রাফিকভাবে আমরা মধ্যক এবং চতুর্ভাগের সম্পর্ককে **বক্স প্লট** নামে একটি চিত্রে উপস্থাপন করতে পারি:
 
-<img src="images/boxplot_explanation.png" alt="বক্স প্লট ব্যাখ্যা" width="50%">
+<img src="../../../../translated_images/bn/boxplot_explanation.4039b7de08780fd4.webp" alt="বক্স প্লট ব্যাখ্যা" width="50%">
 
 এখানে আমরা **ইন্টার-চতুর্ভাগ পরিসর** IQR=Q3-Q1 এবং তথাকথিত **আউটলায়ার** - মানগুলি, যা সীমানার বাইরে [Q1-1.5*IQR,Q3+1.5*IQR] এ পড়ে, তা গণনা করি।
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-30T18:20:47+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "sr"
-}
--->
 # Процена података из формулара
 
 Клијент је тестирао [мали формулар](../../../../2-Working-With-Data/08-data-preparation/index.html) за прикупљање основних података о својој бази клијената. Донели су своје налазе како би потврдили податке које су прикупили. Можете отворити страницу `index.html` у прегледачу да бисте погледали формулар.

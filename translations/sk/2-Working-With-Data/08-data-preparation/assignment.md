@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-26T14:41:48+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "sk"
-}
--->
 # Hodnotenie údajov z formulára
 
 Klient testoval [malý formulár](../../../../2-Working-With-Data/08-data-preparation/index.html) na zhromažďovanie základných údajov o svojej klientele. Priniesli vám svoje zistenia, aby ste overili údaje, ktoré zhromaždili. Stránku `index.html` si môžete otvoriť v prehliadači a pozrieť si formulár.

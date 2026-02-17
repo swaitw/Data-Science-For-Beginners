@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:54:27+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "ne"
-}
--->
 # एयरपोर्ट डेटा देखाउने
 
 तपाईंलाई [डाटाबेस](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) प्रदान गरिएको छ जुन [SQLite](https://sqlite.org/index.html) मा आधारित छ र यसमा एयरपोर्टहरूको जानकारी समावेश छ। स्कीमा तल देखाइएको छ। तपाईंले [SQLite एक्सटेन्सन](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) लाई [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) मा प्रयोग गरेर विभिन्न शहरहरूको एयरपोर्टहरूको जानकारी देखाउनु पर्नेछ।

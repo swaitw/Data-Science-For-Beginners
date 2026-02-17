@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-30T19:49:58+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "hr"
-}
--->
 # Kvizovi
 
 Ovi kvizovi su uvodni i završni kvizovi za kurikulum znanosti o podacima na https://aka.ms/datascience-beginners

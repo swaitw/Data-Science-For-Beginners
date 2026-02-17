@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "661dad02c3ac239644d34c1eb51e76f8",
-  "translation_date": "2025-09-06T20:39:07+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/README.md",
-  "language_code": "bn"
-}
--->
 # ডেটা সায়েন্স লাইফসাইকেল: বিশ্লেষণ
 
 |![ স্কেচনোট [(@sketchthedocs)](https://sketchthedocs.dev) দ্বারা ](../../sketchnotes/15-Analyzing.png)|

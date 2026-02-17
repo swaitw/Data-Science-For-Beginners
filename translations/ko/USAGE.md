@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T14:57:29+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "ko"
-}
--->
 # 사용 가이드
 
 이 가이드는 초보자를 위한 데이터 과학 커리큘럼을 사용하는 예제와 일반적인 워크플로를 제공합니다.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T14:22:43+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "uk"
-}
--->
 # Короткий вступ до статистики та теорії ймовірностей
 
 |![ Скетчноут від [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Графічно ми можемо представити співвідношення між медіаною та квартилями на діаграмі, яка називається **боксплот**:
 
-<img src="images/boxplot_explanation.png" alt="Пояснення боксплоту" width="50%">
+<img src="../../../../translated_images/uk/boxplot_explanation.4039b7de08780fd4.webp" alt="Пояснення боксплоту" width="50%">
 
 Тут ми також обчислюємо **міжквартильний розмах** IQR=Q3-Q1 і так звані **викиди** — значення, які лежать за межами [Q1-1.5*IQR,Q3+1.5*IQR].
 

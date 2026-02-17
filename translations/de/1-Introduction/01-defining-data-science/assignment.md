@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-24T21:31:00+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "de"
-}
--->
 # Aufgabe: Szenarien der Datenwissenschaft
 
 In dieser ersten Aufgabe bitten wir Sie, über einige reale Prozesse oder Probleme in verschiedenen Problembereichen nachzudenken und darüber, wie Sie diese mithilfe des Datenwissenschaftsprozesses verbessern können. Denken Sie über Folgendes nach:

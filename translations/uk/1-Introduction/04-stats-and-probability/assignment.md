@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-30T19:26:34+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "uk"
-}
--->
 # Невелике дослідження діабету
 
 У цьому завданні ми працюватимемо з невеликим набором даних пацієнтів із діабетом, взятим [тут](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

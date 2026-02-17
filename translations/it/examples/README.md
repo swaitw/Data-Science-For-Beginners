@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:01:21+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "it"
-}
--->
 # Esempi di Data Science per Principianti
 
 Benvenuto nella directory degli esempi! Questa raccolta di esempi semplici e ben commentati è pensata per aiutarti a iniziare con la data science, anche se sei un principiante assoluto.

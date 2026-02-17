@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-28T18:45:40+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "ms"
-}
--->
 # Projek visualisasi data Dangerous Liaisons
 
 Untuk memulakan, pastikan anda mempunyai NPM dan Node yang berjalan pada mesin anda. Pasang kebergantungan (npm install) dan kemudian jalankan projek secara tempatan (npm run serve):

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T14:51:30+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "cs"
-}
--->
 # Zadání pro zpracování dat v Pythonu
 
 V tomto zadání vás požádáme, abyste rozpracovali kód, který jsme začali vyvíjet v našich výzvách. Zadání se skládá ze dvou částí:

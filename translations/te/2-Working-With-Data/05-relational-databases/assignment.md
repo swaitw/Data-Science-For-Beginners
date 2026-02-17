@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-12-19T15:50:41+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "te"
-}
--->
 # విమానాశ్రయ డేటా ప్రదర్శన
 
 మీకు విమానాశ్రయాల గురించి సమాచారం కలిగిన [డేటాబేస్](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) అందించబడింది, ఇది [SQLite](https://sqlite.org/index.html) పై నిర్మించబడింది. స్కీమా క్రింద చూపబడింది. మీరు [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum)లో [SQLite విస్తరణ](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) ఉపయోగించి వివిధ నగరాల విమానాశ్రయాల గురించి సమాచారం ప్రదర్శించవచ్చు.

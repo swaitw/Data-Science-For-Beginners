@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-27T08:36:52+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "ar"
-}
--->
 # واجب معالجة البيانات باستخدام بايثون
 
 في هذا الواجب، سنطلب منك التوسع في الكود الذي بدأنا تطويره في تحدياتنا. يتكون الواجب من جزأين:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-28T15:48:39+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "he"
-}
--->
 # מחקר קטן על סוכרת
 
 במטלה זו נעבוד עם מערך נתונים קטן של חולי סוכרת שנלקח מ-[כאן](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

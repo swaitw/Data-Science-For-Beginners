@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-12-19T15:45:14+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "te"
-}
--->
 # ఫారమ్ నుండి డేటాను మూల్యాంకనం చేయడం
 
 ఒక క్లయింట్ తమ క్లయింట్-బేస్ గురించి కొన్ని ప్రాథమిక డేటాను సేకరించడానికి [చిన్న ఫారమ్](../../../../2-Working-With-Data/08-data-preparation/index.html) ను పరీక్షిస్తున్నారు. వారు సేకరించిన డేటాను మీరు ధృవీకరించడానికి వారి కనుగొనుటలను మీకు తీసుకువచ్చారు. మీరు ఫారమ్‌ను చూడటానికి బ్రౌజర్‌లో `index.html` పేజీని తెరవవచ్చు.

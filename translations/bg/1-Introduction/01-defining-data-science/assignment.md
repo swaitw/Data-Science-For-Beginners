@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-26T15:25:37+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "bg"
-}
--->
 # Задача: Сценарии за анализ на данни
 
 В тази първа задача ви молим да помислите за някакъв реален процес или проблем в различни области и как можете да го подобрите, използвайки процеса на анализ на данни. Помислете за следното:

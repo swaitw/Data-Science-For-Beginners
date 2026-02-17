@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cfb068050337a36e348debaa502a24fa",
-  "translation_date": "2025-11-18T18:47:13+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/README.md",
-  "language_code": "pcm"
-}
--->
 # How to Make Visualizations Wey Get Meaning
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/13-MeaningfulViz.png)|

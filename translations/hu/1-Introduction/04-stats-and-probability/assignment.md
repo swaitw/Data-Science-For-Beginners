@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-26T15:42:18+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "hu"
-}
--->
 # Kis Diabétesz Tanulmány
 
 Ebben a feladatban egy kis diabéteszes betegek adatállományával fogunk dolgozni, amely innen származik: [here](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

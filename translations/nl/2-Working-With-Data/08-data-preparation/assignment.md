@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-28T15:21:41+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "nl"
-}
--->
 # Evalueren van gegevens uit een formulier
 
 Een klant heeft een [klein formulier](../../../../2-Working-With-Data/08-data-preparation/index.html) getest om wat basisgegevens over hun klantenbestand te verzamelen. Ze hebben hun bevindingen aan jou voorgelegd om de verzamelde gegevens te valideren. Je kunt de `index.html`-pagina in de browser openen om het formulier te bekijken.

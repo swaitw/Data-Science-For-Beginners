@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-08-28T15:23:32+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "he"
-}
--->
 # חיפוש תשובות
 
 זהו המשך למשימה מהשיעור הקודם [assignment](../14-Introduction/assignment.md), שבו הסתכלנו בקצרה על מערך הנתונים. עכשיו נעמיק יותר במערך הנתונים.

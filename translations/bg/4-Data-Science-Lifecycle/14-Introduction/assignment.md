@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-26T16:28:33+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "bg"
-}
--->
 # Оценка на набор от данни
 
 Клиент се е обърнал към вашия екип за помощ при изследване на сезонните навици за разходи на клиентите на таксита в Ню Йорк.

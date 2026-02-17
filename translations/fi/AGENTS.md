@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "cc2e18ab65df63e75d3619c4752e9b22",
-  "translation_date": "2025-10-03T11:27:05+00:00",
-  "source_file": "AGENTS.md",
-  "language_code": "fi"
-}
--->
 # AGENTS.md
 
 ## Projektin yleiskatsaus

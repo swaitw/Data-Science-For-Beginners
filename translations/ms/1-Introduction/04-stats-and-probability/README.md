@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:54:28+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ms"
-}
--->
 # Pengenalan Ringkas kepada Statistik dan Kebarangkalian
 
 |![ Sketchnote oleh [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Untuk membantu kita memahami taburan data, adalah berguna untuk bercakap tentang
 
 Secara grafik, kita boleh mewakili hubungan antara median dan kuartil dalam diagram yang dipanggil **plot kotak**:
 
-<img src="images/boxplot_explanation.png" alt="Penjelasan Plot Kotak" width="50%">
+<img src="../../../../translated_images/ms/boxplot_explanation.4039b7de08780fd4.webp" alt="Penjelasan Plot Kotak" width="50%">
 
 Di sini kita juga mengira **jarak antara kuartil** IQR=Q3-Q1, dan apa yang dipanggil **outlier** - nilai yang berada di luar sempadan [Q1-1.5*IQR,Q3+1.5*IQR].
 

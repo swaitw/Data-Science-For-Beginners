@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-12-19T13:54:48+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "kn"
-}
--->
 # ಅಂಕಿಅಂಶಗಳು ಮತ್ತು ಸಂಭವನೀಯತೆಯ ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರಿಂದ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/04-Statistics-Probability.png)|

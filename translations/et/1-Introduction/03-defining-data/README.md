@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "12339119c0165da569a93ddba05f9339",
-  "translation_date": "2025-10-11T15:35:12+00:00",
-  "source_file": "1-Introduction/03-defining-data/README.md",
-  "language_code": "et"
-}
--->
 # Andmete määratlemine
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/03-DefiningData.png)|

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:07:51+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "sw"
-}
--->
 # Mwongozo wa Matumizi
 
 Mwongozo huu unatoa mifano na mchakato wa kawaida wa kutumia mtaala wa Data Science kwa Kompyuta.

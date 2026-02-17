@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T12:48:20+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "es"
-}
--->
 # Una Breve Introducción a Estadística y Probabilidad
 
 |![ Sketchnote por [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ Para ayudarnos a entender la distribución de los datos, es útil hablar de **cu
 
 Gráficamente, podemos representar la relación entre la mediana y los cuartiles en un diagrama llamado **diagrama de caja**:
 
-<img src="images/boxplot_explanation.png" alt="Explicación del Diagrama de Caja" width="50%">
+<img src="../../../../translated_images/es/boxplot_explanation.4039b7de08780fd4.webp" alt="Explicación del Diagrama de Caja" width="50%">
 
 Aquí también calculamos el **rango intercuartílico** IQR=Q3-Q1, y los llamados **valores atípicos** - valores que están fuera de los límites [Q1-1.5*IQR, Q3+1.5*IQR].
 

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-10-11T15:43:30+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "et"
-}
--->
 # Lühike sissejuhatus statistikasse ja tõenäosusteooriasse
 
 |![ Sketchnote autorilt [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|

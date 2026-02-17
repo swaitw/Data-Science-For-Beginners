@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "680419753c086eef51be86607c623945",
-  "translation_date": "2025-08-27T10:20:59+00:00",
-  "source_file": "3-Data-Visualization/12-visualization-relationships/assignment.md",
-  "language_code": "bn"
-}
--->
 # মৌমাছির চাকের গভীরে ডুব দিন
 
 ## নির্দেশনা

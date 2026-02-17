@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "bd4da10766c64fce4294a98f6479dfb0",
-  "translation_date": "2025-12-19T15:01:15+00:00",
-  "source_file": "5-Data-Science-In-Cloud/18-Low-Code/README.md",
-  "language_code": "kn"
-}
--->
 # ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಡೇಟಾ ಸೈನ್ಸ್: "ಲೋ ಕೋಡ್/ನೋ ಕೋಡ್" ವಿಧಾನ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/18-DataScience-Cloud.png)|

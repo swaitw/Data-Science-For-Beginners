@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "c182e87f9f80be7e7cdffc7b40bbfccf",
-  "translation_date": "2025-12-19T15:39:41+00:00",
-  "source_file": "2-Working-With-Data/06-non-relational/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ಜೊತೆಗೆ ಕೆಲಸ ಮಾಡುವುದು: ಅಸಂಬಂಧಿತ ಡೇಟಾ
 
 |![ ಸ್ಕೆಚ್‌ನೋಟ್ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರಿಂದ ](../../sketchnotes/06-NoSQL.png)|

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:41:16+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "da"
-}
--->
 # Fejlfindingsguide
 
 Denne guide giver løsninger på almindelige problemer, du kan støde på, mens du arbejder med Data Science for Beginners-kurset.

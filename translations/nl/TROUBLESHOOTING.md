@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:42:39+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "nl"
-}
--->
 # Probleemoplossingsgids
 
 Deze gids biedt oplossingen voor veelvoorkomende problemen die je kunt tegenkomen bij het werken met het curriculum Data Science voor Beginners.

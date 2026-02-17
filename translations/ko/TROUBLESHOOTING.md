@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:34:13+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ko"
-}
--->
 # 문제 해결 가이드
 
 이 가이드는 Data Science for Beginners 커리큘럼을 사용하는 동안 발생할 수 있는 일반적인 문제에 대한 해결책을 제공합니다.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e56df4c0f49357e30ac8fc77aa439dd4",
-  "translation_date": "2025-08-27T18:15:09+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/assignment.md",
-  "language_code": "ne"
-}
--->
 # आफ्नो कस्टम भिजुअलाइजेसन बनाउनुहोस्
 
 ## निर्देशनहरू

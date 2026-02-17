@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-27T18:00:35+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "ne"
-}
--->
 # डेटासेटको मूल्यांकन
 
 एक ग्राहकले तपाईंको टिमलाई न्यूयोर्क सिटीमा ट्याक्सी ग्राहकको मौसमी खर्च गर्ने बानीको अनुसन्धान गर्न मद्दतको लागि सम्पर्क गरेका छन्।

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-25T17:10:58+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "ja"
-}
--->
 # 小規模な糖尿病研究
 
 この課題では、[こちら](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html)から取得した糖尿病患者の小規模なデータセットを使用します。

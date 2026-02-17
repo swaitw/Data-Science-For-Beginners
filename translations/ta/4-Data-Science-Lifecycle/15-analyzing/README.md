@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "661dad02c3ac239644d34c1eb51e76f8",
-  "translation_date": "2025-10-11T15:48:49+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/README.md",
-  "language_code": "ta"
-}
--->
 # தரவியல் அறிவியல் வாழ்க்கைச் சுழற்சி: பகுப்பாய்வு
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/15-Analyzing.png)|

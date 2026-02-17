@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f7440be10c17a8a9262713af3d2818a9",
-  "translation_date": "2025-10-11T15:07:02+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "et"
-}
--->
 ## Haridustöötajatele
 
 Kas soovite seda õppekava oma klassiruumis kasutada? Palun tehke seda julgelt!

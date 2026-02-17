@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a233d542512136c4dd29aad38ca0175f",
-  "translation_date": "2025-11-18T18:49:55+00:00",
-  "source_file": "3-Data-Visualization/R/10-visualization-distributions/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Try your skills
 
 ## Wetin you go do

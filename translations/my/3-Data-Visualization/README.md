@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "1441550a0d789796b2821e04f7f4cc94",
-  "translation_date": "2025-08-30T18:39:33+00:00",
-  "source_file": "3-Data-Visualization/README.md",
-  "language_code": "my"
-}
--->
 # ရုပ်ပုံဖော်ပြမှုများ
 
 ![ပန်းပေါ်မှာပျားတစ်ကောင်](../../../translated_images/my/bee.0aa1d91132b12e3a8994b9ca12816d05ce1642010d9b8be37f8d37365ba845cf.jpg)

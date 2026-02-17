@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07e12a25d20b8f191e3cb651c27fdb2b",
-  "translation_date": "2025-12-19T15:26:27+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/README.md",
-  "language_code": "te"
-}
--->
 # డేటా సైన్స్ లైఫ్‌సైకిల్ పరిచయం
 
 |![ స్కెచ్‌నోట్ [(@sketchthedocs)](https://sketchthedocs.dev) ద్వారా ](../../sketchnotes/14-DataScience-Lifecycle.png)|

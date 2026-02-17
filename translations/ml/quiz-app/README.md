@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-12-19T13:25:40+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "ml"
-}
--->
 # ക്വിസുകൾ
 
 ഈ ക്വിസുകൾ https://aka.ms/datascience-beginners എന്ന ഡാറ്റാ സയൻസ് പാഠ്യപദ്ധതിക്കുള്ള പ്രീ-ലക്ചർ, പോസ്റ്റ്-ലക്ചർ ക്വിസുകളാണ്

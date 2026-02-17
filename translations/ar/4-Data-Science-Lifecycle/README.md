@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dd173fd30fc039a7a299898920680723",
-  "translation_date": "2025-08-27T09:47:52+00:00",
-  "source_file": "4-Data-Science-Lifecycle/README.md",
-  "language_code": "ar"
-}
--->
 # دورة حياة علم البيانات
 
 ![التواصل](../../../translated_images/ar/communication.06d8e2a88d30d168d661ad9f9f0a4f947ebff3719719cfdaf9ed00a406a01ead.jpg)  

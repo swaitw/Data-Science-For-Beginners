@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "215a3254ba5a222a57c5bb0192cea8e3",
-  "translation_date": "2025-09-06T21:49:49+00:00",
-  "source_file": "4-Data-Science-Lifecycle/16-communication/README.md",
-  "language_code": "my"
-}
--->
 # ဒေတာ သိပ္ပံ၏ အသက်ရှင်မှု စက်ဝိုင်း: ဆက်သွယ်မှု
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev)](../../sketchnotes/16-Communicating.png)|

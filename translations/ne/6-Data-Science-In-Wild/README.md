@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07faf02ff163e609edf0b0308dc5d4e6",
-  "translation_date": "2025-08-27T17:29:58+00:00",
-  "source_file": "6-Data-Science-In-Wild/README.md",
-  "language_code": "ne"
-}
--->
 # जङ्गलमा डेटा विज्ञान
 
 विभिन्न उद्योगहरूमा डेटा विज्ञानको वास्तविक-जीवन प्रयोगहरू।

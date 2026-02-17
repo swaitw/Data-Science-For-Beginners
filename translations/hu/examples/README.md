@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:06:24+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "hu"
-}
--->
 # Kezdőbarát Adattudományi Példák
 
 Üdvözlünk a példák könyvtárában! Ez a gyűjtemény egyszerű, jól kommentált példákat tartalmaz, amelyek segítenek elkezdeni az adattudományt, még akkor is, ha teljesen kezdő vagy.

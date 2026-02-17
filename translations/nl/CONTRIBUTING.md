@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:13:43+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "nl"
-}
--->
 # Bijdragen aan Data Science voor Beginners
 
 Bedankt voor je interesse om bij te dragen aan het curriculum Data Science voor Beginners! We verwelkomen bijdragen van de gemeenschap.

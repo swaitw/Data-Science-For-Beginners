@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:03:28+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "da"
-}
--->
 # Begynder-venlige Data Science Eksempler
 
 Velkommen til eksempelmappen! Denne samling af enkle, velkommenterede eksempler er designet til at hjælpe dig i gang med data science, selv hvis du er helt nybegynder.

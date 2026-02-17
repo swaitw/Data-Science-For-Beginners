@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "472d3fab1c5be50f387336e7a686dbe1",
-  "translation_date": "2025-09-05T20:09:32+00:00",
-  "source_file": "5-Data-Science-In-Cloud/19-Azure/README.md",
-  "language_code": "my"
-}
--->
 # Cloud တွင် Data Science: "Azure ML SDK" နည်းလမ်း
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/19-DataScience-Cloud.png)|

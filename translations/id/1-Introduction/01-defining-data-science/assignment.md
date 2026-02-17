@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-28T18:57:41+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "id"
-}
--->
 # Tugas: Skenario Data Science
 
 Dalam tugas pertama ini, kami meminta Anda untuk memikirkan beberapa proses atau masalah kehidupan nyata di berbagai domain masalah, dan bagaimana Anda dapat meningkatkannya menggunakan proses Data Science. Pertimbangkan hal-hal berikut:

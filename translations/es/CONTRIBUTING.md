@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T13:18:40+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "es"
-}
--->
 # Contribuir a Ciencia de Datos para Principiantes
 
 ¡Gracias por tu interés en contribuir al currículo de Ciencia de Datos para Principiantes! Apreciamos las contribuciones de la comunidad.

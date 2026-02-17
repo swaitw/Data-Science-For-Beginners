@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:08:06+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "da"
-}
--->
 # Bidrag til Data Science for Beginners
 
 Tak for din interesse i at bidrage til Data Science for Beginners-kurset! Vi værdsætter bidrag fra fællesskabet.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-26T20:59:37+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "da"
-}
--->
 # Evaluering af data fra en formular
 
 En kunde har testet en [lille formular](../../../../2-Working-With-Data/08-data-preparation/index.html) for at indsamle nogle grundlæggende oplysninger om deres kundebase. De har givet dig deres resultater for at validere de data, de har indsamlet. Du kan åbne `index.html`-siden i browseren for at se formularen.

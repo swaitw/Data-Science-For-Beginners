@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-28T18:45:27+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "vi"
-}
--->
 # Dự án trực quan hóa dữ liệu Dangerous Liaisons
 
 Để bắt đầu, bạn cần đảm bảo rằng NPM và Node đang chạy trên máy của bạn. Cài đặt các gói phụ thuộc (npm install) và sau đó chạy dự án cục bộ (npm run serve):

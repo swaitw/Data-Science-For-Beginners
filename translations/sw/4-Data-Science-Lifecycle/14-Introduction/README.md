@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "07e12a25d20b8f191e3cb651c27fdb2b",
-  "translation_date": "2025-09-06T21:26:48+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/README.md",
-  "language_code": "sw"
-}
--->
 # Utangulizi wa Mzunguko wa Maisha wa Sayansi ya Takwimu
 
 |![ Sketchnote na [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/14-DataScience-Lifecycle.png)|

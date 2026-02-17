@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-26T22:27:52+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "th"
-}
--->
 # การประเมินชุดข้อมูล
 
 ลูกค้าได้ติดต่อทีมของคุณเพื่อขอความช่วยเหลือในการวิเคราะห์พฤติกรรมการใช้จ่ายตามฤดูกาลของลูกค้ารถแท็กซี่ในนครนิวยอร์ก

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:05:23+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "ms"
-}
--->
 # Contoh Data Sains Mesra Pemula
 
 Selamat datang ke direktori contoh! Koleksi contoh yang mudah dan penuh dengan komen ini direka untuk membantu anda memulakan perjalanan dalam data sains, walaupun anda seorang pemula sepenuhnya.

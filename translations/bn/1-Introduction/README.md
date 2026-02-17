@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "696a8474a01054281704cbfb09148949",
-  "translation_date": "2025-08-27T08:44:01+00:00",
-  "source_file": "1-Introduction/README.md",
-  "language_code": "bn"
-}
--->
 # ডেটা সায়েন্সের পরিচিতি
 
 ![ডেটা কার্যক্রমে](../../../translated_images/bn/data.48e22bb7617d8d92188afbc4c48effb920ba79f5cebdc0652cd9f34bbbd90c18.jpg)

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "386efdbc19786951341f6956247ee990",
-  "translation_date": "2025-10-11T15:32:10+00:00",
-  "source_file": "5-Data-Science-In-Cloud/19-Azure/assignment.md",
-  "language_code": "ta"
-}
--->
 # Azure ML SDK பயன்படுத்தி தரவியல் அறிவியல் திட்டம்
 
 ## வழிமுறைகள்

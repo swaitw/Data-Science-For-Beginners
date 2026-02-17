@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T15:02:24+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "tr"
-}
--->
 # Kullanım Kılavuzu
 
 Bu kılavuz, Veri Bilimi için Başlangıç müfredatını kullanmaya yönelik örnekler ve yaygın iş akışlarını sunar.

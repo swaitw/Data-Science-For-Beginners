@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-24T22:12:16+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "es"
-}
--->
 # Cuestionarios
 
 Estos cuestionarios son los cuestionarios previos y posteriores a las lecciones del plan de estudios de ciencia de datos en https://aka.ms/datascience-beginners

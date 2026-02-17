@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "22acf28f518a4769ea14fa42f4734b9f",
-  "translation_date": "2025-12-19T16:32:46+00:00",
-  "source_file": "3-Data-Visualization/R/09-visualization-quantities/README.md",
-  "language_code": "ml"
-}
--->
 # അളവുകൾ ദൃശ്യവൽക്കരിക്കൽ
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) എന്നവരുടെ സ്കെച്ച്നോട്ട് ](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/sketchnotes/09-Visualizing-Quantities.png)|
 |:---:|

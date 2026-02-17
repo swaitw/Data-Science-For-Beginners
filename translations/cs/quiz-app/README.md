@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-26T16:18:40+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "cs"
-}
--->
 # Kvízy
 
 Tyto kvízy slouží jako přednáškové a popřednáškové kvízy pro kurikulum datové vědy na https://aka.ms/datascience-beginners

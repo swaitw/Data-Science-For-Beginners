@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-10-11T15:20:38+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "et"
-}
--->
 # Ülesanne: Andmetöötlus Pythonis
 
 Selles ülesandes palume teil täiendada koodi, mida oleme väljakutsetes alustanud. Ülesanne koosneb kahest osast:

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:08:27+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "hr"
-}
--->
 # Primjeri za početnike u znanosti o podacima
 
 Dobrodošli u direktorij s primjerima! Ova zbirka jednostavnih, dobro komentiranih primjera osmišljena je kako bi vam pomogla započeti sa znanošću o podacima, čak i ako ste potpuni početnik.

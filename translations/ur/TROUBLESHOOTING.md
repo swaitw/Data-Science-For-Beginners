@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:31:26+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "ur"
-}
--->
 # خرابیوں کو دور کرنے کی رہنما
 
 یہ رہنما ڈیٹا سائنس فار بیگنرز نصاب کے دوران پیش آنے والے عام مسائل کے حل فراہم کرتی ہے۔

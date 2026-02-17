@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:59:27+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "lt"
-}
--->
 # Oro uostų duomenų rodymas
 
 Jums buvo pateikta [duomenų bazė](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db), sukurta naudojant [SQLite](https://sqlite.org/index.html), kurioje yra informacija apie oro uostus. Schema pateikta žemiau. Naudosite [SQLite plėtinį](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) programoje [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum), kad galėtumėte rodyti informaciją apie įvairių miestų oro uostus.

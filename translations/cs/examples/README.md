@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:06:44+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "cs"
-}
--->
 # Příklady pro začátečníky v datové vědě
 
 Vítejte v adresáři příkladů! Tato sbírka jednoduchých, dobře okomentovaných příkladů je navržena tak, aby vám pomohla začít s datovou vědou, i když jste úplný začátečník.

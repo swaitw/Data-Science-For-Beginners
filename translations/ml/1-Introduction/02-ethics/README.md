@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58860ce9a4b8a564003d2752f7c72851",
-  "translation_date": "2025-12-19T14:10:15+00:00",
-  "source_file": "1-Introduction/02-ethics/README.md",
-  "language_code": "ml"
-}
--->
 Translation for chunk 1 of 'README.md' skipped due to timeout.
  * വിവരങ്ങൾ യാഥാർത്ഥ്യത്തെ പ്രതിഫലിപ്പിക്കുന്നതിൽ _സത്യസന്ധമായി_ പിടിച്ചെടുത്തിട്ടുണ്ടോ?
 

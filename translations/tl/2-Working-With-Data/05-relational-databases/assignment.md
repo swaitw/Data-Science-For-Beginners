@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "25b37acdfb2452917c1aa2e2ca44317a",
-  "translation_date": "2025-10-24T09:57:18+00:00",
-  "source_file": "2-Working-With-Data/05-relational-databases/assignment.md",
-  "language_code": "tl"
-}
--->
 # Pagpapakita ng datos ng paliparan
 
 Binigyan ka ng isang [database](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) na ginawa gamit ang [SQLite](https://sqlite.org/index.html) na naglalaman ng impormasyon tungkol sa mga paliparan. Ang schema ay ipinapakita sa ibaba. Gagamitin mo ang [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) sa [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) upang ipakita ang impormasyon tungkol sa mga paliparan sa iba't ibang lungsod.

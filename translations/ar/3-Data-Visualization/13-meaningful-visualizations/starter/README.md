@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-27T10:11:22+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "ar"
-}
--->
 # مشروع تصور البيانات Dangerous Liaisons
 
 لبدء العمل، تحتاج إلى التأكد من أن NPM وNode يعملان على جهازك. قم بتثبيت التبعيات (npm install) ثم قم بتشغيل المشروع محليًا (npm run serve):

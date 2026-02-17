@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-12-19T13:51:35+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ml"
-}
--->
 # സാംഖ്യശാസ്ത്രത്തെയും സാദ്ധ്യതയെയും കുറിച്ചുള്ള ഒരു സംക്ഷിപ്ത പരിചയം
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|

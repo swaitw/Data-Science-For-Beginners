@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-28T15:57:48+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "nl"
-}
--->
 # Quizzen
 
 Deze quizzen zijn de quizzen vóór en na de lessen in het data science-curriculum op https://aka.ms/datascience-beginners

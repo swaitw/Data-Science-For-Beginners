@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-30T19:09:46+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "hr"
-}
--->
 # Projekt vizualizacije podataka Dangerous Liaisons
 
 Za početak, potrebno je osigurati da imate instalirane NPM i Node na svom računalu. Instalirajte ovisnosti (npm install) i zatim pokrenite projekt lokalno (npm run serve):

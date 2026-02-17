@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a64d8afa22ffcc2016bb239188d6acb1",
-  "translation_date": "2025-10-03T15:17:06+00:00",
-  "source_file": "INSTALLATION.md",
-  "language_code": "ja"
-}
--->
 # インストールガイド
 
 このガイドでは、Data Science for Beginners カリキュラムを使用するための環境設定方法を説明します。

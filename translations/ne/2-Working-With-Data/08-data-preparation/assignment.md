@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-27T16:49:49+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ne"
-}
--->
 # फारमबाट डेटा मूल्याङ्कन गर्दै
 
 एक ग्राहकले आफ्नो ग्राहक आधारको बारेमा केही आधारभूत डेटा सङ्कलन गर्न [सानो फारम](../../../../2-Working-With-Data/08-data-preparation/index.html) परीक्षण गरिरहेका छन्। उनीहरूले सङ्कलन गरेको डेटा प्रमाणित गर्नका लागि आफ्नो निष्कर्षहरू तपाईंलाई ल्याएका छन्। तपाईंले ब्राउजरमा `index.html` पृष्ठ खोलेर फारम हेर्न सक्नुहुन्छ।

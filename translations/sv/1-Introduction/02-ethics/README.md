@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "58860ce9a4b8a564003d2752f7c72851",
-  "translation_date": "2025-10-03T16:36:54+00:00",
-  "source_file": "1-Introduction/02-ethics/README.md",
-  "language_code": "sv"
-}
--->
 # Introduktion till Dataetik
 
 |![ Sketchnote av [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/02-Ethics.png)|

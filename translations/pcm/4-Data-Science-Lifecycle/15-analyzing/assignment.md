@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-11-18T18:41:12+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "pcm"
-}
--->
 # Check for ansa
 
 Dis one na continuation of di [assignment](../14-Introduction/assignment.md) wey dey di previous lesson, wey we small small check di data set. Now we go look di data well well.

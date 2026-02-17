@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "42119bcc97bee88254e381156d770f3c",
-  "translation_date": "2025-09-06T09:00:49+00:00",
-  "source_file": "3-Data-Visualization/11-visualization-proportions/README.md",
-  "language_code": "tr"
-}
--->
 # Oranları Görselleştirme
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/11-Visualizing-Proportions.png)|

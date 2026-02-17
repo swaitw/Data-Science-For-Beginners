@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-11-18T18:13:54+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "pcm"
-}
--->
 # Usage Guide
 
 Dis guide dey show example and common way wey you fit take use di Data Science for Beginners curriculum.

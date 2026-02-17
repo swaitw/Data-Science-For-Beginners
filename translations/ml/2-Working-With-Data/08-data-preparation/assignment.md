@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-12-19T15:45:32+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ml"
-}
--->
 # ഒരു ഫോമിൽ നിന്നുള്ള ഡാറ്റ വിലയിരുത്തൽ
 
 ഒരു ക്ലയന്റ് അവരുടെ ക്ലയന്റ്-ബേസ് സംബന്ധിച്ച ചില അടിസ്ഥാന ഡാറ്റ ശേഖരിക്കാൻ ഒരു [ചെറിയ ഫോം](../../../../2-Working-With-Data/08-data-preparation/index.html) പരീക്ഷിച്ചു വരുന്നു. അവർ ശേഖരിച്ച ഡാറ്റ ശരിയാണോ എന്ന് സ്ഥിരീകരിക്കാൻ അവർ അവരുടെ കണ്ടെത്തലുകൾ നിങ്ങളെ സമീപിച്ചു. ഫോം കാണാൻ ബ്രൗസറിൽ `index.html` പേജ് തുറക്കാം.

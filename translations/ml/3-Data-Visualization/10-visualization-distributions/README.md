@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "80a20467e046d312809d008395051fc7",
-  "translation_date": "2025-12-19T15:54:16+00:00",
-  "source_file": "3-Data-Visualization/10-visualization-distributions/README.md",
-  "language_code": "ml"
-}
--->
 # വിതരണങ്ങൾ ദൃശ്യവൽക്കരിക്കൽ
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/10-Visualizing-Distributions.png)|

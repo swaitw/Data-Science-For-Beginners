@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-25T16:23:53+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "fr"
-}
--->
 # Évaluation des données d'un formulaire
 
 Un client a testé un [petit formulaire](../../../../2-Working-With-Data/08-data-preparation/index.html) pour recueillir des données de base sur sa clientèle. Il vous a transmis ses résultats pour valider les données collectées. Vous pouvez ouvrir la page `index.html` dans le navigateur pour examiner le formulaire.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-08-30T19:26:05+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "sr"
-}
--->
 # Мала студија о дијабетесу
 
 У овом задатку, радићемо са малим скупом података о пацијентима са дијабетесом преузетим са [овог линка](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-26T16:48:46+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/solution/README.md",
-  "language_code": "ro"
-}
--->
 # Proiect de vizualizare a datelor Dangerous Liaisons
 
 Pentru a începe, trebuie să te asiguri că ai NPM și Node instalate pe mașina ta. Instalează dependențele (npm install) și apoi rulează proiectul local (npm run serve):

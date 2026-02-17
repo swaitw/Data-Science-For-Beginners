@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T14:51:41+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "fr"
-}
--->
 # Guide d'utilisation
 
 Ce guide fournit des exemples et des workflows courants pour utiliser le programme "Data Science for Beginners".

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "872be8bc1b93ef1dd9ac3d6e8f99f6ab",
-  "translation_date": "2025-08-27T08:14:18+00:00",
-  "source_file": "SUPPORT.md",
-  "language_code": "bn"
-}
--->
 # সহায়তা
 ## সমস্যা জমা দেওয়া এবং সহায়তা পাওয়ার উপায়  
 

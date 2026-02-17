@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-25T17:39:51+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "fr"
-}
--->
 # Quiz
 
 Ces quiz sont les quiz avant et après les cours du programme de science des données disponible sur https://aka.ms/datascience-beginners

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:08:47+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "sl"
-}
--->
 # Primeri za začetnike v podatkovni znanosti
 
 Dobrodošli v imeniku primerov! Ta zbirka preprostih, dobro komentiranih primerov je zasnovana tako, da vam pomaga začeti s podatkovno znanostjo, tudi če ste popolni začetnik.

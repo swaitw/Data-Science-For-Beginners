@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "fcc7547171f4530f159676dd73ed772e",
-  "translation_date": "2025-12-19T15:26:03+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/assignment.md",
-  "language_code": "ml"
-}
--->
 # ഉത്തരം അന്വേഷിക്കൽ
 
 ഇത് മുൻപത്തെ പാഠത്തിന്റെ [അസൈൻമെന്റ്](../14-Introduction/assignment.md) തുടർച്ചയാണ്, അവിടെ നാം ഡാറ്റാ സെറ്റിനെ കുറിച്ച് സംക്ഷിപ്തമായി നോക്കിയിരുന്നു. ഇപ്പോൾ നാം ഡാറ്റയെ കൂടുതൽ ആഴത്തിൽ പരിശോധിക്കാനാണ് പോകുന്നത്.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "0f67a4139454816631526779a456b734",
-  "translation_date": "2025-09-06T18:27:46+00:00",
-  "source_file": "6-Data-Science-In-Wild/20-Real-World-Examples/README.md",
-  "language_code": "it"
-}
--->
 # Data Science nel Mondo Reale
 
 | ![ Sketchnote di [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/20-DataScience-RealWorld.png) |

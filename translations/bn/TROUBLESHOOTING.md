@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:35:19+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "bn"
-}
--->
 # সমস্যার সমাধানের গাইড
 
 এই গাইডটি ডেটা সায়েন্স ফর বিগিনার্স কারিকুলাম নিয়ে কাজ করার সময় সাধারণ সমস্যাগুলোর সমাধান প্রদান করে।

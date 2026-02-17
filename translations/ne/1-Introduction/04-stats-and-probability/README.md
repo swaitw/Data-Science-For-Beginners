@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T13:19:34+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ne"
-}
--->
 # तथ्यांक र सम्भाव्यता: एक संक्षिप्त परिचय
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ग्राफिकल रूपमा, हामी माध्यिका र क्वार्टाइलहरूको सम्बन्धलाई **बक्स प्लट (box plot)** मा देखाउन सक्छौं:
 
-<img src="images/boxplot_explanation.png" alt="Box Plot Explanation" width="50%">
+<img src="../../../../translated_images/ne/boxplot_explanation.4039b7de08780fd4.webp" alt="Box Plot Explanation" width="50%">
 
 यहाँ हामी **इन्टर-क्वार्टाइल रेन्ज (inter-quartile range)** IQR=Q3-Q1 पनि गणना गर्छौं, र तथाकथित **आउटलायर्स (outliers)** - यस्ता मानहरू, जो [Q1-1.5*IQR, Q3+1.5*IQR] को सीमाभन्दा बाहिर पर्छन्।
 

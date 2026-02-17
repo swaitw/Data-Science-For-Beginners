@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "ce95884566a74db72572cd51f0cb25ad",
-  "translation_date": "2025-09-06T12:59:24+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/README.md",
-  "language_code": "ur"
-}
--->
 # شماریات اور احتمال کا مختصر تعارف
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/04-Statistics-Probability.png)|
@@ -64,7 +55,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 گرافک طور پر، ہم میڈین اور چارٹائلز کے تعلق کو ایک ڈایاگرام میں ظاہر کر سکتے ہیں جسے **باکس پلاٹ** کہا جاتا ہے:
 
-<img src="images/boxplot_explanation.png" alt="باکس پلاٹ کی وضاحت" width="50%">
+<img src="../../../../translated_images/ur/boxplot_explanation.4039b7de08780fd4.webp" alt="باکس پلاٹ کی وضاحت" width="50%">
 
 یہاں ہم **انٹر-چارٹائل رینج** IQR=Q3-Q1 اور نام نہاد **آؤٹ لائرز** کا بھی حساب لگاتے ہیں - وہ قدریں جو حدود [Q1-1.5*IQR,Q3+1.5*IQR] سے باہر ہوتی ہیں۔
 

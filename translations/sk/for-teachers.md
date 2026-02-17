@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f7440be10c17a8a9262713af3d2818a9",
-  "translation_date": "2025-09-06T20:00:43+00:00",
-  "source_file": "for-teachers.md",
-  "language_code": "sk"
-}
--->
 ## Pre pedagógov
 
 Chceli by ste použiť tento učebný plán vo svojej triede? Neváhajte!

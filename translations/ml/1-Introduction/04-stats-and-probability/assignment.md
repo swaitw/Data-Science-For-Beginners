@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "01d1b493e8b51a6ebb42524f6b1bcfff",
-  "translation_date": "2025-12-19T13:57:05+00:00",
-  "source_file": "1-Introduction/04-stats-and-probability/assignment.md",
-  "language_code": "ml"
-}
--->
 # ചെറിയ പ്രമേഹ പഠനം
 
 ഈ അസൈൻമെന്റിൽ, നാം [ഇവിടെ](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html) നിന്നെടുത്ത ചെറിയ പ്രമേഹ രോഗികളുടെ ഡാറ്റാസെറ്റുമായി പ്രവർത്തിക്കും.

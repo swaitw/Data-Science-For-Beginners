@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a33c5d4b4156a2b41788d8720b6f724c",
-  "translation_date": "2025-08-24T22:47:13+00:00",
-  "source_file": "3-Data-Visualization/R/12-visualization-relationships/README.md",
-  "language_code": "fa"
-}
--->
 # تجسم روابط: همه چیز درباره عسل 🍯
 
 |![طرح دستی توسط [(@sketchthedocs)](https://sketchthedocs.dev)](../../../sketchnotes/12-Visualizing-Relationships.png)|

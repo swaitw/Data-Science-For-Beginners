@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-30T18:21:01+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "sl"
-}
--->
 # Vrednotenje podatkov iz obrazca
 
 Stranka je testirala [majhen obrazec](../../../../2-Working-With-Data/08-data-preparation/index.html) za zbiranje osnovnih podatkov o svoji bazi strank. Svoje ugotovitve so prinesli k vam, da preverite zbrane podatke. Stran `index.html` lahko odprete v brskalniku, da si ogledate obrazec.

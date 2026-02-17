@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "9bef7fd96c8f262339933117d9b3e342",
-  "translation_date": "2025-10-03T13:05:08+00:00",
-  "source_file": "examples/README.md",
-  "language_code": "id"
-}
--->
 # Contoh Data Science untuk Pemula
 
 Selamat datang di direktori contoh! Koleksi contoh sederhana dengan komentar yang jelas ini dirancang untuk membantu Anda memulai dengan data science, bahkan jika Anda benar-benar pemula.

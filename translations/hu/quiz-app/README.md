@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-08-26T16:18:15+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "hu"
-}
--->
 # Kvízek
 
 Ezek a kvízek a data science tananyag előtti és utáni kvízei, amely elérhető itt: https://aka.ms/datascience-beginners  

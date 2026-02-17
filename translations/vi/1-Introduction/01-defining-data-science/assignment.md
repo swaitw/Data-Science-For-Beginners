@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "4e0f1773b9bee1be3b28f9fe2c71b3de",
-  "translation_date": "2025-08-28T18:57:31+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/assignment.md",
-  "language_code": "vi"
-}
--->
 # Bài tập: Các tình huống Khoa học Dữ liệu
 
 Trong bài tập đầu tiên này, chúng tôi yêu cầu bạn suy nghĩ về một quy trình hoặc vấn đề thực tế trong các lĩnh vực khác nhau, và cách bạn có thể cải thiện nó bằng quy trình Khoa học Dữ liệu. Hãy cân nhắc các câu hỏi sau:

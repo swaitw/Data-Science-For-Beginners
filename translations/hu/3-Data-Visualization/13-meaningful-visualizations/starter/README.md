@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5c51a54dd89075a7a362890117b7ed9e",
-  "translation_date": "2025-08-26T16:47:48+00:00",
-  "source_file": "3-Data-Visualization/13-meaningful-visualizations/starter/README.md",
-  "language_code": "hu"
-}
--->
 # Veszélyes viszonyok adatvizualizációs projekt
 
 A kezdéshez győződj meg róla, hogy az NPM és a Node telepítve van a gépeden. Telepítsd a függőségeket (npm install), majd futtasd a projektet helyben (npm run serve):

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "dc8f035ce92e4eaa078ab19caa68267a",
-  "translation_date": "2025-08-26T21:07:37+00:00",
-  "source_file": "2-Working-With-Data/07-python/assignment.md",
-  "language_code": "no"
-}
--->
 # Oppgave for Databehandling i Python
 
 I denne oppgaven vil vi be deg utdype koden vi har begynt å utvikle i våre utfordringer. Oppgaven består av to deler:

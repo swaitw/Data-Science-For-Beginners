@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f9d5a7275e046223fa6474477674b810",
-  "translation_date": "2025-08-25T16:24:00+00:00",
-  "source_file": "2-Working-With-Data/08-data-preparation/assignment.md",
-  "language_code": "ja"
-}
--->
 # フォームからのデータ評価
 
 クライアントは、顧客層に関する基本的なデータを収集するための[小さなフォーム](../../../../2-Working-With-Data/08-data-preparation/index.html)をテストしてきました。彼らは収集したデータを検証するためにその結果を持ってきました。ブラウザで`index.html`ページを開いてフォームを確認することができます。

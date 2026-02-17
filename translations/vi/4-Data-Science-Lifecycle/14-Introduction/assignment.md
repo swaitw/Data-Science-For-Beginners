@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "564445c39ad29a491abcb9356fc4d47d",
-  "translation_date": "2025-08-28T18:23:58+00:00",
-  "source_file": "4-Data-Science-Lifecycle/14-Introduction/assignment.md",
-  "language_code": "vi"
-}
--->
 # Đánh giá một tập dữ liệu
 
 Một khách hàng đã liên hệ với nhóm của bạn để nhờ giúp đỡ trong việc điều tra thói quen chi tiêu theo mùa của khách hàng đi taxi ở Thành phố New York.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "93a6a8a8a209128cbfedcbc076ee21b0",
-  "translation_date": "2025-10-03T15:44:40+00:00",
-  "source_file": "TROUBLESHOOTING.md",
-  "language_code": "tl"
-}
--->
 # Gabay sa Pag-aayos ng Problema
 
 Ang gabay na ito ay nagbibigay ng mga solusyon sa mga karaniwang isyu na maaaring maranasan habang ginagamit ang kurikulum ng Data Science for Beginners.

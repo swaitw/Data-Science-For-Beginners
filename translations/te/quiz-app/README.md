@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "e92c33ea498915a13c9aec162616db18",
-  "translation_date": "2025-12-19T13:24:56+00:00",
-  "source_file": "quiz-app/README.md",
-  "language_code": "te"
-}
--->
 # క్విజ్‌లు
 
 ఈ క్విజ్‌లు https://aka.ms/datascience-beginners వద్ద డేటా సైన్స్ పాఠ్యక్రమం కోసం ప్రీ- మరియు పోస్ట్-లెక్చర్ క్విజ్‌లు.

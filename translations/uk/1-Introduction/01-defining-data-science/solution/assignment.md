@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "a8f79b9c0484c35b4f26e8aec7fc4d56",
-  "translation_date": "2025-08-30T19:33:46+00:00",
-  "source_file": "1-Introduction/01-defining-data-science/solution/assignment.md",
-  "language_code": "uk"
-}
--->
 # Завдання: Сценарії використання науки про дані
 
 У цьому першому завданні ми просимо вас подумати про реальний процес або проблему в різних сферах і про те, як ви можете покращити її за допомогою процесу науки про дані. Подумайте про наступне:

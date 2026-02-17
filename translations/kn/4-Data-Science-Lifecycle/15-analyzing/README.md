@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "661dad02c3ac239644d34c1eb51e76f8",
-  "translation_date": "2025-12-19T15:25:24+00:00",
-  "source_file": "4-Data-Science-Lifecycle/15-analyzing/README.md",
-  "language_code": "kn"
-}
--->
 # ಡೇಟಾ ಸೈನ್ಸ್ ಜೀವನಚಕ್ರ: ವಿಶ್ಲೇಷಣೆ
 
 |![ [(@sketchthedocs)](https://sketchthedocs.dev) ಅವರ ಸ್ಕೆಚ್ ನೋಟ್ ](../../sketchnotes/15-Analyzing.png)|

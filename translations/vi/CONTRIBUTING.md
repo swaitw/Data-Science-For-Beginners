@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "10f86fb29b5407088445ac803b3d0ed1",
-  "translation_date": "2025-10-03T14:17:33+00:00",
-  "source_file": "CONTRIBUTING.md",
-  "language_code": "vi"
-}
--->
 # Đóng góp cho Data Science for Beginners
 
 Cảm ơn bạn đã quan tâm đến việc đóng góp cho chương trình học Data Science for Beginners! Chúng tôi hoan nghênh sự đóng góp từ cộng đồng.

@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "f546349678757508d69ce9e1d2688446",
-  "translation_date": "2025-10-03T14:59:07+00:00",
-  "source_file": "USAGE.md",
-  "language_code": "ne"
-}
--->
 # प्रयोग मार्गदर्शन
 
 यो मार्गदर्शनले Data Science for Beginners पाठ्यक्रम प्रयोग गर्नका लागि उदाहरणहरू र सामान्य कार्यप्रवाहहरू प्रदान गर्दछ।
