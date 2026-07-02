@@ -1,126 +1,151 @@
-# အမှန်တကယ်ကမ္ဘာကြီးထဲက ဒေတာသိပ္ပံ
+# ဒေတာ သိပ္ပံကို အမှန်တကယ်ကမ္ဘာပေါ်မှာ
 
 | ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/20-DataScience-RealWorld.png) |
 | :--------------------------------------------------------------------------------------------------------------: |
-|               အမှန်တကယ်ကမ္ဘာကြီးထဲက ဒေတာသိပ္ပံ - _Sketchnote by [@nitya](https://twitter.com/nitya)_               |
+|               ဒေတာ သိပ္ပံကို အမှန်တကယ်ကမ္ဘာပေါ်မှာ - _Sketchnote by [@nitya](https://twitter.com/nitya)_               |
 
-ကျွန်တော်တို့ သင်ယူမှုခရီးလမ်းရဲ့ နောက်ဆုံးအပိုင်းကို ရောက်လာပြီ!
+ဒီ တန်ခိုးတက္ကြွမှုခရီးစဉ်ရဲ့ အဆုံးအပေါ်ကို နီးနီးလာပြီ!
 
-ကျွန်တော်တို့ ဒေတာသိပ္ပံနဲ့ ကျင့်ဝတ်များအကြောင်း အဓိပ္ပါယ်ဖွင့်ဆိုမှုများနဲ့ စတင်ခဲ့ပြီး ဒေတာခွဲခြမ်းစိတ်ဖြာခြင်းနဲ့ အမြင်အာရုံဖော်ပြခြင်းအတွက် အမျိုးမျိုးသော ကိရိယာများနဲ့ နည်းလမ်းများကို လေ့လာခဲ့ပါတယ်။ ဒေတာသိပ္ပံ၏ အသက်တာလှိုင်းကို ပြန်လည်သုံးသပ်ပြီး cloud computing services ကို အသုံးပြု၍ ဒေတာသိပ္ပံ workflow များကို အတိုင်းအတာချဲ့ထွင်ခြင်းနှင့် အလိုအလျောက်လုပ်ဆောင်ခြင်းကို လေ့လာခဲ့ပါတယ်။ ဒါကြောင့် သင်မေးနိုင်ပါတယ် - _"ဒီသင်ယူမှုအားလုံးကို အမှန်တကယ်ကမ္ဘာကြီးထဲမှာ ဘယ်လိုသုံးနိုင်မလဲ?"_
+ဒေတာ သိပ္ပံနဲ့ဂရုဏာရှိမှု၏ အဓိပ္ပါယ်တွေကို စတင်ပြီး၊ ဒေတာ विश्लेषणနဲ့ မြင်ကွင်း ပြုလုပ်မှုအတွက် ကိရိယာများနဲ့ နည်းပညာမျိုးစုံကို စူးစမ်းလေ့လာခဲ့ပြီး၊ ဒေတာ သိပ္ပံ ပြန်လည်အသုံးပြုခြင်းလည်ပတ်မှု လည်ပတ်ခြင်းများကို ပြန်လည်သုံးသပ်ခဲ့ပြီး၊ ကလေ့ ဂျစ်ဝန်ဆောင်မှုများဖြင့် ဒေတာ သိပ္ပံ လုပ်ငန်းစဉ်များကို တိုးချဲ့မှုနဲ့ အလိုအလျောက်ဆောင်ရွက်မှုတွေဆီသွားခဲ့သည်။ ဒါကြောင့် သင်တန်းသားတွေ ဟောပြောမဲ့အကြောင်းမှာ: _"ဒီသင်ယူချက်တွေကို အမှန်တကယ်ကမ္ဘာပေါ် ဖြစ်ရပ်များနဲ့ ဘယ်လို ညွှန်ပြမလဲ?"_ ဆိုတဲ့ စိတ်ကူးတွေပဲ ဖြစ်နိုင်ပါတယ်။
 
-ဒီသင်ခန်းစာမှာ ကျွန်တော်တို့ စက်မှုလုပ်ငန်းများအတွင်း ဒေတာသိပ္ပံ၏ အမှန်တကယ်အသုံးချမှုများကို လေ့လာပြီး သုတေသန၊ ဒစ်ဂျစ်တယ် လူ့ကျမ်းစာများ၊ နှင့် တည်တံ့မှုဆိုင်ရာ အထူးနမူနာများကို ဆွေးနွေးပါမယ်။ ကျောင်းသား project အခွင့်အလမ်းများကို လေ့လာပြီး သင့်ရဲ့ သင်ယူမှုခရီးလမ်းကို ဆက်လက်တိုးတက်စေဖို့ အသုံးဝင်သော အရင်းအမြစ်များနဲ့ အဆုံးသတ်ပါမယ်။
+ဒီသင်ခန်းစာမှာ ဒေတာ သိပ္ပံကို ကဏ္ဍအတွင်း အမှန်တကယ်ကမ္ဘာပေါ်၏ အသုံးပြုမှုများကို ရှာဖွေပြီး သုတေသန၊ ဒစ်ဂျစ်တယ် လူမှုကဏ္ဍနဲ့ တာဝန်ခံတည်ဆောက်မှုဆိုင်ရာ ဥပမာများကို နက်ရှိုင်းစွာ ကြည့်ရှုမှာဖြစ်ပါတယ်။ ကျောင်းသား စာပေ အတွက် အခွင့်အလမ်းများကို ရှင်းပြပြီး သင့်တက်ကြွမှုခရီးစဉ်ကို ဆက်လက်တိုးတက်ဖို့ အထောက်အကူပြုပစ္စည်းများနဲ့ အဆုံးသတ်ပါမည်။
+## သင်ခန်းစာ မတိုင်မီ စစ်ဆေးမေးခွန်း
 
-## သင်ခန်းစာမတိုင်မီမေးခွန်း
+## [သင်ခန်းစာ မတိုင်မီ စစ်ဆေးမေးခွန်း](https://ff-quizzes.netlify.app/en/ds/quiz/38)
 
-## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/38)
+## ဒေတာ သိပ္ပံ + စက်မှုလုပ်ငန်း
 
-## ဒေတာသိပ္ပံ + စက်မှုလုပ်ငန်း
+AI ကို လူသုံးတန်းမြှင့်တင်ခြင်းကြောင့်၊ ဖွံ့ဖြိုးသူများသည် AI မောင်းနှင်သော ဆုံးဖြတ်ချက် ချမှုနဲ့ ဒေတာအပေါ် အခြေခံထားသော နားလည်မှုများအား အသုံးပြုသူအတွေ့အကြုံနဲ့ ဖွံ့ဖြိုးမှု လုပ်ငန်းစဉ်များအတွင်း ပေါင်းစည်း အတက်အကျ လုပ်ဆောင်ရတာ ပိုလွယ်ကူလာပြီ ဖြစ်သည်။ ဒီမှာ အချို့ ဥပမာတွေရှိတယ်၊ ဒေတာ သိပ္ပံအား စက်မှုလုပ်ငန်းတစ်ခုလုံးတစ်ဆက်တည်းတွင် "အသုံးချ" ပြုလုပ်တဲ့ နေရာမှာ -
 
-AI ကို လူတိုင်းအသုံးပြုနိုင်အောင် လွယ်ကူလာတာကြောင့် developer များအတွက် AI အခြေပြု ဆုံးဖြတ်ချက်များနှင့် ဒေတာအခြေပြု အမြင်များကို user experience နှင့် development workflow များထဲသို့ ပေါင်းစပ်ထည့်သွင်းဖန်တီးရန် ပိုမိုလွယ်ကူလာပါတယ်။ ဒေတာသိပ္ပံကို စက်မှုလုပ်ငန်းအတွင်း "အသုံးချ" နေတဲ့ နမူနာအချို့ကို အောက်မှာ ဖော်ပြထားပါတယ်-
+ * [Google Flu Trends](https://www.wired.com/2015/10/can-learn-epic-failure-google-flu-trends/) က ဒေတာ သိပ္ပံသုံးပြီး ရှာဖွေမှု စကားလုံးများနဲ့ ဖလူး လေ့လာမှုများကို ဆက်စပ်စေခဲ့ပါတယ်။ နည်းလမ်းမှာ ပြစ်မှားချက်များ ရှိခဲ့ပေမယ့်၊ ဒေတာအပေါ် အခြေခံထားသော ကျန်းမာရေးခန့်မှန်းမှုများ၏ အခွင့်အရေးများနဲ့ စိန်ခေါ်မှုများကို အသိပေးခဲ့သည်။
 
- * [Google Flu Trends](https://www.wired.com/2015/10/can-learn-epic-failure-google-flu-trends/) က search term များကို flu trends နဲ့ ဆက်စပ်ဖို့ ဒေတာသိပ္ပံကို အသုံးပြုခဲ့ပါတယ်။ နည်းလမ်းမှာ အားနည်းချက်များရှိခဲ့ပေမယ့် ဒေတာအခြေပြု ကျန်းမာရေးခန့်မှန်းမှုများ၏ အခွင့်အလမ်းများ (နှင့် စိန်ခေါ်မှုများ) အပေါ် သတိပေးမှုကို တိုးမြှင့်ပေးခဲ့ပါတယ်။
+ * [UPS Routing Predictions](https://www.technologyreview.com/2018/11/21/139000/how-ups-uses-ai-to-outsmart-bad-weather/) မှာ UPS သည် ဒေတာ သိပ္ပံနဲ့ machine learning ကို အသုံးပြုပြီး ပို့ဆောင်ရာလမ်းကြောင်းများကို မိုးလေဝသ၊ ယာဉ်များ လည်ပတ်မှု မျိုးစုံ၊ ပို့ဆောင်ရမည့် အချိန် အတိအကျ တွက်ချက်ကာ ခန့်မှန်းတယ်ဆိုတာ ဖော်ပြထားပါတယ်။
 
- * [UPS Routing Predictions](https://www.technologyreview.com/2018/11/21/139000/how-ups-uses-ai-to-outsmart-bad-weather/) - UPS က ဒေတာသိပ္ပံနှင့် machine learning ကို အသုံးပြု၍ ရေရှည်ပို့ဆောင်မှုအတွက် ရွေးချယ်မှုအကောင်းဆုံးလမ်းကြောင်းများကို ခန့်မှန်းခဲ့ပါတယ်။ ဒါတွင် ရာသီဥတုအခြေအနေများ၊ လမ်းပိတ်ဆို့မှု pattern များ၊ ပို့ဆောင်မှုအချိန်ကန့်သတ်ချက်များ စသည်တို့ကို ထည့်သွင်းစဉ်းစားခဲ့ပါတယ်။
+ * [NYC Taxicab Route Visualization](http://chriswhong.github.io/nyctaxi/) မှာ [Freedom Of Information Laws](https://chriswhong.com/open-data/foil_nyc_taxi/) ဖြင့် စုဆောင်းထားတဲ့ ဒေတာက NYC taxicab တစ်နေ့တာရဲ့ နေ့စဉ် အကြောင်းအရာတွေကို မြင်ရစေပြီး၊ သူတို့ ဘယ်လိုမြို့ကြီးထဲ လမ်းကြောင်းရွေးချယ်သွားကြတာ၊ ဘယ်လောက်ငွေရှာကြတာနဲ့ တစ် ၂၄ နာရီအတွင်း ခရီးများကာလများကို နားလည်ထင်မြင်စေပါသည်။
 
- * [NYC Taxicab Route Visualization](http://chriswhong.github.io/nyctaxi/) - [Freedom Of Information Laws](https://chriswhong.com/open-data/foil_nyc_taxi/) ကို အသုံးပြု၍ ရရှိသော ဒေတာများက NYC taxi များ၏ နေ့စဉ်လှုပ်ရှားမှုကို visualization ပြုလုပ်ပေးခဲ့ပြီး မြို့ကြီးအတွင်းမှာ ဘယ်လို navigation လုပ်သလဲ၊ ဘယ်လောက်ငွေရှာရသလဲ၊ နှင့် ၂၄ နာရီအတွင်း ခရီးစဉ်များ၏ အချိန်ကာလကို နားလည်စေခဲ့ပါတယ်။
+ * [Uber Data Science Workbench](https://eng.uber.com/dsw/) သည် Uber ခရီးဆိုဒ်ပေါင်း မီလျံကျော်မှ ရိုက်ကြည့်ထားသော Pickup & dropoff တည်နေရာများ၊ ခရီးကာလ၊ နှစ်သက်သော လမ်းကြောင်းများ စသည်များ ပုံသွား စုဆောင်းခဲ့ပါသည်။ ဒေတာကို အသုံးပြုပြီး စျေးနှုန်းချချက်၊ ဘေးကင်းမှု၊ လိမ်လည်မှု တွေ ဖော်ထုတ်ခြင်းနှင့် လမ်းညွှန်မှု ဆုံးဖြတ်ချက်များအတွက် ဒေတာ သုံးသပ်မှုဆော့ဖ်ဝဲတစ်ခု တည်ဆောက်ထားသည်။
 
- * [Uber Data Science Workbench](https://eng.uber.com/dsw/) - Uber က နေ့စဉ် သန်းပေါင်းများစွာသော ခရီးစဉ်များမှ ရရှိသော pickup & dropoff location, ခရီးစဉ်အချိန်ကာလ၊ နှစ်သက်သောလမ်းကြောင်းများ စသည်တို့ကို အသုံးပြု၍ ဒေတာအာနိသင် tool တစ်ခုကို ဖန်တီးခဲ့ပြီး ဈေးနှုန်းချမှတ်ခြင်း၊ လုံခြုံရေး၊ လိမ်လည်မှုရှာဖွေခြင်း၊ နှင့် navigation ဆုံးဖြတ်ချက်များအတွက် အထောက်အကူပြုခဲ့ပါတယ်။
+ * [Sports Analytics](https://towardsdatascience.com/scope-of-analytics-in-sports-world-37ed09c39860) က _ခန့်မှန်းချက် သုံးသပ်မှု_ (အသင်းနဲ့ ကစားသမား သုံးသပ်မှု - [Moneyball](https://datasciencedegree.wisconsin.edu/blog/moneyball-proves-importance-big-data-big-ideas/) စသဖြင့် - နှင့် ပရိသတ် စီမံခန့်ခွဲမှု) နဲ့ _ဒေတာ မြင်ကွင်းပြ_ (အသင်းနဲ့ ပရိသတ် ဖျော်ဖြေမှု ဒိုင်ခွာတို့၊ ပြိုင်ပွဲများ ဖြစ်စဉ်) ကျွမ်းကျင်သော ပရော်ဂရမ်များဟာ အရည်အချင်းရှာဖွေခြင်း၊ အားကစား စာရင်းဝင်ကစားခြင်းနဲ့ ဂိမ်း/ဦးတည်ချက် စီမံခန့်ခွဲမှုတို့တွင် အသုံးပြုပါသည်။
 
- * [Sports Analytics](https://towardsdatascience.com/scope-of-analytics-in-sports-world-37ed09c39860) - _predictive analytics_ (အသင်းနှင့် ကစားသမားခန့်မှန်းခြင်း - [Moneyball](https://datasciencedegree.wisconsin.edu/blog/moneyball-proves-importance-big-data-big-ideas/) ကို စဉ်းစားပါ - နှင့် ပရိသတ်စီမံခန့်ခွဲမှု) နှင့် _data visualization_ (အသင်းနှင့် ပရိသတ် dashboard များ၊ ကစားပွဲများ စသည်တို့) ကို အဓိကထားပြီး talent scouting, sports gambling, inventory/venue management စသည်တို့တွင် အသုံးချနိုင်ပါတယ်။
+ * [Data Science in Banking](https://data-flair.training/blogs/data-science-in-banking/) မှာ ဘဏ်လုပ်ငန်းတွင် ဒေတာ သိပ္ပံ၏ တန်ဖိုးကို ဖော်ပြသော ဥပမာများပါဝင်ပြီး၊ ဆိုးရွားမှု မော်ဒယ်ဖော်ခြင်း၊ လိမ်လည်မှု ကြိုတင်ရှာဖွေရေး၊ ဖောက်သည် အပိုင်းခွဲခြားမှု၊ တိကျသောအချိန်ခန့်မှန်းခြင်း၊ အကြံပေးစနစ်များကို ပါဝင်ပါတယ်။ ခန့်မှန်းချက် သုံးသပ်မှုများက [အကြွေးကောက်စနစ်](https://dzone.com/articles/using-big-data-and-predictive-analytics-for-credit) ကဲ့သို့ အရေးပါသော စနစ်များကို တိုးတက်စေသည်။
 
- * [Data Science in Banking](https://data-flair.training/blogs/data-science-in-banking/) - ဘဏ္ဍာရေးလုပ်ငန်းတွင် ဒေတာသိပ္ပံ၏ တန်ဖိုးကို ဖော်ပြပြီး risk modeling, fraud detection, customer segmentation, real-time prediction, recommender systems စသည်တို့မှ applications များကို ဖော်ပြထားပါတယ်။ Predictive analytics က [credit scores](https://dzone.com/articles/using-big-data-and-predictive-analytics-for-credit) ကဲ့သို့သော အရေးကြီးသော အတိုင်းအတာများကိုလည်း drive လုပ်ပေးပါတယ်။
+ * [Data Science in Healthcare](https://data-flair.training/blogs/data-science-in-healthcare/) မှာ ဆေးဘက်ဆိုင်ရာ ရုပ်ပုံသရုပ်ကွက် (ဥပမာ - MRI, X-Ray, CT-Scan)၊ ကိုယ်ဗီဇအချက်အလက် (DNA စီးကွင်း)၊ ဆေးထုတ်လုပ်ခြင်း (အန္တရာယ် ခန့်မှန်းခြင်း၊ အောင်မြင်မှု ခန့်မှန်းခြင်း)၊ ညွှန်ကြားမှု သုံးသပ်မှု (လူနာစောင့်ရှောက်မှုနဲ့ ကုန်ပစ္စည်း ရှေ့ဆောင်ခြင်း)၊ ရောဂါ လေ့လာ & ကာကွယ်မှု စသည့် ကဏ္ဍများကို ဖော်ပြထားသည်။
 
- * [Data Science in Healthcare](https://data-flair.training/blogs/data-science-in-healthcare/) - medical imaging (ဥပမာ MRI, X-Ray, CT-Scan), genomics (DNA sequencing), drug development (risk assessment, success prediction), predictive analytics (patient care & supply logistics), disease tracking & prevention စသည်တို့ကဲ့သို့သော applications များကို ဖော်ပြထားပါတယ်။
+![Data Science Applications in The Real World](../../../../translated_images/my/data-science-applications.4e5019cd8790ebac.webp) ပုံရိပ် ချီးမြှင့်မှု: [Data Flair: 6 Amazing Data Science Applications ](https://data-flair.training/blogs/data-science-applications/)
 
-![Data Science Applications in The Real World](../../../../translated_images/my/data-science-applications.4e5019cd8790ebac.webp) Image Credit: [Data Flair: 6 Amazing Data Science Applications ](https://data-flair.training/blogs/data-science-applications/)
+ဓာတ်ပုံသည် ဒေတာ သိပ္ပံ နည်းစနစ်များကို အသုံးပြုဖို့ အခြားကဏ္ဍများနဲ့ ဥပမာများကို ပြသထားပါသည်။ အခြား အသုံးချမှုများ ရှာဖွေရန် စိတ်ဝင်စားပါသလား? အောက်ပါ [ပြန်လည်သုံးသပ်မှု & ကိုယ်တိုင်လေ့လာမှု](?id=review-amp-self-study) အပိုင်းကို ကြည့်ပါ။
 
-ဤပုံသည် ဒေတာသိပ္ပံနည်းလမ်းများကို အသုံးချနိုင်သော အခြား domains နှင့် နမူနာများကို ဖော်ပြထားသည်။ အခြား applications များကို လေ့လာလိုပါသလား? [Review & Self Study](../../../../6-Data-Science-In-Wild/20-Real-World-Examples) အပိုင်းကို ကြည့်ပါ။
-
-## ဒေတာသိပ္ပံ + သုတေသန
+## ဒေတာ သိပ္ပံ + သုတေသန
 
 | ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/20-DataScience-Research.png) |
 | :---------------------------------------------------------------------------------------------------------------: |
-|              ဒေတာသိပ္ပံနှင့် သုတေသန - _Sketchnote by [@nitya](https://twitter.com/nitya)_              |
+|              ဒေတာ သိပ္ပံနဲ့ သုတေသန - _Sketchnote by [@nitya](https://twitter.com/nitya)_              |
 
-အမှန်တကယ်အသုံးချမှုများသည် အများအားဖြင့် စက်မှုလုပ်ငန်းအတွင်း အတိုင်းအတာချဲ့ထွင်မှုများကို အဓိကထားသော်လည်း _သုတေသန_ applications နှင့် project များသည် အောက်ပါနှစ်ခုအမြင်မှ အသုံးဝင်နိုင်သည်-
+အမှန်တကယ်ကမ္ဘာပေါ် အသုံးပြုမှုများသည် အကြီးစား စက်မှုလုပ်ငန်းအသုံးပြုမှု အခြေပြုထားသော နေရာများတွင် ဦးစားပေးထားပေမယ့်၊ _သုတေသန_ အသုံးပြုမှု နှင့် ပရောဂျက်များဟာ အနည်းငယ် မျက်နှာပြင် နှစ်မျိုးဖြင့် အသုံးဝင်တတ်သည် -
 
-* _innovation opportunities_ - အဆင့်မြင့် concepts များကို prototype လုပ်ခြင်းနှင့် နောက်မျိုးဆက် applications များအတွက် user experience များကို စမ်းသပ်ခြင်း။
-* _deployment challenges_ - အမှန်တကယ်ကမ္ဘာကြီးထဲတွင် ဒေတာသိပ္ပံနည်းပညာများ၏ အန္တရာယ်များ သို့မဟုတ် မျှော်လင့်မထားသော အကျိုးဆက်များကို စုံစမ်းလေ့လာခြင်း။
+* _နည်းပညာတီထွင်မှု အခွင့်အလမ်းများ_ - တိုးတက်ပြောင်းလဲသောတွေးခေါ်မှု တီထွင်ရေးနှင့် နောက်ဆုံးပေါ် အသုံးချမှုများအတွက် အသုံးပြုသူ အတွေ့အကြုံ လေ့လာခြင်း။
+* _အသုံးချမှု အခက်အခဲများ_ - အမှန်တကယ်ကမ္ဘာပေါ် တွင် ဒေတာ သိပ္ပံ နည်းပညာများက စွန့်စားမှုများ သို့မဟုတ် မမှန်ကန်သော အကျိုးသက်ရောက်မှုများ ရှိမရှိ စိစစ်သုံးသပ်ခြင်း။
 
-ကျောင်းသားများအတွက် သုတေသန project များသည် သင်ယူမှုနှင့် ပူးပေါင်းဆောင်ရွက်မှုအခွင့်အလမ်းများကို ပေးစွမ်းနိုင်ပြီး သင့်ရဲ့ ချက်ချင်းနားလည်မှုကို တိုးတက်စေပြီး သက်ဆိုင်ရာလူများ သို့မဟုတ် အဖွဲ့များနှင့် ပိုမိုနီးကပ်စေပါမယ်။ ဒါဆို သုတေသန project များက ဘယ်လိုပုံစံရှိပြီး ဘယ်လို အကျိုးသက်ရောက်မှုရှိနိုင်မလဲ?
+ကျောင်းသားများအတွက် သုတေသနပုဂ္ဂိုလ်ရေးအခွင့်အလမ်းများက ဗဟုသုတရှာဖွေမှုနဲ့ပေါင်းသင်းဆက်ဆံခြင်းအတွက် ကူညီပေးပြီး၊ အကြောင်းအရာနဲ့ ပတ်သက်သော လူများသို့မဟုတ် အဖွဲ့အစည်းများနှင့် ပိုမိုကောင်းမွန်သော ဆက်ဆံရေးတည်ဆောက်ရန် အထောက်အကူဖြစ်သလို သင်၏ ခံစားမှုကို မြှင့်တင်ပေးသည့် အခွင့်အလမ်းများကို ပေးစွမ်းနိုင်သည်။ သုတေသနပရောဂျက်များက ဘယ်လို ရှိပြီး အကျိုးသက်ရောက်မှု ဘယ်လို ရနိုင်မလဲ?
 
-နမူနာတစ်ခုကို ကြည့်ကြမယ် - Joy Buolamwini (MIT Media Labs) ရဲ့ [MIT Gender Shades Study](http://gendershades.org/overview.html) နှင့် Timnit Gebru (Microsoft Research) တို့ကရေးသားခဲ့သော [signature research paper](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf) ကို အခြေခံထားသည်။
+တစ်ချက်တွေ့ကြည့်ပါ - Joy Buolamwini (MIT Media Labs) မှ အချက်အလက်အရ [MIT Gender Shades Study](http://gendershades.org/overview.html) တစ်ခု၊ Timnit Gebru (အဲဒီအချိန်မှာ Microsoft Research) နှင့် ပူးပေါင်းရေးသားထားတဲ့ [လက်မှတ်သုတေသနစာတမ်း](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf) တစ်ခုရှိပါသည်။
 
- * **ဘာလဲ:** သုတေသန project ရဲ့ ရည်ရွယ်ချက်မှာ _gender နှင့် skin type အပေါ် automated facial analysis algorithm များနှင့် dataset များတွင် bias ရှိမှုကို အကဲဖြတ်ရန်_ ဖြစ်သည်။
- * **ဘာကြောင့်:** Facial analysis ကို ရဲတပ်ဖွဲ့၊ လေဆိပ်လုံခြုံရေး၊ အလုပ်ခန့်ထားမှုစနစ်များ စသည်တို့တွင် အသုံးပြုသည် - အမှားအယွင်းများ (ဥပမာ bias ကြောင့်) သည် သက်ဆိုင်သော လူများ သို့မဟုတ် အုပ်စုများအပေါ် စီးပွားရေးနှင့် လူမှုရေးအကျိုးသက်ရောက်မှုများ ဖြစ်စေနိုင်သည်။ Bias များကို နားလည်ခြင်း (နှင့် ဖယ်ရှားခြင်း သို့မဟုတ် လျှော့ချခြင်း) သည် အသုံးပြုမှုတွင် တရားမျှတမှုအတွက် အရေးကြီးသည်။
- * **ဘယ်လို:** သုတေသနသူများသည် ရှိပြီးသား benchmark များသည် အဓိကအားဖြင့် အရောင်နုသော subject များကို အသုံးပြုသည်ကို သတိပြုခဲ့ပြီး gender နှင့် skin type အပေါ် _ပိုမိုထိန်းညှိထားသော_ dataset (1000+ images) ကို curate လုပ်ခဲ့သည်။ dataset ကို Microsoft, IBM, Face++ တို့၏ gender classification product သုံးခု၏ တိကျမှုကို အကဲဖြတ်ရန် အသုံးပြုခဲ့သည်။
+ * **ဘာလဲ:** ကာမ သမားနဲ့ အရောင်အမျိုးအစားအပေါ် အလိုအလျောက် မျက်နှာပြင် တိကျမှု ဝေဖန်ချက်သုံးသပ်မှု နဲ့ ဒေတာစုစည်းမှုများရှိမှုကို အကဲဖြတ်ခြင်းဖြစ်ပါသည်။ 
+ * **ဘာကြောင့်:** မျက်နှာတစ်ချပ်စီကို ခွဲခြားအသုံးပြုခြင်းကို ဥပဒေကြောင့် စစ်ဆေးခြင်း၊ လေဆိပ်လုံခြုံရေး၊ အလုပ်ခန့်မှန်းမှု စနစ် တွင် အသုံးပြုသော နေရာများရှိသည်။ အမှားရှိသော ခွဲခြားမှု (ဥပမာ - ဝါဒ အကြောင့်) က လူများ သို့မဟုတ် အုပ်စုများအပေါ် စီးပွားရေးနှင့် လူမှုဆက်ဆံရေး အန္တရာယ် ဖြစ်စေနိုင်သည်။ ဝါဒများကို နားလည်၊ ဖယ်ရှားခြင်း သို့မဟုတ် လျော့နည်းစေရန် အရေးပါသည်။
+ * **ဘာလို့:** သုတေသနသမားများသည် ယခင်စမ်းသပ်ငဲ့များတွင် အဓိကအားဖြင့် အရောင်ပြာသော အများစုကို အသုံးပြုကြောင်း သိရှိပြီး အသစ်တစ်ခုတည်းသော ဒေတာစုစည်းမှု (၁၀၀၀+ ပုံများ) ကို ကာယအမျိုးအစားနှင့် ကာမ သမား ခြားနားမှုဖြင့် မျှတအောင် ပြင်ဆင်ထားသည်။ ဒေတာစုစည်းမှုကို Microsoft, IBM & Face++ မှ ထုတ်ထားသော ကာမသရုပ် ခွဲခြားမှု ထုတ်ကုန်သုံးခုအား တိကျမှု စစ်တမ်းဆုတ်ခွာရန် အသုံးပြုခဲ့သည်။
 
-ရလဒ်များအရ classification accuracy သည် စုစုပေါင်းအားဖြင့် ကောင်းမွန်သော်လည်း အုပ်စုခွဲခြားမှုများအကြား error rate တွင် အထင်အရှားကွာခြားမှုရှိသည်ကို ပြသခဲ့သည် - **misgendering** သည် အမျိုးသမီးများ သို့မဟုတ် အရောင်နက်သော skin type များတွင် ပိုမိုမြင့်မားသည်ကို ပြသခဲ့ပြီး bias ရှိမှုကို ဖော်ပြခဲ့သည်။
+ရလဒ်များပြသခဲ့သည်မှာ စုစုပေါင်း ခွဲခြားမှုမှန်ကန်မှုကောင်းသော်လည်း အဖွဲ့ခွဲတိုင်း၏ အမှားနှုန်းတွေက ကွာခြားချက်ရှိပြီး - ကာမသွားလမ်းမှားခြင်း _misgendering_ အမှားမှားခြင်းသည် မိန်းကလေးများ သို့မဟုတ် အရောင်မူကြီးသောလူများအတွင်း ပိုများသည်။ ဤသည်သည် ဗဟိုထားချက်ဖြစ်သည်။
 
-**အဓိကရလဒ်များ:** ဒေတာသိပ္ပံသည် _အထောက်အထားပြည့်စုံသော dataset များ_ (subgroup များကို ထိန်းညှိထားသော) နှင့် _ပါဝင်မှုများစွာသော အဖွဲ့များ_ (နောက်ခံအမျိုးမျိုး) ကို ပိုမိုလိုအပ်သည်ကို သတိပေးခဲ့ပြီး AI solution များတွင် bias များကို စောစောဖယ်ရှားရန် သို့မဟုတ် လျှော့ချရန် အရေးကြီးသည်ကို ပြသခဲ့သည်။ ဒီလိုသုတေသနများသည် _တရားမျှတသော AI_ ကို တိုးတက်စေပြီး AI product နှင့် process များတွင် တရားမျှတမှုကို တိုးတက်စေဖို့ အဖွဲ့အစည်းများအတွက် principle နှင့် practice များကို သတ်မှတ်ရန် အရေးကြီးသည်။
+**အရေးပါသောရလဒ်များ** - ဒေတာ သိပ္ပံသည် ပိုမို _ကိုယ်စားပြုပုံဖော်သော ဒေတာစုစည်းမှု_ (မတူညီသော အုပ်စုခွဲများကို မျှတစွာဖြန့်ဖြူးထား) နဲ့ ပိုမို _ပါဝင်ကူညီသော အဖွဲ့များ_ (မျိုးခွဲ မျိုးစုံ) လိုအပ်သည်ဟု သတိပေးခဲ့ပြီး AI ဖြေရှင်းနည်းများတွင် ဤဗဟိုထားချက်များကို ကျော်လွှား ဖျယ်ဖျက်ရန် ကြိုတင်တွေ့ရှိနိုင်ဟု သုတေသနပလုပ်မှုများက အဆက်မပြတ် အဖွဲ့အစည်းမတူညီများတွင် _တာဝန်ရှိသော AI_ အဆင့်မြှင့်နည်းလမ်း၊ စည်းမျဉ်းများ သတ်မှတ်နိုင်မှုကို ကြီးပွားစေသည်။
 
-**Microsoft ရဲ့ သက်ဆိုင်သော သုတေသနများကို လေ့လာလိုပါသလား?**
+**Microsoft မှ သက်ဆိုင်ရာ သုတေသနများကို သိရှိလိုပါသလား?** 
 
-* Artificial Intelligence အပေါ် [Microsoft Research Projects](https://www.microsoft.com/research/research-area/artificial-intelligence/?facet%5Btax%5D%5Bmsr-research-area%5D%5B%5D=13556&facet%5Btax%5D%5Bmsr-content-type%5D%5B%5D=msr-project) ကို ကြည့်ပါ။
-* [Microsoft Research Data Science Summer School](https://www.microsoft.com/en-us/research/academic-program/data-science-summer-school/) မှ ကျောင်းသား project များကို လေ့လာပါ။
-* [Fairlearn](https://fairlearn.org/) project နှင့် [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6) အစီအစဉ်များကို ကြည့်ပါ။
+* [Microsoft Research Projects](https://www.microsoft.com/research/research-area/artificial-intelligence/?facet%5Btax%5D%5Bmsr-research-area%5D%5B%5D=13556&facet%5Btax%5D%5Bmsr-content-type%5D%5B%5D=msr-project) တွင် အတတ်ပညာရေး AI ကို ကြည့်ရှုပါ။
+* [Microsoft Research Data Science Summer School](https://www.microsoft.com/en-us/research/academic-program/data-science-summer-school/) မှ ကျောင်းသား ပရောဂျက်များကို ရှာဖွေပါ။
+* [Fairlearn](https://fairlearn.org/) ပရောဂျက် နှင့် [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6) အစီအစဉ်များကို စူးစမ်းပါ။
 
-## ဒေတာသိပ္ပံ + လူ့ကျမ်းစာ
+
+## ဒေတာ သိပ္ပံ + လူမှုဗေဒ
 
 | ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/20-DataScience-Humanities.png) |
 | :---------------------------------------------------------------------------------------------------------------: |
-|              ဒေတာသိပ္ပံနှင့် ဒစ်ဂျစ်တယ် လူ့ကျမ်းစာ - _Sketchnote by [@nitya](https://twitter.com/nitya)_              |
+|              ဒေတာ သိပ္ပံနဲ့ ဒစ်ဂျစ်တယ် လူမှုဗေဒ - _Sketchnote by [@nitya](https://twitter.com/nitya)_              |
 
-ဒစ်ဂျစ်တယ် လူ့ကျမ်းစာ [ကို အဓိပ္ပါယ်ဖွင့်ဆိုထားသည်](https://digitalhumanities.stanford.edu/about-dh-stanford) - "computational methods နှင့် humanistic inquiry ကို ပေါင်းစပ်ထားသော လုပ်ဆောင်မှုများနှင့် နည်းလမ်းများစုစည်းမှု" ဟု။ [Stanford projects](https://digitalhumanities.stanford.edu/projects) ကဲ့သို့သော _"rebooting history"_ နှင့် _"poetic thinking"_ သည် [Digital Humanities နှင့် Data Science](https://digitalhumanities.stanford.edu/digital-humanities-and-data-science) အကြား ဆက်နွယ်မှုကို ဖော်ပြထားပြီး network analysis, information visualization, spatial နှင့် text analysis ကဲ့သို့သော နည်းလမ်းများကို အဓိကထားသည်။ ဒါက ကျမ်းစာနှင့် စာပေဒေတာများကို ပြန်လည်သုံးသပ်ပြီး အမြင်အသစ်များနှင့် အနက်အဓိပ္ပါယ်များကို ရယူရန် အထောက်အကူပြုသည်။
 
-*ဒီနယ်ပယ်မှာ project တစ်ခုကို လေ့လာပြီး တိုးတက်စေလိုပါသလား?*
+ဒစ်ဂျစ်တယ် လူမှုဗေဒကို [သတ်မှတ်ချက်](https://digitalhumanities.stanford.edu/about-dh-stanford) အရ "ကွန်ပျူတာ နည်းပညာ နဲ့ လူ့ ဘာသာရပ်တိုင်းအတွင်း စုပေါင်းထားသော လေ့လာမှု နည်းလမ်းများနှင့် လမ်းကြောင်းများ၏ စုစည်းမှု" ဟု ဆိုသည်။ [Stanford စီမံချက်များ](https://digitalhumanities.stanford.edu/projects) များသည် _"သမိုင်းကို ပြန်လည်စတင်ထူထောင်ခြင်း"_ နဲ့ _"ကဗျာရေးပြီး မသိပ်မစုံထင်ရှားသော စဉ်းစားမှု"_ များ၊ [ဒစ်ဂျစ်တယ် လူမှုဗေဒနဲ့ ဒေတာ သိပ္ပံ](https://digitalhumanities.stanford.edu/digital-humanities-and-data-science) တို့ အချိတ်အဆက်ကို ဖော်ပြသည်။ အဓိက နည်းနှစ်ခုမှာ ကွန်ယက် သုံးသပ်ခြင်း၊ သတင်းအချက်အလက် မြင်ကွင်းပြခြင်း၊ နေရာအခြေပြုနဲ့ စာသားသုံးသပ်ခြင်းတို့ဖြစ်ပြီး အမှန်တကယ် သမိုင်း နှင့် စာပေ မူရင်းအချက်အလက်တွေကို ပြန်လည် လေ့လာ ရှုမြင်နိုင်ပါသည်။
 
-["Emily Dickinson and the Meter of Mood"](https://gist.github.com/jlooper/ce4d102efd057137bc000db796bfd671) ကို ကြည့်ပါ - [Jen Looper](https://twitter.com/jenlooper) မှ ဖန်တီးထားသော project တစ်ခုဖြစ်ပြီး ဒေတာသိပ္ပံကို အသုံးပြု၍ ကဗျာများကို ပြန်လည်သုံးသပ်ပြီး အရေးအသား၏ အနက်အဓိပ္ပါယ်နှင့် စာရေးသူ၏ အထောက်အပံ့ကို အသစ်သောအမြင်များဖြင့် ပြန်လည်သုံးသပ်ရန် မေးခွန်းထုတ်ထားသည်။ ဥပမာ - _ကဗျာ၏ tone သို့မဟုတ် sentiment ကို ခွဲခြားခြင်းဖြင့် ကဗျာရေးသားခဲ့သော ရာသီဥတုကို ခန့်မှန်းနိုင်မလား_ - ဒါက စာရေးသူ၏ အချိန်ကာလအတွင်း စိတ်နေစိတ်ထားအပေါ် ဘာကို ပြောပြနိုင်မလဲ?
+*ဒီကဏ္ဍမှာ ပရောဂျက်တစ်ခုကို ရှာဖွေပြီး တိုးချဲ့ချင်ပါသလား?*
 
-ဒီမေးခွန်းကို ဖြေရှင်းဖို့ ဒေတာသိပ္ပံ၏ အသက်တာလှိုင်းကို လိုက်နာရမယ်-
+["Emily Dickinson and the Meter of Mood"](https://gist.github.com/jlooper/ce4d102efd057137bc000db796bfd671) ကို ကြည့်ပါ။ [Jen Looper](https://twitter.com/jenlooper) ထံမှ ဤကောင်းမွန်တဲ့ ဥပမာသည် ဒေတာ သိပ္ပံကို အသုံးပြုခြင်းဖြင့် နာမည်ကြီး ကဗျာများကို ပြန်လည်သုံးသပ်ခြင်း၊ အဓိပ္ပါယ် ထပ်မံ သုံးသပ်ခြင်းနှင့် ရေးသူ၏ ဆက်ဆံမှုကို အသစ်တင်ပြသည်။ ဥပမာအားဖြင့်၊ _ကဗျာရေးသည့်ရာသီကို ကဗျာ၏ အသံသဘော သို့မဟုတ် စိတ်ခံစားချက် ခွဲခြားပြီး ခန့်မှန်းနိုင်ပါသလား_ ဆိုပြီး ရေးသူ၏ စိတ်ဓာတ် အခြေအနေကို ပြသပေးမလားဆိုတာတွေ့ရန်။
 
- * [`Data Acquisition`](https://gist.github.com/jlooper/ce4d102efd057137bc000db796bfd671#acquiring-the-dataset) - analysis အတွက် သက်ဆိုင်သော dataset ကို စုဆောင်းရန်။ API (ဥပမာ [Poetry DB API](https://poetrydb.org/index.html)) သို့မဟုတ် web page များကို scraping
-**Planetary Computer Project သည် (စက်တင်ဘာ 2021 အခြေအနေဖြင့်) စမ်းသပ်မှုအဆင့်တွင်ရှိနေပါသည်** - ဒေတာသိပ္ပံကို အသုံးပြု၍ တာရှည်ခံဖြေရှင်းနည်းများကို အထောက်အကူပြုရန် စတင်ပါ။
+ဤမေးခွန်းကို ဖြေရှင်းရန် ဒေတာ သိပ္ပံ လည်ပတ်မှု အဆင့်များကို လိုက်နာကြမည် -
+ * [`Data Acquisition`](https://gist.github.com/jlooper/ce4d102efd057137bc000db796bfd671#acquiring-the-dataset) - သုံးသပ်ရန်အတွက် သင့်လျော်သော ဒေတာစုစည်းမှုကို စုဆောင်းရန်။ API အသုံးပြုခြင်း (ဥပမာ - [Poetry DB API](https://poetrydb.org/index.html)) သို့မဟုတ် Web စာမျက်နှာများကို စုတ်ယူခြင်း (ဥပမာ - [Project Gutenberg](https://www.gutenberg.org/files/12242/12242-h/12242-h.htm))၊ [Scrapy](https://scrapy.org/) ကဲ့သို့သော ကိရိယာများကို အသုံးပြုနိုင်သည်။
+ * [`Data Cleaning`](https://gist.github.com/jlooper/ce4d102efd057137bc000db796bfd671#clean-the-data) - စာသားများကို ပုံစံတူ သန့်ရှင်းစေစေ၊ ပြောင်းလဲနှိမ့်ချခြင်းကို Visual Studio Code နဲ့ Microsoft Excel ကိရိယာများ အသုံးပြုပြီး ဖေါ်ပြထားသည်။
+ * [`Data Analysis`](https://gist.github.com/jlooper/ce4d102efd057137bc000db796bfd671#working-with-the-data-in-a-notebook) - အခု datasets ကို Python package များ (pandas, numpy, matplotlib စသည်ဖြင့်) အသုံးပြုပြီး Notebooks ထဲသို့ ထည့်သွင်းကာ ရှင်းလင်းချက်နှင့် မြင်ကွင်းပြ လုပ်ဆောင်ခြင်းကို ဖော်ပြသည်။
+ * [`Sentiment Analysis`](https://gist.github.com/jlooper/ce4d102efd057137bc000db796bfd671#sentiment-analysis-using-cognitive-services) - Text Analytics ကဲ့သို့သော Cloud ဝန်ဆောင်မှုများနှင့် ပေါင်းစပ်ခြင်း၊ [Power Automate](https://flow.microsoft.com/en-us/) ကဲ့သို့သော နည်းလမ်းများဖြင့် ဒေတာ လည်ပတ်မှုများကို အလိုအလျောက် ပြုလုပ်ခြင်းကို ဖော်ပြသည်။
 
-* [Request access](https://planetarycomputer.microsoft.com/account/request) ကို အသုံးပြု၍ စတင်လေ့လာပြီး မိတ်ဆွေများနှင့် ချိတ်ဆက်ပါ။
-* [Explore documentation](https://planetarycomputer.microsoft.com/docs/overview/about) ကို လေ့လာပြီး ပံ့ပိုးထားသော ဒေတာများနှင့် API များကို နားလည်ပါ။
-* [Ecosystem Monitoring](https://analytics-lab.org/ecosystemmonitoring/) ကဲ့သို့သော အက်ပလီကေးရှင်းများကို လေ့လာပြီး အက်ပလီကေးရှင်းအကြံဉာဏ်များအတွက် အားရစရာ ရှာဖွေပါ။
+ဒီလုပ်ငန်းစဉ် အသုံးပြု၍ ကဗျာများ၏ အချိန်အလိုက် စိတ်ခံစားမှု အသွင်ပြောင်းလဲမှုများကို လေ့လာနိုင်ပြီး၊ ရေးသူ နှင့် ဆက်စပ်သည့် အမြင်များကို ဖန်တီးနိုင်သည်။ ကိုယ့်ကိုယ်ကို စမ်းသပ်ကြည့်ပြီး နောက်ထပ်မေးခွန်းများ မေးပါ၊ ဒေတာကို အသစ်နည်းနည်းနဲ့ မြင်ကြည့်ပါနဲ့!
 
-ဒေတာကို အသုံးပြု၍ ရှာဖွေတွေ့ရှိမှုများကို ရှင်းလင်းစွာ ဖော်ပြရန် သို့မဟုတ် ရှာဖွေတွေ့ရှိမှုများကို တိုးမြှင့်ရန် အကောင်းဆုံးနည်းလမ်းများကို စဉ်းစားပါ။ ဥပမာအားဖြင့် ရာသီဥတုပြောင်းလဲမှုနှင့် သစ်တောများဖျက်ဆီးမှုကဲ့သို့သော နယ်ပယ်များတွင် အသုံးပြုနိုင်သော ရှာဖွေတွေ့ရှိမှုများကို စဉ်းစားပါ။ ဒါမှမဟုတ် တာရှည်ခံနေထိုင်မှုအတွက် အပြုသဘောဆောင်သော အပြုအမူပြောင်းလဲမှုများကို လှုံ့ဆော်နိုင်သော အသုံးပြုသူအတွေ့အကြုံအသစ်များ ဖန်တီးရန် ရှာဖွေတွေ့ရှိမှုများကို အသုံးပြုနိုင်သည့် နည်းလမ်းများကို စဉ်းစားပါ။
+> [Digital Humanities toolkit](https://github.com/Digital-Humanities-Toolkit) တစ်နေရာဖြစ်သည့် ကိရိယာတချို့ကို အသုံးပြု၍ ဒီဖမ်းစည်းမှုများကို ဆက်လက်ရှာဖွေနိုင်ပါသည်။
 
-## ဒေတာသိပ္ပံ + ကျောင်းသားများ
 
-စက်မှုလုပ်ငန်းနှင့် သုတေသနတွင် အမှန်တကယ်အသုံးချနိုင်သော အက်ပလီကေးရှင်းများကို ပြောခဲ့ပြီး၊ ဒစ်ဂျစ်တယ် လူ့ဘာသာရပ်များနှင့် တာရှည်ခံမှုတွင် ဒေတာသိပ္ပံအက်ပလီကေးရှင်း ဥပမာများကို လေ့လာခဲ့ပါသည်။ ဒါဆိုရင် ဒေတာသိပ္ပံအစတန်းကျောင်းသားများအနေဖြင့် သင်၏ ကျွမ်းကျင်မှုများကို တိုးတက်စေရန်နှင့် သင်၏ အတတ်ပညာများကို မျှဝေရန် ဘယ်လိုလုပ်နိုင်မလဲ?
+## ဒေတာ သိပ္ပံ + တာဝန်ခံတည်ဆောက်မှု
 
-ဒီမှာ ကျောင်းသားများအတွက် ဒေတာသိပ္ပံပရောဂျက်များ၏ ဥပမာများကို ဖော်ပြထားပြီး သင့်အား အားရစရာပေးနိုင်ပါသည်။
+| ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/20-DataScience-Sustainability.png) |
+| :---------------------------------------------------------------------------------------------------------------: |
+|              ဒေတာ သိပ္ပံနဲ့ တာဝန်ခံတည်ဆောက်မှု - _Sketchnote by [@nitya](https://twitter.com/nitya)_              |
 
-* [MSR Data Science Summer School](https://www.microsoft.com/en-us/research/academic-program/data-science-summer-school/#!projects) နှင့် GitHub [projects](https://github.com/msr-ds3) တွင် အောက်ပါအကြောင်းအရာများကို လေ့လာပါ။
+[2030 တာဝန်ခံ ရပ်တည်မှု အစီအစဉ်](https://sdgs.un.org/2030agenda) ကို ၂၀၁၅ ခုနှစ်တွင် ကုလသမဂ္ဂ အဖွဲ့ဝင်တိုင်းက လက်မှတ်ရေးထိုးလက်ခံခဲ့ပြီး၊ ကမ္ဘာမြေကြီး ပေါ်ရှိ သဘာဝပတ်ဝန်းကျင်အန္တရာယ်များနဲ့ ရာသီဥတု ဖိုင်လုဒ်ဆိုးကျိုးများကို ကာကွယ်ကာ ဘေးကင်းစေရန် နှင့် တာဝန်ခံတည်ဆောက်မှုကို အဓိကထား၍ ၁၇ ခုသော ရည်မှန်းချက်များကို ထောက်ပြသွားသည်။ [Microsoft Sustainability](https://www.microsoft.com/en-us/sustainability) လုပ်ငန်းစဉ်သည်၊ [၄ မျိုးသော ရည်မှန်းချက်များ](https://dev.to/azure/a-visual-guide-to-sustainable-software-engineering-53hh) – ကာဗွန် ပျောက်ကွယ်မှု၊ ရေ ကောင်းမွန်မှု၊ အမှိုက် မရွိခြင်း၊ စိုက်ပျိုးရေးကွင်း ပေါ်တွင် ရှိမှသာ တာရှည်တည်တံ့သော အနာဂတ်များ ဖန်တီးရန် နည်းပညာဖြေရှင်းချက်များ ရှာဖွေပေးသည်။
+
+ဤပြဿနာများကို တိုးချဲ့ကာ ချိန်မှန်စွာ ကိုင်တွယ်ရန် ဒေတာ သုံးစွဲမှု ကောင်းစွာဟာ လိုအပ်ပြီး ကလေ့ ဂျစ်တည်ဆောက်မှု စဉ်းစားမှုရလဒ် မရှိမဖြစ်လိုအပ်သည်။ [Planetary Computer](https://planetarycomputer.microsoft.com/) လုပ်ငန်းစဉ်တွင် ဒေတာ သိပ္ပံပညာရှင်များနဲ့ ဖွံ့ဖြိုးရေးသူများအား ကြီးမားသော ဖျော်ဖြေမှု ဒေတာများကို ချိတ်ဆက်ရန် အောက်ပါ ၄ ချက် ပါဝင်သည်။
+
+ * [Data Catalog](https://planetarycomputer.microsoft.com/catalog) - ကမ္ဘာမြေအခြေနှင့် သဘာဝပတ်ဝန်းကျင် ဒေတာများရှိရာ (အခမဲ့နှင့် Azure မှ ထောက်ပံ့လျက်)။
+ * [Planetary API](https://planetarycomputer.microsoft.com/docs/reference/stac/) - အသုံးပြုသူများအား နေရာအချိန်တစ်ခုချင်းစီအတွင်း သက်ဆိုင်ရာ ဒေတာများကို ရှာဖွေရန် ကူညီသည်။
+ * [Hub](https://planetarycomputer.microsoft.com/docs/overview/environment/) - ပြင်ပ ဒေတာသိပ္ပံပညာရှင်များအတွက် သုံးစွဲနိုင်စေရန် စီမံခန့်ခွဲသော ပတ်ဝန်းကျင်။
+ * [Applications](https://planetarycomputer.microsoft.com/applications) - တာဝန်ခံတည်ဆောက်မှုသတင်းအချက်အလက်များအတွက် အသုံးချပုံနှင့် ကိရိယာများကို ပြသထားသည်။
+**The Planetary Computer Project သည် လက်ရှိ Sep 2021 အချိန်အထိ ကြိုတင်ကြည့်ရှုနေပြီးဖြစ်ပါသည်** - ဒေတာသိပ္ပံကို အသုံးပြု၍ သဘာဝစနစ်ဆိုင်ရာဖြေရှင်းချက်များတွင် ပါဝင်ဆောင်ရွက်နိုင်ရန် စတင်မည့်နည်းလမ်းများမှာ -
+
+* စတင်လေ့လာရန်နှင့် ဆွေးနွေးသူများနှင့် ချိတ်ဆက်ရန် [Request access](https://planetarycomputer.microsoft.com/account/request) ကို လျှောက်ထားပါ။
+* ကိုယ်ပိုင် dataset များနှင့် API များအား နားလည်ရန် [Explore documentation](https://planetarycomputer.microsoft.com/docs/overview/about) ကို လေ့လာပါ။
+* [Ecosystem Monitoring](https://analytics-lab.org/ecosystemmonitoring/) ကဲ့သို့သော app များအား ပြန်လည်အသုံးချ၍ application ideas များအတွက် အားပေးမှုရယူပါ။
+
+ဒေတာကြည့်ရှုခြင်းအားဖြင့် ရာသီဥတု ပြောင်းလဲမှုနှင့် သစ်တောများဖျက်ဆီးမှုကဲ့သို့သောနယ်ပယ်များတွင် သက်ဆိုင်ရာအချက်အလက်များကို ဖော်ပြခြင်း သို့မဟုတ် တိုးမြှင့်ပြသခြင်းအား မည်သို့ အသုံးပြုနိုင်မည်ကို စဉ်းစားပါ။ ဒါမှမဟုတ် အသုံးပြုသူတွေ့ကြုံနိုင်မည့် အသစ်သော အတွေ့အကြုံများကို ဖန်တီးပေးပြီး ပိုမိုတည်တံ့သောဘဝလမ်းကြောင်းများဖန်တီးရန် ဆင့်ကဲမှု ပြုလုပ်နိုင်မည့် မှတ်ချက်များကို စဉ်းစားပါ။
+
+## Data Science + ကျောင်းသားများ
+
+ကျွန်ုပ်တို့သည် စက်မှုနှင့်သုတေသနကဏ္ဍများတွင် အမှန်တကယ်သုံးသော application များကို ဆွေးနွေးပြီး၊ ဒစ်ဂျစ်တယ်မွန်ဟူမန်တီနှင့် သဘာဝတန်ဖိုးမြှင့်တင်မှုတို့တွင် data science application အမူအရာများကို လေ့လာပြီးသားဖြစ်သည်။ သိပ္ပံလမ်းကြောင်း စတင်လေ့လာနေသူများအနေဖြင့် မည်သို့ စွမ်းရည်တိုးတက်စေပြီး ဆယ်ကျော်သူတွေ ဆွေးနွေးချက်များကို ပြန်ဝေစုနိုင်မလဲ။
+
+ကျောင်းသားများအတွက် data science ပရောဂျက်တို့၏ ဥပမာအချို့ကို အောက်ပါအတိုင်း ဖော်ပြပါသည်။
+
+ * [MSR Data Science Summer School](https://www.microsoft.com/en-us/research/academic-program/data-science-summer-school/#!projects) GitHub တွင်ရှိသော [projects](https://github.com/msr-ds3)များတွင် အောက်ပါအကြောင်းအရာများ ပါဝင်သည် -
     - [Racial Bias in Police Use of Force](https://www.microsoft.com/en-us/research/video/data-science-summer-school-2019-replicating-an-empirical-analysis-of-racial-differences-in-police-use-of-force/) | [Github](https://github.com/msr-ds3/stop-question-frisk)
     - [Reliability of NYC Subway System](https://www.microsoft.com/en-us/research/video/data-science-summer-school-2018-exploring-the-reliability-of-the-nyc-subway-system/) | [Github](https://github.com/msr-ds3/nyctransit)
-* [Digitizing Material Culture: Exploring socio-economic distributions in Sirkap](https://claremont.maps.arcgis.com/apps/Cascade/index.html?appid=bdf2aef0f45a4674ba41cd373fa23afc) - [Ornella Altunyan](https://twitter.com/ornelladotcom) နှင့် Claremont မှ အဖွဲ့၏ [ArcGIS StoryMaps](https://storymaps.arcgis.com/) ကို အသုံးပြု၍ ဖန်တီးထားသည်။
+ * [Digitizing Material Culture: Exploring socio-economic distributions in Sirkap](https://claremont.maps.arcgis.com/apps/Cascade/index.html?appid=bdf2aef0f45a4674ba41cd373fa23afc) - [Ornella Altunyan](https://twitter.com/ornelladotcom) နှင့် Claremont အသင်းပူးပေါင်း၍ [ArcGIS StoryMaps](https://storymaps.arcgis.com/) ကို အသုံးပြုထားသည်။
 
-## 🚀 စိန်ခေါ်မှု
+## 🚀 အခက်အခဲ
 
-ဒေတာသိပ္ပံအစတန်းကျောင်းသားများအတွက် အဆင်ပြေသော ပရောဂျက်များကို အကြံပြုထားသော ဆောင်းပါးများကို ရှာဖွေပါ - ဥပမာအားဖြင့် [ဒီ 50 ခေါင်းစဉ်](https://www.upgrad.com/blog/data-science-project-ideas-topics-beginners/) သို့မဟုတ် [ဒီ 21 ပရောဂျက်အကြံများ](https://www.intellspot.com/data-science-project-ideas) သို့မဟုတ် [ဒီ 16 ပရောဂျက်များနှင့် အရင်းအမြစ်ကုဒ်](https://data-flair.training/blogs/data-science-project-ideas/) ကို လေ့လာပြီး ပြန်လည်ဖန်တီးပါ။ သင်၏ သင်ယူမှုခရီးစဉ်များကို ဘလော့ဂ်ရေးပြီး သင့်ရှာဖွေတွေ့ရှိမှုများကို ကျွန်ုပ်တို့အား မျှဝေပါ။
+မစခင်ဘဲ စတင်လေ့လာနိုင်မည့် data science ပရောဂျက်များ၊ အကြံပြုထားသော ဆောင်းပါးများကို ရှာဖွေပါ - [ဒီ ၅၀ ချက်](https://www.upgrad.com/blog/data-science-project-ideas-topics-beginners/) သို့မဟုတ် [ဒီ ၂၁ ခု](https://www.intellspot.com/data-science-project-ideas)၊ ဒါမှမဟုတ် [ဒီ ၁၆ ခုစနစ် code ပါသော ပရောဂျက်များ](https://data-flair.training/blogs/data-science-project-ideas/) ကို သဘောရရှိရန် နှင့် ပြုပြင်ပြောင်းလဲ သုံးသပ်ရန်။ သင်ရောက်ရှိသည့် ခေါင်းစဉ်များအား ဘလော့ဂ်ရေးသားခြင်းဖြင့် သင်္ချိုင်းရှင်းချက်ကို ကျွန်တော်တို့အားလုံးနှင့် မျှဝေပါ။
 
-## Post-Lecture Quiz
+## စာသင်ခန်းပြီး Quiz
 
-## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/39)
+## [စာသင်ခန်းပြီး Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/39)
 
-## ပြန်လည်သုံးသပ်ခြင်းနှင့် ကိုယ်တိုင်လေ့လာခြင်း
+## ပြန်လည်လေ့လာခြင်းနှင့် ကိုယ်တိုင်လေ့လာခြင်း
 
-အသုံးချနိုင်သော နေရာများကို ပိုမိုလေ့လာလိုပါသလား? အောက်ပါ ဆောင်းပါးများကို ကြည့်ပါ။
-* [17 Data Science Applications and Examples](https://builtin.com/data-science/data-science-applications-examples) - ဇူလိုင် 2021
-* [11 Breathtaking Data Science Applications in Real World](https://myblindbird.com/data-science-applications-real-world/) - မေ 2021
-* [Data Science In The Real World](https://towardsdatascience.com/data-science-in-the-real-world/home) - ဆောင်းပါးစုစည်းမှု
-* [12 Real-World Data Science Applications with Examples](https://www.scaler.com/blog/data-science-applications/) - မေ 2024
-* ဒေတာသိပ္ပံတွင်: [ပညာရေး](https://data-flair.training/blogs/data-science-in-education/), [လယ်ယာစိုက်ပျိုးရေး](https://data-flair.training/blogs/data-science-in-agriculture/), [ဘဏ္ဍာရေး](https://data-flair.training/blogs/data-science-in-finance/), [ရုပ်ရှင်](https://data-flair.training/blogs/data-science-at-movies/), [ကျန်းမာရေးစောင့်ရှောက်မှု](https://onlinedegrees.sandiego.edu/data-science-health-care/) နှင့် အခြားများ။
+ပိုမိုအသုံးပြုနိုင်မည့် case များကို ရှာဖွေလိုပါသလား? သင်အောက်ပါ ဆောင်းပါး ဥပမာများကို ကြည့်ပါ -
+ * [17 Data Science Applications and Examples](https://builtin.com/data-science/data-science-applications-examples) - Jul 2021
+ * [11 Breathtaking Data Science Applications in Real World](https://myblindbird.com/data-science-applications-real-world/) - May 2021
+ * [Data Science In The Real World](https://towardsdatascience.com/data-science-in-the-real-world/home) - ဆောင်းပါးစုစည်းမှု
+ * [12 Real-World Data Science Applications with Examples](https://www.scaler.com/blog/data-science-applications/) - May 2024
+ * Data Science တွင် - [ပညာရေး](https://data-flair.training/blogs/data-science-in-education/), [လယ်ယာ](https://data-flair.training/blogs/data-science-in-agriculture/), [ဘဏ္ဍာရေး](https://data-flair.training/blogs/data-science-in-finance/), [ရုပ်ရှင်](https://data-flair.training/blogs/data-science-at-movies/), [ကျန်းမာရေးစောင့်ရှောက်မှု](https://onlinedegrees.sandiego.edu/data-science-health-care/) နှင့် အခြားများ။
 
-## အလုပ်ပေးစာ
+## အမေးအပွဲ
 
 [Explore A Planetary Computer Dataset](assignment.md)
 
 ---
 
-**အကြောင်းကြားချက်**:  
-ဤစာရွက်စာတမ်းကို AI ဘာသာပြန်ဝန်ဆောင်မှု [Co-op Translator](https://github.com/Azure/co-op-translator) ကို အသုံးပြု၍ ဘာသာပြန်ထားပါသည်။ ကျွန်ုပ်တို့သည် တိကျမှုအတွက် ကြိုးစားနေပါသော်လည်း၊ အလိုအလျောက် ဘာသာပြန်ခြင်းတွင် အမှားများ သို့မဟုတ် မတိကျမှုများ ပါဝင်နိုင်သည်ကို ကျေးဇူးပြု၍ သိရှိထားပါ။ မူရင်းဘာသာစကားဖြင့် ရေးသားထားသော စာရွက်စာတမ်းကို အာဏာတရ အရင်းအမြစ်အဖြစ် သတ်မှတ်သင့်ပါသည်။ အရေးကြီးသော အချက်အလက်များအတွက် လူ့ဘာသာပြန်ပညာရှင်များမှ ပရော်ဖက်ရှင်နယ် ဘာသာပြန်ခြင်းကို အကြံပြုပါသည်။ ဤဘာသာပြန်ကို အသုံးပြုခြင်းမှ ဖြစ်ပေါ်လာသော အလွဲအလွတ်များ သို့မဟုတ် အနားလွဲမှုများအတွက် ကျွန်ုပ်တို့သည် တာဝန်မယူပါ။
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**ပြောကြားချက်**
+ဤစာတမ်းကို AI ဘာသာပြန်ဝန်ဆောင်မှု [Co-op Translator](https://github.com/Azure/co-op-translator) အသုံးပြု၍ ဘာသာပြန်ထားပါသည်။ ကျွန်ုပ်တို့သည် တိကျမှန်ကန်မှုအတွက် ကြိုးပမ်းနေသော်လည်း၊ စက်ကိရိယာဘာသာပြန်ခြင်းများတွင် အမှားများ သို့မဟုတ် မှားယွင်းချက်များ ပါဝင်နိုင်ကြောင်း သတိပြုပါရန် လိုအပ်ပါသည်။ မူလစာတမ်းကို မူရင်းဘာသာဖြင့်သာ ယုံကြည်စိတ်ချရသော အချက်အလက်အဖြစ် သတ်မှတ်သင့်သည်။ အရေးကြီးသည့် သတင်းအချက်အလက်များအတွက် ပရော်ဖက်ရှင်နယ် လူသားဘာသာပြန်သူဝန်ဆောင်မှုကို အကြံပြုပါသည်။ ဤဘာသာပြန်ချက်ကို အသုံးပြုခြင်းမှ ဖြစ်ပေါ်လာသော နားလည်မှုကွာခြားမှုများ သို့မဟုတ် မမှန်ကန်သော အသုံးပြုမှုများအတွက် ကျွန်ုပ်တို့ တာဝန်မခံပါ။
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
