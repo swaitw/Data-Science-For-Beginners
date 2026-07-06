@@ -1,7 +1,7 @@
 {
   "1-Introduction/01-defining-data-science/README.md": {
     "original_hash": "43212cc1ac137b7bb1dcfb37ca06b0f4",
-    "translation_date": "2025-10-25T18:53:00+00:00",
+    "translation_date": "2026-07-02T10:12:04+00:00",
     "source_file": "1-Introduction/01-defining-data-science/README.md",
     "language_code": "el"
   },
@@ -31,7 +31,7 @@
   },
   "1-Introduction/02-ethics/README.md": {
     "original_hash": "58860ce9a4b8a564003d2752f7c72851",
-    "translation_date": "2025-10-03T16:32:38+00:00",
+    "translation_date": "2026-07-02T10:14:04+00:00",
     "source_file": "1-Introduction/02-ethics/README.md",
     "language_code": "el"
   },
@@ -97,7 +97,7 @@
   },
   "2-Working-With-Data/07-python/README.md": {
     "original_hash": "7bfec050f4717dcc2dfd028aca9d21f3",
-    "translation_date": "2025-09-06T15:43:31+00:00",
+    "translation_date": "2026-07-02T10:09:45+00:00",
     "source_file": "2-Working-With-Data/07-python/README.md",
     "language_code": "el"
   },
@@ -115,7 +115,7 @@
   },
   "2-Working-With-Data/08-data-preparation/README.md": {
     "original_hash": "1b560955ff39a2bcf2a049fce474a951",
-    "translation_date": "2025-09-05T21:07:33+00:00",
+    "translation_date": "2026-07-02T10:10:52+00:00",
     "source_file": "2-Working-With-Data/08-data-preparation/README.md",
     "language_code": "el"
   },
@@ -277,7 +277,7 @@
   },
   "4-Data-Science-Lifecycle/16-communication/README.md": {
     "original_hash": "215a3254ba5a222a57c5bb0192cea8e3",
-    "translation_date": "2025-09-06T21:01:45+00:00",
+    "translation_date": "2026-07-02T10:17:45+00:00",
     "source_file": "4-Data-Science-Lifecycle/16-communication/README.md",
     "language_code": "el"
   },
@@ -319,7 +319,7 @@
   },
   "5-Data-Science-In-Cloud/19-Azure/README.md": {
     "original_hash": "472d3fab1c5be50f387336e7a686dbe1",
-    "translation_date": "2025-09-05T21:03:26+00:00",
+    "translation_date": "2026-07-02T12:44:15+00:00",
     "source_file": "5-Data-Science-In-Cloud/19-Azure/README.md",
     "language_code": "el"
   },
@@ -337,7 +337,7 @@
   },
   "6-Data-Science-In-Wild/20-Real-World-Examples/README.md": {
     "original_hash": "0f67a4139454816631526779a456b734",
-    "translation_date": "2025-09-06T18:30:19+00:00",
+    "translation_date": "2026-07-02T10:16:18+00:00",
     "source_file": "6-Data-Science-In-Wild/20-Real-World-Examples/README.md",
     "language_code": "el"
   },
