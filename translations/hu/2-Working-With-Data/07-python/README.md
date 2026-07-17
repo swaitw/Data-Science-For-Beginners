@@ -1,60 +1,62 @@
 # Adatok kezelése: Python és a Pandas könyvtár
 
-| ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |
+| ![ Sketchnote készítette [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |
 | :-------------------------------------------------------------------------------------------------------: |
-|                 Python használata - _Sketchnote by [@nitya](https://twitter.com/nitya)_                 |
+|                 Python használata - _Sketchnote készítette [@nitya](https://twitter.com/nitya)_                |
 
-[![Bevezető videó](../../../../translated_images/hu/video-ds-python.245247dc811db8e4.webp)](https://youtu.be/dZjWOGbsN4Y)
+[![Bevezető Videó](../../../../translated_images/hu/video-ds-python.245247dc811db8e4.webp)](https://youtu.be/dZjWOGbsN4Y)
 
-Bár az adatbázisok hatékony módot kínálnak az adatok tárolására és lekérdezésére lekérdezési nyelvek segítségével, az adatok feldolgozásának legflexibilisebb módja az, ha saját programot írunk az adatok manipulálására. Sok esetben egy adatbázis-lekérdezés hatékonyabb megoldás lehet. Azonban, ha összetettebb adatfeldolgozásra van szükség, azt nem lehet könnyen SQL segítségével megvalósítani.  
-Az adatfeldolgozást bármely programozási nyelven meg lehet valósítani, de vannak olyan nyelvek, amelyek magasabb szintűek az adatokkal való munka szempontjából. Az adatelemzők általában az alábbi nyelvek egyikét részesítik előnyben:
+Míg az adatbázisok nagyon hatékony módot kínálnak az adatok tárolására és lekérdezésére lekérdező nyelvek használatával, az adatok feldolgozásának legflexibilisebb módja az, ha saját programot írsz az adatok manipulálására. Sok esetben az adatbázis lekérdezés hatékonyabb megoldás lenne. Azonban bizonyos esetekben, amikor összetettebb adatfeldolgozásra van szükség, azt nem lehet könnyen megoldani SQL segítségével.
+Az adatfeldolgozás bármilyen programozási nyelvvel megvalósítható, de vannak olyan nyelvek, amelyek magasabb szintűek az adatok kezelésére. Az adattudósok általában az alábbi nyelvek egyikét favorizálják:
 
-* **[Python](https://www.python.org/)**, egy általános célú programozási nyelv, amelyet gyakran a legjobb választásnak tartanak kezdők számára egyszerűsége miatt. A Python számos kiegészítő könyvtárral rendelkezik, amelyek segítenek gyakorlati problémák megoldásában, például adatok kicsomagolása ZIP archívumból vagy képek szürkeárnyalatossá alakítása. Az adatelemzés mellett a Python gyakran használatos webfejlesztésre is.  
-* **[R](https://www.r-project.org/)** egy hagyományos eszköztár, amelyet statisztikai adatfeldolgozásra fejlesztettek ki. Széles könyvtárgyűjteménnyel (CRAN) rendelkezik, ami jó választássá teszi az adatok feldolgozására. Azonban az R nem általános célú programozási nyelv, és ritkán használják az adatelemzésen kívül.  
-* **[Julia](https://julialang.org/)** egy másik nyelv, amelyet kifejezetten adatelemzésre fejlesztettek ki. Jobb teljesítményt kínál, mint a Python, így kiváló eszköz tudományos kísérletezéshez.
+* **[Python](https://www.python.org/)**, egy általános célú programozási nyelv, amelyet gyakran az egyik legjobb választásnak tartanak kezdőknek az egyszerűsége miatt. Python rengeteg extra könyvtárral rendelkezik, melyek segítenek sok gyakorlati problémát megoldani, például adat kinyerése ZIP archívumból vagy kép átalakítása szürkeárnyalatossá. Az adattudomány mellett a Python gyakran használatos webfejlesztésre is.
+* **[R](https://www.r-project.org/)** egy hagyományos eszköztár, amely statisztikai adatfeldolgozásra lett kifejlesztve. Nagy könyvtárkészlettel (CRAN) rendelkezik, így jó választás az adatfeldolgozáshoz. Ugyanakkor az R nem általános célú programozási nyelv, és ritkán használják az adattudományi területen kívül.
+* **[Julia](https://julialang.org/)** egy másik nyelv, amelyet kifejezetten az adattudomány céljára fejlesztettek. Célja, hogy jobb teljesítményt nyújtson, mint a Python, így kiváló eszköz tudományos kísérletekhez.
 
-Ebben a leckében a Python használatára összpontosítunk egyszerű adatfeldolgozási feladatokhoz. Feltételezzük, hogy alapvető ismeretekkel rendelkezik a nyelvről. Ha mélyebb betekintést szeretne kapni a Pythonba, az alábbi forrásokat ajánljuk:
+Ebben a leckében a Python használatára koncentrálunk egyszerű adatfeldolgozás esetén. Feltételezzük az alapvető nyelvismeretet. Ha mélyebb bevezetőt szeretnél a Python-ba, az alábbi forrásokat ajánljuk:
 
-* [Tanulj Python-t szórakoztató módon Turtle Graphics és Fraktálok segítségével](https://github.com/shwars/pycourse) - GitHub-alapú gyors bevezető kurzus a Python programozásba  
-* [Tedd meg az első lépéseket a Python-nal](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) Tanulási útvonal a [Microsoft Learn](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum) oldalon  
+* [Tanulj Python-t játékosan Turtle grafikával és fraktálokkal](https://github.com/shwars/pycourse) - GitHub alapú gyors Python programozás bevezető tanfolyam
+* [Tedd meg az első lépéseidet Python-nal](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) Tanulási útvonal a [Microsoft Learn](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum) oldalon
 
-Az adatok sokféle formában érkezhetnek. Ebben a leckében három adatformát vizsgálunk meg: **táblázatos adatok**, **szöveg** és **képek**.
+Az adatok sok formában érkezhetnek. Ebben a leckében három formát vizsgálunk meg - **táblázatos adatokat**, **szöveget** és **képeket**.
 
-Néhány adatfeldolgozási példára fogunk összpontosítani, ahelyett, hogy teljes áttekintést nyújtanánk az összes kapcsolódó könyvtárról. Ez lehetővé teszi, hogy megértsük a lehetőségeket, és tudjuk, hol találhatunk megoldásokat a problémáinkra, amikor szükség van rájuk.
+Néhány adatfeldolgozási példára koncentrálunk, ahelyett, hogy a kapcsolódó könyvtárakat teljes egészében bemutatnánk. Ez megengedi, hogy megértsd a fő elképzelést, és eligazodj, hol találhatod meg a megoldásokat, amikor szükséged van rájuk.
 
-> **Legfontosabb tanács**. Ha olyan műveletet kell végrehajtania az adatokon, amelyet nem tud, hogyan kell megtenni, próbáljon meg rákeresni az interneten. [Stackoverflow](https://stackoverflow.com/) általában sok hasznos Python kódmintát tartalmaz tipikus feladatokhoz.  
+> **Leghasznosabb tanács**. Ha végezni szeretnél egy műveletet az adatokkal, és nem tudod, hogyan, próbálj meg rákeresni az interneten. A [Stackoverflow](https://stackoverflow.com/) rendszerint sok hasznos Python mintakódot tartalmaz sok tipikus feladathoz.
 
-## [Előadás előtti kvíz](https://ff-quizzes.netlify.app/en/ds/quiz/12)
 
-## Táblázatos adatok és Dataframe-ek
 
-Már találkozott táblázatos adatokkal, amikor a relációs adatbázisokról beszéltünk. Ha sok adat van, és az sok különböző, összekapcsolt táblában található, akkor határozottan érdemes SQL-t használni az adatok kezelésére. Azonban sok esetben van egy adatunk táblázat formájában, és szeretnénk **megérteni** vagy **következtetéseket levonni** az adatokból, például az eloszlásról, az értékek közötti korrelációról stb. Az adatelemzés során gyakran szükség van az eredeti adatok átalakítására, majd vizualizálására. Mindkét lépés könnyen elvégezhető Python segítségével.
+## [Bevezető kvíz](https://ff-quizzes.netlify.app/en/ds/quiz/12)
 
-Két legfontosabb Python könyvtár segíthet a táblázatos adatok kezelésében:
-* **[Pandas](https://pandas.pydata.org/)** lehetővé teszi az úgynevezett **Dataframe-ek** manipulálását, amelyek analógok a relációs táblákkal. Lehetnek elnevezett oszlopok, és különböző műveleteket végezhetünk sorokon, oszlopokon és általában a Dataframe-eken.  
-* **[Numpy](https://numpy.org/)** egy könyvtár **tenszorokkal**, azaz többdimenziós **tömbökkel** való munkához. A tömb azonos típusú értékeket tartalmaz, és egyszerűbb, mint a Dataframe, de több matematikai műveletet kínál, és kevesebb erőforrást igényel.
+## Táblázatos Adatok és Dataframe-ek
 
-Van néhány további könyvtár, amelyet érdemes ismerni:
-* **[Matplotlib](https://matplotlib.org/)** egy könyvtár, amelyet adatvizualizációra és grafikonok rajzolására használnak  
-* **[SciPy](https://www.scipy.org/)** egy könyvtár további tudományos funkciókkal. Már találkoztunk ezzel a könyvtárral, amikor a valószínűségről és statisztikáról beszéltünk  
+Már találkoztál táblázatos adatokkal, amikor a relációs adatbázisokról beszéltünk. Ha sok adata van, és az sok, összekapcsolt táblában található, akkor kétségtelenül érdemes az SQL-t használni az adatok kezelésére. Azonban sok esetben van egy adatokat tartalmazó táblázatunk, és szükségünk van arra, hogy **megértsük** vagy **észrevegyük a mintázatokat** az adatokban, például az eloszlást, az értékek közötti korrelációt stb. Az adattudományban gyakran szükséges az eredeti adatok átalakítása, majd vizualizáció. Mindkét lépés könnyen elvégezhető Python segítségével.
 
-Íme egy kódrészlet, amelyet általában a Python program elején használunk ezeknek a könyvtáraknak az importálására:  
+Pythonban két leghasznosabb könyvtár segít a táblázatos adatok kezelésében:
+* **[Pandas](https://pandas.pydata.org/)** lehetővé teszi úgynevezett **Dataframe**-ek kezelését, amelyek relációs táblákhoz hasonlóak. Lehetnek elnevezett oszlopok, és különféle műveleteket végezhetünk sorokon, oszlopokon és magán a dataframe-en is.
+* **[Numpy](https://numpy.org/)** egy könyvtár többdimenziós **tényezők**, azaz tömbök kezelésére. A tömbben az értékek azonos típusúak, ez egyszerűbb, mint egy dataframe, de több matematikai műveletet támogat, és kevesebb plusz terhet jelent.
+
+Van néhány más könyvtár is, amiről tudnia kell:
+* **[Matplotlib](https://matplotlib.org/)** könyvtár adatvizualizációhoz és grafikonok megrajzolásához
+* **[SciPy](https://www.scipy.org/)** könyvtár néhány további tudományos függvénnyel. Ezzel a könyvtárral már találkoztunk a valószínűség és statisztika tárgyalásánál
+
+Íme egy kódrészlet, amit általában az említett könyvtárak importálására használnál Python program elején:
 ```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from scipy import ... # you need to specify exact sub-packages that you need
-```  
+from scipy import ... # meg kell adnia a pontos alcsomagokat, amikre szüksége van
+``` 
 
-A Pandas néhány alapvető fogalom köré épül.
+A Pandas néhány alapvető koncepció köré épül.
 
-### Sorozatok (Series)
+### Sorozat (Series)
 
-A **Series** egy értékek sorozata, hasonlóan a listához vagy numpy tömbhöz. A fő különbség az, hogy a sorozatnak van egy **indexe**, és amikor műveleteket végzünk rajta (pl. összeadjuk őket), az indexet figyelembe vesszük. Az index lehet egyszerű, mint például az egész számú sorszám (ez az alapértelmezett index, amikor listából vagy tömbből hozunk létre sorozatot), vagy lehet összetett, például dátumintervallum.
+A **Series** egy értéksorozat, hasonló egy listához vagy numpy tömbhöz. A fő különbség, hogy a series-nek van egy **indexe**, és amikor műveleteket végzünk series-eken (pl. hozzáadás), az indexszámítás figyelembe van véve. Az index lehet egyszerű, például egész szám sorozatszám (ha listából vagy tömbből hozunk létre series-t, ez az alapértelmezett index), vagy lehet összetett, például dátumtartomány.
 
-> **Megjegyzés**: Van néhány bevezető Pandas kód az ehhez tartozó notebookban [`notebook.ipynb`](notebook.ipynb). Itt csak néhány példát vázolunk fel, de mindenképpen érdemes megnézni a teljes notebookot.
+> **Megjegyzés**: Van némi bevezető Pandas kód a mellékelt jegyzetfüzetben [`notebook.ipynb`](notebook.ipynb). Itt csak az példákat vázoljuk, de természetesen megtekintheted az egész jegyzetet.
 
-Vegyünk egy példát: elemezni szeretnénk fagylaltárusító helyünk eladásait. Generáljunk egy sorozatot az eladási számokkal (naponta eladott tételek száma) egy időszakra:
+Példaként elemezzük egy fagylaltozó eladásait. Generáljunk egy sorozatot az eladott darabszámokról (az eladott tételek száma naponta) egy adott időszakra:
 
 ```python
 start_date = "Jan 1, 2020"
@@ -63,48 +65,48 @@ idx = pd.date_range(start_date,end_date)
 print(f"Length of index is {len(idx)}")
 items_sold = pd.Series(np.random.randint(25,50,size=len(idx)),index=idx)
 items_sold.plot()
-```  
-![Idősor grafikon](../../../../translated_images/hu/timeseries-1.80de678ab1cf727e.webp)
+```
+![Idősoros ábrázolás](../../../../translated_images/hu/timeseries-1.80de678ab1cf727e.webp)
 
-Tegyük fel, hogy minden héten szervezünk egy baráti összejövetelt, és további 10 csomag fagylaltot viszünk a bulira. Létrehozhatunk egy másik sorozatot, amelyet hetek szerint indexelünk, hogy ezt bemutassuk:  
+Tegyük fel, hogy hetente baráti partit szervezünk, és a partira további 10 csomag fagylaltot viszünk. Készítsünk egy másik sorozatot, heti indexekkel, hogy ezt bemutassuk:
 ```python
 additional_items = pd.Series(10,index=pd.date_range(start_date,end_date,freq="W"))
-```  
-Amikor összeadjuk a két sorozatot, megkapjuk a teljes számot:  
+```
+Két sorozat összeadásakor az összesített darabszámot kapjuk:
 ```python
 total_items = items_sold.add(additional_items,fill_value=0)
 total_items.plot()
-```  
-![Idősor grafikon](../../../../translated_images/hu/timeseries-2.aae51d575c55181c.webp)
+```
+![Idősoros ábrázolás](../../../../translated_images/hu/timeseries-2.aae51d575c55181c.webp)
 
-> **Megjegyzés**: Nem használjuk az egyszerű `total_items+additional_items` szintaxist. Ha ezt tennénk, sok `NaN` (*Not a Number*) értéket kapnánk az eredményül kapott sorozatban. Ennek oka, hogy az `additional_items` sorozatban hiányzó értékek vannak néhány indexpontnál, és ha `NaN`-t adunk hozzá bármihez, az eredmény `NaN` lesz. Ezért meg kell adnunk a `fill_value` paramétert az összeadás során.
+> **Megjegyzés**, hogy nem egyszerűen a `total_items+additional_items` kifejezést használjuk. Ha ezt tettük volna, sok `NaN` (*Nem Szám*) értéket kaptunk volna az eredmény sorozatban. Ez azért van, mert az `additional_items` sorozat némely indexpontjára hiányzó értékek vannak, és `NaN` hozzáadása bármilyen értékhez `NaN`-t eredményez. Ezért az összeadás során a `fill_value` paramétert kell megadni.
 
-Az idősorokkal különböző időintervallumokkal is **újramintázhatjuk** a sorozatot. Például, ha havi átlagos eladási mennyiséget szeretnénk kiszámítani, használhatjuk a következő kódot:  
+Idősorozatoknál a sorozatot különböző időintervallumokra is átvehetjük (resample). Például, ha havi átlagos eladást akarunk számolni, a következő kódot használhatjuk:
 ```python
 monthly = total_items.resample("1M").mean()
 ax = monthly.plot(kind='bar')
-```  
-![Havi idősor átlagok](../../../../translated_images/hu/timeseries-3.f3147cbc8c624881.webp)
+```
+![Havi idősoros átlag](../../../../translated_images/hu/timeseries-3.f3147cbc8c624881.webp)
 
 ### DataFrame
 
-A DataFrame lényegében azonos indexű sorozatok gyűjteménye. Több sorozatot kombinálhatunk egy DataFrame-be:  
+A DataFrame tulajdonképpen ugyanazzal az indexszel rendelkező sorozatok gyűjteménye. Több sorozatot is összekapcsolhatunk DataFrame-é:
 ```python
 a = pd.Series(range(1,10))
 b = pd.Series(["I","like","to","play","games","and","will","not","change"],index=range(0,9))
 df = pd.DataFrame([a,b])
-```  
-Ez egy vízszintes táblázatot hoz létre, mint például:  
+```
+Ez egy vízszintes táblázatot hoz létre, mint az alábbi:
 |     | 0   | 1    | 2   | 3   | 4      | 5   | 6      | 7    | 8    |
 | --- | --- | ---- | --- | --- | ------ | --- | ------ | ---- | ---- |
 | 0   | 1   | 2    | 3   | 4   | 5      | 6   | 7      | 8    | 9    |
 | 1   | I   | like | to  | use | Python | and | Pandas | very | much |
 
-Sorozatokat oszlopként is használhatunk, és megadhatjuk az oszlopneveket szótár segítségével:  
+Sorozatokat használhatunk oszlopként is, és megadhatjuk az oszlopneveket szótár segítségével:
 ```python
 df = pd.DataFrame({ 'A' : a, 'B' : b })
-```  
-Ez egy ilyen táblázatot eredményez:
+```
+Ez az alábbi táblázatot eredményezi:
 
 |     | A   | B      |
 | --- | --- | ------ |
@@ -118,37 +120,37 @@ Ez egy ilyen táblázatot eredményez:
 | 7   | 8   | very   |
 | 8   | 9   | much   |
 
-**Megjegyzés**: Ezt a táblázat-elrendezést úgy is elérhetjük, hogy az előző táblázatot transzponáljuk, például az alábbi kóddal:  
+**Megjegyzés**, hogy ezt a táblázatot úgy is megkaphatjuk, ha az előző táblázatot transzponáljuk, pl. az alábbi módon:
 ```python
-df = pd.DataFrame([a,b]).T..rename(columns={ 0 : 'A', 1 : 'B' })
-```  
-Itt a `.T` a DataFrame transzponálásának műveletét jelenti, azaz a sorok és oszlopok cseréjét, és a `rename` művelet lehetővé teszi az oszlopok átnevezését, hogy megfeleljenek az előző példának.
+df = pd.DataFrame([a,b]).T.rename(columns={ 0 : 'A', 1 : 'B' })
+```
+ Itt a `.T` a DataFrame transzponálásának műveletét jelenti, vagyis a sorok és oszlopok felcserélését, és a `rename` művelet lehetővé teszi az oszlopok átnevezését, hogy megfeleljen az előző példának.
 
-Íme néhány legfontosabb művelet, amelyet DataFrame-eken végezhetünk:
+Íme néhány legfontosabb művelet, amit DataFrame-ekkel végezhetünk:
 
-**Oszlopok kiválasztása**. Egyedi oszlopokat választhatunk ki az `df['A']` írásával - ez a művelet egy sorozatot ad vissza. Az oszlopok egy részhalmazát egy másik DataFrame-be is kiválaszthatjuk az `df[['B','A']]` írásával - ez egy másik DataFrame-et ad vissza.
+**Oszlop kiválasztás**. Kiválaszthatunk egyéni oszlopokat azzal, hogy írjuk `df['A']` - ez egy Series-t ad vissza. Szintén kiválaszthatunk egy részhalmaz oszlopokat egy másik DataFrame-be azzal, hogy `df[['B','A']]` - ez egy másik DataFrame-et ad vissza.
 
-**Szűrés** bizonyos sorokra kritérium alapján. Például, ha csak azokat a sorokat szeretnénk megtartani, ahol az `A` oszlop értéke nagyobb, mint 5, akkor írhatjuk: `df[df['A']>5]`.
+**Szűrés** bizonyos sorokra feltételek alapján. Például hogy csak azokat a sorokat hagyjuk meg, ahol az `A` oszlop értéke nagyobb, mint 5, írhatjuk: `df[df['A']>5]`.
 
-> **Megjegyzés**: A szűrés működése a következő. Az `df['A']<5` kifejezés egy logikai sorozatot ad vissza, amely jelzi, hogy a kifejezés `True` vagy `False` az eredeti sorozat `df['A']` minden elemére. Amikor a logikai sorozatot indexként használjuk, az a DataFrame sorainak részhalmazát adja vissza. Ezért nem lehet tetszőleges Python logikai kifejezést használni, például az `df[df['A']>5 and df['A']<7]` írása helytelen lenne. Ehelyett speciális `&` műveletet kell használni a logikai sorozatokon, például az `df[(df['A']>5) & (df['A']<7)]` írásával (*a zárójelek itt fontosak*).
+> **Megjegyzés**: A szűrés működése a következő. A `df['A']<5` kifejezés egy logikai sorozatot ad vissza, amely megmutatja, hogy az eredeti `df['A']` sorozat egyes elemeire az adott kifejezés igaz vagy hamis. Amikor egy ilyen logikai sorozatot indexként használunk, a DataFrame-ből csak a megfelelő sorok kerülnek kiválasztásra. Ezért nem lehet tetszőleges Python logikai kifejezést használni, például a `df[df['A']>5 and df['A']<7]` helytelen. Ehelyett speciális `&` operátort kell használni a logikai sorozaton, így: `df[(df['A']>5) & (df['A']<7)]` (*a zárójelek itt nagyon fontosak*).
 
-**Új számítható oszlopok létrehozása**. Könnyen létrehozhatunk új számítható oszlopokat a DataFrame-hez intuitív kifejezések használatával, például:  
+**Új, számítható oszlopok létrehozása**. Könnyen létrehozhatunk új oszlopokat DataFrame-ben intuitív kifejezésekkel, például:
 ```python
 df['DivA'] = df['A']-df['A'].mean() 
-```  
-Ez a példa kiszámítja az `A` eltérését az átlagértékétől. Ami valójában történik, az az, hogy kiszámítunk egy sorozatot, majd ezt a sorozatot hozzárendeljük a bal oldali oszlophoz, létrehozva egy új oszlopot. Ezért nem használhatunk olyan műveleteket, amelyek nem kompatibilisek a sorozatokkal, például az alábbi kód helytelen:  
+``` 
+Ez a példa kiszámolja az `A` eltérését az átlagától. Ami itt valójában történik, az az, hogy kiszámítunk egy series-t, majd hozzárendeljük ezt a baloldali változóhoz, létrehozva egy új oszlopot. Ezért nem használhatunk olyan műveleteket, amelyek nem kompatibilisek a series-ekkel. Például a következő kód hibás:
 ```python
-# Wrong code -> df['ADescr'] = "Low" if df['A'] < 5 else "Hi"
-df['LenB'] = len(df['B']) # <- Wrong result
-```  
-Az utóbbi példa, bár szintaktikailag helyes, rossz eredményt ad, mert a `B` sorozat hosszát rendeli hozzá az oszlop összes értékéhez, nem pedig az egyes elemek hosszát, ahogy azt szerettük volna.
+# Hibás kód -> df['ADescr'] = "Low" ha df['A'] < 5 különben "Hi"
+df['LenB'] = len(df['B']) # <- Hibás eredmény
+``` 
+Az utóbbi példa, bár szintaktikailag helyes, helytelen eredményt ad, mert az `B` sorozat hosszát rendeli az oszlop minden értékéhez, nem pedig az egyes elemek hosszát, ahogy szerettük volna.
 
-Ha összetett kifejezéseket kell kiszámítanunk, használhatjuk az `apply` függvényt. Az utolsó példa így írható:  
+Ha összetettebb kifejezéseket kell számolnunk, használhatjuk az `apply` függvényt. Az utolsó példát így írhatjuk át:
 ```python
 df['LenB'] = df['B'].apply(lambda x : len(x))
-# or 
+# vagy
 df['LenB'] = df['B'].apply(len)
-```  
+```
 
 A fenti műveletek után a következő DataFrame-et kapjuk:
 
@@ -164,22 +166,22 @@ A fenti műveletek után a következő DataFrame-et kapjuk:
 | 7   | 8   | very   | 3.0  | 4    |
 | 8   | 9   | much   | 4.0  | 4    |
 
-**Sorok kiválasztása számok alapján** az `iloc` konstrukcióval végezhető el. Például az első 5 sor kiválasztásához a DataFrame-ből:  
+**Sorok kiválasztása számok alapján** az `iloc` szerkezet használatával történik. Például az első 5 sor kiválasztásához:
 ```python
 df.iloc[:5]
-```  
+```
 
-**Csoportosítás** gyakran használatos olyan eredmények elérésére, amelyek hasonlóak az Excel *pivot tábláihoz*. Tegyük fel, hogy az `A` oszlop átlagértékét szeretnénk kiszámítani az egyes `LenB` értékekhez. Ekkor csoportosíthatjuk a DataFrame-et `LenB` szerint, és meghívhatjuk a `mean` függvényt:  
+**Csoportosítás** gyakran használatos olyan eredmény létrehozásához, ami hasonló az Excel *kereszt-táblákhoz* (pivot tables). Tegyük fel, hogy az `A` oszlop átlagértékét szeretnénk kiszámolni az egyes `LenB` értékekhez. Akkor csoportosíthatunk a DataFrame-et `LenB` oszlop szerint, és meghívhatjuk a `mean` függvényt:
 ```python
 df.groupby(by='LenB')[['A','DivA']].mean()
-```  
-Ha az átlagot és az elemek számát is ki szeretnénk számítani a csoportban, akkor használhatjuk az összetettebb `aggregate` függvényt:  
+```
+Ha átlag mellett az elemek számát is szeretnénk meghatározni a csoportban, használhatjuk az összetettebb `aggregate` függvényt:
 ```python
 df.groupby(by='LenB') \
  .aggregate({ 'DivA' : len, 'A' : lambda x: x.mean() }) \
  .rename(columns={ 'DivA' : 'Count', 'A' : 'Mean'})
-```  
-Ez a következő táblázatot adja:
+```
+Ez a következő táblázatot eredményezi:
 
 | LenB | Count | Mean     |
 | ---- | ----- | -------- |
@@ -190,69 +192,72 @@ Ez a következő táblázatot adja:
 | 6    | 2     | 6.000000 |
 
 ### Adatok beszerzése
-Láttuk, milyen egyszerű Series és DataFrame-eket létrehozni Python objektumokból. Azonban az adatok általában szövegfájl vagy Excel-tábla formájában érkeznek. Szerencsére a Pandas egyszerű módot kínál az adatok betöltésére a lemezről. Például, egy CSV fájl beolvasása ilyen egyszerű:
+
+
+Láttuk, milyen könnyű Series és DataFrame objektumokat létrehozni Python objektumokból. Azonban az adatok általában egy szövegfájl vagy Excel táblázat formájában érkeznek. Szerencsére a Pandas egyszerű módot kínál arra, hogy lemezről töltsünk be adatokat. Például CSV fájl olvasása ilyen egyszerű:
 ```python
 df = pd.read_csv('file.csv')
 ```
-További példákat fogunk látni az adatok betöltésére, beleértve az adatok külső weboldalakról való lekérését is, a "Kihívás" szekcióban.
+Az adatbetöltés további példáit, beleértve az adatok külső weboldalakról történő lekérését, a „Kihívás” részben fogjuk megtekinteni
 
-### Nyomtatás és Ábrázolás
 
-Egy adatkutatónak gyakran kell felfedeznie az adatokat, ezért fontos, hogy képes legyen vizualizálni azokat. Ha a DataFrame nagy, sokszor csak meg akarunk győződni arról, hogy mindent helyesen csinálunk, például az első néhány sor kinyomtatásával. Ezt a `df.head()` hívásával tehetjük meg. Ha Jupyter Notebookban futtatjuk, a DataFrame-et szép táblázatos formában fogja megjeleníteni.
+### Nyomtatás és ábrázolás
 
-Láttuk már a `plot` függvény használatát néhány oszlop vizualizálására. Bár a `plot` nagyon hasznos sok feladathoz, és számos különböző grafikon típust támogat a `kind=` paraméter segítségével, mindig használhatjuk a nyers `matplotlib` könyvtárat valami összetettebb ábrázolására. Az adatvizualizációt részletesen fogjuk tárgyalni külön tanfolyami leckékben.
+Egy Data Scientist gyakran kell, hogy felfedezze az adatokat, ezért fontos, hogy képes legyen azokat vizualizálni. Amikor a DataFrame nagy, sokszor csak meg akarjuk győződni arról, hogy mindent helyesen csinálunk az első néhány sor kiíratásával. Ezt a `df.head()` hívásával tehetjük meg. Ha Jupyter Notebookból futtatod, akkor az szép táblázatos formában jeleníti meg a DataFrame-et.
 
-Ez az áttekintés lefedi a Pandas legfontosabb fogalmait, azonban a könyvtár nagyon gazdag, és nincs határa annak, hogy mit lehet vele elérni! Most alkalmazzuk ezt a tudást egy konkrét probléma megoldására.
+Láttuk a `plot` függvény használatát is, hogy bizonyos oszlopokat vizualizáljunk. Bár a `plot` sok feladatra nagyon hasznos, és a `kind=` paraméterrel sokféle grafikon típust támogat, mindig használhatod a natív `matplotlib` könyvtárat is, ha valami bonyolultabbat szeretnél rajzolni. Az adatvizualizációt részletesen egy külön kurzus leckében tárgyaljuk majd.
+
+Ez az áttekintés lefedi a Pandas legfontosabb fogalmait, de a könyvtár nagyon gazdag, és nincs korlát arra, mit tehetsz vele! Most alkalmazzuk ezt a tudást egy konkrét probléma megoldásához.
 
 ## 🚀 Kihívás 1: A COVID terjedésének elemzése
 
-Az első probléma, amire összpontosítunk, a COVID-19 járvány terjedésének modellezése. Ehhez az egyes országokban fertőzött személyek számáról szóló adatokat fogjuk használni, amelyeket a [Center for Systems Science and Engineering](https://systems.jhu.edu/) (CSSE) biztosít a [Johns Hopkins University](https://jhu.edu/) keretében. Az adatállomány elérhető [ebben a GitHub repóban](https://github.com/CSSEGISandData/COVID-19).
+Az első problémánk a COVID-19 járvány terjedésének modellezése. Ehhez a különböző országokban fertőzött egyének számával kapcsolatos adatokat fogjuk használni, amelyeket a [Johns Hopkins Egyetem](https://jhu.edu/) [System Science and Engineering Center](https://systems.jhu.edu/) (CSSE) biztosít. Az adatkészlet elérhető [ebben a GitHub tárolóban](https://github.com/CSSEGISandData/COVID-19).
 
-Mivel meg szeretnénk mutatni, hogyan kell az adatokkal dolgozni, arra kérünk, hogy nyisd meg a [`notebook-covidspread.ipynb`](notebook-covidspread.ipynb) fájlt, és olvasd el elejétől a végéig. A cellákat is végrehajthatod, és néhány kihívást is megoldhatsz, amelyeket a végén hagytunk neked.
+Mivel azt szeretnénk megmutatni, hogyan kell az adatokkal dolgozni, kérünk, hogy nyisd meg a [`notebook-covidspread.ipynb`](notebook-covidspread.ipynb) fájlt és olvasd végig az elejétől a végéig. A cellákat is lefuttathatod, és megoldhatod az utolsó részben hagyott kihívásokat.
 
-![COVID Terjedés](../../../../translated_images/hu/covidspread.f3d131c4f1d260ab.webp)
+![COVID Spread](../../../../translated_images/hu/covidspread.f3d131c4f1d260ab.webp)
 
-> Ha nem tudod, hogyan kell kódot futtatni Jupyter Notebookban, nézd meg [ezt a cikket](https://soshnikov.com/education/how-to-execute-notebooks-from-github/).
+> Ha nem tudod, hogyan futtass kódot Jupyter Notebookban, nézd meg [ezt a cikket](https://soshnikov.com/education/how-to-execute-notebooks-from-github/).
 
-## Strukturálatlan adatok kezelése
+## Dolgozás strukturálatlan adatokkal
 
-Bár az adatok gyakran táblázatos formában érkeznek, néhány esetben kevésbé strukturált adatokkal kell dolgoznunk, például szövegekkel vagy képekkel. Ilyenkor, hogy alkalmazni tudjuk az előbb látott adatfeldolgozási technikákat, valahogy **ki kell nyernünk** a strukturált adatokat. Íme néhány példa:
+Bár az adatok gyakran táblázatos formában érkeznek, bizonyos esetekben kevésbé strukturált adatokkal, például szöveggel vagy képekkel kell foglalkoznunk. Ilyenkor, hogy alkalmazni tudjuk az előzőekben bemutatott adatfeldolgozási technikákat, valahogyan **ki kell nyernünk** a strukturált adatokat. Íme néhány példa:
 
-* Kulcsszavak kinyerése szövegből, és annak vizsgálata, hogy ezek milyen gyakran fordulnak elő
-* Neurális hálók használata információ kinyerésére a képen lévő objektumokról
-* Információ szerzése emberek érzelmeiről videokamera felvételek alapján
+* Kulcsszavak kinyerése szövegből, és megfigyelése, hogy hányszor fordulnak elő ezek a kulcsszavak
+* Neurális hálózatok használata tárgyak azonosítására a képen
+* Információk gyűjtése az emberek érzelmi állapotáról a videó kameraképről
 
-## 🚀 Kihívás 2: A COVID témájú tudományos cikkek elemzése
+## 🚀 Kihívás 2: COVID tudományos cikkek elemzése
 
-Ebben a kihívásban folytatjuk a COVID járvány témáját, és a témával kapcsolatos tudományos cikkek feldolgozására összpontosítunk. Létezik egy [CORD-19 Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge), amely több mint 7000 (az írás idején) COVID-ról szóló cikket tartalmaz, metaadatokkal és absztraktokkal (és körülbelül felükhöz teljes szöveg is elérhető).
+Ebben a kihívásban a COVID pandémiával kapcsolatos tudományos cikkek feldolgozására fókuszálunk. Létezik a [CORD-19 Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge), amely több mint 7000 cikket tartalmaz (a cikk írásakor), a hozzá tartozó metaadatokkal és kivonatokkal (és körülbelül a cikkek feléhez teljes szöveg is elérhető).
 
-A dataset elemzésének teljes példája a [Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health/?WT.mc_id=academic-77958-bethanycheum) kognitív szolgáltatás használatával [ebben a blogbejegyzésben](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/) található. Egy egyszerűsített verzióját fogjuk megvitatni ennek az elemzésnek.
+Egy teljes példa a dataset elemzésére a [Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health/?WT.mc_id=academic-77958-bethanycheum) kognitív szolgáltatás segítségével [ebben a blogbejegyzésben](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/) található. Mi egy egyszerűsített változatot fogunk tárgyalni.
 
-> **NOTE**: Nem biztosítunk másolatot az adatállományról ebben a repóban. Először le kell töltened a [`metadata.csv`](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv) fájlt [ebből a Kaggle datasetből](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Regisztráció szükséges lehet a Kaggle-nél. Regisztráció nélkül is letöltheted az adatállományt [innen](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html), de ez tartalmazni fogja az összes teljes szöveget a metaadat fájl mellett.
+> **MEGJEGYZÉS**: Az adatkészlet másolatát nem biztosítjuk ennek a tárolónak a részeként. Először le kell töltened a [`metadata.csv`](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv) fájlt ebből a [Kaggle adatkészletből](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Lehet, hogy regisztrálnod kell a Kaggle-re. Regisztráció nélkül is letöltheted az adatkészletet [innen](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html), de ebben a teljes szövegek is benne lesznek a metaadat fájl mellett.
 
-Nyisd meg a [`notebook-papers.ipynb`](notebook-papers.ipynb) fájlt, és olvasd el elejétől a végéig. A cellákat is végrehajthatod, és néhány kihívást is megoldhatsz, amelyeket a végén hagytunk neked.
+Nyisd meg a [`notebook-papers.ipynb`](notebook-papers.ipynb) fájlt és olvasd végig az elejétől a végéig. A cellákat is futtathatod, és megoldhatod az utolsó részben hagyott kihívásokat.
 
-![Covid Orvosi Kezelés](../../../../translated_images/hu/covidtreat.b2ba59f57ca45fbc.webp)
+![Covid Medical Treatment](../../../../translated_images/hu/covidtreat.b2ba59f57ca45fbc.webp)
 
 ## Képadatok feldolgozása
 
-Az utóbbi időben nagyon erős AI modellek születtek, amelyek lehetővé teszik a képek megértését. Számos feladat megoldható előre betanított neurális hálókkal vagy felhőszolgáltatásokkal. Néhány példa:
+Nemrég nagyon hatékony MI modelleket fejlesztettek ki, amelyek lehetővé teszik, hogy megértsük a képeket. Számos feladat megoldható előre betanított neurális hálózatokkal vagy felhőszolgáltatásokkal. Néhány példa:
 
-* **Képklasszifikáció**, amely segíthet a képet egy előre definiált osztályba sorolni. Saját képklasszifikátorokat könnyen betaníthatsz olyan szolgáltatásokkal, mint a [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum).
-* **Objektumfelismerés**, amely lehetővé teszi különböző objektumok felismerését a képen. Olyan szolgáltatások, mint a [computer vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum) számos általános objektumot felismerhetnek, és a [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum) modellel specifikus érdeklődési objektumokat is felismerhetsz.
-* **Arcészlelés**, beleértve az életkor, nem és érzelem felismerését. Ez megvalósítható a [Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum) segítségével.
+* **Kép osztályozás**, amely segít kategorizálni a képet előre definiált osztályok egyikébe. Könnyen képezheted saját képosztályozódat szolgáltatások segítségével, például a [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum) szolgáltatással
+* **Tárgyfelismerés** különböző tárgyak azonosításához a képen. Olyan szolgáltatások, mint a [computer vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum) felismernek sok gyakori tárgyat, és a [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum) modellt is képezheted, hogy bizonyos érdekes tárgyakat felismerjen.
+* **Arc felismerés**, beleértve az életkor, nem és érzelem felismerést is. Ezt a [Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum) szolgáltatás biztosítja.
 
-Mindezek a felhőszolgáltatások hívhatók [Python SDK-k](https://docs.microsoft.com/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/?WT.mc_id=academic-77958-bethanycheum) segítségével, és így könnyen beépíthetők az adatfeltárási munkafolyamatba.
+Ezeket a felhőszolgáltatásokat [Python SDK-kkal](https://docs.microsoft.com/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/?WT.mc_id=academic-77958-bethanycheum) hívhatod meg, ezáltal könnyedén beillesztheted adatfeltáró munkafolyamatodba.
 
-Íme néhány példa a képadatok forrásainak feltárására:
-* A blogbejegyzésben [Hogyan tanulj adatkutatást kódolás nélkül](https://soshnikov.com/azure/how-to-learn-data-science-without-coding/) Instagram fotókat vizsgálunk, hogy megértsük, miért kapnak egyes képek több lájkot. Először a lehető legtöbb információt kinyerjük a képekből a [computer vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum) segítségével, majd az [Azure Machine Learning AutoML](https://docs.microsoft.com/azure/machine-learning/concept-automated-ml/?WT.mc_id=academic-77958-bethanycheum) segítségével értelmezhető modellt építünk.
-* A [Facial Studies Workshop](https://github.com/CloudAdvocacy/FaceStudies) keretében a [Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum) segítségével érzelmeket nyerünk ki emberek fotóiból eseményekről, hogy megértsük, mi teszi boldoggá az embereket.
+Íme néhány példa képekből származó adatforrások felfedezésére:
+* A [Hogyan tanulj adat tudományt kódolás nélkül](https://soshnikov.com/azure/how-to-learn-data-science-without-coding/) blogbejegyzésben Instagram fotókat elemzünk, hogy megértsük, miért adnak az emberek több lájkot egy képre. Először annyi információt nyerünk ki a képekből, amennyit csak lehet a [computer vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum) segítségével, majd az [Azure Machine Learning AutoML](https://docs.microsoft.com/azure/machine-learning/concept-automated-ml/?WT.mc_id=academic-77958-bethanycheum) modellel értelmezhető modellt építünk.
+* A [Facial Studies Workshop](https://github.com/CloudAdvocacy/FaceStudies) keretében a [Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum) segítségével az eseményeken készített fényképeken szereplő emberek érzelmeit nyerjük ki, hogy megpróbáljuk megérteni, mi teszi boldoggá az embereket.
 
-## Összegzés
+## Összefoglalás
 
-Akár strukturált, akár strukturálatlan adatokkal rendelkezel, Python segítségével elvégezheted az adatfeldolgozással és megértéssel kapcsolatos összes lépést. Ez valószínűleg a legflexibilisebb módja az adatfeldolgozásnak, és ezért az adatkutatók többsége a Pythont használja elsődleges eszközként. A Python mélyebb elsajátítása valószínűleg jó ötlet, ha komolyan veszed az adatkutatási utadat!
+Akár strukturált, akár strukturálatlan adatokkal dolgozol, a Python segítségével elvégezhetsz minden adatfeldolgozással és megértéssel kapcsolatos lépést. Valószínűleg ez a leginkább rugalmas adatfeldolgozási mód, és ezért használja a data scientist-ek többsége elsődleges eszközként a Pythont. A Python mélyreható tanulása jó ötlet, ha komolyan veszed az adat tudományútadat!
 
-## [Utó-előadás kvíz](https://ff-quizzes.netlify.app/en/ds/quiz/13)
+## [Előadás utáni kvíz](https://ff-quizzes.netlify.app/en/ds/quiz/13)
 
 ## Áttekintés és önálló tanulás
 
@@ -260,22 +265,24 @@ Akár strukturált, akár strukturálatlan adatokkal rendelkezel, Python segíts
 * [Wes McKinney. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.amazon.com/gp/product/1491957662)
 
 **Online források**
-* Hivatalos [10 perc Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) tutorial
-* [Dokumentáció a Pandas vizualizációról](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+* Hivatalos [10 perc a Pandas-hoz](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) bemutató
+* [Dokumentáció a Pandas vizualizációhoz](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 
 **Python tanulása**
-* [Tanulj Pythont szórakoztató módon Turtle Graphics és Fraktálok segítségével](https://github.com/shwars/pycourse)
-* [Tedd meg az első lépéseket a Pythonnal](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) tanulási útvonal a [Microsoft Learn](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum) oldalon
+* [Tanulj Python-t játékosan Turtle Graphics-szal és fraktálokkal](https://github.com/shwars/pycourse)
+* [Tedd meg az első lépéseidet Python-nal](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) tanulási útvonal a [Microsoft Learn-en](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum)
 
 ## Feladat
 
-[Részletesebb adatvizsgálat elvégzése a fenti kihívásokhoz](assignment.md)
+[Végezz részletesebb adatvizsgálatot a fenti kihívásokra](assignment.md)
 
 ## Köszönetnyilvánítás
 
-Ezt a leckét ♥️-vel írta [Dmitry Soshnikov](http://soshnikov.com).
+Ezt a leckét ♥️-vel írta [Dmitry Soshnikov](http://soshnikov.com)
 
 ---
 
-**Felelősségkizárás**:  
-Ez a dokumentum az [Co-op Translator](https://github.com/Azure/co-op-translator) AI fordítási szolgáltatás segítségével készült. Bár törekszünk a pontosságra, kérjük, vegye figyelembe, hogy az automatikus fordítások hibákat vagy pontatlanságokat tartalmazhatnak. Az eredeti dokumentum az eredeti nyelvén tekintendő hiteles forrásnak. Kritikus információk esetén javasolt a professzionális, emberi fordítás igénybevétele. Nem vállalunk felelősséget a fordítás használatából eredő félreértésekért vagy téves értelmezésekért.
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**Jogi nyilatkozat**:
+Ez a dokumentum az AI fordítási szolgáltatás, a [Co-op Translator](https://github.com/Azure/co-op-translator) segítségével készült. Bár az pontosságra törekszünk, kérjük, vegye figyelembe, hogy az automatikus fordítások hibákat vagy pontatlanságokat tartalmazhatnak. Az eredeti dokumentum az anyanyelvén tekintendő hiteles forrásnak. Fontos információk esetén professzionális emberi fordítást javasolunk. Nem vállalunk felelősséget semmilyen félreértésért vagy téves értelmezésért, amely ebből a fordításból ered.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
