@@ -122,7 +122,7 @@ This will give us a table like this:
 
 **Note** that we can also get this table layout by transposing the previous table, eg. by writing 
 ```python
-df = pd.DataFrame([a,b]).T..rename(columns={ 0 : 'A', 1 : 'B' })
+df = pd.DataFrame([a,b]).T.rename(columns={ 0 : 'A', 1 : 'B' })
 ```
 Here `.T` means the operation of transposing the DataFrame, i.e. changing rows and columns, and `rename` operation allows us to rename columns to match the previous example.
 
