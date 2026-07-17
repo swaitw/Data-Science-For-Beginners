@@ -1,6 +1,6 @@
 # Dangerous Liaisons data visualization project
 
-To get started, you need to ensure that you have NPM and Node running on your machine. Install the dependencies (npm install) and then run the project locally (npm run serve):
+To get started, you need to ensure that you have NPM and Node **>=20.0.0** running on your machine. Install the dependencies (npm install) and then run the project locally (npm run serve):
 
 ## Project setup
 ```
