@@ -1,60 +1,62 @@
-# Rad s Podacima: Python i Pandas Biblioteka
+# Rad s podacima: Python i knjižnica Pandas
 
 | ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |
 | :-------------------------------------------------------------------------------------------------------: |
-|                 Rad s Pythonom - _Sketchnote by [@nitya](https://twitter.com/nitya)_                      |
+|                 Rad s Pythonom - _Sketchnote od [@nitya](https://twitter.com/nitya)_                 |
 
-[![Intro Video](../../../../translated_images/hr/video-ds-python.245247dc811db8e4.webp)](https://youtu.be/dZjWOGbsN4Y)
+[![Uvodni video](../../../../translated_images/hr/video-ds-python.245247dc811db8e4.webp)](https://youtu.be/dZjWOGbsN4Y)
 
-Iako baze podataka nude vrlo učinkovite načine za pohranu podataka i njihovo pretraživanje pomoću jezika upita, najfleksibilniji način obrade podataka je pisanje vlastitog programa za manipulaciju podacima. U mnogim slučajevima, upit u bazi podataka bio bi učinkovitiji način. Međutim, u nekim slučajevima kada je potrebna složenija obrada podataka, to se ne može lako postići pomoću SQL-a. 
-Obrada podataka može se programirati u bilo kojem programskom jeziku, ali postoje određeni jezici koji su na višoj razini u radu s podacima. Data znanstvenici obično preferiraju jedan od sljedećih jezika:
+Iako baze podataka nude vrlo učinkovite načine za pohranu podataka i njihovo upitavanje pomoću jezika za upite, najfleksibilniji način obrade podataka je pisanje vlastitog programa za manipulaciju podacima. U mnogim slučajevima, izvršavanje upita u bazi podataka bilo bi učinkovitije. Međutim, u nekim slučajevima kada je potrebna složenija obrada podataka, to se ne može lako napraviti pomoću SQL-a.
+Obrada podataka može se programirati u bilo kojem programskom jeziku, ali postoje određeni jezici koji su viša razina u pogledu rada s podacima. Znanstvenici podataka obično preferiraju jedan od sljedećih jezika:
 
-* **[Python](https://www.python.org/)**, opći programski jezik, često se smatra jednim od najboljih izbora za početnike zbog svoje jednostavnosti. Python ima mnogo dodatnih biblioteka koje vam mogu pomoći u rješavanju mnogih praktičnih problema, poput izdvajanja podataka iz ZIP arhive ili pretvaranja slike u sivu skalu. Osim u data znanosti, Python se često koristi i za razvoj weba. 
-* **[R](https://www.r-project.org/)** je tradicionalni alat razvijen s ciljem statističke obrade podataka. Također sadrži veliku zbirku biblioteka (CRAN), što ga čini dobrim izborom za obradu podataka. Međutim, R nije opći programski jezik i rijetko se koristi izvan područja data znanosti.
-* **[Julia](https://julialang.org/)** je još jedan jezik razvijen posebno za data znanost. Namijenjen je pružanju bolje performanse od Pythona, što ga čini odličnim alatom za znanstvene eksperimente.
+* **[Python](https://www.python.org/)**, opći programski jezik koji se često smatra jednom od najboljih opcija za početnike zbog svoje jednostavnosti. Python ima mnoge dodatne knjižnice koje vam mogu pomoći riješiti mnoge praktične probleme, kao što su izvlačenje podataka iz ZIP arhive ili pretvaranje slike u nijanse sive. Osim u znanosti o podacima, Python se također često koristi za web razvoj.
+* **[R](https://www.r-project.org/)** je tradicionalni alat razvijen s fokusom na statističku obradu podataka. Također sadrži veliki repozitorij knjižnica (CRAN), što ga čini dobrim izborom za obradu podataka. Međutim, R nije opći programski jezik i rijetko se koristi izvan domene znanosti o podacima.
+* **[Julia](https://julialang.org/)** je još jedan jezik razvijen posebno za znanost o podacima. Namijenjen je pružanju bolje performanse od Pythona, čineći ga izvrsnim alatom za znanstvene eksperimente.
 
-U ovoj lekciji fokusirat ćemo se na korištenje Pythona za jednostavnu obradu podataka. Pretpostavit ćemo osnovno poznavanje jezika. Ako želite dublje istražiti Python, možete se obratiti jednom od sljedećih izvora:
+U ovoj lekciji fokusirat ćemo se na korištenje Pythona za jednostavnu obradu podataka. Pretpostavit ćemo osnovno poznavanje jezika. Ako želite dublji uvod u Python, možete pogledati jedan od sljedećih izvora:
 
-* [Naučite Python na zabavan način uz Turtle Graphics i Fraktale](https://github.com/shwars/pycourse) - GitHub tečaj za brzi uvod u Python programiranje
-* [Napravite svoje prve korake s Pythonom](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) Put učenja na [Microsoft Learn](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum)
+* [Naučite Python na zabavan način uz Turtle Graphics i Fraktale](https://github.com/shwars/pycourse) - GitHub tijekom brzog uvoda u Python programiranje
+* [Uzmite svoje prve korake s Pythonom](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) Put učenja na [Microsoft Learn](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum)
 
-Podaci mogu dolaziti u mnogim oblicima. U ovoj lekciji razmotrit ćemo tri oblika podataka - **tablični podaci**, **tekst** i **slike**.
+Podaci mogu doći u mnogim oblicima. U ovoj lekciji ćemo razmotriti tri oblika podataka - **tablični podaci**, **tekst** i **slike**.
 
-Fokusirat ćemo se na nekoliko primjera obrade podataka, umjesto da vam damo potpuni pregled svih povezanih biblioteka. To će vam omogućiti da steknete osnovnu ideju o tome što je moguće, i ostaviti vas s razumijevanjem gdje pronaći rješenja za svoje probleme kada vam zatrebaju.
+Usredotočit ćemo se na nekoliko primjera obrade podataka, umjesto da vam damo potpuni pregled svih povezanih knjižnica. To će vam omogućiti da steknete glavnu ideju o tome što je moguće i ostavit će vam razumijevanje gdje pronaći rješenja za vaše probleme kad ih zatrebate.
 
-> **Najkorisniji savjet**. Kada trebate izvršiti određenu operaciju na podacima, a ne znate kako to učiniti, pokušajte to potražiti na internetu. [Stackoverflow](https://stackoverflow.com/) obično sadrži mnogo korisnih uzoraka koda u Pythonu za mnoge tipične zadatke. 
+> **Najkorisniji savjet**. Kad trebate izvršiti neku operaciju na podacima za koju ne znate kako, pokušajte je potražiti na internetu. [Stackoverflow](https://stackoverflow.com/) obično sadrži mnogo korisnih primjera koda u Pythonu za mnoge tipične zadatke.
 
-## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/12)
 
-## Tablični Podaci i Dataframeovi
 
-Već ste se susreli s tabličnim podacima kada smo govorili o relacijskim bazama podataka. Kada imate puno podataka, i oni su sadržani u mnogim različitim povezanim tablicama, definitivno ima smisla koristiti SQL za rad s njima. Međutim, postoje mnogi slučajevi kada imamo tablicu podataka i trebamo steći neko **razumijevanje** ili **uvid** u te podatke, poput distribucije, korelacije između vrijednosti itd. U data znanosti, postoji mnogo slučajeva kada trebamo izvršiti neke transformacije originalnih podataka, praćene vizualizacijom. Oba ta koraka mogu se lako izvršiti pomoću Pythona.
+## [Kviz prije lekcije](https://ff-quizzes.netlify.app/en/ds/quiz/12)
 
-Postoje dvije najkorisnije biblioteke u Pythonu koje vam mogu pomoći u radu s tabličnim podacima:
-* **[Pandas](https://pandas.pydata.org/)** omogućuje manipulaciju tzv. **Dataframeovima**, koji su analogni relacijskim tablicama. Možete imati imenovane stupce i izvršavati različite operacije na redovima, stupcima i dataframeovima općenito. 
-* **[Numpy](https://numpy.org/)** je biblioteka za rad s **tensori**, tj. višedimenzionalnim **nizovima**. Niz ima vrijednosti istog osnovnog tipa i jednostavniji je od dataframea, ali nudi više matematičkih operacija i stvara manje opterećenje.
+## Tablični podaci i DataFrameovi
 
-Postoji i nekoliko drugih biblioteka koje biste trebali znati:
-* **[Matplotlib](https://matplotlib.org/)** je biblioteka koja se koristi za vizualizaciju podataka i crtanje grafova
-* **[SciPy](https://www.scipy.org/)** je biblioteka s nekim dodatnim znanstvenim funkcijama. Već smo se susreli s ovom bibliotekom kada smo govorili o vjerojatnosti i statistici
+Već ste upoznali tablične podatke kada smo razgovarali o relacijskim bazama podataka. Kada imate puno podataka koji su sadržani u mnogim različitim povezanim tablicama, definitivno ima smisla koristiti SQL za rad s njima. Međutim, postoji mnogo slučajeva kada imamo tablicu podataka i trebamo dobiti neko **razumijevanje** ili **uvid** u te podatke, poput raspodjele, korelacije između vrijednosti i sl. U znanosti o podacima, često trebamo izvršiti neke transformacije izvornog podatka, praćene vizualizacijom. Oba ta koraka lako se mogu napraviti pomoću Pythona.
 
-Evo dijela koda koji biste obično koristili za uvoz tih biblioteka na početku svog Python programa:
+Postoje dvije najkorisnije knjižnice u Pythonu koje vam mogu pomoći u radu s tabličnim podacima:
+* **[Pandas](https://pandas.pydata.org/)** omogućuje manipulaciju tzv. **DataFrameovima**, koji su analogni relacijskim tablicama. Možete imati imenovane stupce i izvoditi različite operacije na redcima, stupcima i DataFrameovima općenito.
+* **[Numpy](https://numpy.org/)** je knjižnica za rad s **tenzorima**, tj. višedimenzionalnim **nizovima** (array). Niz sadrži vrijednosti istog temeljnog tipa, i jednostavniji je od DataFramea, ali nudi više matematičkih operacija i stvara manji režijski trošak.
+
+Postoje i druge knjižnice koje biste trebali poznavati:
+* **[Matplotlib](https://matplotlib.org/)** je knjižnica koja se koristi za vizualizaciju podataka i crtanje grafova
+* **[SciPy](https://www.scipy.org/)** je knjižnica s dodatnim znanstvenim funkcijama. Već smo naišli na ovu knjižnicu kada smo govorili o vjerojatnosti i statistici
+
+Evo komadić koda koji biste obično koristili za uvoz tih knjižnica na početku vašeg Python programa:
 ```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from scipy import ... # you need to specify exact sub-packages that you need
+from scipy import ... # morate navesti točne podpakete koje trebate
 ``` 
 
-Pandas se temelji na nekoliko osnovnih koncepata.
+Pandas je usmjeren oko nekoliko osnovnih pojmova.
 
-### Series 
+### Series
 
-**Series** je niz vrijednosti, sličan listi ili numpy nizu. Glavna razlika je što series također ima **indeks**, i kada radimo s series (npr., zbrajamo ih), indeks se uzima u obzir. Indeks može biti jednostavan kao broj retka (to je indeks koji se koristi prema zadanim postavkama pri stvaranju series iz liste ili niza), ili može imati složenu strukturu, poput vremenskog intervala.
+**Series** je niz vrijednosti, sličan listi ili numpy nizu. Glavna razlika je da serija također ima **indeks**, i kada na seriji izvodimo operacije (npr., zbrajamo ih), indeks se uzima u obzir. Indeks može biti jednostavan kao redni broj cijelog broja (to je indeks koji se koristi prema zadanim postavkama pri stvaranju serije iz liste ili niza), ili može imati složenu strukturu, kao što je vremenski interval.
 
-> **Napomena**: U pratećem notebooku [`notebook.ipynb`](notebook.ipynb) nalazi se uvodni kod za Pandas. Ovdje ćemo samo navesti neke primjere, a vi ste svakako dobrodošli provjeriti cijeli notebook.
+> **Napomena**: U pratećem bilježniku [`notebook.ipynb`](notebook.ipynb) nalazi se uvodni Pandas kod. Ovdje samo izlažemo neke primjere, a svakako ste pozvani da proučite cijeli bilježnik.
 
-Razmotrimo primjer: želimo analizirati prodaju našeg kioska za sladoled. Generirat ćemo niz brojeva prodaje (broj prodanih artikala svaki dan) za određeni vremenski period:
+Razmotrimo primjer: želimo analizirati prodaju našeg mjesta za sladoled. Generirat ćemo niz brojeva prodaje (broj prodanih stavki svaki dan) za neki vremenski period:
 
 ```python
 start_date = "Jan 1, 2020"
@@ -64,31 +66,31 @@ print(f"Length of index is {len(idx)}")
 items_sold = pd.Series(np.random.randint(25,50,size=len(idx)),index=idx)
 items_sold.plot()
 ```
-![Time Series Plot](../../../../translated_images/hr/timeseries-1.80de678ab1cf727e.webp)
+![Graf vremenske serije](../../../../translated_images/hr/timeseries-1.80de678ab1cf727e.webp)
 
-Sada pretpostavimo da svaki tjedan organiziramo zabavu za prijatelje i uzimamo dodatnih 10 paketa sladoleda za zabavu. Možemo stvoriti drugi niz, indeksiran po tjednu, kako bismo to prikazali:
+Sad pretpostavimo da svake sedmice organiziramo zabavu za prijatelje i donosimo dodatnih 10 paketa sladoleda za zabavu. Možemo stvoriti drugu seriju, indeksiranu prema tjednu, da to pokažemo:
 ```python
 additional_items = pd.Series(10,index=pd.date_range(start_date,end_date,freq="W"))
 ```
-Kada zbrojimo dva niza, dobijemo ukupni broj:
+Kada zbrojimo dvije serije, dobijemo ukupan broj:
 ```python
 total_items = items_sold.add(additional_items,fill_value=0)
 total_items.plot()
 ```
-![Time Series Plot](../../../../translated_images/hr/timeseries-2.aae51d575c55181c.webp)
+![Graf vremenske serije](../../../../translated_images/hr/timeseries-2.aae51d575c55181c.webp)
 
-> **Napomena** da ne koristimo jednostavnu sintaksu `total_items+additional_items`. Da jesmo, dobili bismo puno `NaN` (*Not a Number*) vrijednosti u rezultirajućem nizu. To je zato što nedostaju vrijednosti za neke točke indeksa u nizu `additional_items`, a zbrajanje `NaN` s bilo čim rezultira `NaN`. Stoga trebamo specificirati parametar `fill_value` tijekom zbrajanja.
+> **Napomena** da ne koristimo jednostavnu sintaksu `total_items+additional_items`. Da jesmo, dobili bismo puno `NaN` (*Not a Number*) vrijednosti u rezultirajućoj seriji. To je zato što nedostaju vrijednosti za neke točke indeksa u seriji `additional_items`, a dodavanje `NaN` na bilo što daje `NaN`. Stoga je potrebno koristiti parametar `fill_value` tijekom zbrajanja.
 
-S vremenskim nizovima također možemo **ponovno uzorkovati** nizove s različitim vremenskim intervalima. Na primjer, pretpostavimo da želimo izračunati prosječni obujam prodaje mjesečno. Možemo koristiti sljedeći kod:
+Kod vremenskih serija također možemo **ponovno uzorkovati** seriju s različitim vremenskim intervalima. Na primjer, pretpostavimo da želimo izračunati prosječnu prodaju mjesečno. Možemo koristiti sljedeći kod:
 ```python
 monthly = total_items.resample("1M").mean()
 ax = monthly.plot(kind='bar')
 ```
-![Monthly Time Series Averages](../../../../translated_images/hr/timeseries-3.f3147cbc8c624881.webp)
+![Mjesečni prosjeci vremenskih serija](../../../../translated_images/hr/timeseries-3.f3147cbc8c624881.webp)
 
 ### DataFrame
 
-DataFrame je u suštini zbirka series s istim indeksom. Možemo kombinirati nekoliko series zajedno u DataFrame:
+DataFrame je u biti kolekcija serija s istim indeksom. Možemo kombinirati nekoliko serija u jedan DataFrame:
 ```python
 a = pd.Series(range(1,10))
 b = pd.Series(["I","like","to","play","games","and","will","not","change"],index=range(0,9))
@@ -98,78 +100,78 @@ To će stvoriti horizontalnu tablicu poput ove:
 |     | 0   | 1    | 2   | 3   | 4      | 5   | 6      | 7    | 8    |
 | --- | --- | ---- | --- | --- | ------ | --- | ------ | ---- | ---- |
 | 0   | 1   | 2    | 3   | 4   | 5      | 6   | 7      | 8    | 9    |
-| 1   | I   | like | to  | use | Python | and | Pandas | very | much |
+| 1   | Ja  | volim | koristiti | Python | i | Pandas | jako | puno |
 
-Također možemo koristiti Series kao stupce i specificirati nazive stupaca pomoću rječnika:
+Također možemo koristiti Series kao stupce i navesti imena stupaca pomoću rječnika:
 ```python
 df = pd.DataFrame({ 'A' : a, 'B' : b })
 ```
-To će nam dati tablicu poput ove:
+To će nam dati tablicu ovakvog izgleda:
 
-|     | A   | B      |
-| --- | --- | ------ |
-| 0   | 1   | I      |
-| 1   | 2   | like   |
-| 2   | 3   | to     |
-| 3   | 4   | use    |
-| 4   | 5   | Python |
-| 5   | 6   | and    |
-| 6   | 7   | Pandas |
-| 7   | 8   | very   |
-| 8   | 9   | much   |
+|     | A   | B       |
+| --- | --- | ------- |
+| 0   | 1   | Ja      |
+| 1   | 2   | volim   |
+| 2   | 3   | koristiti |
+| 3   | 4   | Python  |
+| 4   | 5   | i       |
+| 5   | 6   | Pandas  |
+| 6   | 7   | jako    |
+| 7   | 8   | puno    |
+| 8   | 9   |         |
 
-**Napomena** da ovu tablicu možemo dobiti i transponiranjem prethodne tablice, npr. pisanjem 
+**Napomena** da ovu strukturu tablice možemo dobiti i transponiranjem prethodne tablice, npr. pisanjem
 ```python
-df = pd.DataFrame([a,b]).T..rename(columns={ 0 : 'A', 1 : 'B' })
+df = pd.DataFrame([a,b]).T.rename(columns={ 0 : 'A', 1 : 'B' })
 ```
-Ovdje `.T` označava operaciju transponiranja DataFramea, tj. zamjenu redova i stupaca, a operacija `rename` omogućuje nam preimenovanje stupaca kako bi odgovarali prethodnom primjeru.
+Ovdje `.T` označava operaciju transponiranja DataFramea, tj. promjenu redaka i stupaca, a `rename` operacija nam omogućava preimenovanje stupaca da odgovaraju prethodnom primjeru.
 
-Evo nekoliko najvažnijih operacija koje možemo izvršiti na DataFrameovima:
+Evo nekoliko najvažnijih operacija koje možemo izvesti nad DataFrameovima:
 
-**Odabir stupaca**. Možemo odabrati pojedinačne stupce pisanjem `df['A']` - ova operacija vraća Series. Također možemo odabrati podskup stupaca u drugi DataFrame pisanjem `df[['B','A']]` - ovo vraća drugi DataFrame.
+**Izbor stupca**. Možemo odabrati pojedinačne stupce pisanjem `df['A']` - ova operacija vraća Series. Također možemo odabrati podskup stupaca u drugi DataFrame pisanjem `df[['B','A']]` - ovo vraća drugi DataFrame.
 
-**Filtriranje** samo određenih redova prema kriterijima. Na primjer, da ostavimo samo redove sa stupcem `A` većim od 5, možemo napisati `df[df['A']>5]`.
+**Filtriranje** samo određenih redaka prema kriterijima. Na primjer, da ostavimo samo one retke kod kojih je stupac `A` veći od 5, možemo napisati `df[df['A']>5]`.
 
-> **Napomena**: Način na koji filtriranje funkcionira je sljedeći. Izraz `df['A']<5` vraća boolean series, koji označava je li izraz `True` ili `False` za svaki element originalnog niza `df['A']`. Kada se boolean series koristi kao indeks, vraća podskup redova u DataFrameu. Stoga nije moguće koristiti proizvoljan Python boolean izraz, na primjer, pisanje `df[df['A']>5 and df['A']<7]` bilo bi pogrešno. Umjesto toga, trebali biste koristiti posebnu `&` operaciju na boolean series, pisanjem `df[(df['A']>5) & (df['A']<7)]` (*zagrade su ovdje važne*).
+> **Napomena**: Način na koji filtriranje radi je sljedeći. Izraz `df['A']<5` vraća boolean seriju, koja označava je li izraz `True` ili `False` za svaki element u izvornom nizu `df['A']`. Kad se boolean serija koristi kao indeks, ona vraća podskup redaka u DataFrameu. Stoga nije moguće koristiti proizvoljni Python boolean izraz, na primjer `df[df['A']>5 and df['A']<7]` bilo bi pogrešno. Umjesto toga trebate koristiti posebnu operaciju `&` na boolean serijama, pišući `df[(df['A']>5) & (df['A']<7)]` (*zagrade su važne ovdje*).
 
-**Stvaranje novih izračunljivih stupaca**. Lako možemo stvoriti nove izračunljive stupce za naš DataFrame koristeći intuitivan izraz poput ovog:
+**Kreiranje novih izračunljivih stupaca**. Možemo lako stvoriti nove izračunljive stupce za naš DataFrame koristeći intuitivan izraz poput ovog:
 ```python
 df['DivA'] = df['A']-df['A'].mean() 
 ``` 
-Ovaj primjer izračunava odstupanje A od njegove srednje vrijednosti. Ono što se zapravo događa ovdje je da izračunavamo series, a zatim dodjeljujemo ovaj series lijevoj strani, stvarajući novi stupac. Stoga ne možemo koristiti operacije koje nisu kompatibilne sa series, na primjer, sljedeći kod je pogrešan:
+Ovaj primjer izračunava odstupanje A od njegove srednje vrijednosti. Ono što se zapravo događa jest da računamo seriju, te zatim dodjeljujemo tu seriju lijevoj strani, stvarajući novi stupac. Stoga ne možemo koristiti operacije koje nisu kompatibilne sa serijama, na primjer, sljedeći kod je pogrešan:
 ```python
-# Wrong code -> df['ADescr'] = "Low" if df['A'] < 5 else "Hi"
-df['LenB'] = len(df['B']) # <- Wrong result
+# Pogrešan kod -> df['ADescr'] = "Low" ako je df['A'] < 5, inače "Hi"
+df['LenB'] = len(df['B']) # <- Pogrešan rezultat
 ``` 
-Posljednji primjer, iako sintaktički ispravan, daje nam pogrešan rezultat jer dodjeljuje duljinu series `B` svim vrijednostima u stupcu, a ne duljinu pojedinačnih elemenata kako smo namjeravali.
+Posljednji primjer, iako je sintaktički ispravan, daje nam pogrešan rezultat jer dodjeljuje duljinu serije `B` svim vrijednostima stupca, a ne duljinu pojedinih elemenata kao što smo zamišljali.
 
-Ako trebamo izračunati složene izraze poput ovog, možemo koristiti funkciju `apply`. Posljednji primjer može se napisati na sljedeći način:
+Ako trebamo izračunati složene izraze poput ovog, možemo koristiti funkciju `apply`. Zadnji primjer možemo napisati na sljedeći način:
 ```python
 df['LenB'] = df['B'].apply(lambda x : len(x))
-# or 
+# ili
 df['LenB'] = df['B'].apply(len)
 ```
 
-Nakon gore navedenih operacija, završit ćemo s sljedećim DataFrameom:
+Nakon gore navedenih operacija, dobit ćemo sljedeći DataFrame:
 
-|     | A   | B      | DivA | LenB |
-| --- | --- | ------ | ---- | ---- |
-| 0   | 1   | I      | -4.0 | 1    |
-| 1   | 2   | like   | -3.0 | 4    |
-| 2   | 3   | to     | -2.0 | 2    |
-| 3   | 4   | use    | -1.0 | 3    |
-| 4   | 5   | Python | 0.0  | 6    |
-| 5   | 6   | and    | 1.0  | 3    |
-| 6   | 7   | Pandas | 2.0  | 6    |
-| 7   | 8   | very   | 3.0  | 4    |
-| 8   | 9   | much   | 4.0  | 4    |
+|     | A   | B       | DivA | LenB |
+| --- | --- | ------- | ---- | ---- |
+| 0   | 1   | Ja      | -4.0 | 1    |
+| 1   | 2   | volim   | -3.0 | 4    |
+| 2   | 3   | koristiti | -2.0 | 2    |
+| 3   | 4   | Python  | -1.0 | 3    |
+| 4   | 5   | i       | 0.0  | 1    |
+| 5   | 6   | Pandas  | 1.0  | 3    |
+| 6   | 7   | jako    | 2.0  | 6    |
+| 7   | 8   | puno    | 3.0  | 4    |
+| 8   | 9   |         | 4.0  | 4    |
 
-**Odabir redova prema brojevima** može se izvršiti pomoću konstrukta `iloc`. Na primjer, za odabir prvih 5 redova iz DataFramea:
+**Odabir redaka prema brojevima** može se napraviti korištenjem konstrukta `iloc`. Na primjer, za odabir prvih 5 redaka iz DataFramea:
 ```python
 df.iloc[:5]
 ```
 
-**Grupiranje** se često koristi za dobivanje rezultata sličnih *pivot tablicama* u Excelu. Pretpostavimo da želimo izračunati srednju vrijednost stupca `A` za svaki dani broj `LenB`. Tada možemo grupirati naš DataFrame prema `LenB` i pozvati `mean`:
+**Grupiranje** se često koristi za dobivanje rezultata sličnog *pivot tablicama* u Excelu. Pretpostavimo da želimo izračunati srednju vrijednost stupca `A` za svaki dani broj `LenB`. Zatim možemo grupirati naš DataFrame po `LenB` i pozvati `mean`:
 ```python
 df.groupby(by='LenB')[['A','DivA']].mean()
 ```
@@ -179,7 +181,7 @@ df.groupby(by='LenB') \
  .aggregate({ 'DivA' : len, 'A' : lambda x: x.mean() }) \
  .rename(columns={ 'DivA' : 'Count', 'A' : 'Mean'})
 ```
-To nam daje sljedeću tablicu:
+Ovo nam daje sljedeću tablicu:
 
 | LenB | Count | Mean     |
 | ---- | ----- | -------- |
@@ -189,68 +191,71 @@ To nam daje sljedeću tablicu:
 | 4    | 3     | 6.333333 |
 | 6    | 2     | 6.000000 |
 
-### Dobivanje Podataka
-Vidjeli smo koliko je jednostavno konstruirati Series i DataFrames iz Python objekata. Međutim, podaci obično dolaze u obliku tekstualne datoteke ili Excel tablice. Srećom, Pandas nam nudi jednostavan način za učitavanje podataka s diska. Na primjer, čitanje CSV datoteke je jednostavno kao ovo:
+### Dobivanje podataka
+
+
+Vidjeli smo koliko je lako konstruirati Series i DataFrame iz Python objekata. Međutim, podaci obično dolaze u obliku tekstualne datoteke ili Excel tablice. Srećom, Pandas nam nudi jednostavan način za učitavanje podataka s diska. Na primjer, čitanje CSV datoteke je ovako jednostavno:
 ```python
 df = pd.read_csv('file.csv')
 ```
-Vidjet ćemo više primjera učitavanja podataka, uključujući njihovo preuzimanje s vanjskih web stranica, u odjeljku "Izazov".
+Vidjet ćemo još primjera učitavanja podataka, uključujući dohvaćanje s vanjskih web stranica, u odjeljku "Izazov"
 
-### Ispisivanje i Vizualizacija
 
-Data Scientist često mora istraživati podatke, stoga je važno moći ih vizualizirati. Kada je DataFrame velik, često želimo samo provjeriti radimo li sve ispravno ispisivanjem prvih nekoliko redaka. To se može učiniti pozivanjem `df.head()`. Ako ga pokrećete iz Jupyter Notebooka, ispisat će DataFrame u lijepom tabličnom obliku.
+### Ispisivanje i crtanje
 
-Također smo vidjeli korištenje funkcije `plot` za vizualizaciju nekih stupaca. Iako je `plot` vrlo koristan za mnoge zadatke i podržava mnoge različite vrste grafova putem parametra `kind=`, uvijek možete koristiti osnovnu biblioteku `matplotlib` za crtanje nečeg složenijeg. Detaljno ćemo obraditi vizualizaciju podataka u zasebnim lekcijama tečaja.
+Data Scientist često mora istraživati podatke, stoga je važno moći ih vizualizirati. Kada je DataFrame velik, često želimo samo provjeriti da radimo sve ispravno ispisivanjem prvih nekoliko redaka. To se može napraviti pozivom `df.head()`. Ako to pokrećete iz Jupyter Notebooka, ispisat će DataFrame u lijepom tabličnom obliku.
 
-Ovaj pregled pokriva najvažnije koncepte Pandasa, no biblioteka je vrlo bogata i nema ograničenja za ono što možete učiniti s njom! Sada primijenimo ovo znanje na rješavanje specifičnog problema.
+Također smo vidjeli upotrebu funkcije `plot` za vizualizaciju nekih stupaca. Iako je `plot` vrlo koristan za mnoge zadatke i podržava mnoge različite vrste grafikona preko parametra `kind=`, uvijek možete koristiti sirovu biblioteku `matplotlib` za crtanje nečeg složenijeg. Detaljno ćemo obraditi vizualizaciju podataka u posebnim lekcijama.
+
+Ovaj pregled pokriva najvažnije koncepte Pandas biblioteke, no biblioteka je vrlo bogata i nema ograničenja što sve možete s njom napraviti! Sada primijenimo ovo znanje za rješavanje konkretnog problema.
 
 ## 🚀 Izazov 1: Analiza širenja COVID-a
 
-Prvi problem na kojem ćemo se fokusirati je modeliranje širenja epidemije COVID-19. Kako bismo to učinili, koristit ćemo podatke o broju zaraženih osoba u različitim zemljama, koje pruža [Centar za sustavnu znanost i inženjering](https://systems.jhu.edu/) (CSSE) na [Sveučilištu Johns Hopkins](https://jhu.edu/). Skup podataka dostupan je u [ovom GitHub repozitoriju](https://github.com/CSSEGISandData/COVID-19).
+Prvi problem na koji ćemo se fokusirati je modeliranje širenja epidemije COVID-19. Za to ćemo koristiti podatke o broju zaraženih osoba u različitim zemljama, koje pruža [Center for Systems Science and Engineering](https://systems.jhu.edu/) (CSSE) na [Sveučilištu Johns Hopkins](https://jhu.edu/). Skup podataka dostupan je u [ovom GitHub spremištu](https://github.com/CSSEGISandData/COVID-19).
 
-Budući da želimo demonstrirati kako raditi s podacima, pozivamo vas da otvorite [`notebook-covidspread.ipynb`](notebook-covidspread.ipynb) i pročitate ga od početka do kraja. Također možete izvršavati ćelije i riješiti neke izazove koje smo ostavili na kraju.
+Budući da želimo pokazati kako raditi s podacima, pozivamo vas da otvorite [`notebook-covidspread.ipynb`](notebook-covidspread.ipynb) i pročitate ga od početka do kraja. Također možete izvršavati ćelije i riješiti neke izazove koje smo ostavili za vas na kraju.
 
-![Širenje COVID-a](../../../../translated_images/hr/covidspread.f3d131c4f1d260ab.webp)
+![COVID Spread](../../../../translated_images/hr/covidspread.f3d131c4f1d260ab.webp)
 
 > Ako ne znate kako pokrenuti kod u Jupyter Notebooku, pogledajte [ovaj članak](https://soshnikov.com/education/how-to-execute-notebooks-from-github/).
 
 ## Rad s nestrukturiranim podacima
 
-Iako podaci vrlo često dolaze u tabličnom obliku, u nekim slučajevima moramo raditi s manje strukturiranim podacima, na primjer, tekstom ili slikama. U tom slučaju, kako bismo primijenili tehnike obrade podataka koje smo vidjeli gore, moramo nekako **izvući** strukturirane podatke. Evo nekoliko primjera:
+Dok podaci vrlo često dolaze u tabličnom obliku, u nekim slučajevima potrebni su nam manje strukturirani podaci, na primjer tekst ili slike. U tom slučaju, da bismo primijenili tehnike obrade podataka koje smo vidjeli gore, trebamo nekako **izvući** strukturirane podatke. Evo nekoliko primjera:
 
-* Izvlačenje ključnih riječi iz teksta i analiza učestalosti pojavljivanja tih ključnih riječi
+* Izvlačenje ključnih riječi iz teksta i praćenje koliko često se te ključne riječi pojavljuju
 * Korištenje neuronskih mreža za izvlačenje informacija o objektima na slici
-* Dobivanje informacija o emocijama ljudi na video snimci
+* Dobivanje informacija o emocijama ljudi s video snimke
 
 ## 🚀 Izazov 2: Analiza COVID radova
 
-U ovom izazovu nastavljamo s temom pandemije COVID-a i fokusiramo se na obradu znanstvenih radova o toj temi. Postoji [CORD-19 skup podataka](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) s više od 7000 (u vrijeme pisanja) radova o COVID-u, dostupnih s metapodacima i sažecima (a za otprilike polovicu njih dostupni su i puni tekstovi).
+U ovom izazovu nastavljamo s temom COVID pandemije i fokusiramo se na obradu znanstvenih radova iz tog područja. Postoji [CORD-19 Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) s više od 7000 (u trenutku pisanja) radova o COVID-u, dostupnih s metapodacima i sažetcima (za otprilike polovicu od njih postoji i potpuni tekst).
 
-Potpuni primjer analize ovog skupa podataka koristeći [Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health/?WT.mc_id=academic-77958-bethanycheum) kognitivnu uslugu opisan je [u ovom blog postu](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/). Raspravljat ćemo o pojednostavljenoj verziji ove analize.
+Cjelovit primjer analize ovog skupa podataka koristeći [Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health/?WT.mc_id=academic-77958-bethanycheum) kognitivnu uslugu opisan je [u ovom blog postu](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/). Raspravit ćemo pojednostavljenu verziju te analize.
 
-> **NOTE**: Ne pružamo kopiju skupa podataka kao dio ovog repozitorija. Možda ćete prvo morati preuzeti datoteku [`metadata.csv`](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv) iz [ovog skupa podataka na Kaggleu](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Može biti potrebna registracija na Kaggle. Skup podataka možete preuzeti i bez registracije [ovdje](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html), ali uključivat će sve pune tekstove uz datoteku metapodataka.
+> **NAPOMENA**: Ne pružamo kopiju skupa podataka kao dio ovog spremišta. Prvo ćete možda morati preuzeti datoteku [`metadata.csv`](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv) s [ovog skupa podataka na Kaggleu](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Možda je potrebna registracija na Kaggle. Skup podataka možete preuzeti i bez registracije [ovdje](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html), no bit će uključen sav puni tekst uz datoteku metapodataka.
 
-Otvorite [`notebook-papers.ipynb`](notebook-papers.ipynb) i pročitajte ga od početka do kraja. Također možete izvršavati ćelije i riješiti neke izazove koje smo ostavili na kraju.
+Otvorite [`notebook-papers.ipynb`](notebook-papers.ipynb) i pročitajte ga od početka do kraja. Također možete izvršavati ćelije i riješiti neke izazove koje smo ostavili za vas na kraju.
 
-![Covid Medicinski Tretman](../../../../translated_images/hr/covidtreat.b2ba59f57ca45fbc.webp)
+![Covid Medical Treatment](../../../../translated_images/hr/covidtreat.b2ba59f57ca45fbc.webp)
 
-## Obrada slikovnih podataka
+## Obrada slika
 
-Nedavno su razvijeni vrlo moćni AI modeli koji nam omogućuju razumijevanje slika. Postoji mnogo zadataka koji se mogu riješiti koristeći unaprijed trenirane neuronske mreže ili cloud usluge. Neki primjeri uključuju:
+Nedavno su razvijeni vrlo moćni AI modeli koji nam omogućuju razumijevanje slika. Postoji mnogo zadataka koji se mogu riješiti korištenjem unaprijed naučenih neuronskih mreža ili cloud servisa. Neki primjeri uključuju:
 
-* **Klasifikacija slika**, koja vam može pomoći kategorizirati sliku u jednu od unaprijed definiranih klasa. Svoj vlastiti klasifikator slika možete lako trenirati koristeći usluge poput [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum)
-* **Detekcija objekata** za otkrivanje različitih objekata na slici. Usluge poput [computer vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum) mogu otkriti brojne uobičajene objekte, a možete trenirati [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum) model za otkrivanje specifičnih objekata od interesa.
-* **Detekcija lica**, uključujući dob, spol i emocije. To se može učiniti putem [Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum).
+* **Klasifikacija slika**, koja vam može pomoći da kategorizirate sliku u jednu od unaprijed definiranih klasa. Lako možete trenirati vlastite klasifikatore slika koristeći servise poput [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum)
+* **Detekcija objekata** za detekciju različitih objekata na slici. Servisi poput [Computer Vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum) mogu detektirati niz uobičajenih objekata, a možete trenirati model [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum) za otkrivanje specifičnih objekata od interesa.
+* **Detekcija lica**, uključujući procjenu dobi, spola i emocija. To se može napraviti putem [Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum).
 
-Sve te cloud usluge mogu se pozivati koristeći [Python SDKs](https://docs.microsoft.com/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/?WT.mc_id=academic-77958-bethanycheum), i stoga se lako mogu uključiti u vaš tijek istraživanja podataka.
+Sve te cloud usluge moguće je pozivati pomoću [Python SDK-ova](https://docs.microsoft.com/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/?WT.mc_id=academic-77958-bethanycheum), te ih lako uključiti u svoj proces istraživanja podataka.
 
-Evo nekoliko primjera istraživanja podataka iz slikovnih izvora:
-* U blog postu [Kako učiti Data Science bez kodiranja](https://soshnikov.com/azure/how-to-learn-data-science-without-coding/) istražujemo Instagram fotografije, pokušavajući razumjeti što ljude potiče da daju više lajkova na fotografiju. Prvo izvlačimo što je više moguće informacija iz slika koristeći [computer vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum), a zatim koristimo [Azure Machine Learning AutoML](https://docs.microsoft.com/azure/machine-learning/concept-automated-ml/?WT.mc_id=academic-77958-bethanycheum) za izradu interpretabilnog modela.
-* U [Radionici o studijama lica](https://github.com/CloudAdvocacy/FaceStudies) koristimo [Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum) za izvlačenje emocija ljudi na fotografijama s događaja, kako bismo pokušali razumjeti što ljude čini sretnima.
+Evo nekoliko primjera istraživanja podataka iz izvora slika:
+* U blog postu [Kako naučiti Data Science bez kodiranja](https://soshnikov.com/azure/how-to-learn-data-science-without-coding/) istražujemo Instagram fotografije, pokušavajući razumjeti što ljude potiče da daju više lajkova. Prvo izvlačimo što više informacija iz slika korištenjem [Computer Vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum), zatim pomoću [Azure Machine Learning AutoML](https://docs.microsoft.com/azure/machine-learning/concept-automated-ml/?WT.mc_id=academic-77958-bethanycheum) gradimo tumačivi model.
+* U [Facial Studies Workshop](https://github.com/CloudAdvocacy/FaceStudies) koristimo [Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum) za izvlačenje emocija ljudi na fotografijama s događaja, kako bismo pokušali razumjeti što ljude čini sretnima.
 
 ## Zaključak
 
-Bez obzira imate li već strukturirane ili nestrukturirane podatke, koristeći Python možete obaviti sve korake vezane uz obradu i razumijevanje podataka. To je vjerojatno najfleksibilniji način obrade podataka, i upravo zato većina data scientista koristi Python kao svoj primarni alat. Učenje Pythona u dubinu vjerojatno je dobra ideja ako ste ozbiljni u svom putovanju kroz data science!
+Bez obzira imate li već strukturirane ili nestrukturirane podatke, koristeći Python možete izvršiti sve korake vezane uz obradu i razumijevanje podataka. To je vjerojatno najfleksibilniji način obrade podataka, i zato većina data scientista koristi Python kao svoj glavni alat. Dubinsko učenje Pythona dobra je ideja ako ozbiljno pristupate svom Data Science putovanju!
 
 ## [Kviz nakon predavanja](https://ff-quizzes.netlify.app/en/ds/quiz/13)
 
@@ -260,22 +265,24 @@ Bez obzira imate li već strukturirane ili nestrukturirane podatke, koristeći P
 * [Wes McKinney. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.amazon.com/gp/product/1491957662)
 
 **Online resursi**
-* Službeni [10 minuta s Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) tutorial
-* [Dokumentacija o Pandas vizualizaciji](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+* Službeni [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) tutorial
+* [Dokumentacija za Pandas vizualizaciju](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 
 **Učenje Pythona**
-* [Naučite Python na zabavan način s Turtle Graphics i fraktalima](https://github.com/shwars/pycourse)
-* [Napravite svoje prve korake s Pythonom](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) Learning Path na [Microsoft Learn](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum)
+* [Nauči Python na zabavan način s Turtle Grafikom i Fraktalima](https://github.com/shwars/pycourse)
+* [Prvi koraci s Pythonom](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) Learning Path na [Microsoft Learn](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum)
 
 ## Zadatak
 
-[Provedite detaljniju studiju podataka za gore navedene izazove](assignment.md)
+[Izvedite detaljniju analizu podataka za gornje izazove](assignment.md)
 
 ## Zasluge
 
-Ovu lekciju napisao je s ♥️ [Dmitry Soshnikov](http://soshnikov.com)
+Ovu lekciju je s ljubavlju napisao [Dmitry Soshnikov](http://soshnikov.com)
 
 ---
 
-**Odricanje od odgovornosti**:  
-Ovaj dokument je preveden pomoću AI usluge za prevođenje [Co-op Translator](https://github.com/Azure/co-op-translator). Iako nastojimo osigurati točnost, imajte na umu da automatski prijevodi mogu sadržavati pogreške ili netočnosti. Izvorni dokument na izvornom jeziku treba smatrati mjerodavnim izvorom. Za ključne informacije preporučuje se profesionalni prijevod od strane stručnjaka. Ne preuzimamo odgovornost za bilo kakve nesporazume ili pogrešne interpretacije proizašle iz korištenja ovog prijevoda.
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**Napomena**:
+Ovaj dokument je preveden korištenjem AI prevoditeljskog servisa [Co-op Translator](https://github.com/Azure/co-op-translator). Iako težimo točnosti, imajte na umu da automatski prijevodi mogu sadržavati greške ili netočnosti. Izvorni dokument na izvornom jeziku treba smatrati autoritativnim izvorom. Za važne informacije preporuča se profesionalni ljudski prijevod. Nismo odgovorni za bilo kakva nesporazumevanja ili pogrešne interpretacije koje proizlaze iz korištenja ovog prijevoda.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

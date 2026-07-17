@@ -1,60 +1,62 @@
-# データの操作: PythonとPandasライブラリ
+# データの操作：Python と Pandas ライブラリ
 
-| ![ [(@sketchthedocs)](https://sketchthedocs.dev) によるスケッチノート ](../../sketchnotes/07-WorkWithPython.png) |
+| ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/07-WorkWithPython.png) |
 | :-------------------------------------------------------------------------------------------------------: |
-|                 Pythonでの操作 - _[@nitya](https://twitter.com/nitya) によるスケッチノート_                 |
+|                 Working With Python - _Sketchnote by [@nitya](https://twitter.com/nitya)_                 |
 
-[![イントロ動画](../../../../translated_images/ja/video-ds-python.245247dc811db8e4.webp)](https://youtu.be/dZjWOGbsN4Y)
+[![Intro Video](../../../../translated_images/ja/video-ds-python.245247dc811db8e4.webp)](https://youtu.be/dZjWOGbsN4Y)
 
-データベースはデータを効率的に保存し、クエリ言語を使用して検索する方法を提供しますが、データ処理の最も柔軟な方法は、自分自身でプログラムを書いてデータを操作することです。多くの場合、データベースクエリを使用する方が効果的です。しかし、より複雑なデータ処理が必要な場合、SQLでは簡単に実現できないことがあります。  
-データ処理はどのプログラミング言語でもプログラム可能ですが、データ操作に特化した高レベルな言語があります。データサイエンティストは通常、以下の言語のいずれかを好みます:
+データベースはデータの格納とクエリ言語での問い合わせに非常に効率的な方法を提供しますが、最も柔軟なデータ処理方法は自分でプログラムを書いてデータを操作することです。多くの場合、データベースクエリを使う方が効果的ですが、より複雑なデータ処理が必要な場合は、SQLでは簡単にできないこともあります。
+データ処理はどのプログラミング言語でも可能ですが、データ操作に関してより高レベルな言語があります。データサイエンティストは一般的に以下の言語のいずれかを好みます：
 
-* **[Python](https://www.python.org/)**: 汎用プログラミング言語であり、そのシンプルさから初心者に最適とされています。Pythonには多くの追加ライブラリがあり、ZIPアーカイブからデータを抽出したり、画像をグレースケールに変換したりといった実用的な問題を解決できます。データサイエンスだけでなく、ウェブ開発にもよく使用されます。
-* **[R](https://www.r-project.org/)**: 統計データ処理を目的に開発された伝統的なツールボックスです。大規模なライブラリリポジトリ（CRAN）を含んでおり、データ処理に適しています。ただし、Rは汎用プログラミング言語ではなく、データサイエンス以外の分野ではあまり使用されません。
-* **[Julia](https://julialang.org/)**: データサイエンス専用に開発された言語で、Pythonよりも高いパフォーマンスを提供することを目的としています。科学的な実験に適したツールです。
+* **[Python](https://www.python.org/)** は汎用プログラミング言語で、そのシンプルさから初心者にとって最良の選択肢の一つとされています。PythonにはZIPアーカイブからのデータ抽出や画像のグレースケール変換など、多くの実用的な問題解決に役立つ追加ライブラリが多数あります。データサイエンスのほかに、Web開発にもよく使われています。
+* **[R](https://www.r-project.org/)** は統計データ処理を念頭に開発された伝統的なツールボックスです。CRANと呼ばれる多くのライブラリも備え、データ処理に適しています。しかしRは汎用プログラミング言語ではなく、データサイエンス領域以外で使われることは稀です。
+* **[Julia](https://julialang.org/)** はデータサイエンス専用に開発された別の言語で、Pythonよりも高い性能を目指しており、科学的実験に適したツールです。
 
-このレッスンでは、Pythonを使用した簡単なデータ処理に焦点を当てます。Pythonの基本的な知識があることを前提とします。Pythonをより深く学びたい場合は、以下のリソースを参照してください:
+このレッスンでは、簡単なデータ処理のためにPythonを使うことに焦点を当てます。言語の基本的な知識があることを前提とします。Pythonのより深い学習を希望する場合は、以下のリソースを参照してください：
 
-* [Learn Python in a Fun Way with Turtle Graphics and Fractals](https://github.com/shwars/pycourse) - PythonプログラミングのGitHubベースの簡易入門コース
+* [Learn Python in a Fun Way with Turtle Graphics and Fractals](https://github.com/shwars/pycourse) - GitHub上のPythonプログラミングのクイックイントロコース
 * [Take your First Steps with Python](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) - [Microsoft Learn](http://learn.microsoft.com/?WT.mc_id=academic-77958-bethanycheum) の学習パス
 
-データはさまざまな形式で存在します。このレッスンでは、**表形式データ**、**テキスト**、**画像**の3つの形式を考えます。
+データはさまざまな形態があります。このレッスンでは、<strong>表形式データ</strong>、<strong>テキスト</strong>、<strong>画像</strong>の三つのデータ形式について考えます。
 
-関連するすべてのライブラリの概要を提供するのではなく、いくつかのデータ処理の例に焦点を当てます。これにより、可能性の主なアイデアを理解し、必要なときに問題の解決策を見つける方法を学ぶことができます。
+関連するすべてのライブラリの完全な概要を提供する代わりに、いくつかのデータ処理の例に焦点を当てます。これにより、可能なことの全体像を掴み、問題解決のためのソリューションを見つける場所を理解しやすくします。
 
-> **最も役立つアドバイス**: データに対して特定の操作を行う必要があるが方法がわからない場合、インターネットで検索してみてください。[Stackoverflow](https://stackoverflow.com/) には、Pythonでの典型的なタスクに関する有用なコードサンプルが多数掲載されています。
+> <strong>最も有用なアドバイス</strong>：データに対してある操作を行いたいが方法がわからない場合は、インターネットで検索してみてください。[Stackoverflow](https://stackoverflow.com/) には多くの典型的なタスクに対するPythonの有用なコード例が掲載されています。
 
-## [講義前のクイズ](https://ff-quizzes.netlify.app/en/ds/quiz/12)
+
+
+## [講義前クイズ](https://ff-quizzes.netlify.app/en/ds/quiz/12)
 
 ## 表形式データとデータフレーム
 
-リレーショナルデータベースについて話した際に、表形式データにすでに触れました。大量のデータがあり、それが多くの異なるリンクされたテーブルに含まれている場合、SQLを使用して操作するのが理にかなっています。しかし、データの分布や値間の相関など、このデータについての**理解**や**洞察**を得る必要がある場合があります。データサイエンスでは、元のデータの変換とその後の可視化を行う必要があるケースが多くあります。これらのステップはPythonを使用して簡単に実行できます。
+関係データベースについて話したとき、すでに表形式データを扱いました。大量のデータがあり、複数の関連テーブルに分かれている場合は、SQLを使うのが賢明です。しかし、データの分布や値同士の相関関係など、そのデータについて何らかの<strong>理解</strong>や<strong>洞察</strong>を得たい場合が多々あります。データサイエンスでは、元のデータの変換を行い、その後に可視化するケースが多くありますが、この両方のステップはPythonで簡単にできます。
 
-Pythonで表形式データを扱う際に役立つ最も重要なライブラリは以下の2つです:
-* **[Pandas](https://pandas.pydata.org/)**: **データフレーム**を操作するためのライブラリで、リレーショナルテーブルに類似しています。名前付きの列を持ち、行、列、データフレーム全体に対してさまざまな操作を実行できます。
-* **[Numpy](https://numpy.org/)**: **テンソル**、つまり多次元**配列**を操作するためのライブラリです。配列は同じ基礎型の値を持ち、データフレームよりもシンプルですが、より多くの数学的操作を提供し、オーバーヘッドが少なくなります。
+Pythonで表形式データを扱うのに役立つ最も有用なライブラリは以下の二つです：
+* **[Pandas](https://pandas.pydata.org/)** は、いわゆる<strong>データフレーム</strong>を操作するためのライブラリです。データフレームは関係データベースのテーブルと類似しており、名前付きのカラムを持ち、行やカラム、データフレーム全体に対してさまざまな操作が行えます。
+* **[Numpy](https://numpy.org/)** は<strong>テンソル</strong>、つまり多次元の<strong>配列</strong>を扱うライブラリです。配列は同じ基本型の値を持ち、データフレームより単純ですが、より多くの数学的演算を提供し、オーバーヘッドが少ないです。
 
-また、知っておくべきライブラリがいくつかあります:
-* **[Matplotlib](https://matplotlib.org/)**: データの可視化やグラフのプロットに使用されるライブラリ
-* **[SciPy](https://www.scipy.org/)**: 追加の科学的関数を含むライブラリ。確率と統計について話した際にすでにこのライブラリに触れました
+他にも知っておくべきライブラリがいくつかあります：
+* **[Matplotlib](https://matplotlib.org/)** はデータの可視化やグラフの描画に使われるライブラリです。
+* **[SciPy](https://www.scipy.org/)** は追加の科学計算用関数を含むライブラリです。確率や統計の話で既に触れました。
 
-以下は、Pythonプログラムの冒頭でこれらのライブラリをインポートする際に通常使用されるコードの一例です:
+これらのライブラリをPythonプログラムの冒頭でインポートする場合、通常は次のように書きます：
 ```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from scipy import ... # you need to specify exact sub-packages that you need
+from scipy import ... # 必要なサブパッケージを正確に指定する必要があります
 ``` 
 
-Pandasはいくつかの基本的な概念を中心に構築されています。
+Pandasはいくつかの基本概念に基づいています。
 
-### Series
+### Series（シリーズ）
 
-**Series**は、リストやnumpy配列に似た値のシーケンスです。主な違いは、Seriesには**インデックス**があり、Seriesを操作する際（例: 加算する際）にインデックスが考慮されることです。インデックスは単純な整数行番号（リストや配列からSeriesを作成する際のデフォルトインデックス）である場合もあれば、日付間隔のような複雑な構造を持つ場合もあります。
+**Series** は、リストやnumpyの配列に似た値の列ですが、大きな違いは<strong>インデックス</strong>を持つことです。シリーズ同士の演算（例えば加算）では、このインデックスが考慮されます。インデックスは単純な整数の行番号（リストや配列からシリーズを作るときにデフォルトで使われます）であったり、日付の区間など複雑な構造を持つこともあります。
 
-> **注意**: 付属のノートブック [`notebook.ipynb`](notebook.ipynb) にPandasの入門コードが含まれています。ここではいくつかの例を簡単に説明しますが、ぜひ完全なノートブックを確認してください。
+> <strong>注</strong>: 同梱のノートブック [`notebook.ipynb`](notebook.ipynb) に導入用のPandasコードがいくつかあります。ここでは一部の例だけを取り上げており、ぜひ完全なノートブックもご覧ください。
 
-例を考えてみましょう: アイスクリームショップの売上を分析したいとします。一定期間の売上数（各日販売されたアイテム数）のSeriesを生成します:
+例を考えます。アイスクリーム店の売上分析を行いたいとします。ある期間の日ごとの販売数（販売アイテム数）のシリーズを作成します：
 
 ```python
 start_date = "Jan 1, 2020"
@@ -64,47 +66,47 @@ print(f"Length of index is {len(idx)}")
 items_sold = pd.Series(np.random.randint(25,50,size=len(idx)),index=idx)
 items_sold.plot()
 ```
-![時系列プロット](../../../../translated_images/ja/timeseries-1.80de678ab1cf727e.webp)
+![Time Series Plot](../../../../translated_images/ja/timeseries-1.80de678ab1cf727e.webp)
 
-次に、毎週友人のためにパーティーを開催し、パーティー用にアイスクリームを10パック追加で購入するとします。これを示すために、週ごとにインデックス付けされた別のSeriesを作成できます:
+次に、毎週友人たちとパーティを行い、パーティ用に追加で10パックのアイスクリームを持っていくことにしたとします。これを週単位のインデックスで別のシリーズとして作成します：
 ```python
 additional_items = pd.Series(10,index=pd.date_range(start_date,end_date,freq="W"))
 ```
-2つのSeriesを加算すると、合計数が得られます:
+二つのシリーズを足し合わせると合計の売上数が得られます：
 ```python
 total_items = items_sold.add(additional_items,fill_value=0)
 total_items.plot()
 ```
-![時系列プロット](../../../../translated_images/ja/timeseries-2.aae51d575c55181c.webp)
+![Time Series Plot](../../../../translated_images/ja/timeseries-2.aae51d575c55181c.webp)
 
-> **注意**: 単純な構文 `total_items+additional_items` を使用していないことに注意してください。この場合、結果のSeriesに多くの`NaN`（*Not a Number*）値が含まれることになります。これは、`additional_items` Seriesのインデックスポイントの一部に欠損値があり、`NaN`を加算すると結果が`NaN`になるためです。そのため、加算時に`fill_value`パラメータを指定する必要があります。
+> <strong>注</strong>：単純に `total_items+additional_items` のように書くのではありません。そうすると、多くの `NaN`（*Not a Number*）が結果のシリーズに現れます。これは、`additional_items` のいくつかのインデックスに値が欠落しており、`NaN` と何かを足すと `NaN` になるためです。したがって、加算時に `fill_value` パラメータを指定する必要があります。
 
-時系列データでは、異なる時間間隔でSeriesを**リサンプリング**することもできます。たとえば、月ごとの平均売上量を計算したい場合、以下のコードを使用できます:
+時系列データでは、異なる時間間隔で<strong>リサンプリング</strong>することもできます。例えば、毎月の平均売上高を計算したい場合は、次のようにします：
 ```python
 monthly = total_items.resample("1M").mean()
 ax = monthly.plot(kind='bar')
 ```
-![月次時系列平均](../../../../translated_images/ja/timeseries-3.f3147cbc8c624881.webp)
+![Monthly Time Series Averages](../../../../translated_images/ja/timeseries-3.f3147cbc8c624881.webp)
 
-### DataFrame
+### DataFrame（データフレーム）
 
-DataFrameは、同じインデックスを持つ複数のSeriesのコレクションです。複数のSeriesを組み合わせてDataFrameを作成できます:
+DataFrameは、共通のインデックスを持つ複数のシリーズの集合体と考えられます。複数のシリーズを組み合わせてデータフレームにできます：
 ```python
 a = pd.Series(range(1,10))
 b = pd.Series(["I","like","to","play","games","and","will","not","change"],index=range(0,9))
 df = pd.DataFrame([a,b])
 ```
-これにより、以下のような横方向のテーブルが作成されます:
+これにより、次のような横方向の表が作成されます：
 |     | 0   | 1    | 2   | 3   | 4      | 5   | 6      | 7    | 8    |
 | --- | --- | ---- | --- | --- | ------ | --- | ------ | ---- | ---- |
 | 0   | 1   | 2    | 3   | 4   | 5      | 6   | 7      | 8    | 9    |
 | 1   | I   | like | to  | use | Python | and | Pandas | very | much |
 
-また、Seriesを列として使用し、辞書を使用して列名を指定することもできます:
+シリーズをカラムとして使い、辞書でカラム名を指定することもできます：
 ```python
 df = pd.DataFrame({ 'A' : a, 'B' : b })
 ```
-これにより、以下のようなテーブルが得られます:
+これにより、次のような表が得られます：
 
 |     | A   | B      |
 | --- | --- | ------ |
@@ -118,39 +120,39 @@ df = pd.DataFrame({ 'A' : a, 'B' : b })
 | 7   | 8   | very   |
 | 8   | 9   | much   |
 
-**注意**: 前のテーブルを転置することで、このテーブルレイアウトを得ることもできます。例えば、以下のように書くことで:
+<strong>注</strong>：先の表を転置し（`.T`）、`rename` 操作でカラム名を変更することでも同じ配置が得られます。
 ```python
-df = pd.DataFrame([a,b]).T..rename(columns={ 0 : 'A', 1 : 'B' })
+df = pd.DataFrame([a,b]).T.rename(columns={ 0 : 'A', 1 : 'B' })
 ```
-ここで`.T`はDataFrameを転置する操作を意味し、`rename`操作を使用して列名を前の例に一致させることができます。
+`.T` はデータフレームの転置操作（行と列の入れ替え）を意味し、`rename` 操作で先ほどの例に合わせてカラム名を変更しています。
 
-DataFrameで実行できる最も重要な操作をいくつか紹介します:
+データフレームで行える最も重要な操作をいくつか紹介します：
 
-**列の選択**: `df['A']`と書くことで個々の列を選択できます。この操作はSeriesを返します。また、`df[['B','A']]`と書くことで列のサブセットを別のDataFrameに選択できます。
+<strong>カラム選択</strong>：`df['A']` と書くと、個別のカラムを選択できます。この操作はシリーズを返します。カラムのサブセットを選び別のデータフレームにするには、`df[['B','A']]` と書きます。これにより別のデータフレームが返されます。
 
-**条件に基づく行のフィルタリング**: 例えば、列`A`が5より大きい行のみを残すには、`df[df['A']>5]`と書きます。
+<strong>フィルタリング</strong>：ある条件で行を絞り込みます。例えば、カラム `A` が5より大きい行だけ残すには、`df[df['A']>5]` と書きます。
 
-> **注意**: フィルタリングの仕組みは次の通りです。式`df['A']<5`はブールSeriesを返し、元のSeries`df['A']`の各要素に対して式が`True`または`False`であるかを示します。ブールSeriesがインデックスとして使用されると、DataFrameの行のサブセットが返されます。そのため、任意のPythonブール式を使用することはできません。例えば、`df[df['A']>5 and df['A']<7]`と書くのは間違いです。代わりに、ブールSeriesに対して特別な`&`操作を使用し、`df[(df['A']>5) & (df['A']<7)]`と書く必要があります（*括弧が重要です*）。
+> <strong>注</strong>：フィルタリングの仕組みはこうです。`df['A']<5` はブール値のシリーズを返し、元のシリーズ `df['A']` の各要素が条件を満たすかどうかを示します。このブールシリーズをインデックスとして使うと、条件に合う行のサブセットが返されます。したがって、`df[df['A']>5 and df['A']<7]` のような任意のPythonブール式は使えません。その代わりに、ブールシリーズ同士を `&` で結合し、`df[(df['A']>5) & (df['A']<7)]` とします（<em>括弧は重要です</em>）。
 
-**計算可能な新しい列の作成**: 直感的な式を使用してDataFrameに新しい計算可能な列を簡単に作成できます:
+<strong>新しい計算カラムの作成</strong>：計算可能な新しいカラムは、次のような直感的な式で簡単に作成できます：
 ```python
 df['DivA'] = df['A']-df['A'].mean() 
 ``` 
-この例では、列Aの平均値からの乖離を計算しています。ここで実際に行われているのは、Seriesを計算し、それを左辺に割り当てて新しい列を作成することです。そのため、Seriesと互換性のない操作は使用できません。例えば、以下のコードは間違っています:
+この例は、Aの各値が平均値からどれだけ離れているか（偏差）を計算しています。ここで実際に行われているのは、シリーズが計算され、そのシリーズを左辺に代入して新しいカラムを作成することです。したがって、シリーズに適さない操作は使えません。例えば、次のコードは誤りです：
 ```python
-# Wrong code -> df['ADescr'] = "Low" if df['A'] < 5 else "Hi"
-df['LenB'] = len(df['B']) # <- Wrong result
+# 間違ったコード -> df['ADescr'] = "Low" if df['A'] < 5 else "Hi"
+df['LenB'] = len(df['B']) # <- 間違った結果
 ``` 
-後者の例は構文的には正しいですが、意図した個々の要素の長さではなく、Series`B`の長さをすべての値に割り当ててしまうため、誤った結果を返します。
+この例は文法的には正しいですが、誤った結果を返します。なぜなら、シリーズ `B` の長さをすべての値に割り当ててしまい、各要素の長さではないからです。
 
-このような複雑な式を計算する必要がある場合は、`apply`関数を使用できます。最後の例は次のように書き換えることができます:
+複雑な計算式が必要な場合は、`apply` 関数を使うことができます。上記の最後の例は次のように書けます：
 ```python
 df['LenB'] = df['B'].apply(lambda x : len(x))
-# or 
+# または
 df['LenB'] = df['B'].apply(len)
 ```
 
-上記の操作後、以下のDataFrameが得られます:
+これらの操作の後、次のようなデータフレームが完成します：
 
 |     | A   | B      | DivA | LenB |
 | --- | --- | ------ | ---- | ---- |
@@ -164,22 +166,22 @@ df['LenB'] = df['B'].apply(len)
 | 7   | 8   | very   | 3.0  | 4    |
 | 8   | 9   | much   | 4.0  | 4    |
 
-**行番号に基づく選択**は`iloc`構文を使用して行うことができます。例えば、DataFrameの最初の5行を選択するには:
+<strong>数値ベースの行選択</strong> は `iloc` 構文を使って行えます。例えば、最初の5行を選択するには：
 ```python
 df.iloc[:5]
 ```
 
-**グループ化**は、Excelの*ピボットテーブル*に似た結果を得るためによく使用されます。例えば、`LenB`の各値に対して列`A`の平均値を計算したい場合、DataFrameを`LenB`でグループ化し、`mean`を呼び出します:
+<strong>グルーピング</strong> はExcelのピボットテーブルに似た結果を得るためによく使います。例えば、`LenB` ごとにカラム `A` の平均値を計算したい場合、`LenB` でグループ化し、`mean` を呼び出します：
 ```python
 df.groupby(by='LenB')[['A','DivA']].mean()
 ```
-グループ内の平均値と要素数を計算する必要がある場合は、より複雑な`aggregate`関数を使用できます:
+平均値とグループ内の要素数の両方を計算したい場合は、より複雑な `aggregate` 関数を使えます：
 ```python
 df.groupby(by='LenB') \
  .aggregate({ 'DivA' : len, 'A' : lambda x: x.mean() }) \
  .rename(columns={ 'DivA' : 'Count', 'A' : 'Mean'})
 ```
-これにより、以下のテーブルが得られます:
+これにより次の表が得られます：
 
 | LenB | Count | Mean     |
 | ---- | ----- | -------- |
@@ -190,92 +192,97 @@ df.groupby(by='LenB') \
 | 6    | 2     | 6.000000 |
 
 ### データの取得
-PythonオブジェクトからSeriesやDataFrameを構築するのがいかに簡単かを見てきました。しかし、データは通常、テキストファイルやExcelテーブルの形式で提供されます。幸いなことに、Pandasはディスクからデータを読み込むための簡単な方法を提供しています。例えば、CSVファイルを読み込むのは以下のように簡単です：
+
+
+PythonオブジェクトからSeriesやDataFrameを簡単に構築できることを見てきました。しかし、データは通常テキストファイルやExcelの表形式で提供されます。幸いなことに、Pandasはディスクからデータを読み込む簡単な方法を提供しています。例えば、CSVファイルを読み込むのは以下のように非常に簡単です：
 ```python
 df = pd.read_csv('file.csv')
 ```
-「チャレンジ」セクションでは、外部ウェブサイトからデータを取得する例を含め、データの読み込みについてさらに詳しく見ていきます。
+「Challenge」セクションでは、データを読み込む他の例や外部ウェブサイトからの取得方法についても見ていきます。
 
-### データの表示とプロット
 
-データサイエンティストはデータを探索する必要があるため、データを視覚化することが重要です。DataFrameが大きい場合、最初の数行を表示してすべてが正しく動作していることを確認したいことがよくあります。これには`df.head()`を呼び出すことで対応できます。Jupyter Notebookで実行している場合、DataFrameがきれいな表形式で表示されます。
+### 印刷とプロット
 
-また、いくつかの列を視覚化するために`plot`関数を使用する方法も見てきました。`plot`は多くのタスクに非常に便利で、`kind=`パラメータを使用してさまざまなグラフタイプをサポートしていますが、より複雑なものをプロットしたい場合は、`matplotlib`ライブラリを直接使用することもできます。データの視覚化については、別のコースレッスンで詳しく説明します。
+データサイエンティストはデータを探索することが多いため、その可視化が重要です。DataFrameが大きい場合、多くの場合は正しく処理できているかを確認するために最初の数行だけを表示したいことがあります。これは`df.head()`を呼び出すことで実現できます。Jupyter Notebook上で実行すると、DataFrameが見やすい表形式で表示されます。
 
-この概要ではPandasの重要な概念をほとんど網羅していますが、このライブラリは非常に豊富で、できることに限界はありません！では、この知識を使って具体的な問題を解決してみましょう。
+また、特定の列を可視化するために`plot`関数の使用例も見てきました。`plot`は多くのタスクで非常に便利であり、`kind=`パラメーターを使って多様なグラフタイプをサポートしていますが、より複雑なプロットが必要な場合は生の`matplotlib`ライブラリを使うこともできます。データ可視化については別の講座で詳しく扱います。
 
-## 🚀 チャレンジ1: COVIDの拡散を分析する
+この概要ではPandasの最も重要な概念をカバーしましたが、このライブラリは非常に豊富でできることに限界はありません！それでは、この知識を具体的な問題解決に適用してみましょう。
 
-最初に取り組む問題は、COVID-19の流行拡散のモデル化です。そのために、[ジョンズ・ホプキンス大学](https://jhu.edu/)の[システム科学工学センター](https://systems.jhu.edu/) (CSSE)が提供する、各国の感染者数に関するデータを使用します。このデータセットは[このGitHubリポジトリ](https://github.com/CSSEGISandData/COVID-19)で利用可能です。
+## 🚀 チャレンジ1：COVIDの拡散分析
 
-データの扱い方を示すために、[`notebook-covidspread.ipynb`](notebook-covidspread.ipynb)を開き、上から下まで読んでみてください。また、セルを実行したり、最後に残しておいたチャレンジに取り組むこともできます。
+最初の問題はCOVID-19の流行拡大のモデル化です。そのために、[ジョンズ・ホプキンス大学](https://jhu.edu/)の[システム科学工学センター](https://systems.jhu.edu/)（CSSE）が提供する各国の感染者数データを使用します。データセットは[このGitHubリポジトリ](https://github.com/CSSEGISandData/COVID-19)で入手可能です。
 
-![COVID Spread](../../../../translated_images/ja/covidspread.f3d131c4f1d260ab.webp)
+データの扱い方を学ぶために[`notebook-covidspread.ipynb`](notebook-covidspread.ipynb)を開き、最初から最後まで読んでみてください。セルを実行したり、最後に用意したチャレンジにも取り組めます。
 
-> Jupyter Notebookでコードを実行する方法がわからない場合は、[この記事](https://soshnikov.com/education/how-to-execute-notebooks-from-github/)を参照してください。
+![COVID拡散](../../../../translated_images/ja/covidspread.f3d131c4f1d260ab.webp)
+
+> Jupyter Notebookでコードの実行方法がわからない場合は、[こちらの記事](https://soshnikov.com/education/how-to-execute-notebooks-from-github/)をご覧ください。
 
 ## 非構造化データの扱い
 
-データは非常に頻繁に表形式で提供されますが、場合によってはテキストや画像など、あまり構造化されていないデータを扱う必要があります。この場合、上記で見たデータ処理技術を適用するために、何らかの方法で構造化データを**抽出**する必要があります。以下はその例です：
+データは非常に多くの場合表形式ですが、テキストや画像など、より構造化されていないデータを扱う必要がある場合もあります。この場合、上で見てきたデータ処理技術を適用するには、何らかの方法で<strong>構造化されたデータを抽出する</strong>必要があります。以下はその例です：
 
-* テキストからキーワードを抽出し、それらのキーワードがどのくらい頻繁に出現するかを確認する
-* ニューラルネットワークを使用して画像内のオブジェクトに関する情報を抽出する
-* ビデオカメラのフィードから人々の感情に関する情報を取得する
+* テキストからキーワードを抽出し、キーワードの出現頻度を調べる
+* ニューラルネットワークを使って画像上の物体に関する情報を抽出する
+* ビデオカメラの映像から人の感情情報を取得する
 
-## 🚀 チャレンジ2: COVID関連論文の分析
+## 🚀 チャレンジ2：COVID関連論文の分析
 
-このチャレンジでは、COVIDパンデミックのテーマを続け、関連する科学論文の処理に焦点を当てます。[CORD-19 Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)には、COVIDに関する7000以上（執筆時点）の論文が、メタデータや要約とともに提供されています（約半分には全文も含まれています）。
+ここではCOVIDパンデミックに関する科学論文の処理を扱います。[CORD-19データセット](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)には7000以上（執筆時点）のCOVID関連論文が収録されており、メタデータと要旨（およそ半分には全文も付属）が利用可能です。
 
-このデータセットを分析する完全な例は、[Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health/?WT.mc_id=academic-77958-bethanycheum)コグニティブサービスを使用して[このブログ記事](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/)で説明されています。ここでは、この分析の簡略版を議論します。
+[Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health/?WT.mc_id=academic-77958-bethanycheum)認知サービスを使ったこのデータセットの分析例は[こちらのブログ記事](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/)で詳述されています。ここではこの分析の簡略版を扱います。
 
-> **NOTE**: このリポジトリにはデータセットのコピーは含まれていません。まず、[このKaggleデータセット](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv)から[`metadata.csv`](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv)ファイルをダウンロードする必要があります。Kaggleへの登録が必要になる場合があります。また、登録なしで[こちら](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html)からデータセットをダウンロードすることもできますが、メタデータファイルに加えて全文も含まれます。
+> <strong>注意</strong>: このリポジトリにはデータセットのコピーは含まれていません。まず[Kaggleのこのデータセット](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)から[`metadata.csv`](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv)ファイルをダウンロードする必要があります。Kaggleの登録が要求される場合があります。また、登録なしに[こちら](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html)からダウンロードできるものにはメタデータに加えて全文データも含まれています。
 
-[`notebook-papers.ipynb`](notebook-papers.ipynb)を開き、上から下まで読んでみてください。また、セルを実行したり、最後に残しておいたチャレンジに取り組むこともできます。
+[`notebook-papers.ipynb`](notebook-papers.ipynb)を開き、最初から最後まで読んでみてください。セルの実行や最後に用意したチャレンジにも挑戦できます。
 
-![Covid Medical Treatment](../../../../translated_images/ja/covidtreat.b2ba59f57ca45fbc.webp)
+![COVID医療処置](../../../../translated_images/ja/covidtreat.b2ba59f57ca45fbc.webp)
 
 ## 画像データの処理
 
-最近、画像を理解するための非常に強力なAIモデルが開発されています。事前学習済みのニューラルネットワークやクラウドサービスを使用して解決できるタスクが多数あります。以下はその例です：
+近年、画像を理解できる非常に強力なAIモデルが開発されています。多くのタスクが事前学習済みのニューラルネットワークやクラウドサービスを使って解決できます。例は以下の通りです：
 
-* **画像分類**：画像を事前定義されたクラスのいずれかに分類することができます。[Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum)などのサービスを使用して独自の画像分類器を簡単にトレーニングできます。
-* **オブジェクト検出**：画像内のさまざまなオブジェクトを検出します。[Computer Vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum)などのサービスは多くの一般的なオブジェクトを検出でき、[Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum)モデルをトレーニングして特定の関心オブジェクトを検出することもできます。
-* **顔検出**：年齢、性別、感情の検出を含みます。[Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum)を使用して実現できます。
+* <strong>画像分類</strong>は画像をあらかじめ定められたクラスのいずれかに分類することを助けます。[Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum)などのサービスを使用して自分で画像分類器を簡単にトレーニングできます。
+* <strong>物体検出</strong>では画像内の様々な物体を検出します。[computer vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum)などのサービスは多くの一般物体を検出可能で、[Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77958-bethanycheum)モデルを使って特定の関心物体の検出にトレーニングすることもできます。
+* <strong>顔検出</strong>は年齢、性別、感情検出も含みます。[Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum)を使って対応可能です。
 
-これらのクラウドサービスは[Python SDKs](https://docs.microsoft.com/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/?WT.mc_id=academic-77958-bethanycheum)を使用して呼び出すことができるため、データ探索ワークフローに簡単に組み込むことができます。
+これらのクラウドサービスはすべて[Python SDKs](https://docs.microsoft.com/samples/azure-samples/cognitive-services-python-sdk-samples/cognitive-services-python-sdk-samples/?WT.mc_id=academic-77958-bethanycheum)で呼び出せるため、データ探索のワークフローに容易に組み込めます。
 
-以下は画像データソースを探索する例です：
-* [How to Learn Data Science without Coding](https://soshnikov.com/azure/how-to-learn-data-science-without-coding/)というブログ記事では、Instagramの写真を探索し、人々が写真に多くの「いいね」を付ける理由を理解しようとしています。まず[Computer Vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum)を使用して写真から可能な限り多くの情報を抽出し、その後[Azure Machine Learning AutoML](https://docs.microsoft.com/azure/machine-learning/concept-automated-ml/?WT.mc_id=academic-77958-bethanycheum)を使用して解釈可能なモデルを構築します。
-* [Facial Studies Workshop](https://github.com/CloudAdvocacy/FaceStudies)では、[Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum)を使用してイベントの写真に写っている人々の感情を抽出し、人々を幸せにする要因を理解しようとしています。
+画像データ源からのデータ探索の具体例をいくつか紹介します：
+* ブログ記事[How to Learn Data Science without Coding](https://soshnikov.com/azure/how-to-learn-data-science-without-coding/)ではインスタグラムの写真を解析し、人々がどの写真に多くのいいねを付けるかを理解しようとしています。まず[computer vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=academic-77958-bethanycheum)を用いて写真からできるだけ多くの情報を抽出し、次に[Azure Machine Learning AutoML](https://docs.microsoft.com/azure/machine-learning/concept-automated-ml/?WT.mc_id=academic-77958-bethanycheum)を使って解釈可能なモデルを構築します。
+* [Facial Studies Workshop](https://github.com/CloudAdvocacy/FaceStudies)では[Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=academic-77958-bethanycheum)を使い、イベントの写真に写った人々の感情を抽出して、人々が幸せになる要因を探ろうとしています。
 
 ## 結論
 
-構造化データでも非構造化データでも、Pythonを使用すればデータ処理と理解に関連するすべてのステップを実行できます。Pythonはおそらく最も柔軟なデータ処理方法であり、そのため多くのデータサイエンティストがPythonを主要なツールとして使用しています。データサイエンスの旅を本格的に進めたい場合は、Pythonを深く学ぶことをお勧めします！
+構造化データであろうと非構造化データであろうと、Pythonを使えばデータ処理と理解に必要なすべてのステップを行うことができます。Pythonはおそらく最も柔軟なデータ処理手法であり、多くのデータサイエンティストが主要なツールとして用いる理由もそこにあります。データサイエンスの道を真剣に進みたいなら、Pythonを深く学ぶのは賢明な選択です！
 
-## [講義後のクイズ](https://ff-quizzes.netlify.app/en/ds/quiz/13)
+## [講義後クイズ](https://ff-quizzes.netlify.app/en/ds/quiz/13)
 
-## 復習と自己学習
+## 復習 & 自習
 
-**書籍**
-* [Wes McKinney. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.amazon.com/gp/product/1491957662)
+<strong>書籍</strong>
+* [Wes McKinney著 『Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython』](https://www.amazon.com/gp/product/1491957662)
 
-**オンラインリソース**
-* 公式の[10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)チュートリアル
-* [Pandas Visualizationに関するドキュメント](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+<strong>オンラインリソース</strong>
+* 公式[10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)チュートリアル
+* [Pandas可視化関連ドキュメント](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 
 **Python学習**
-* [Learn Python in a Fun Way with Turtle Graphics and Fractals](https://github.com/shwars/pycourse)
-* [Take your First Steps with Python](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum) Microsoft Learnの学習パス
+* [Turtle Graphicsとフラクタルで楽しく学ぶPython](https://github.com/shwars/pycourse)
+* [Microsoft LearnのPython入門学習パス](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=academic-77958-bethanycheum)
 
 ## 課題
 
-[上記のチャレンジに対する詳細なデータ研究を実施する](assignment.md)
+[上記チャレンジに関するより詳細なデータ研究を行う](assignment.md)
 
-## クレジット
+## 謝辞
 
-このレッスンは[Dmitry Soshnikov](http://soshnikov.com)によって♥️を込めて作成されました。
+本レッスンは[Dmitry Soshnikov](http://soshnikov.com)による♥️のもとで作成されました
 
 ---
 
-**免責事項**:  
-この文書は、AI翻訳サービス [Co-op Translator](https://github.com/Azure/co-op-translator) を使用して翻訳されています。正確性を追求しておりますが、自動翻訳には誤りや不正確な部分が含まれる可能性があることをご承知ください。元の言語で記載された文書が正式な情報源とみなされるべきです。重要な情報については、専門の人間による翻訳を推奨します。この翻訳の使用に起因する誤解や誤解釈について、当方は一切の責任を負いません。
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**免責事項**：
+本書類は AI 翻訳サービス [Co-op Translator](https://github.com/Azure/co-op-translator) を使用して翻訳されています。正確性を期していますが、自動翻訳には誤りや不正確な部分が含まれる可能性があることをご承知おきください。原文の原語版が正式な情報源とみなされるべきです。重要な情報については、専門の人間による翻訳を推奨します。本翻訳の利用により生じたいかなる誤解や解釈違いについても、当方は責任を負いかねます。
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
