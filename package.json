@@ -25,5 +25,10 @@
 	"homepage": "https://github.com/microsoft/Data-Science-For-Beginners#readme",
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
+	},
+	"overrides": {
+		"rcfile": {
+			"json5": "1.0.2"
+		}
 	}
 }
