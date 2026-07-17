@@ -42,6 +42,12 @@
 	],
 	"overrides": {
 		"qs": "6.14.2",
-		"braces": ">=3.0.3"
+		"braces": ">=3.0.3",
+		"webpack-dev-server": {
+			"ws": "8.21.0"
+		},
+		"webpack-bundle-analyzer": {
+			"ws": "7.5.11"
+		}
 	}
 }
