@@ -65,7 +65,7 @@ Kaggle is an excellent source of open datasets. Use the [dataset search tool](ht
 
 ## Review & Self Study
 
-- This Microsoft Learn unit, titled [Classify your Data](https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/2-classify-data) has a detailed breakdown of structured, semi-structured, and unstructured data.
+- This Microsoft Learn unit, titled [Identify data formats](https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/2-data-formats?pivots=text) has a detailed breakdown of structured, semi-structured, and unstructured data.
 
 ## Assignment
 
