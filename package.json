@@ -27,6 +27,7 @@
 		"docsify-to-pdf": "0.0.5"
 	},
 	"overrides": {
+		"got": "11.8.5",
 		"rcfile": {
 			"json5": "1.0.2"
 		}
